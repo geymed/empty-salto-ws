@@ -1,4 +1,8 @@
 envs {
   envs = [
+    {
+      uuid = "9c8b985c-1a38-4f5f-a526-b583ccd71c1b"
+      folderName = "TomerEnv"
+    },
   ]
 }
