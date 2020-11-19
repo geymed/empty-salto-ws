@@ -1,3 +1,1 @@
-<<<<<<< HEADsbbggsome data 5
->>>>>>> test2
-bbbbb
+some data 4
