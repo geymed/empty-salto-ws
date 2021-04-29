@@ -1,0 +1,7 @@
+type dummy.AlertWhiteLenee is number {
+  annotations {
+    boolean ProudChocolateOfella {
+    }
+  }
+  ProudChocolateOfella = false
+}

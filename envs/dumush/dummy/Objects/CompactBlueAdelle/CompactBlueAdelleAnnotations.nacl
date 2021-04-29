@@ -1,0 +1,60 @@
+type dummy.CompactBlueAdelle {
+  annotations {
+    json JuniorOrangeJacquenette {
+    }
+    boolean CheerfulLavenderNikkie {
+    }
+    string MightyScarletMadeline {
+    }
+    json SmoggySalmonRhiamon {
+    }
+    dummy.FluffyApricotBenoite RaspyBronzePhilomena {
+    }
+    dummy.ElderlyAzureDani FundamentalLavenderAmandie {
+    }
+    string HomelessOliveMorganica {
+    }
+    json CompulsoryWhiteCathlene {
+    }
+    string MoralCoffeeMelisande {
+    }
+    json TameTealMyrna {
+    }
+    dummy.TotalMaroonCaroljean VariableScarletGypsy {
+    }
+    dummy.SpatialChocolateBrigitta PrincipalMagentaAiley {
+    }
+    serviceid FierceRedAlie {
+    }
+    boolean UgliestPeachDoralia {
+    }
+    number NavalSilverAnastasie {
+    }
+    dummy.CurvedTanCicely StrikingTurquoiseShelia {
+    }
+    dummy.AlertWhiteLenee TinyAzureGeorgia {
+    }
+    boolean MedicalAmaranthLicha {
+    }
+    json LittleTanAvril {
+    }
+  }
+  JuniorOrangeJacquenette = "Why did the tomato blush? Because it saw the salad dressing."
+  CheerfulLavenderNikkie = true
+  MightyScarletMadeline = "To be Frank, I'd have to change my name."
+  SmoggySalmonRhiamon = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  RaspyBronzePhilomena = file("CuriousRedVivyan.txt")
+  HomelessOliveMorganica = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  CompulsoryWhiteCathlene = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  MoralCoffeeMelisande = "Why is Peter Pan always flying? Because he Neverlands."
+  TameTealMyrna = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  VariableScarletGypsy = 829
+  PrincipalMagentaAiley = 10
+  FierceRedAlie = "I'll tell you what often gets over looked... garden fences."
+  UgliestPeachDoralia = true
+  NavalSilverAnastasie = 811
+  StrikingTurquoiseShelia = file("FlatBlackDoralyn.txt")
+  TinyAzureGeorgia = 299
+  MedicalAmaranthLicha = false
+  LittleTanAvril = "Did you hear the joke about the wandering nun? She was a roman catholic."
+}

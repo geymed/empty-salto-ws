@@ -1,0 +1,52 @@
+type dummy.PricklyBlueJanot is boolean {
+  annotations {
+    serviceid FatVioletTiffie {
+    }
+    dummy.ParliamentaryGoldEleen SecureMaroonOliy {
+    }
+    boolean FemaleAzureGertrude {
+    }
+    dummy.SpatialChocolateBrigitta GiantMaroonClarita {
+    }
+    serviceid MolecularScarletErinna {
+    }
+    string PanickyCopperJacklin {
+    }
+    dummy.RealGrayAnaliese BrainyBlueAmaleta {
+    }
+    dummy.ArchitecturalSalmonNani CapableAmberValeria {
+    }
+    json FamousPurpleJessy {
+    }
+    dummy.TotalMaroonCaroljean TinyOrangeMarlene {
+    }
+    dummy.WeeTanMarcelia VictorianAmethystAlmire {
+    }
+    dummy.NumerousApricotAllix MiniatureScarletMariejeanne {
+    }
+    serviceid CleverSalmonAlys {
+    }
+    dummy.ScrawnyBeigeNoni MixedEmeraldStarla {
+    }
+    boolean IrishOrangeRenee {
+    }
+    dummy.EasySalmonCaterina AbstractPlumAdrienne {
+    }
+  }
+  FatVioletTiffie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SecureMaroonOliy = file("GrowingSapphireLibbey.txt")
+  FemaleAzureGertrude = false
+  GiantMaroonClarita = 980
+  MolecularScarletErinna = "What do you call two barracuda fish?  A Pairacuda!"
+  PanickyCopperJacklin = "Whoever invented the knock-knock joke should get a no bell prize."
+  BrainyBlueAmaleta = file("JapaneseOrangeChad.txt")
+  CapableAmberValeria = 219
+  FamousPurpleJessy = "Why did the tomato blush? Because it saw the salad dressing."
+  TinyOrangeMarlene = 977
+  VictorianAmethystAlmire = true
+  MiniatureScarletMariejeanne = file("FormalJadeJinny.txt")
+  CleverSalmonAlys = "Dad Im hungry  Hi hungry Im dad"
+  MixedEmeraldStarla = 953
+  IrishOrangeRenee = false
+  AbstractPlumAdrienne = file("OrangeGreenBlancha.txt")
+}

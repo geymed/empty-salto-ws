@@ -1,0 +1,57 @@
+type dummy.SillyMoccasinCatarina {
+  annotations {
+    dummy.UndergroundTurquoiseLynn DifficultVioletJolee {
+    }
+    string FavourableBlueRoseanna {
+    }
+    dummy.BasicPeachEvangeline DevotedMaroonEvy {
+    }
+    serviceid EagerSapphireAindrea {
+    }
+    number ComfortableVioletSophia {
+    }
+    dummy.SpatialChocolateBrigitta EmptyApricotChrissy {
+    }
+    dummy.CurvedTanCicely GrumpyMaroonPansy {
+    }
+    number LazyFuchsiaNicoli {
+    }
+    dummy.InherentAmberBeth ZealousAmberJaneta {
+    }
+    dummy.ConsciousOrangeBernelle LiquidGrayMarjy {
+    }
+    dummy.JustAmberPrisca WholeMagentaEmyle {
+    }
+    dummy.GiganticIndigoDennie ProfoundFuchsiaPetunia {
+    }
+    dummy.BasicPeachEvangeline InvisibleSapphireJordanna {
+    }
+    serviceid RoughTanVivia {
+    }
+    dummy.PoorBrownDevonne OrdinaryMoccasinRoze {
+    }
+    dummy.UndergroundTurquoiseLynn DoubtfulPurpleBlinni {
+    }
+    boolean BadOliveMolli {
+    }
+    json VariableGrayKristen {
+    }
+  }
+  DifficultVioletJolee = false
+  FavourableBlueRoseanna = "A steak pun is a rare medium well done."
+  DevotedMaroonEvy = file("FamousPinkNelie.txt")
+  EagerSapphireAindrea = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ComfortableVioletSophia = 920
+  EmptyApricotChrissy = 200
+  GrumpyMaroonPansy = file("AloneOliveAgatha.txt")
+  LazyFuchsiaNicoli = 596
+  ZealousAmberJaneta = 957
+  LiquidGrayMarjy = 185
+  WholeMagentaEmyle = 949
+  ProfoundFuchsiaPetunia = true
+  InvisibleSapphireJordanna = file("RegisteredSilverDaphna.txt")
+  RoughTanVivia = "Did you know that protons have mass? I didn't even know they were catholic."
+  DoubtfulPurpleBlinni = false
+  BadOliveMolli = false
+  VariableGrayKristen = "I'll tell you what often gets over looked... garden fences."
+}

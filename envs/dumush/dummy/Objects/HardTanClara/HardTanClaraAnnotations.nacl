@@ -1,0 +1,64 @@
+type dummy.HardTanClara {
+  annotations {
+    boolean ShakyHarlequinLorna {
+    }
+    dummy.CorporateAquamarineMary OccasionalLimeVonnie {
+    }
+    dummy.FluffyApricotBenoite FullTomatoJillayne {
+    }
+    string ExclusiveMoccasinAriana {
+    }
+    number SimpleTurquoiseCatherina {
+    }
+    dummy.GiganticIndigoDennie AnxiousFuchsiaTabitha {
+    }
+    string LeftAmethystJoelle {
+    }
+    boolean UnpleasantCoffeeLia {
+    }
+    dummy.ScrawnyBeigeNoni AloneCopperJen {
+    }
+    dummy.FatTanNeille UnconsciousPeachFionnula {
+    }
+    dummy.UpsetIvoryAjay VeryPeachCecile {
+    }
+    dummy.EvolutionaryScarletOlympia DepressedTanJaine {
+    }
+    dummy.GiganticIndigoDennie WoodenMaroonVere {
+    }
+    dummy.SwiftYellowKatleen NiceAmaranthYasmin {
+    }
+    dummy.MidVioletKikelia OddAzureMyrtice {
+    }
+    string NakedSapphireElisabet {
+    }
+    dummy.YoungMaroonOlivette SoundLimeJanet {
+    }
+    number MonthlyAzureKessia {
+    }
+    dummy.DesperatePurpleViviene StickyBeigeDierdre {
+    }
+    boolean WorthwhileBronzeAudie {
+    }
+    dummy.TotalMaroonCaroljean ExtraordinaryAmberJulina {
+    }
+  }
+  ShakyHarlequinLorna = false
+  OccasionalLimeVonnie = file("BoilingTomatoVina.txt")
+  FullTomatoJillayne = file("InitialOliveCelie.txt")
+  ExclusiveMoccasinAriana = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SimpleTurquoiseCatherina = 524
+  AnxiousFuchsiaTabitha = true
+  LeftAmethystJoelle = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  UnpleasantCoffeeLia = false
+  AloneCopperJen = 780
+  VeryPeachCecile = true
+  DepressedTanJaine = file("MadVioletCarlin.txt")
+  WoodenMaroonVere = true
+  NiceAmaranthYasmin = true
+  OddAzureMyrtice = false
+  NakedSapphireElisabet = "Slept like a log last night  woke up in the fireplace."
+  MonthlyAzureKessia = 633
+  WorthwhileBronzeAudie = true
+  ExtraordinaryAmberJulina = 692
+}

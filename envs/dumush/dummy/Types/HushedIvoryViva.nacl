@@ -1,0 +1,31 @@
+type dummy.HushedIvoryViva {
+  annotations {
+    dummy.GoodTomatoTeri DemocraticApricotLynna {
+    }
+    dummy.ConsciousOrangeBernelle BitterTomatoBrittne {
+    }
+    dummy.RelievedIndigoJobina ObjectiveAzureSarita {
+    }
+    dummy.GiganticIndigoDennie HugeIndigoDrusy {
+    }
+    json JointMoccasinNancey {
+    }
+    dummy.SpatialChocolateBrigitta ProvincialCopperTerry {
+    }
+  }
+  dummy.FatOliveJelene SpontaneousVioletCharil {
+    BeautifulPurpleMaribeth = "My first time using an elevator was an uplifting experience. The second time let me down."
+    CurlyAquaAubree = "Im only familiar with 25 letters in the English language. I dont know why."
+    WittyOrangeNonna = true
+    CleanLavenderPavla = "Why did the tomato blush? Because it saw the salad dressing."
+    VividBronzeDorena = "Im only familiar with 25 letters in the English language. I dont know why."
+    TurkishPlumAddi = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  DemocraticApricotLynna = 440
+  BitterTomatoBrittne = 627
+  ObjectiveAzureSarita = file("ExcitedTurquoiseBlondell.txt")
+  HugeIndigoDrusy = true
+  JointMoccasinNancey = "To be Frank, I'd have to change my name."
+  ProvincialCopperTerry = 535
+  _hidden_value = true
+}

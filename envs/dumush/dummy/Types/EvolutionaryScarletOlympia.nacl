@@ -1,0 +1,34 @@
+type dummy.EvolutionaryScarletOlympia is string {
+  annotations {
+    boolean MiniatureBlueJorie {
+    }
+    string VulnerableAquaLenora {
+    }
+    string ContentIndigoSuzy {
+    }
+    serviceid ObligedIndigoSiana {
+    }
+    json EvidentTomatoAdore {
+    }
+    serviceid AfricanHarlequinMillisent {
+    }
+    string BeneficialIndigoWinnah {
+    }
+    boolean OverallChocolateKarena {
+    }
+    json WelcomeAquaPhilippe {
+    }
+    json LonelyVioletBlinnie {
+    }
+  }
+  MiniatureBlueJorie = false
+  VulnerableAquaLenora = "To be Frank, I'd have to change my name."
+  ContentIndigoSuzy = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ObligedIndigoSiana = "Whoever invented the knock-knock joke should get a no bell prize."
+  EvidentTomatoAdore = "My first time using an elevator was an uplifting experience. The second time let me down."
+  AfricanHarlequinMillisent = "I'll tell you what often gets over looked... garden fences."
+  BeneficialIndigoWinnah = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  OverallChocolateKarena = true
+  WelcomeAquaPhilippe = "What did one nut say as he chased another nut?  I'm a cashew!"
+  LonelyVioletBlinnie = "I'll tell you what often gets over looked... garden fences."
+}

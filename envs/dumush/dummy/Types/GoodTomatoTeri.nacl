@@ -1,0 +1,52 @@
+type dummy.GoodTomatoTeri is number {
+  annotations {
+    boolean RegularAzureDori {
+    }
+    number MusicalPurpleNana {
+    }
+    number WidePurpleShena {
+    }
+    dummy.ArchitecturalSalmonNani ArmedScarletCathrin {
+    }
+    dummy.UndergroundTurquoiseLynn SmallMagentaKym {
+    }
+    boolean AppropriateBrownMarylin {
+    }
+    dummy.TotalMaroonCaroljean OddRedLinnie {
+    }
+    json IllegalLimeAshely {
+    }
+    json UnemployedBeigeLauree {
+    }
+    dummy.StormyTealCharleen BoredGrayFenelia {
+    }
+    number ConsiderableSalmonGarnette {
+    }
+    dummy.ArchitecturalSalmonNani DepressedAmberAudie {
+    }
+    dummy.ArchitecturalSalmonNani OutstandingRedCornela {
+    }
+    json BrightMoccasinMaia {
+    }
+    serviceid EquivalentJadeCaria {
+    }
+    dummy.UpsetIvoryAjay UsualScarletCollie {
+    }
+  }
+  RegularAzureDori = true
+  MusicalPurpleNana = 700
+  WidePurpleShena = 655
+  ArmedScarletCathrin = 296
+  SmallMagentaKym = true
+  AppropriateBrownMarylin = false
+  OddRedLinnie = 946
+  IllegalLimeAshely = "Why did the kid cross the playground? To get to the other slide."
+  UnemployedBeigeLauree = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  BoredGrayFenelia = 961
+  ConsiderableSalmonGarnette = 519
+  DepressedAmberAudie = 37
+  OutstandingRedCornela = 643
+  BrightMoccasinMaia = "Did you know that protons have mass? I didn't even know they were catholic."
+  EquivalentJadeCaria = "Why did the tomato blush? Because it saw the salad dressing."
+  UsualScarletCollie = false
+}

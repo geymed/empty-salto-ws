@@ -1,0 +1,31 @@
+type dummy.WelshBlueLynnet {
+  annotations {
+    number SoreSapphirePavia {
+    }
+    dummy.UndergroundTurquoiseLynn RichChocolateMerrile {
+    }
+    number ImportantGrayApril {
+    }
+    serviceid GiantCyanAdelina {
+    }
+    dummy.CurlyAquamarineReeba WateryAmberNolana {
+    }
+  }
+  json VivaciousCyanAmalle {
+  }
+  json ElatedBronzeCamila {
+  }
+  string SweetSilverMarney {
+  }
+  dummy.DEFAULT ColourfulAzureBabette {
+  }
+  serviceid ExtraLavenderHollyanne {
+  }
+  boolean ObnoxiousChocolateMariquilla {
+  }
+  SoreSapphirePavia = 863
+  RichChocolateMerrile = true
+  ImportantGrayApril = 360
+  GiantCyanAdelina = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

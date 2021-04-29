@@ -1,0 +1,79 @@
+type dummy.PoisedFuchsiaReine {
+  annotations {
+    dummy.CloseHarlequinJanela SymbolicApricotGretta {
+    }
+    boolean SemanticGrayKora {
+    }
+    dummy.NumerousApricotAllix AestheticFuchsiaEsmeralda {
+    }
+    number EnthusiasticGoldElle {
+    }
+    dummy.SpatialChocolateBrigitta IndustrialPlumGoldie {
+    }
+    dummy.JustAmberPrisca ColouredTanHarli {
+    }
+    dummy.CurvedTanCicely IllApricotSileas {
+    }
+    dummy.NumerousApricotAllix EmotionalEmeraldJasmine {
+    }
+    json ElegantGreenLorinda {
+    }
+    dummy.MeaningfulIndigoRebeka InstitutionalOrangeSaree {
+    }
+    boolean StandardCyanClarita {
+    }
+    boolean RisingPeachRania {
+    }
+    serviceid RequiredWhiteBrenn {
+    }
+    dummy.MidVioletKikelia EconomicHarlequinYevette {
+    }
+    serviceid PunyIvoryAmmamaria {
+    }
+    json ComplicatedAmaranthHaleigh {
+    }
+    boolean RetiredCopperFaydra {
+    }
+    dummy.GoodTomatoTeri CrudeAmethystAlisa {
+    }
+    number KnownCrimsonMarrilee {
+    }
+    dummy.JustAmberPrisca VagueTealMinni {
+    }
+    boolean CurvedApricotGreer {
+    }
+    string HostilePinkGratia {
+    }
+    serviceid VariedBlueKeriann {
+    }
+    dummy.JustAmberPrisca SmoothMagentaBonita {
+    }
+    boolean MarineGoldHeddi {
+    }
+  }
+  SymbolicApricotGretta = file("SpiritualCyanDora.txt")
+  SemanticGrayKora = true
+  AestheticFuchsiaEsmeralda = file("NoisyHarlequinKeeley.txt")
+  EnthusiasticGoldElle = 898
+  IndustrialPlumGoldie = 883
+  ColouredTanHarli = 417
+  IllApricotSileas = file("VariousGreenCherise.txt")
+  EmotionalEmeraldJasmine = file("FaithfulLavenderTori.txt")
+  ElegantGreenLorinda = "What do you call two barracuda fish?  A Pairacuda!"
+  InstitutionalOrangeSaree = 637
+  StandardCyanClarita = true
+  RisingPeachRania = true
+  RequiredWhiteBrenn = "What do you call two barracuda fish?  A Pairacuda!"
+  EconomicHarlequinYevette = true
+  PunyIvoryAmmamaria = "Why was it called the dark ages? Because of all the knights. "
+  ComplicatedAmaranthHaleigh = "What did one nut say as he chased another nut?  I'm a cashew!"
+  RetiredCopperFaydra = false
+  CrudeAmethystAlisa = 417
+  KnownCrimsonMarrilee = 798
+  VagueTealMinni = 527
+  CurvedApricotGreer = true
+  HostilePinkGratia = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  VariedBlueKeriann = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  SmoothMagentaBonita = 556
+  MarineGoldHeddi = false
+}

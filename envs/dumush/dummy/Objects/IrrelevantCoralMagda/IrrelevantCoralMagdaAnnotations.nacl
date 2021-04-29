@@ -1,0 +1,68 @@
+type dummy.IrrelevantCoralMagda {
+  annotations {
+    dummy.UndergroundTurquoiseLynn RomanScarletDorisa {
+    }
+    string LogicalTealZondra {
+    }
+    dummy.RomanBeigeCaroljean PrivateHarlequinKaree {
+    }
+    boolean VisualCopperFlorri {
+    }
+    dummy.DEFAULT EntitledGoldCordelie {
+    }
+    dummy.EasySalmonCaterina ContinuousCrimsonMaxi {
+    }
+    dummy.PricklyBlueJanot SimilarPeachChristye {
+    }
+    string WetCrimsonKelsey {
+    }
+    number IndependentOrangeFlora {
+    }
+    serviceid RationalCoffeePetronia {
+    }
+    json CruelBlackGeraldine {
+    }
+    serviceid NursingTanBrynn {
+    }
+    json OutsideCyanJoete {
+    }
+    dummy.CurvedTanCicely UndergroundPeachHerta {
+    }
+    dummy.CurvedTanCicely FreeBeigePamelina {
+    }
+    dummy.EvolutionaryScarletOlympia AnnoyedCrimsonDarsey {
+    }
+    number QuickOrangeLisha {
+    }
+    boolean WastefulEmeraldElissa {
+    }
+    string SympatheticEmeraldLorraine {
+    }
+    number ContentAmberFrederica {
+    }
+    dummy.AlertWhiteLenee WetMagentaDarline {
+    }
+  }
+  RomanScarletDorisa = true
+  LogicalTealZondra = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  VisualCopperFlorri = true
+  EntitledGoldCordelie = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  ContinuousCrimsonMaxi = file("CoolAzureMerilee.txt")
+  SimilarPeachChristye = true
+  WetCrimsonKelsey = "Did you know that protons have mass? I didn't even know they were catholic."
+  IndependentOrangeFlora = 39
+  RationalCoffeePetronia = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  CruelBlackGeraldine = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  NursingTanBrynn = "Did you know that protons have mass? I didn't even know they were catholic."
+  OutsideCyanJoete = "Whoever invented the knock-knock joke should get a no bell prize."
+  UndergroundPeachHerta = file("MarxistSalmonSuzy.txt")
+  FreeBeigePamelina = file("HelpfulAzureStafani.txt")
+  AnnoyedCrimsonDarsey = file("SuccessiveScarletAngele.txt")
+  QuickOrangeLisha = 665
+  WastefulEmeraldElissa = false
+  SympatheticEmeraldLorraine = "Slept like a log last night  woke up in the fireplace."
+  ContentAmberFrederica = 879
+  WetMagentaDarline = 410
+}

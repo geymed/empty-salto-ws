@@ -1,0 +1,34 @@
+type dummy.CoastalPinkMeridel {
+  annotations {
+    dummy.ConsciousOrangeBernelle TiredLavenderReina {
+    }
+    dummy.BasicPeachEvangeline FutureAmaranthHana {
+    }
+    json AverageIvoryFlorenza {
+    }
+    dummy.ProtestantAzureStafani GiganticPinkValaree {
+    }
+  }
+  number HarshApricotCindi {
+  }
+  dummy.CorporateAquamarineMary DefiniteLavenderCharissa {
+    CharmingPinkCharmion = 360
+    ManyTomatoJillian = 684
+    PregnantAmberMair = file("CrazyRedMelina.txt")
+    GoodMagentaTessy = 447
+    PunyTanTommie = 174
+    JollyCrimsonEstrellita = "What did one nut say as he chased another nut?  I'm a cashew!"
+    NumerousApricotFerdinande = "Why did the tomato blush? Because it saw the salad dressing."
+    CombinedCrimsonBetti = 659
+    HighBlushMoyna = "Why did the kid cross the playground? To get to the other slide."
+    SmartVioletWinni = "Dad Im hungry  Hi hungry Im dad"
+    FairSilverCleopatra = 116
+    OverseasCoralNoel = 609
+    RoundMaroonTessie = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  TiredLavenderReina = 318
+  FutureAmaranthHana = file("DifficultCopperFanya.txt")
+  AverageIvoryFlorenza = "Why did the kid cross the playground? To get to the other slide."
+  GiganticPinkValaree = file("ViolentBlackRozella.txt")
+  _hidden_value = true
+}

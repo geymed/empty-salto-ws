@@ -1,0 +1,60 @@
+type dummy.InterestingMagentaLia {
+  annotations {
+    string MobileFuchsiaBarbaraanne {
+    }
+    dummy.ImaginativeTurquoiseElfreda SmoggyCrimsonJanel {
+    }
+    dummy.BasicPeachEvangeline DoubtfulIvoryAilee {
+    }
+  }
+  string CarefulBluePaige {
+  }
+  string SoundPurpleAgnella {
+  }
+  boolean UpsetApricotFelita {
+  }
+  boolean ElectricalBronzeAdria {
+  }
+  dummy.ScrawnyBeigeNoni RapidPeachRosabella {
+    IllIvoryKamila = "Why is Peter Pan always flying? Because he Neverlands."
+    ChristianFuchsiaRobenia = "Did you know that protons have mass? I didn't even know they were catholic."
+    MeltedCoffeeMilly = 719
+    DullLimeTrista = "Why do birds fly south for the winter? Because it's too far to walk."
+    ExceptionalCoffeeTuesday = file("DepressedBronzeMarsha.txt")
+    TremendousIvoryRois = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ProtestantLimeRobbin = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ResidentBrownKattie = "Why did the kid cross the playground? To get to the other slide."
+    StickyMagentaDominique = file("FlatCoffeeChrissy.txt")
+    WonderfulSilverPerla = 29
+    OutstandingMagentaAilyn = "How come the stadium got hot after the game? Because all of the fans left."
+    AtomicAmberHaley = 129
+    AgreeableIndigoJosy = 11
+    RussianRedDonielle = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  dummy.WeeTanMarcelia RoundCopperCordie {
+  }
+  boolean AboveVioletStace {
+  }
+  string LuckyAzureErinna {
+  }
+  dummy.ShortApricotRoze PresidentialChocolateAnne {
+    VividSalmonNona = "Why did the tomato blush? Because it saw the salad dressing."
+    PleasantRedHyacinthie = "What do you do on a remote island? Try and find the TV island it belongs to."
+    BlueTurquoiseOlivette = false
+    ColdMaroonValma = 876
+    TopIvoryTessi = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ClinicalBeigeChristin = false
+    GlobalVioletPerl = "Why was it called the dark ages? Because of all the knights. "
+  }
+  dummy.CognitiveIvoryBarbe IraqiIndigoMeggi {
+    HurtScarletOralla = "To be Frank, I'd have to change my name."
+    BigLavenderAdda = 460
+    SurprisingOliveCorrianne = "A steak pun is a rare medium well done."
+    DeepAmethystLanna = 475
+    PetiteTanKirsten = false
+  }
+  MobileFuchsiaBarbaraanne = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SmoggyCrimsonJanel = 256
+  DoubtfulIvoryAilee = file("GrandAmberGaye.txt")
+  _hidden_value = true
+}

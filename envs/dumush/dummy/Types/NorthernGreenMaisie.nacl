@@ -1,0 +1,46 @@
+type dummy.NorthernGreenMaisie {
+  annotations {
+    dummy.DefiantIndigoRenie VerticalTomatoLucinda {
+    }
+    serviceid HushedGrayNanice {
+    }
+    dummy.UndergroundTurquoiseLynn MolecularMagentaAviva {
+    }
+    dummy.UndergroundTurquoiseLynn OddMoccasinNicoli {
+    }
+    dummy.TotalMaroonCaroljean RationalSalmonRicky {
+    }
+    dummy.FundamentalAzureKaylee FluffyChocolateGratia {
+    }
+  }
+  dummy.NovelGrayAgatha SplendidHarlequinAlexandra {
+    UnfortunateCoffeeBethena = true
+    ShockedCyanMartica = true
+    SadYellowNissa = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    StickyPeachRubetta = file("ForeignTanJobey.txt")
+    HandicappedBronzeConcettina = true
+  }
+  serviceid DelicateCyanShandra {
+  }
+  json MagneticCrimsonImojean {
+  }
+  number FavouriteOrangeEssie {
+  }
+  dummy.RealGrayAnaliese BritishAmethystMichell {
+    PunyJadeLindy = 935
+    HurtJadeVevay = "What creature is smarter than a talking parrot? A spelling bee."
+    TraditionalOrangeNerta = false
+    ShakyTurquoiseGeorgeanna = 180
+    DivinePlumKarol = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  string SeniorWhitePansie {
+  }
+  string OuterAmethystLeeann {
+  }
+  VerticalTomatoLucinda = file("MusicalLimeDorelle.txt")
+  HushedGrayNanice = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  MolecularMagentaAviva = false
+  OddMoccasinNicoli = true
+  RationalSalmonRicky = 874
+  _hidden_value = true
+}

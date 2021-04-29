@@ -1,0 +1,19 @@
+type dummy.FrenchEmeraldConcordia {
+  annotations {
+    boolean GenerousWhiteElspeth {
+    }
+    dummy.MidVioletKikelia WeeklyPurpleSindee {
+    }
+    string ThirstyAquaIlyse {
+    }
+    serviceid TeenageBeigeOrelee {
+    }
+  }
+  string TightRedPris {
+  }
+  GenerousWhiteElspeth = false
+  WeeklyPurpleSindee = false
+  ThirstyAquaIlyse = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  TeenageBeigeOrelee = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

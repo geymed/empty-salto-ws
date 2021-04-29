@@ -1,0 +1,64 @@
+type dummy.OrganicGrayAdore {
+  annotations {
+    string HeavyCoffeeColette {
+    }
+    dummy.CoolBlushGilbertine ThirstyBlushPauli {
+    }
+    dummy.JustAmberPrisca LazyCoffeeOlympie {
+    }
+    json RulingBlackLeyla {
+    }
+    string InterestingWhiteTiertza {
+    }
+    dummy.SpatialChocolateBrigitta UsefulScarletOllie {
+    }
+    dummy.HeadAmberThea ShrillCopperRodina {
+    }
+    dummy.SolarVioletMarylynne ToryAquaKally {
+    }
+    serviceid HeavyOliveLiva {
+    }
+    json AttractiveTomatoArabella {
+    }
+    dummy.TotalMaroonCaroljean InformalMaroonPhilis {
+    }
+    string StaticSilverNanny {
+    }
+    json InlandCoffeeXaviera {
+    }
+    number PreciousMagentaCharo {
+    }
+    boolean MentalOliveJourdan {
+    }
+    dummy.EasySalmonCaterina VividGreenValina {
+    }
+    json JewishPlumRoselin {
+    }
+    json ConcreteOliveJaney {
+    }
+    dummy.GiganticIndigoDennie InvisibleScarletBenni {
+    }
+    string ToughFuchsiaArdeen {
+    }
+    serviceid DefiniteBeigeSusie {
+    }
+  }
+  HeavyCoffeeColette = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  LazyCoffeeOlympie = 442
+  RulingBlackLeyla = "A steak pun is a rare medium well done."
+  InterestingWhiteTiertza = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  UsefulScarletOllie = 613
+  HeavyOliveLiva = "Why was it called the dark ages? Because of all the knights. "
+  AttractiveTomatoArabella = "A steak pun is a rare medium well done."
+  InformalMaroonPhilis = 850
+  StaticSilverNanny = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  InlandCoffeeXaviera = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  PreciousMagentaCharo = 661
+  MentalOliveJourdan = true
+  VividGreenValina = file("SaltyVioletBethina.txt")
+  JewishPlumRoselin = "I'll tell you what often gets over looked... garden fences."
+  ConcreteOliveJaney = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  InvisibleScarletBenni = false
+  ToughFuchsiaArdeen = "My first time using an elevator was an uplifting experience. The second time let me down."
+  DefiniteBeigeSusie = "What do you call two barracuda fish?  A Pairacuda!"
+}

@@ -1,0 +1,47 @@
+type dummy.SymbolicIndigoAlejandrina {
+  annotations {
+    string FilthyCopperGiorgia {
+    }
+    dummy.GiganticIndigoDennie GreekCyanRoobbie {
+    }
+    dummy.LooseYellowBettina ForthcomingOliveDevi {
+    }
+    string ProperSalmonHeda {
+    }
+    dummy.AlertWhiteLenee CautiousSilverJeanette {
+    }
+    boolean SquealingRoseShanon {
+    }
+    serviceid VastMoccasinRebecca {
+    }
+  }
+  string ChristianTanAddy {
+  }
+  serviceid LimitedCoffeeDanila {
+  }
+  json SeriousBrownFanechka {
+  }
+  number HealthyPeachMandie {
+  }
+  dummy.OuterChocolateXylia SilentHarlequinTheresina {
+    RacialPlumMarsha = true
+    AustralianTomatoRamonda = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    BrownEmeraldIngrid = "What creature is smarter than a talking parrot? A spelling bee."
+    VerbalRedSandie = 367
+    WorkingMaroonRodina = true
+    OptimisticAquamarineFayina = "Why didnt the skeleton cross the road? Because he had no guts."
+    SolarFuchsiaMyra = "Why was it called the dark ages? Because of all the knights. "
+    IndianPinkMeagan = false
+    LongPlumNanette = "Slept like a log last night  woke up in the fireplace."
+    ZanyBlackNancee = 455
+    MightyLavenderLorianna = file("RepresentativeIvoryVikky.txt")
+    StraightApricotZsazsa = "Dad Im hungry  Hi hungry Im dad"
+  }
+  FilthyCopperGiorgia = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  GreekCyanRoobbie = false
+  ProperSalmonHeda = "Slept like a log last night  woke up in the fireplace."
+  CautiousSilverJeanette = 535
+  SquealingRoseShanon = true
+  VastMoccasinRebecca = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

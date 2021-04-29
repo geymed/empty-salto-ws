@@ -1,0 +1,22 @@
+type dummy.MetropolitanBlueClara {
+  annotations {
+    boolean ClassicalChocolateLicha {
+    }
+    json ExactIvoryAnnabella {
+    }
+    number EmbarrassingSilverValli {
+    }
+    string ControversialOrangeAshlee {
+    }
+    dummy.MidVioletKikelia RapidCoffeeAnastasia {
+    }
+  }
+  number GeneralOliveGeorgianna {
+  }
+  ClassicalChocolateLicha = true
+  ExactIvoryAnnabella = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  EmbarrassingSilverValli = 680
+  ControversialOrangeAshlee = "Slept like a log last night  woke up in the fireplace."
+  RapidCoffeeAnastasia = false
+  _hidden_value = true
+}

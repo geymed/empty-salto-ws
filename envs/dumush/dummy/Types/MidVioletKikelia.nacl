@@ -1,0 +1,18 @@
+type dummy.MidVioletKikelia is boolean {
+  annotations {
+    dummy.WeeTanMarcelia ElatedYellowChad {
+    }
+    dummy.DEFAULT OpenMoccasinLyda {
+    }
+    number DrunkFuchsiaColene {
+    }
+    json SurprisingRoseMartina {
+    }
+  }
+  ElatedYellowChad = true
+  OpenMoccasinLyda = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  DrunkFuchsiaColene = 11
+  SurprisingRoseMartina = "Did you hear the joke about the wandering nun? She was a roman catholic."
+}

@@ -1,0 +1,22 @@
+type dummy.RomanBeigeCaroljean {
+  annotations {
+    boolean MuddyMagentaAshly {
+    }
+    string ShortGrayDorris {
+    }
+    boolean ActiveGreenMaribeth {
+    }
+    dummy.CurvedTanCicely StrangeGoldArdyth {
+    }
+    dummy.SpatialChocolateBrigitta LongPeachColleen {
+    }
+  }
+  json LegalLavenderLouisette {
+  }
+  MuddyMagentaAshly = false
+  ShortGrayDorris = "Did you know that protons have mass? I didn't even know they were catholic."
+  ActiveGreenMaribeth = false
+  StrangeGoldArdyth = file("DeliberateSalmonEm.txt")
+  LongPeachColleen = 427
+  _hidden_value = true
+}

@@ -1,0 +1,61 @@
+type dummy.AsleepSapphireGwendolyn {
+  annotations {
+    dummy.ProtestantAzureStafani SpecialFuchsiaAlana {
+    }
+    dummy.ProtestantAzureStafani SubstantialIvoryXylina {
+    }
+    dummy.ArchitecturalSalmonNani AlertOliveGillian {
+    }
+    string VivaciousBlackNerti {
+    }
+    string ZanySalmonRoxie {
+    }
+    json HappyOrangeChristy {
+    }
+    boolean GentleBlackDrona {
+    }
+    dummy.ScrawnyBeigeNoni SquareGreenMarylee {
+    }
+    string DryScarletCandra {
+    }
+    string AlrightCoralCris {
+    }
+    dummy.RealGrayAnaliese OrganicVioletMelloney {
+    }
+    dummy.ProtestantAzureStafani AnnoyedTurquoiseMaureene {
+    }
+    dummy.OuterChocolateXylia AmazingGrayAriadne {
+    }
+    boolean MushyJadeAnnadiane {
+    }
+    dummy.RealGrayAnaliese ContemporaryVioletLindsey {
+    }
+    boolean SteadyJadeDarcy {
+    }
+    boolean RoastedCoralDorothee {
+    }
+    json LateAzureElse {
+    }
+    dummy.ArchitecturalSalmonNani CompleteCoffeeEydie {
+    }
+  }
+  SpecialFuchsiaAlana = file("OverallBlushJulie.txt")
+  SubstantialIvoryXylina = file("GenuineAquamarineClemmy.txt")
+  AlertOliveGillian = 753
+  VivaciousBlackNerti = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ZanySalmonRoxie = "A steak pun is a rare medium well done."
+  HappyOrangeChristy = "A steak pun is a rare medium well done."
+  GentleBlackDrona = false
+  SquareGreenMarylee = 919
+  DryScarletCandra = "How come the stadium got hot after the game? Because all of the fans left."
+  AlrightCoralCris = "Why did the tomato blush? Because it saw the salad dressing."
+  OrganicVioletMelloney = file("WrittenPurpleBertine.txt")
+  AnnoyedTurquoiseMaureene = file("DivineBeigeKi.txt")
+  AmazingGrayAriadne = file("FrightenedIvoryPearl.txt")
+  MushyJadeAnnadiane = true
+  ContemporaryVioletLindsey = file("OldTomatoDolli.txt")
+  SteadyJadeDarcy = true
+  RoastedCoralDorothee = true
+  LateAzureElse = "What did one nut say as he chased another nut?  I'm a cashew!"
+  CompleteCoffeeEydie = 380
+}

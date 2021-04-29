@@ -1,0 +1,63 @@
+type dummy.DivineSilverMariana {
+  annotations {
+    number SmoothCyanFidela {
+    }
+    dummy.ArchitecturalSalmonNani CivicSilverSonya {
+    }
+    dummy.ScrawnyBeigeNoni CasualAmberChristine {
+    }
+    serviceid OtherTealVivian {
+    }
+    boolean LightIvoryKary {
+    }
+    number SharpRedAline {
+    }
+    dummy.SharpEmeraldBerry CreepySalmonRozele {
+    }
+    number ConcreteCyanEdith {
+    }
+    json BraveRedRowena {
+    }
+    json EnergeticIvoryMonique {
+    }
+    boolean MechanicalAmaranthBarby {
+    }
+    dummy.ArchitecturalSalmonNani ThickBlueSaba {
+    }
+    dummy.ConsciousOrangeBernelle EthnicIvoryMyriam {
+    }
+    dummy.JustAmberPrisca CompatibleScarletJillana {
+    }
+    dummy.SpatialChocolateBrigitta SeriousMagentaCarri {
+    }
+    dummy.ArchitecturalSalmonNani PrintedBronzeKata {
+    }
+    json AmazingFuchsiaLeia {
+    }
+    dummy.UndergroundTurquoiseLynn NobleSilverUna {
+    }
+    dummy.UndergroundTurquoiseLynn ConcernedCrimsonBenny {
+    }
+    dummy.CloseHarlequinJanela SparklingBronzeValeda {
+    }
+  }
+  SmoothCyanFidela = 406
+  CivicSilverSonya = 379
+  CasualAmberChristine = 810
+  OtherTealVivian = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  LightIvoryKary = true
+  SharpRedAline = 854
+  ConcreteCyanEdith = 548
+  BraveRedRowena = "Why didnt the skeleton cross the road? Because he had no guts."
+  EnergeticIvoryMonique = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  MechanicalAmaranthBarby = true
+  ThickBlueSaba = 204
+  EthnicIvoryMyriam = 72
+  CompatibleScarletJillana = 633
+  SeriousMagentaCarri = 41
+  PrintedBronzeKata = 10
+  AmazingFuchsiaLeia = "A steak pun is a rare medium well done."
+  NobleSilverUna = false
+  ConcernedCrimsonBenny = false
+  SparklingBronzeValeda = file("ExtremeApricotLynnet.txt")
+}

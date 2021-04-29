@@ -1,0 +1,59 @@
+type dummy.FunnyIndigoEllyn {
+  annotations {
+    dummy.CognitiveIvoryBarbe RainyChocolateAriana {
+    }
+    boolean ForwardGoldNance {
+    }
+    string PurpleCopperAlexi {
+    }
+    dummy.CorporateAquamarineMary ShiveringApricotSibylle {
+    }
+    string ArmedJadeMonah {
+    }
+    json OlympicPlumRobenia {
+    }
+    dummy.InformalMagentaLanie GoodBlushBirgit {
+    }
+    boolean LevelBlueViva {
+    }
+    number ControlledCoffeeIrene {
+    }
+    number DelightfulJadeKaterina {
+    }
+    boolean HungryYellowPatrizia {
+    }
+    dummy.EasySalmonCaterina ValidCoralGuinna {
+    }
+    serviceid ClinicalBlushSheilakathryn {
+    }
+    number TallRedEmelina {
+    }
+    dummy.ArchitecturalSalmonNani OutrageousPinkHanna {
+    }
+    dummy.ScrawnyBeigeNoni JointCopperModestia {
+    }
+    serviceid OldApricotRona {
+    }
+    dummy.ScrawnyBeigeNoni CooingMoccasinMead {
+    }
+    serviceid PerfectTomatoHayley {
+    }
+  }
+  ForwardGoldNance = true
+  PurpleCopperAlexi = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ShiveringApricotSibylle = file("DirectAzureTamarra.txt")
+  ArmedJadeMonah = "Slept like a log last night  woke up in the fireplace."
+  OlympicPlumRobenia = "How come the stadium got hot after the game? Because all of the fans left."
+  LevelBlueViva = true
+  ControlledCoffeeIrene = 305
+  DelightfulJadeKaterina = 763
+  HungryYellowPatrizia = true
+  ValidCoralGuinna = file("SacredLavenderHarriott.txt")
+  ClinicalBlushSheilakathryn = "How come the stadium got hot after the game? Because all of the fans left."
+  TallRedEmelina = 494
+  OutrageousPinkHanna = 552
+  JointCopperModestia = 22
+  OldApricotRona = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  CooingMoccasinMead = 283
+  PerfectTomatoHayley = "Why didnt the skeleton cross the road? Because he had no guts."
+}

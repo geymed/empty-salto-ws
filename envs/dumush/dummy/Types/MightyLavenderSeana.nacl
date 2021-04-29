@@ -1,0 +1,27 @@
+type dummy.MightyLavenderSeana {
+  annotations {
+    dummy.CurvedTanCicely UltimateCoffeeMahalia {
+    }
+    string ControlledYellowVirgina {
+    }
+    string ScientificBeigeNan {
+    }
+    dummy.CurvedTanCicely TartSilverLeila {
+    }
+    dummy.BasicPeachEvangeline ExtraRoseFara {
+    }
+    dummy.ArchitecturalSalmonNani AverageIvoryIngaberg {
+    }
+  }
+  dummy.FluffyApricotBenoite DeafeningPurpleChery {
+    PoorYellowSherry = 707
+    TropicalMoccasinBrinn = 777
+  }
+  UltimateCoffeeMahalia = file("DifferentOrangeKarna.txt")
+  ControlledYellowVirgina = "Slept like a log last night  woke up in the fireplace."
+  ScientificBeigeNan = "Why is Peter Pan always flying? Because he Neverlands."
+  TartSilverLeila = file("GreenHarlequinVi.txt")
+  ExtraRoseFara = file("CarefulPinkPrisca.txt")
+  AverageIvoryIngaberg = 543
+  _hidden_value = true
+}

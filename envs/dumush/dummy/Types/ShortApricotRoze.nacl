@@ -1,0 +1,28 @@
+type dummy.ShortApricotRoze {
+  annotations {
+    json VividSalmonNona {
+    }
+    json PleasantRedHyacinthie {
+    }
+    dummy.MidVioletKikelia BlueTurquoiseOlivette {
+    }
+    dummy.InformalTealJosepha ColdMaroonValma {
+    }
+    string TopIvoryTessi {
+    }
+    boolean ClinicalBeigeChristin {
+    }
+    serviceid GlobalVioletPerl {
+    }
+  }
+  boolean GivenCoffeeFey {
+  }
+  VividSalmonNona = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  PleasantRedHyacinthie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  BlueTurquoiseOlivette = false
+  ColdMaroonValma = 606
+  TopIvoryTessi = "Why is Peter Pan always flying? Because he Neverlands."
+  ClinicalBeigeChristin = false
+  GlobalVioletPerl = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

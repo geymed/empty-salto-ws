@@ -1,0 +1,46 @@
+type dummy.VisitingYellowChelsae {
+  annotations {
+    dummy.ScrawnyBeigeNoni CrookedSilverKamila {
+    }
+    dummy.EvolutionaryScarletOlympia SlimyJadeFaye {
+    }
+    json SpecificEmeraldJoela {
+    }
+    json HappyFuchsiaStarr {
+    }
+    dummy.OuterChocolateXylia RegionalOliveYalonda {
+    }
+    string VastTomatoNani {
+    }
+    json AshamedBrownBerna {
+    }
+    number SpanishBronzeFiona {
+    }
+    number NervousApricotMerola {
+    }
+    serviceid NewGoldLavena {
+    }
+    dummy.SpatialChocolateBrigitta AlliedLimeLorri {
+    }
+    json NuclearChocolateEmera {
+    }
+    json FavouritePeachMargret {
+    }
+    string PromisingIndigoShaylah {
+    }
+  }
+  CrookedSilverKamila = 122
+  SlimyJadeFaye = file("EssentialIndigoHermia.txt")
+  SpecificEmeraldJoela = "I'll tell you what often gets over looked... garden fences."
+  HappyFuchsiaStarr = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  RegionalOliveYalonda = file("DisturbedAquamarinePammie.txt")
+  VastTomatoNani = "Why did the kid cross the playground? To get to the other slide."
+  AshamedBrownBerna = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SpanishBronzeFiona = 342
+  NervousApricotMerola = 50
+  NewGoldLavena = "I'll tell you what often gets over looked... garden fences."
+  AlliedLimeLorri = 487
+  NuclearChocolateEmera = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  FavouritePeachMargret = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  PromisingIndigoShaylah = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+}

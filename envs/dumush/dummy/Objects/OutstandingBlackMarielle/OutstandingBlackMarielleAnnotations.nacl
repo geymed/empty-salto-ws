@@ -1,0 +1,53 @@
+type dummy.OutstandingBlackMarielle {
+  annotations {
+    dummy.CurvedTanCicely WearyAzureAngeline {
+    }
+    string NormalOrangeIdaline {
+    }
+    dummy.FairVioletPippa DyingTurquoiseTana {
+    }
+    dummy.SpatialChocolateBrigitta MarginalBlackWenda {
+    }
+    serviceid YoungWhiteKyla {
+    }
+    string ShockedPeachCacilie {
+    }
+    json CommonCoffeeClarissa {
+    }
+    dummy.JustAmberPrisca HistoricPurpleWinona {
+    }
+    dummy.DepressedBlueKathye RussianTealMead {
+    }
+    boolean LogicalVioletMargalit {
+    }
+    string LargePeachVitoria {
+    }
+    serviceid SparklingGrayEliza {
+    }
+    dummy.ArchitecturalSalmonNani ConsciousGoldHanny {
+    }
+    dummy.JustAmberPrisca MusicalTealNadiya {
+    }
+    dummy.UndergroundTurquoiseLynn UnawareOrangeGlenn {
+    }
+    dummy.ProtestantAzureStafani DarkAzureSheena {
+    }
+    string PromisingJadeKassandra {
+    }
+  }
+  WearyAzureAngeline = file("RegularPinkDevonna.txt")
+  NormalOrangeIdaline = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  MarginalBlackWenda = 395
+  YoungWhiteKyla = "Why do birds fly south for the winter? Because it's too far to walk."
+  ShockedPeachCacilie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  CommonCoffeeClarissa = "A steak pun is a rare medium well done."
+  HistoricPurpleWinona = 329
+  LogicalVioletMargalit = false
+  LargePeachVitoria = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SparklingGrayEliza = "A steak pun is a rare medium well done."
+  ConsciousGoldHanny = 666
+  MusicalTealNadiya = 920
+  UnawareOrangeGlenn = true
+  DarkAzureSheena = file("MedievalTomatoVirginie.txt")
+  PromisingJadeKassandra = "Dad Im hungry  Hi hungry Im dad"
+}

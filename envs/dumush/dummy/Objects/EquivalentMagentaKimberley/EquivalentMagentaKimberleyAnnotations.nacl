@@ -1,0 +1,63 @@
+type dummy.EquivalentMagentaKimberley {
+  annotations {
+    dummy.ArchitecturalSalmonNani AggregateGoldViolet {
+    }
+    boolean DangerousMoccasinFarica {
+    }
+    dummy.UsualBlushMaudie SpareAzureDoralynne {
+    }
+    number LikelyScarletGratia {
+    }
+    dummy.CloseHarlequinJanela OkayIndigoElse {
+    }
+    string GreenTomatoCecelia {
+    }
+    boolean PlainLimeGeri {
+    }
+    string SupportingTurquoiseCassandry {
+    }
+    json BlueYellowAlaine {
+    }
+    boolean AtomicApricotLivvy {
+    }
+    boolean ConstantApricotCathlene {
+    }
+    serviceid NotableOliveConcordia {
+    }
+    dummy.NumerousApricotAllix CheerfulHarlequinEddi {
+    }
+    boolean ShiveringCoralJacquenette {
+    }
+    dummy.SpatialChocolateBrigitta SoundVioletAilene {
+    }
+    boolean RawBronzeShaine {
+    }
+    dummy.RelievedIndigoJobina VictoriousBrownElbertina {
+    }
+    dummy.FluffyApricotBenoite OverallGoldMichelina {
+    }
+    string NativeCoralCarroll {
+    }
+    json BriefMoccasinFawn {
+    }
+  }
+  AggregateGoldViolet = 339
+  DangerousMoccasinFarica = true
+  LikelyScarletGratia = 342
+  OkayIndigoElse = file("EthnicTomatoAvis.txt")
+  GreenTomatoCecelia = "To be Frank, I'd have to change my name."
+  PlainLimeGeri = true
+  SupportingTurquoiseCassandry = "Whoever invented the knock-knock joke should get a no bell prize."
+  BlueYellowAlaine = "Dad Im hungry  Hi hungry Im dad"
+  AtomicApricotLivvy = false
+  ConstantApricotCathlene = false
+  NotableOliveConcordia = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  CheerfulHarlequinEddi = file("BlueChocolateCorrinne.txt")
+  ShiveringCoralJacquenette = true
+  SoundVioletAilene = 768
+  RawBronzeShaine = false
+  VictoriousBrownElbertina = file("NarrowOliveNanon.txt")
+  OverallGoldMichelina = file("FavouriteSapphireSharai.txt")
+  NativeCoralCarroll = "I'll tell you what often gets over looked... garden fences."
+  BriefMoccasinFawn = "My first time using an elevator was an uplifting experience. The second time let me down."
+}

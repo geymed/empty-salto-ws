@@ -1,0 +1,60 @@
+type dummy.FluffyBronzeKial {
+  annotations {
+    string GiantBeigeCathrin {
+    }
+    string GiantSapphireDelcina {
+    }
+    serviceid WateryTealCathyleen {
+    }
+    dummy.HeadAmberThea ExcellentIndigoLeyla {
+    }
+    dummy.CurvedTanCicely DamagedOliveShandee {
+    }
+    dummy.ShortApricotRoze SleepyCoralBerri {
+    }
+    json BadCopperCallida {
+    }
+    dummy.RealGrayAnaliese CurrentLimeMarieann {
+    }
+    boolean VisibleHarlequinJacinthe {
+    }
+    json ShallowPeachLucille {
+    }
+    dummy.BasicPeachEvangeline FreePlumCelesta {
+    }
+    serviceid InteriorAmaranthShandee {
+    }
+    string FemaleRoseKlarrisa {
+    }
+    dummy.GrotesqueScarletKaela MagentaBrownIolande {
+    }
+    dummy.DefiantIndigoRenie HorribleBlackRoselin {
+    }
+    json ExceptionalAquamarineEugenia {
+    }
+    dummy.WrittenFuchsiaAlvinia SurprisedIvoryMichaella {
+    }
+    dummy.ScrawnyBeigeNoni AccurateBrownAnallese {
+    }
+    dummy.GiganticIndigoDennie PremierAmethystSybila {
+    }
+    boolean UrbanOliveFidela {
+    }
+  }
+  GiantBeigeCathrin = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  GiantSapphireDelcina = "What do you do on a remote island? Try and find the TV island it belongs to."
+  WateryTealCathyleen = "Dad Im hungry  Hi hungry Im dad"
+  DamagedOliveShandee = file("WorthwhileSapphireElene.txt")
+  BadCopperCallida = "Slept like a log last night  woke up in the fireplace."
+  CurrentLimeMarieann = file("PeacefulPeachMarlie.txt")
+  VisibleHarlequinJacinthe = true
+  ShallowPeachLucille = "Why was it called the dark ages? Because of all the knights. "
+  FreePlumCelesta = file("EntireAmberOfelia.txt")
+  InteriorAmaranthShandee = "What creature is smarter than a talking parrot? A spelling bee."
+  FemaleRoseKlarrisa = "Why didnt the skeleton cross the road? Because he had no guts."
+  HorribleBlackRoselin = file("FamousGoldWileen.txt")
+  ExceptionalAquamarineEugenia = "Im only familiar with 25 letters in the English language. I dont know why."
+  AccurateBrownAnallese = 75
+  PremierAmethystSybila = true
+  UrbanOliveFidela = true
+}

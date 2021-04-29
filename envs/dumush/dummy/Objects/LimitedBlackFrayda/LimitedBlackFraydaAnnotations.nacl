@@ -1,0 +1,69 @@
+type dummy.LimitedBlackFrayda {
+  annotations {
+    string FormidableSilverGeraldine {
+    }
+    dummy.UndergroundTurquoiseLynn FunSilverJaynell {
+    }
+    boolean MassPeachIlene {
+    }
+    dummy.JustAmberPrisca EncouragingPlumJaquenetta {
+    }
+    dummy.JustAmberPrisca ConcreteCrimsonBarbee {
+    }
+    serviceid InstitutionalRedRhiamon {
+    }
+    serviceid LinguisticScarletCal {
+    }
+    json MildBrownMinne {
+    }
+    number TartCyanOliy {
+    }
+    dummy.JustAmberPrisca HomelessLavenderHildagarde {
+    }
+    serviceid MammothVioletCami {
+    }
+    number LuckyBronzeKassandra {
+    }
+    dummy.CloseHarlequinJanela OldWhiteJamima {
+    }
+    number AppallingSapphireBecka {
+    }
+    dummy.AlertWhiteLenee CatholicMagentaBenedetta {
+    }
+    dummy.OuterChocolateXylia FormidableSilverVannie {
+    }
+    serviceid MagneticAquaArdath {
+    }
+    dummy.DEFAULT SillyPinkMarquita {
+    }
+    serviceid HandsomeHarlequinMadelon {
+    }
+    boolean TerritorialApricotLeia {
+    }
+    dummy.RealGrayAnaliese UnfortunateSilverJoellyn {
+    }
+  }
+  FormidableSilverGeraldine = "Why didnt the skeleton cross the road? Because he had no guts."
+  FunSilverJaynell = false
+  MassPeachIlene = false
+  EncouragingPlumJaquenetta = 981
+  ConcreteCrimsonBarbee = 935
+  InstitutionalRedRhiamon = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  LinguisticScarletCal = "Why did the kid cross the playground? To get to the other slide."
+  MildBrownMinne = "What creature is smarter than a talking parrot? A spelling bee."
+  TartCyanOliy = 881
+  HomelessLavenderHildagarde = 524
+  MammothVioletCami = "How come the stadium got hot after the game? Because all of the fans left."
+  LuckyBronzeKassandra = 607
+  OldWhiteJamima = file("GoodTomatoAndria.txt")
+  AppallingSapphireBecka = 136
+  CatholicMagentaBenedetta = 265
+  FormidableSilverVannie = file("PleasantHarlequinPatsy.txt")
+  MagneticAquaArdath = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SillyPinkMarquita = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  HandsomeHarlequinMadelon = "Why do birds fly south for the winter? Because it's too far to walk."
+  TerritorialApricotLeia = false
+  UnfortunateSilverJoellyn = file("RelaxedLavenderLarissa.txt")
+}

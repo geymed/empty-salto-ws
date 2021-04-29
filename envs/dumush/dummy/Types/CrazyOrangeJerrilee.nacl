@@ -1,0 +1,96 @@
+type dummy.CrazyOrangeJerrilee {
+  annotations {
+    string HotVioletMonah {
+    }
+    dummy.MeaningfulIndigoRebeka JoyousHarlequinHope {
+    }
+    number MusicalChocolateHappy {
+    }
+    boolean CalmWhiteTorey {
+    }
+    serviceid TightSilverMarne {
+    }
+  }
+  json IdeologicalSapphireFaye {
+  }
+  json CloseAzureAubree {
+  }
+  serviceid FatGrayJorey {
+  }
+  number ParallelVioletElsa {
+  }
+  dummy.ScrawnyBeigeNoni CombativeYellowCarma {
+    IllIvoryKamila = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ChristianFuchsiaRobenia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    MeltedCoffeeMilly = 719
+    DullLimeTrista = "Did you know that protons have mass? I didn't even know they were catholic."
+    ExceptionalCoffeeTuesday = file("DefiantMaroonLainey.txt")
+    TremendousIvoryRois = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ProtestantLimeRobbin = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ResidentBrownKattie = "How come the stadium got hot after the game? Because all of the fans left."
+    StickyMagentaDominique = file("AmateurTurquoiseValerie.txt")
+    WonderfulSilverPerla = 912
+    OutstandingMagentaAilyn = "A steak pun is a rare medium well done."
+    AtomicAmberHaley = 517
+    AgreeableIndigoJosy = 820
+    RussianRedDonielle = "A steak pun is a rare medium well done."
+  }
+  number ChristianApricotTrixy {
+  }
+  string RisingVioletNevsa {
+  }
+  dummy.FluffyApricotBenoite ManyAquamarineBeth {
+    PoorYellowSherry = 141
+    TropicalMoccasinBrinn = 770
+  }
+  dummy.GiganticIndigoDennie CuriousBrownTamiko {
+    ExtraJadeAinslie = "Why did the kid cross the playground? To get to the other slide."
+    AdorableCoralTera = 63
+    SatisfactoryAmaranthFlorentia = "Dad Im hungry  Hi hungry Im dad"
+    CarefulPeachCam = 251
+    UnderlyingSapphirePhylis = "Dad Im hungry  Hi hungry Im dad"
+    NeighbouringGoldRowe = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    InteriorIvoryDesdemona = 611
+  }
+  boolean AppallingCyanOrelee {
+  }
+  dummy.RealGrayAnaliese ProfessionalYellowFlor {
+    PunyJadeLindy = 89
+    HurtJadeVevay = "My first time using an elevator was an uplifting experience. The second time let me down."
+    TraditionalOrangeNerta = true
+    ShakyTurquoiseGeorgeanna = 658
+    DivinePlumKarol = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  "List<dummy.JustAmberPrisca>" SweetPlumRobenia {
+    VastGrayCordelie = "Why didnt the skeleton cross the road? Because he had no guts."
+    EthnicAmethystKerri = "Did you know that protons have mass? I didn't even know they were catholic."
+    StatutoryCoralNixie = true
+    PreferredJadeIlla = "Why did the kid cross the playground? To get to the other slide."
+    ImpressiveSalmonKorry = "Why did the tomato blush? Because it saw the salad dressing."
+    PremierCopperCrin = 76
+    CuddlyTanKaren = "A steak pun is a rare medium well done."
+    DynamicAmberPersis = false
+    LikeOlivePatience = "What do you do on a remote island? Try and find the TV island it belongs to."
+    RevolutionaryPurpleBobbie = "Why was it called the dark ages? Because of all the knights. "
+    ColossalFuchsiaGwenora = true
+    ElectronicPlumKarina = "Why is Peter Pan always flying? Because he Neverlands."
+    FragileRoseMaryjane = false
+    ShiveringYellowValery = "Why didnt the skeleton cross the road? Because he had no guts."
+    AmazingTealRobinett = "Im only familiar with 25 letters in the English language. I dont know why."
+    CreepyCopperLinnell = 121
+    AmusedVioletTiphani = 481
+    PrettyMaroonBetsy = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  "List<number>" CrucialCrimsonPavia {
+  }
+  json PerfectBlueBlondie {
+  }
+  "Map<number>" ChubbyGoldMatti {
+  }
+  HotVioletMonah = "Dad Im hungry  Hi hungry Im dad"
+  JoyousHarlequinHope = 72
+  MusicalChocolateHappy = 54
+  CalmWhiteTorey = false
+  TightSilverMarne = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

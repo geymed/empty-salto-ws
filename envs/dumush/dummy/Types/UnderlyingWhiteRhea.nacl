@@ -1,0 +1,28 @@
+type dummy.UnderlyingWhiteRhea {
+  annotations {
+    serviceid LightAquamarineFelice {
+    }
+    string NoisyGreenEsmaria {
+    }
+    dummy.StormyTealCharleen ProperEmeraldCrissie {
+    }
+    dummy.EasySalmonCaterina LonelyOrangeInessa {
+    }
+    string CuteHarlequinRomonda {
+    }
+    number MinimalPinkAlysa {
+    }
+    string DarkBeigeMaddy {
+    }
+  }
+  serviceid IncreasedVioletAbbi {
+  }
+  LightAquamarineFelice = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  NoisyGreenEsmaria = "Slept like a log last night  woke up in the fireplace."
+  ProperEmeraldCrissie = 207
+  LonelyOrangeInessa = file("SadPlumDarlene.txt")
+  CuteHarlequinRomonda = "What do you do on a remote island? Try and find the TV island it belongs to."
+  MinimalPinkAlysa = 202
+  DarkBeigeMaddy = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

@@ -1,0 +1,19 @@
+type dummy.DesperatePurpleViviene {
+  annotations {
+    serviceid HugeTurquoiseMora {
+    }
+    number EmpiricalCoralPeri {
+    }
+    serviceid ManyScarletMaudie {
+    }
+    dummy.MidVioletKikelia HurtSilverGerrie {
+    }
+  }
+  serviceid SteadyRedDaisie {
+  }
+  HugeTurquoiseMora = "To be Frank, I'd have to change my name."
+  EmpiricalCoralPeri = 594
+  ManyScarletMaudie = "I'll tell you what often gets over looked... garden fences."
+  HurtSilverGerrie = false
+  _hidden_value = true
+}

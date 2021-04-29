@@ -1,0 +1,29 @@
+dummy.RapidCrimsonAustina SacredAquaJessalin {
+  PuzzledAmethystSapphire = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  FierceMagentaLexie = 250
+  WildRedMicki = false
+  MinimumChocolateDorita = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ElderlyCopperJeri = true
+  OrdinaryCoralVivia = file("DecisiveTurquoiseLorelei.txt")
+  SaltyAmaranthAnsley = true
+  LikelyLavenderCleopatra = true
+  AvailableBlueGenevra = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SensibleJadeColeen = file("FrequentMoccasinErminie.txt")
+  BlackMaroonImelda = {
+    HappyScarletMarne = 212
+    ScaryMoccasinCelia = "Why didnt the skeleton cross the road? Because he had no guts."
+    SocialSapphireClaudia = 182
+    TechnologicalMaroonPhilippa = true
+    TopMoccasinShaine = "What did one nut say as he chased another nut?  I'm a cashew!"
+    EncouragingBeigeAllyn = 286
+    DeliberateGoldCaty = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    PatientBronzeTrixi = 834
+    ToughPeachPaolina = 930
+    MechanicalBrownGerda = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    PrincipalScarletAugustina = 770
+    SpatialRedRobenia = true
+    TallMagentaRoobbie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    ChiefMaroonSuzanna = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  _parent = dummy.SmoothMaroonKacy
+}

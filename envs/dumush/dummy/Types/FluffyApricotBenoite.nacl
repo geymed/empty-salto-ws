@@ -1,0 +1,10 @@
+type dummy.FluffyApricotBenoite is string {
+  annotations {
+    dummy.ArchitecturalSalmonNani PoorYellowSherry {
+    }
+    number TropicalMoccasinBrinn {
+    }
+  }
+  PoorYellowSherry = 272
+  TropicalMoccasinBrinn = 800
+}

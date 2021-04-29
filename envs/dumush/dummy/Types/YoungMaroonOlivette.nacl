@@ -1,0 +1,22 @@
+type dummy.YoungMaroonOlivette {
+  annotations {
+    json WorthyHarlequinDinah {
+    }
+    json ConfusedPlumFerdinanda {
+    }
+    dummy.TotalMaroonCaroljean CapableGrayKay {
+    }
+    json ExternalBlueAurelia {
+    }
+    number StrangeBlueDarby {
+    }
+  }
+  serviceid FunnyLimeDelinda {
+  }
+  WorthyHarlequinDinah = "Why did the kid cross the playground? To get to the other slide."
+  ConfusedPlumFerdinanda = "Slept like a log last night  woke up in the fireplace."
+  CapableGrayKay = 341
+  ExternalBlueAurelia = "A steak pun is a rare medium well done."
+  StrangeBlueDarby = 125
+  _hidden_value = true
+}

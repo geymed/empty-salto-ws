@@ -1,0 +1,58 @@
+dummy.AcademicScarletBatsheva DeafSalmonRobinetta {
+  BroadChocolateBevvy = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SoreRedKatrinka = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ShakyCopperNaomi = "Why did the tomato blush? Because it saw the salad dressing."
+  PuzzledJadeHaleigh = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  NationalCrimsonJulianne = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  AlrightAmberLynn = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  BeautifulPeachAntonietta = {
+    DeepAquaMalva = "What did one nut say as he chased another nut?  I'm a cashew!"
+    UpsetAquaLeonie = "To be Frank, I'd have to change my name."
+    GentleBronzeNeila = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    EthnicBlushRachelle = true
+    HighPeachMarlee = true
+    EncouragingTanIsobel = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    PresidentialBlueFrederique = false
+    SurprisedGrayGeorgia = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    SelectScarletHarriott = "I'll tell you what often gets over looked... garden fences."
+    ZanySapphireKatti = 220
+    ImperialTealRoxane = file("ResidentialCrimsonJennica.txt")
+    FunnyTanRheta = false
+    ToryScarletRegine = 393
+    LogicalGoldBillye = 967
+    RationalTomatoEden = 309
+  }
+  InterestedPurpleKaitlyn = false
+  SeniorGoldClarette = "Why was it called the dark ages? Because of all the knights. "
+  SheerBlackAmalia = 567
+  TightIvoryKarrie = 92
+  VoluntaryAmethystTanitansy = {
+    InnerMoccasinMaud = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    DifficultGrayMerissa = "Why do birds fly south for the winter? Because it's too far to walk."
+    GiantAquamarineSondra = "How come the stadium got hot after the game? Because all of the fans left."
+    SpectacularCoralRuthe = [
+      452,
+      408,
+      940,
+      17,
+      204,
+      513,
+      266,
+      187,
+      612,
+    ]
+  }
+  NarrowAmethystFionna = 976
+  VisibleMaroonSibby = [
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+  ]
+  SemanticOrangeBernita = 606
+  FatYellowDebra = 385
+  _parent = dummy.EmpiricalVioletGusti
+}

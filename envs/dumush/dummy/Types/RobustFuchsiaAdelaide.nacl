@@ -1,0 +1,25 @@
+type dummy.RobustFuchsiaAdelaide {
+  annotations {
+    string MarriedBlackRebbecca {
+    }
+    dummy.ProtestantAzureStafani LatinYellowDarb {
+    }
+    string PreciousTomatoNoella {
+    }
+    dummy.TotalMaroonCaroljean WeeklyChocolateCynde {
+    }
+    dummy.GoodTomatoTeri QuietVioletMisty {
+    }
+    string ConceptualSapphireAbbye {
+    }
+  }
+  boolean ShiveringGoldShelbi {
+  }
+  MarriedBlackRebbecca = "What do you do on a remote island? Try and find the TV island it belongs to."
+  LatinYellowDarb = file("EmptyChocolateDania.txt")
+  PreciousTomatoNoella = "Why was it called the dark ages? Because of all the knights. "
+  WeeklyChocolateCynde = 432
+  QuietVioletMisty = 435
+  ConceptualSapphireAbbye = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

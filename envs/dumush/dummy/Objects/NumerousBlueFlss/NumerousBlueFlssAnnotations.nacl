@@ -1,0 +1,56 @@
+type dummy.NumerousBlueFlss {
+  annotations {
+    boolean PositiveTurquoiseSapphira {
+    }
+    dummy.YoungMaroonOlivette AverageVioletSheryl {
+    }
+    boolean HandsomeApricotEstel {
+    }
+    string DeliciousSapphireJaquelyn {
+    }
+    number DisabledOliveRachel {
+    }
+    serviceid PrimeCoralAurea {
+    }
+    number LatinAmethystShelby {
+    }
+    json SpatialSapphireYoko {
+    }
+    json EndlessSapphireJanella {
+    }
+    boolean RareSalmonKiele {
+    }
+    serviceid TamePlumRobinette {
+    }
+    json IslamicAzureKaralynn {
+    }
+    dummy.ManagingGoldLynelle OccupationalGrayLucine {
+    }
+    boolean ParentalTanHonoria {
+    }
+    number RomanCopperBonita {
+    }
+    boolean FantasticIvoryCandace {
+    }
+    boolean LegalOliveGrier {
+    }
+    boolean FlexibleLimeGillie {
+    }
+  }
+  PositiveTurquoiseSapphira = true
+  HandsomeApricotEstel = false
+  DeliciousSapphireJaquelyn = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DisabledOliveRachel = 973
+  PrimeCoralAurea = "Why did the kid cross the playground? To get to the other slide."
+  LatinAmethystShelby = 970
+  SpatialSapphireYoko = "A steak pun is a rare medium well done."
+  EndlessSapphireJanella = "Why is Peter Pan always flying? Because he Neverlands."
+  RareSalmonKiele = true
+  TamePlumRobinette = "Why was it called the dark ages? Because of all the knights. "
+  IslamicAzureKaralynn = "Im only familiar with 25 letters in the English language. I dont know why."
+  ParentalTanHonoria = false
+  RomanCopperBonita = 868
+  FantasticIvoryCandace = true
+  LegalOliveGrier = true
+  FlexibleLimeGillie = true
+}

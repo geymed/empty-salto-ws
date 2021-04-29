@@ -1,0 +1,29 @@
+type dummy.BlackMaroonAdelice {
+  annotations {
+    dummy.BasicPeachEvangeline FrailMoccasinJoellen {
+    }
+    dummy.SweetCoralCarlynne SuperiorSapphireShir {
+    }
+    boolean PoliticalGoldJasmin {
+    }
+    serviceid ColorfulBeigeStormie {
+    }
+    boolean SophisticatedBrownEvonne {
+    }
+    dummy.SolarVioletMarylynne StructuralAmethystAlexina {
+    }
+    dummy.ArchitecturalSalmonNani YummyGreenShandee {
+    }
+    dummy.GoodTomatoTeri GermanMagentaMeggie {
+    }
+  }
+  string AustralianTomatoCristine {
+  }
+  FrailMoccasinJoellen = file("UglyTanDeloris.txt")
+  PoliticalGoldJasmin = false
+  ColorfulBeigeStormie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SophisticatedBrownEvonne = true
+  YummyGreenShandee = 448
+  GermanMagentaMeggie = 911
+  _hidden_value = true
+}

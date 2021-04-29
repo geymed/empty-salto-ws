@@ -1,0 +1,66 @@
+type dummy.QuickOrangeLianne {
+  annotations {
+    string ElectronicBlushKally {
+    }
+    boolean VariedEmeraldSara {
+    }
+    dummy.FairVioletPippa HonHarlequinJennica {
+    }
+    number VoluntaryTealPatricia {
+    }
+    json EvilOrangeCally {
+    }
+    string RoundBlushKatya {
+    }
+    serviceid SmilingLimeAntonietta {
+    }
+    string MagneticPinkVivie {
+    }
+    serviceid SwiftSalmonDayna {
+    }
+    string FarTomatoUta {
+    }
+    number StalePinkRhodia {
+    }
+    json TremendousCyanCherri {
+    }
+    boolean UnemployedBrownDavita {
+    }
+    string ExoticPinkGwenni {
+    }
+    json EvidentSalmonSisile {
+    }
+    string SubstantialOliveBidget {
+    }
+    dummy.SurprisedScarletMelodie ShortYellowNikki {
+    }
+    json HighAquaAnaliese {
+    }
+    number GreekAmethystJosie {
+    }
+    dummy.OuterChocolateXylia EstablishedPinkKaylil {
+    }
+    dummy.CurvedTanCicely FuzzyYellowBernadina {
+    }
+  }
+  ElectronicBlushKally = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  VariedEmeraldSara = false
+  VoluntaryTealPatricia = 143
+  EvilOrangeCally = "Did you know that protons have mass? I didn't even know they were catholic."
+  RoundBlushKatya = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SmilingLimeAntonietta = "Why is Peter Pan always flying? Because he Neverlands."
+  MagneticPinkVivie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SwiftSalmonDayna = "Why did the tomato blush? Because it saw the salad dressing."
+  FarTomatoUta = "Why is Peter Pan always flying? Because he Neverlands."
+  StalePinkRhodia = 210
+  TremendousCyanCherri = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  UnemployedBrownDavita = true
+  ExoticPinkGwenni = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  EvidentSalmonSisile = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SubstantialOliveBidget = "Did you know that protons have mass? I didn't even know they were catholic."
+  ShortYellowNikki = false
+  HighAquaAnaliese = "What do you call two barracuda fish?  A Pairacuda!"
+  GreekAmethystJosie = 413
+  EstablishedPinkKaylil = file("UrbanGoldTamarra.txt")
+  FuzzyYellowBernadina = file("MightySapphireKrysta.txt")
+}

@@ -1,0 +1,63 @@
+type dummy.DifficultRedDollie {
+  annotations {
+    string OfficialAquaViole {
+    }
+    dummy.EasySalmonCaterina ImportantHarlequinLaura {
+    }
+    dummy.TotalMaroonCaroljean InstantMaroonTate {
+    }
+    dummy.FluffyApricotBenoite NeutralGreenTheressa {
+    }
+    dummy.StormyTealCharleen ForwardTanBetty {
+    }
+    boolean OnlyPurpleMarylou {
+    }
+  }
+  dummy.SpatialChocolateBrigitta ExcitedTanCherri {
+    GleamingMaroonNorma = "What creature is smarter than a talking parrot? A spelling bee."
+    GentleYellowAdriana = 158
+    MobileScarletDoris = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    GiganticJadeCarena = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    SovietGraySaraann = 945
+    NumerousLavenderBerri = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  number DarkYellowEttie {
+  }
+  dummy.ScrawnyBeigeNoni CarefulRedGabbi {
+    IllIvoryKamila = "Slept like a log last night  woke up in the fireplace."
+    ChristianFuchsiaRobenia = "I'll tell you what often gets over looked... garden fences."
+    MeltedCoffeeMilly = 831
+    DullLimeTrista = "Why did the kid cross the playground? To get to the other slide."
+    ExceptionalCoffeeTuesday = file("BrownApricotStephani.txt")
+    TremendousIvoryRois = "Why did the tomato blush? Because it saw the salad dressing."
+    ProtestantLimeRobbin = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ResidentBrownKattie = "A steak pun is a rare medium well done."
+    StickyMagentaDominique = file("FirmGrayRasia.txt")
+    WonderfulSilverPerla = 318
+    OutstandingMagentaAilyn = "A steak pun is a rare medium well done."
+    AtomicAmberHaley = 494
+    AgreeableIndigoJosy = 988
+    RussianRedDonielle = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  dummy.CurvedTanCicely PleasedPurpleHilde {
+    VerticalTomatoCosetta = 721
+    AgreeableBrownDaloris = "My first time using an elevator was an uplifting experience. The second time let me down."
+    SubjectiveAmethystBel = 974
+    PreviousCopperBritta = 187
+    SillyApricotLadonna = 117
+    SweetOrangeInes = "To be Frank, I'd have to change my name."
+    GreatGreenMiriam = "Why did the kid cross the playground? To get to the other slide."
+    StrategicWhiteTimmi = 597
+    CheerfulBrownVania = 420
+    PoliticalAquamarineGiulietta = 159
+    JoyousTomatoPauletta = 316
+    SlipperyBronzeIseabal = true
+  }
+  OfficialAquaViole = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ImportantHarlequinLaura = file("WrongGrayBrittaney.txt")
+  InstantMaroonTate = 115
+  NeutralGreenTheressa = file("IntegratedSapphireTeddy.txt")
+  ForwardTanBetty = 768
+  OnlyPurpleMarylou = true
+  _hidden_value = true
+}

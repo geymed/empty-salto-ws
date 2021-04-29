@@ -1,0 +1,68 @@
+type dummy.CrookedHarlequinAnnemarie {
+  annotations {
+    json DifficultOliveCilka {
+    }
+    number SlimYellowKatrinka {
+    }
+    serviceid GracefulMaroonHolli {
+    }
+    dummy.GoodTomatoTeri InnocentLimeOlia {
+    }
+    dummy.UndergroundTurquoiseLynn HardAquamarineFredra {
+    }
+    dummy.UpsetIvoryAjay ModernChocolateGeorgette {
+    }
+    dummy.GoodTomatoTeri UnnecessaryEmeraldBerrie {
+    }
+    dummy.ArchitecturalSalmonNani ContemporaryCoffeeJoeann {
+    }
+    dummy.ArchitecturalSalmonNani InnovativeCyanValeda {
+    }
+    dummy.FluffyApricotBenoite SpiritualCopperFern {
+    }
+    string SpanishMagentaDaisy {
+    }
+    dummy.LooseAzureJacquelyn InternationalAmaranthMahalia {
+    }
+    dummy.ParliamentaryGoldEleen VictorianIvoryElisabetta {
+    }
+    serviceid OkScarletCristine {
+    }
+    number InternalBronzeFarra {
+    }
+    dummy.AlertWhiteLenee PassiveSalmonFaydra {
+    }
+    dummy.GiganticIndigoDennie CleanTomatoShelbi {
+    }
+    serviceid DramaticCyanAlina {
+    }
+    dummy.PossibleAmaranthMalynda DullGoldMadelina {
+    }
+    dummy.FluffyApricotBenoite MultipleChocolateGratiana {
+    }
+    serviceid MistyEmeraldNissy {
+    }
+    json SignificantBronzeNicolina {
+    }
+  }
+  DifficultOliveCilka = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SlimYellowKatrinka = 444
+  GracefulMaroonHolli = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  InnocentLimeOlia = 273
+  HardAquamarineFredra = false
+  ModernChocolateGeorgette = false
+  UnnecessaryEmeraldBerrie = 418
+  ContemporaryCoffeeJoeann = 269
+  InnovativeCyanValeda = 193
+  SpiritualCopperFern = file("RealHarlequinStesha.txt")
+  SpanishMagentaDaisy = "Slept like a log last night  woke up in the fireplace."
+  VictorianIvoryElisabetta = file("AnnualApricotTrish.txt")
+  OkScarletCristine = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  InternalBronzeFarra = 500
+  PassiveSalmonFaydra = 329
+  CleanTomatoShelbi = false
+  DramaticCyanAlina = "A steak pun is a rare medium well done."
+  MultipleChocolateGratiana = file("PeculiarLavenderHolly.txt")
+  MistyEmeraldNissy = "Why did the kid cross the playground? To get to the other slide."
+  SignificantBronzeNicolina = "Chances are if you' ve seen one shopping center, you've seen a mall."
+}

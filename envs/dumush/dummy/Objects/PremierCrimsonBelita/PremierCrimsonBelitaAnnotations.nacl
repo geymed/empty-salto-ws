@@ -1,0 +1,63 @@
+type dummy.PremierCrimsonBelita {
+  annotations {
+    number InitialAmethystDian {
+    }
+    serviceid PeacefulBlueCordula {
+    }
+    json HostileIndigoOllie {
+    }
+    dummy.StormyTealCharleen UniqueBronzeKimmy {
+    }
+    dummy.CloseHarlequinJanela ColossalMoccasinEleen {
+    }
+    dummy.EasySalmonCaterina HelpfulRedAdi {
+    }
+    json PartialIvoryHeloise {
+    }
+    dummy.ArchitecturalSalmonNani ElegantJadeMarthe {
+    }
+    json LabourLimeKelila {
+    }
+    boolean VisitingAquamarineIsis {
+    }
+    json BoringSapphireAlanah {
+    }
+    dummy.ArchitecturalSalmonNani WickedBrownMaren {
+    }
+    serviceid DeliberateTanValentina {
+    }
+    serviceid GlamorousGrayAlia {
+    }
+    boolean NastyCoralJyoti {
+    }
+    serviceid AcceptableWhiteMaribel {
+    }
+    boolean OrangeTurquoiseMelany {
+    }
+    serviceid SurroundingLimeLolita {
+    }
+    dummy.InfluentialIndigoPhillis EmotionalRoseDanni {
+    }
+    json ElegantBeigeVinita {
+    }
+  }
+  InitialAmethystDian = 379
+  PeacefulBlueCordula = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  HostileIndigoOllie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  UniqueBronzeKimmy = 920
+  ColossalMoccasinEleen = file("CulturalHarlequinHenriette.txt")
+  HelpfulRedAdi = file("PeculiarVioletCele.txt")
+  PartialIvoryHeloise = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ElegantJadeMarthe = 5
+  LabourLimeKelila = "Im only familiar with 25 letters in the English language. I dont know why."
+  VisitingAquamarineIsis = false
+  BoringSapphireAlanah = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  WickedBrownMaren = 917
+  DeliberateTanValentina = "A steak pun is a rare medium well done."
+  GlamorousGrayAlia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  NastyCoralJyoti = true
+  AcceptableWhiteMaribel = "Slept like a log last night  woke up in the fireplace."
+  OrangeTurquoiseMelany = false
+  SurroundingLimeLolita = "Slept like a log last night  woke up in the fireplace."
+  ElegantBeigeVinita = "I'll tell you what often gets over looked... garden fences."
+}

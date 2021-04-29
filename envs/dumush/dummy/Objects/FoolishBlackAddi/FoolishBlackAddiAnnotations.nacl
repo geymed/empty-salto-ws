@@ -1,0 +1,50 @@
+type dummy.FoolishBlackAddi {
+  annotations {
+    boolean TinySalmonCassandra {
+    }
+    dummy.InformalTealJosepha CrowdedIvoryDorothy {
+    }
+    dummy.CloseHarlequinJanela MinorGoldPegeen {
+    }
+    dummy.DifferentMagentaCarry SubstantialTealOneida {
+    }
+    serviceid MetropolitanMoccasinDevon {
+    }
+    json NaughtyCopperDyanne {
+    }
+    string AdequateAmaranthMarys {
+    }
+    number WeakBlackEvvy {
+    }
+    dummy.OuterChocolateXylia DangerousOliveAnallise {
+    }
+    dummy.FluffyApricotBenoite SacredTanOlly {
+    }
+    dummy.CorporateAquamarineMary IntermediateFuchsiaMaegan {
+    }
+    dummy.BlackAquamarineClotilda GrimGreenAnsley {
+    }
+    number FilthyPlumMarybelle {
+    }
+    string DoubtfulRoseNancie {
+    }
+    boolean TroubledIndigoGerti {
+    }
+    number DampTealBlakelee {
+    }
+  }
+  TinySalmonCassandra = false
+  CrowdedIvoryDorothy = 315
+  MinorGoldPegeen = file("ImprovedAquaLola.txt")
+  MetropolitanMoccasinDevon = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  NaughtyCopperDyanne = "My first time using an elevator was an uplifting experience. The second time let me down."
+  AdequateAmaranthMarys = "What do you call two barracuda fish?  A Pairacuda!"
+  WeakBlackEvvy = 346
+  DangerousOliveAnallise = file("DeliberateCoralKassi.txt")
+  SacredTanOlly = file("SecondaryLimeVivianne.txt")
+  IntermediateFuchsiaMaegan = file("DualCrimsonLatrena.txt")
+  FilthyPlumMarybelle = 417
+  DoubtfulRoseNancie = "I'll tell you what often gets over looked... garden fences."
+  TroubledIndigoGerti = false
+  DampTealBlakelee = 964
+}

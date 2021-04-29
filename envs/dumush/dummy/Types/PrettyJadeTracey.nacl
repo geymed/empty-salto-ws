@@ -1,0 +1,24 @@
+type dummy.PrettyJadeTracey {
+  annotations {
+    dummy.PricklyBlueJanot PossibleIndigoKirsteni {
+    }
+    json AttractiveIvoryCharmaine {
+    }
+    dummy.BasicPeachEvangeline QuickAmberMercie {
+    }
+    dummy.FluffyApricotBenoite GentlePeachGiustina {
+    }
+    json FragileCoralDanice {
+    }
+  }
+  number DetailedAmaranthKessiah {
+  }
+  string KoreanRoseOrelle {
+  }
+  PossibleIndigoKirsteni = false
+  AttractiveIvoryCharmaine = "How come the stadium got hot after the game? Because all of the fans left."
+  QuickAmberMercie = file("IndividualGrayFred.txt")
+  GentlePeachGiustina = file("PrimaryOrangePru.txt")
+  FragileCoralDanice = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

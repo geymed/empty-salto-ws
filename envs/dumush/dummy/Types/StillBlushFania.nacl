@@ -1,0 +1,23 @@
+type dummy.StillBlushFania {
+  annotations {
+    json IncredibleMoccasinGreta {
+    }
+    dummy.ArchitecturalSalmonNani HandsomeRoseKaja {
+    }
+    dummy.EasySalmonCaterina WonderfulMaroonKati {
+    }
+  }
+  dummy.GiganticIndigoDennie WonderfulAzureDorry {
+    ExtraJadeAinslie = "Did you know that protons have mass? I didn't even know they were catholic."
+    AdorableCoralTera = 160
+    SatisfactoryAmaranthFlorentia = "I'll tell you what often gets over looked... garden fences."
+    CarefulPeachCam = 246
+    UnderlyingSapphirePhylis = "My first time using an elevator was an uplifting experience. The second time let me down."
+    NeighbouringGoldRowe = "Why do birds fly south for the winter? Because it's too far to walk."
+    InteriorIvoryDesdemona = 32
+  }
+  IncredibleMoccasinGreta = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  HandsomeRoseKaja = 907
+  WonderfulMaroonKati = file("ScaredBlackDre.txt")
+  _hidden_value = true
+}

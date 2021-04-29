@@ -1,0 +1,38 @@
+type dummy.FamousCoralAlfie {
+  annotations {
+    dummy.ConsciousOrangeBernelle CheerfulCoffeeMichele {
+    }
+    serviceid SocialWhiteKaree {
+    }
+    dummy.CorporateAquamarineMary UncertainScarletVittoria {
+    }
+  }
+  number LesserRoseWinona {
+  }
+  string FoolishBlushSusana {
+  }
+  dummy.CurvedTanCicely TragicIvoryAleda {
+    VerticalTomatoCosetta = 786
+    AgreeableBrownDaloris = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    SubjectiveAmethystBel = 864
+    PreviousCopperBritta = 868
+    SillyApricotLadonna = 686
+    SweetOrangeInes = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    GreatGreenMiriam = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    StrategicWhiteTimmi = 882
+    CheerfulBrownVania = 667
+    PoliticalAquamarineGiulietta = 762
+    JoyousTomatoPauletta = 337
+    SlipperyBronzeIseabal = true
+  }
+  string DiverseBlushOlive {
+  }
+  serviceid MilitaryGoldNana {
+  }
+  json SadCoffeeBeverlee {
+  }
+  CheerfulCoffeeMichele = 771
+  SocialWhiteKaree = "Slept like a log last night  woke up in the fireplace."
+  UncertainScarletVittoria = file("ExpectedYellowSilva.txt")
+  _hidden_value = true
+}

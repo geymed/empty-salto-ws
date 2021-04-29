@@ -1,0 +1,65 @@
+type dummy.HugeAquamarineLibbi {
+  annotations {
+    string FlutteringMaroonRita {
+    }
+    json SteadyTanLilas {
+    }
+    dummy.DefiantIndigoRenie RelevantTealVallie {
+    }
+    serviceid GratefulLavenderKissie {
+    }
+    boolean BlackCoffeeRodi {
+    }
+  }
+  "List<boolean>" MuddyApricotFranciska {
+  }
+  json ChristianPeachJudy {
+  }
+  dummy.ArchitecturalSalmonNani DelicateAzureAnallise {
+    ManagingOliveLindsy = "Dad Im hungry  Hi hungry Im dad"
+    MedicalTealBrittney = "Why is Peter Pan always flying? Because he Neverlands."
+    ExperimentalTanCammy = "Why didnt the skeleton cross the road? Because he had no guts."
+    WholeEmeraldSasha = false
+    CreepyIvoryKaterine = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    AdditionalMoccasinKarol = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    AgreedYellowHana = "What did one nut say as he chased another nut?  I'm a cashew!"
+    BroadEmeraldMargot = "Dad Im hungry  Hi hungry Im dad"
+    DryPeachDruci = false
+    ComparativeVioletGwenore = "To be Frank, I'd have to change my name."
+    ElectricOliveJaime = true
+    HeavyGrayAnthia = true
+    WetAmberMelesa = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    LiteraryBlushMirna = false
+    EnormousPinkCodi = true
+    SmoothGrayGilemette = 793
+    SunnyChocolateDasya = "Slept like a log last night  woke up in the fireplace."
+    BarePlumWillyt = false
+    MagicLimeLeonora = true
+    ContinentalRedLauryn = 565
+    RobustOliveMartica = true
+    PleasantBeigePoppy = true
+    ImaginativeCyanVivienne = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    AbsentBlackCris = 320
+    ElectoralAquaWanids = file("BrightOliveCordula.txt")
+  }
+  json PreferredCoffeeTanitansy {
+  }
+  dummy.InformalTealJosepha EmbarrassedBlackNancy {
+    GloriousAmethystMidge = 389
+    RunningAquaRoshelle = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    UnawareMoccasinInez = 168
+    WonderfulYellowNessy = true
+    ModernOrangeTiertza = "What do you call two barracuda fish?  A Pairacuda!"
+    ThoroughFuchsiaLeigh = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SmilingGreenNixie = {
+      legit = "Im only familiar with 25 letters in the English language. I dont know why."
+    }
+    VastMagentaBette = "A steak pun is a rare medium well done."
+  }
+  FlutteringMaroonRita = "What do you call two barracuda fish?  A Pairacuda!"
+  SteadyTanLilas = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  RelevantTealVallie = file("QuickOrangeFrancesca.txt")
+  GratefulLavenderKissie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  BlackCoffeeRodi = true
+  _hidden_value = true
+}

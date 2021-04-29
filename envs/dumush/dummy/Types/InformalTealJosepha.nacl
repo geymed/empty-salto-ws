@@ -1,0 +1,30 @@
+type dummy.InformalTealJosepha is number {
+  annotations {
+    number GloriousAmethystMidge {
+    }
+    serviceid RunningAquaRoshelle {
+    }
+    number UnawareMoccasinInez {
+    }
+    boolean WonderfulYellowNessy {
+    }
+    string ModernOrangeTiertza {
+    }
+    json ThoroughFuchsiaLeigh {
+    }
+    dummy.DEFAULT SmilingGreenNixie {
+    }
+    string VastMagentaBette {
+    }
+  }
+  GloriousAmethystMidge = 536
+  RunningAquaRoshelle = "A steak pun is a rare medium well done."
+  UnawareMoccasinInez = 9
+  WonderfulYellowNessy = true
+  ModernOrangeTiertza = "What do you call two barracuda fish?  A Pairacuda!"
+  ThoroughFuchsiaLeigh = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SmilingGreenNixie = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  VastMagentaBette = "Whoever invented the knock-knock joke should get a no bell prize."
+}

@@ -1,0 +1,22 @@
+type dummy.StormyTealCharleen is number {
+  annotations {
+    string RetiredSalmonMaisie {
+    }
+    number AvailableBlackAnnabella {
+    }
+    boolean ArtificialGrayAtalanta {
+    }
+    boolean FavourableApricotSasha {
+    }
+    boolean ManualBronzeKaralynn {
+    }
+    json MotionlessRedEstella {
+    }
+  }
+  RetiredSalmonMaisie = "How come the stadium got hot after the game? Because all of the fans left."
+  AvailableBlackAnnabella = 117
+  ArtificialGrayAtalanta = true
+  FavourableApricotSasha = true
+  ManualBronzeKaralynn = false
+  MotionlessRedEstella = "What creature is smarter than a talking parrot? A spelling bee."
+}

@@ -1,0 +1,16 @@
+type dummy.CloseHarlequinJanela is string {
+  annotations {
+    number MightyPlumAlissa {
+    }
+    number CrazyAmaranthJoann {
+    }
+    dummy.ArchitecturalSalmonNani ClassicTurquoiseJoice {
+    }
+    boolean HelplessCoralEvangeline {
+    }
+  }
+  MightyPlumAlissa = 458
+  CrazyAmaranthJoann = 373
+  ClassicTurquoiseJoice = 964
+  HelplessCoralEvangeline = false
+}

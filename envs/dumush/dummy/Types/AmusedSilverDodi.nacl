@@ -1,0 +1,22 @@
+type dummy.AmusedSilverDodi {
+  annotations {
+    boolean FormalTomatoCelie {
+    }
+    dummy.OuterChocolateXylia VoicelessBronzeKatha {
+    }
+    string WelshBeigeYvonne {
+    }
+    dummy.TotalMaroonCaroljean IsraeliTomatoElka {
+    }
+    boolean FrequentCrimsonAriel {
+    }
+  }
+  boolean PositiveTealAurel {
+  }
+  FormalTomatoCelie = true
+  VoicelessBronzeKatha = file("AdvisoryAquaHarmonie.txt")
+  WelshBeigeYvonne = "Why is Peter Pan always flying? Because he Neverlands."
+  IsraeliTomatoElka = 352
+  FrequentCrimsonAriel = false
+  _hidden_value = true
+}

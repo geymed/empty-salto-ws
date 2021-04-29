@@ -1,0 +1,58 @@
+type dummy.BasicPeachEvangeline is string {
+  annotations {
+    dummy.TotalMaroonCaroljean ExcitedSalmonFeodora {
+    }
+    dummy.CurvedTanCicely DullGreenCelka {
+    }
+    serviceid EmotionalTealDari {
+    }
+    boolean ComplicatedApricotMatti {
+    }
+    number UnfortunateEmeraldChris {
+    }
+    serviceid SillyVioletCollette {
+    }
+    number CloseRedClarine {
+    }
+    number WelcomeLimeShirlene {
+    }
+    json LinearHarlequinJoelle {
+    }
+    string DifficultSilverTersina {
+    }
+    number AggregateJadeJilleen {
+    }
+    dummy.RealGrayAnaliese RidiculousPeachDagmar {
+    }
+    serviceid CruelRedOttilie {
+    }
+    dummy.CurvedTanCicely ForeignOrangeGrethel {
+    }
+    dummy.TotalMaroonCaroljean PassingBeigeCorrine {
+    }
+    dummy.InformalTealJosepha ConfidentialSalmonAnette {
+    }
+    dummy.RealGrayAnaliese CivicTomatoSalaidh {
+    }
+    dummy.SpatialChocolateBrigitta IcyCoralSofia {
+    }
+  }
+  ExcitedSalmonFeodora = 699
+  DullGreenCelka = file("SickBlackAubine.txt")
+  EmotionalTealDari = "Why is Peter Pan always flying? Because he Neverlands."
+  ComplicatedApricotMatti = true
+  UnfortunateEmeraldChris = 5
+  SillyVioletCollette = "A steak pun is a rare medium well done."
+  CloseRedClarine = 108
+  WelcomeLimeShirlene = 435
+  LinearHarlequinJoelle = "A steak pun is a rare medium well done."
+  DifficultSilverTersina = "A steak pun is a rare medium well done."
+  AggregateJadeJilleen = 721
+  RidiculousPeachDagmar = file("HotAquamarineAllina.txt")
+  CruelRedOttilie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ForeignOrangeGrethel = file("PetiteAmberCelisse.txt")
+  PassingBeigeCorrine = 291
+  ConfidentialSalmonAnette = 159
+  CivicTomatoSalaidh = file("IdeologicalPurpleCandice.txt")
+  IcyCoralSofia = 131
+}

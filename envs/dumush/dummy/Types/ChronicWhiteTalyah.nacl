@@ -1,0 +1,58 @@
+type dummy.ChronicWhiteTalyah is boolean {
+  annotations {
+    dummy.RealGrayAnaliese EstablishedPurpleAvril {
+    }
+    string SatisfactoryMagentaSheree {
+    }
+    dummy.ScrawnyBeigeNoni FunnyLimeLaryssa {
+    }
+    dummy.CurvedTanCicely LevelAquaGilligan {
+    }
+    dummy.RealGrayAnaliese GrimCyanCelestina {
+    }
+    dummy.MeaningfulIndigoRebeka ConstitutionalIndigoNariko {
+    }
+    dummy.ArchitecturalSalmonNani SlimAzureNatty {
+    }
+    string ClearPlumTania {
+    }
+    boolean WholeGreenGene {
+    }
+    string CulturalEmeraldJerrylee {
+    }
+    dummy.StormyTealCharleen ImpossibleBronzeMilicent {
+    }
+    dummy.MeaningfulIndigoRebeka BlankTanMadelyn {
+    }
+    string RobustRoseMalynda {
+    }
+    string DeliberateWhiteMyrta {
+    }
+    number SympatheticRedAntonia {
+    }
+    boolean ClearMagentaKalila {
+    }
+    dummy.GiganticIndigoDennie CurlyGraySarina {
+    }
+    dummy.PricklyBlueJanot ImportantCoffeeAshly {
+    }
+  }
+  EstablishedPurpleAvril = file("ModernBeigeBrande.txt")
+  SatisfactoryMagentaSheree = "Why is Peter Pan always flying? Because he Neverlands."
+  FunnyLimeLaryssa = 428
+  LevelAquaGilligan = file("FuriousMaroonKaree.txt")
+  GrimCyanCelestina = file("CalmFuchsiaToinette.txt")
+  ConstitutionalIndigoNariko = 522
+  SlimAzureNatty = 404
+  ClearPlumTania = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  WholeGreenGene = true
+  CulturalEmeraldJerrylee = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ImpossibleBronzeMilicent = 912
+  BlankTanMadelyn = 867
+  RobustRoseMalynda = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  DeliberateWhiteMyrta = "Im only familiar with 25 letters in the English language. I dont know why."
+  SympatheticRedAntonia = 46
+  ClearMagentaKalila = false
+  CurlyGraySarina = true
+  ImportantCoffeeAshly = false
+}

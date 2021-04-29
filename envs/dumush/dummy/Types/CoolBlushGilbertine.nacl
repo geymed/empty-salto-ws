@@ -1,0 +1,44 @@
+type dummy.CoolBlushGilbertine {
+  annotations {
+    boolean DisgustedEmeraldGabbi {
+    }
+    dummy.ShortApricotRoze JuniorMoccasinElectra {
+    }
+    dummy.SpatialChocolateBrigitta FirmLavenderDrucie {
+    }
+    string BurningCrimsonLeonelle {
+    }
+  }
+  serviceid StatisticalChocolateAda {
+  }
+  boolean NormalApricotArdelle {
+  }
+  json ThoughtfulIndigoJessy {
+  }
+  string UselessMoccasinLarina {
+  }
+  string FinalAquamarineRosamund {
+  }
+  boolean ModestAmethystBryna {
+  }
+  "List<dummy.ParliamentaryGoldEleen>" CentralAzureMaribel {
+    PlasticPinkSidonia = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ShortSapphireJeniffer = "Why is Peter Pan always flying? Because he Neverlands."
+    GuiltyRoseElsie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    LostCoralLuise = 302
+  }
+  dummy.MidVioletKikelia IllAquaGypsy {
+    ElatedYellowChad = false
+    OpenMoccasinLyda = {
+      legit = "Why did the kid cross the playground? To get to the other slide."
+    }
+    DrunkFuchsiaColene = 561
+    SurprisingRoseMartina = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  number RoundPlumLeeann {
+  }
+  DisgustedEmeraldGabbi = false
+  FirmLavenderDrucie = 682
+  BurningCrimsonLeonelle = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

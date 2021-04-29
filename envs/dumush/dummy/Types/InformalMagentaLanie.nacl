@@ -1,0 +1,23 @@
+type dummy.InformalMagentaLanie {
+  annotations {
+    number WeeklyWhiteDesiri {
+    }
+    boolean ShallowBronzeScarlett {
+    }
+  }
+  dummy.InformalTealJosepha ProminentApricotCorissa {
+    GloriousAmethystMidge = 420
+    RunningAquaRoshelle = "I'll tell you what often gets over looked... garden fences."
+    UnawareMoccasinInez = 278
+    WonderfulYellowNessy = false
+    ModernOrangeTiertza = "Why did the kid cross the playground? To get to the other slide."
+    ThoroughFuchsiaLeigh = "Why is Peter Pan always flying? Because he Neverlands."
+    SmilingGreenNixie = {
+      legit = "Why is Peter Pan always flying? Because he Neverlands."
+    }
+    VastMagentaBette = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  WeeklyWhiteDesiri = 534
+  ShallowBronzeScarlett = true
+  _hidden_value = true
+}

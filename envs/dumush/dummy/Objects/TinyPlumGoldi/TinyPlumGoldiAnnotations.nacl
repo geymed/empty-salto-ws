@@ -1,0 +1,52 @@
+type dummy.TinyPlumGoldi {
+  annotations {
+    serviceid DisturbedPlumLetti {
+    }
+    dummy.ArchitecturalSalmonNani GiganticAquamarineGladi {
+    }
+    dummy.SpatialChocolateBrigitta PricklyTomatoJamima {
+    }
+    serviceid PalestinianBronzeKeriann {
+    }
+    serviceid FiscalVioletAveline {
+    }
+    dummy.BasicPeachEvangeline SignificantPeachAudi {
+    }
+    serviceid FewSapphireLizette {
+    }
+    dummy.SolarVioletMarylynne DistinguishedIndigoDarci {
+    }
+    string SpanishJadeBobbi {
+    }
+    boolean GeneticPinkCarrie {
+    }
+    dummy.ArchitecturalSalmonNani FancyIndigoCarmella {
+    }
+    boolean StrongOrangeAurore {
+    }
+    serviceid VerbalCyanHilliary {
+    }
+    dummy.FatAmberCheri WorldwideTurquoiseEvangelina {
+    }
+    dummy.JustAmberPrisca ThunderingAquaAmie {
+    }
+    dummy.SpatialChocolateBrigitta CapableTurquoiseElly {
+    }
+    dummy.GrotesqueScarletKaela DailyAmethystAntonina {
+    }
+  }
+  DisturbedPlumLetti = "Why did the tomato blush? Because it saw the salad dressing."
+  GiganticAquamarineGladi = 857
+  PricklyTomatoJamima = 843
+  PalestinianBronzeKeriann = "To be Frank, I'd have to change my name."
+  FiscalVioletAveline = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  SignificantPeachAudi = file("SolidApricotAmalie.txt")
+  FewSapphireLizette = "Why did the kid cross the playground? To get to the other slide."
+  SpanishJadeBobbi = "I'll tell you what often gets over looked... garden fences."
+  GeneticPinkCarrie = false
+  FancyIndigoCarmella = 402
+  StrongOrangeAurore = true
+  VerbalCyanHilliary = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ThunderingAquaAmie = 193
+  CapableTurquoiseElly = 47
+}

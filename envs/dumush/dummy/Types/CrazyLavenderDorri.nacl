@@ -1,0 +1,24 @@
+type dummy.CrazyLavenderDorri {
+  annotations {
+    dummy.SurprisedScarletMelodie CruelBlackLynne {
+    }
+    number FrightenedPinkCharisse {
+    }
+    dummy.EvolutionaryScarletOlympia CombinedBlackMarris {
+    }
+    dummy.UpsetIvoryAjay BeautifulYellowDeni {
+    }
+    dummy.BewilderedFuchsiaKyle ToughGrayClareta {
+    }
+    dummy.CurvedTanCicely NeighbouringBlueOdelinda {
+    }
+  }
+  string MarineChocolateMonika {
+  }
+  CruelBlackLynne = false
+  FrightenedPinkCharisse = 915
+  CombinedBlackMarris = file("InformalLavenderBetta.txt")
+  BeautifulYellowDeni = false
+  NeighbouringBlueOdelinda = file("WelcomeCyanDaphene.txt")
+  _hidden_value = true
+}

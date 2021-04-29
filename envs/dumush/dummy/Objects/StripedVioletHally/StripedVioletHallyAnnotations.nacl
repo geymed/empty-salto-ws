@@ -1,0 +1,72 @@
+type dummy.StripedVioletHally {
+  annotations {
+    dummy.ArchitecturalSalmonNani CoolMoccasinSuzi {
+    }
+    dummy.DefiantIndigoRenie NastyPlumNaomi {
+    }
+    dummy.YoungMaroonOlivette ComplicatedWhiteSherilyn {
+    }
+    boolean NumerousOliveGiulietta {
+    }
+    dummy.MidVioletKikelia ToughTomatoMerrill {
+    }
+    dummy.RelievedIndigoJobina EstimatedOrangeRebbecca {
+    }
+    string BoilingOliveAnnmaria {
+    }
+    boolean ScreechingBeigeHilda {
+    }
+    dummy.SharpEmeraldBerry JollyAzureDebi {
+    }
+    dummy.CurvedTanCicely CorporateAmethystMaxine {
+    }
+    dummy.AlertWhiteLenee EnthusiasticApricotIseabal {
+    }
+    json UglyTurquoiseVerena {
+    }
+    dummy.SecondaryOliveBethena IntactYellowMariellen {
+    }
+    serviceid HeadGrayWilli {
+    }
+    dummy.ArchitecturalSalmonNani PanickyMagentaLeisha {
+    }
+    string AverageAmethystCaroljean {
+    }
+    string ToughJadeSalomi {
+    }
+    json FluffyGreenMalina {
+    }
+    json AmbitiousIndigoLucie {
+    }
+    boolean LowIndigoCristina {
+    }
+    string FreshVioletRiannon {
+    }
+    dummy.ArchitecturalSalmonNani EncouragingAmberRetha {
+    }
+    dummy.UnchangedAquamarineCarmelia BrokenTomatoJanela {
+    }
+    number ExcellentCopperFaunie {
+    }
+  }
+  CoolMoccasinSuzi = 458
+  NastyPlumNaomi = file("NormalAzureJohna.txt")
+  NumerousOliveGiulietta = false
+  ToughTomatoMerrill = true
+  EstimatedOrangeRebbecca = file("LesserYellowUlrikaumeko.txt")
+  BoilingOliveAnnmaria = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ScreechingBeigeHilda = true
+  CorporateAmethystMaxine = file("HorribleAzureGretta.txt")
+  EnthusiasticApricotIseabal = 902
+  UglyTurquoiseVerena = "What creature is smarter than a talking parrot? A spelling bee."
+  HeadGrayWilli = "Slept like a log last night  woke up in the fireplace."
+  PanickyMagentaLeisha = 680
+  AverageAmethystCaroljean = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ToughJadeSalomi = "Why was it called the dark ages? Because of all the knights. "
+  FluffyGreenMalina = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  AmbitiousIndigoLucie = "Why didnt the skeleton cross the road? Because he had no guts."
+  LowIndigoCristina = false
+  FreshVioletRiannon = "What creature is smarter than a talking parrot? A spelling bee."
+  EncouragingAmberRetha = 850
+  ExcellentCopperFaunie = 989
+}

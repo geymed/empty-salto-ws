@@ -1,0 +1,63 @@
+type dummy.ShallowPinkEssie {
+  annotations {
+    dummy.SpatialChocolateBrigitta LogicalOrangeChristie {
+    }
+    json BoringBronzeCelestina {
+    }
+    dummy.NumerousApricotAllix VivaciousLimeArlette {
+    }
+    dummy.InherentAmberBeth ExtremeYellowCamel {
+    }
+    dummy.ScrawnyBeigeNoni ArmedBlackCorilla {
+    }
+    boolean DullCopperGrace {
+    }
+    boolean BurningApricotClarice {
+    }
+    boolean SuccessiveLimeAbbie {
+    }
+    number AustralianMoccasinEmmi {
+    }
+    string DrivingMaroonPatricia {
+    }
+    number OldIndigoKatharyn {
+    }
+    dummy.StormyTealCharleen AccessibleSapphireMorissa {
+    }
+    serviceid GoldenCopperKarlotta {
+    }
+    dummy.MidVioletKikelia AfraidRoseLivy {
+    }
+    dummy.ConsciousOrangeBernelle DyingCyanAyn {
+    }
+    json ExcitingYellowBrittaney {
+    }
+    dummy.NumerousApricotAllix DeadAmaranthRachele {
+    }
+    dummy.ElderlyAzureDani AccurateVioletRegine {
+    }
+    dummy.UndergroundTurquoiseLynn SilentRedDaniele {
+    }
+    dummy.ProtestantAzureStafani RegulatorySapphireNariko {
+    }
+  }
+  LogicalOrangeChristie = 447
+  BoringBronzeCelestina = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  VivaciousLimeArlette = file("AdorableLimeMelody.txt")
+  ExtremeYellowCamel = 265
+  ArmedBlackCorilla = 137
+  DullCopperGrace = false
+  BurningApricotClarice = false
+  SuccessiveLimeAbbie = false
+  AustralianMoccasinEmmi = 943
+  DrivingMaroonPatricia = "To be Frank, I'd have to change my name."
+  OldIndigoKatharyn = 73
+  AccessibleSapphireMorissa = 562
+  GoldenCopperKarlotta = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  AfraidRoseLivy = false
+  DyingCyanAyn = 601
+  ExcitingYellowBrittaney = "A steak pun is a rare medium well done."
+  DeadAmaranthRachele = file("BeautifulFuchsiaElsey.txt")
+  SilentRedDaniele = false
+  RegulatorySapphireNariko = file("ExcessCoralConstantina.txt")
+}

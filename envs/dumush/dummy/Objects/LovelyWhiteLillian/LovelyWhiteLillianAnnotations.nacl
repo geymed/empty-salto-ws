@@ -1,0 +1,56 @@
+type dummy.LovelyWhiteLillian {
+  annotations {
+    serviceid IntelligentMoccasinJannel {
+    }
+    number PoorApricotRobbie {
+    }
+    dummy.CleverAquamarineTeresita VisitingTealArlinda {
+    }
+    dummy.CorporateAquamarineMary CuriousBlushCathee {
+    }
+    json ColouredChocolateEula {
+    }
+    boolean FriendlyWhiteCyndia {
+    }
+    dummy.ArchitecturalSalmonNani CleverOliveBeret {
+    }
+    json DisturbedAmaranthCherry {
+    }
+    dummy.JustAmberPrisca SplendidOrangeOlwen {
+    }
+    json SheerGrayMaxine {
+    }
+    json LiberalGreenNeilla {
+    }
+    dummy.WeeTanMarcelia BusyTanEdin {
+    }
+    dummy.EvolutionaryScarletOlympia ExcellentMoccasinIsabelle {
+    }
+    dummy.HeadAmberThea GreyAmaranthMeggy {
+    }
+    json SingleApricotAdara {
+    }
+    string PrimeCyanTabbitha {
+    }
+    boolean WrongIvoryIzabel {
+    }
+    number HolyApricotLynna {
+    }
+  }
+  IntelligentMoccasinJannel = "Slept like a log last night  woke up in the fireplace."
+  PoorApricotRobbie = 280
+  CuriousBlushCathee = file("IraqiAquaLonnie.txt")
+  ColouredChocolateEula = "Why do birds fly south for the winter? Because it's too far to walk."
+  FriendlyWhiteCyndia = false
+  CleverOliveBeret = 906
+  DisturbedAmaranthCherry = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SplendidOrangeOlwen = 673
+  SheerGrayMaxine = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  LiberalGreenNeilla = "Why is Peter Pan always flying? Because he Neverlands."
+  BusyTanEdin = true
+  ExcellentMoccasinIsabelle = file("CommunistPinkBobinette.txt")
+  SingleApricotAdara = "A steak pun is a rare medium well done."
+  PrimeCyanTabbitha = "I'll tell you what often gets over looked... garden fences."
+  WrongIvoryIzabel = false
+  HolyApricotLynna = 826
+}

@@ -1,0 +1,62 @@
+type dummy.PlainTanAshely {
+  annotations {
+    dummy.EasySalmonCaterina SuperbPlumMatti {
+    }
+    dummy.SpatialChocolateBrigitta OverseasCoffeeBertina {
+    }
+    json ArabMaroonFlorrie {
+    }
+    serviceid PhilosophicalRedKatti {
+    }
+    dummy.CoolBlushGilbertine StripedFuchsiaMarcella {
+    }
+    boolean SuitableWhiteMercy {
+    }
+    number BizarreMaroonMarylinda {
+    }
+    dummy.ArchitecturalSalmonNani BrightMagentaTommy {
+    }
+    number HelplessLavenderRozanna {
+    }
+    json FrailCrimsonMeghan {
+    }
+    string RottenRoseAili {
+    }
+    number HeavyBrownGlyn {
+    }
+    dummy.StormyBeigeCodee BoldCyanToma {
+    }
+    json TerribleSilverEmlynne {
+    }
+    dummy.SpatialChocolateBrigitta ZealousMoccasinPenelopa {
+    }
+    dummy.ProtestantAzureStafani EvidentBronzeDaron {
+    }
+    dummy.ConsciousOrangeBernelle OutstandingCopperBellanca {
+    }
+    string LivingGreenBerte {
+    }
+    json ImpossibleSapphireJeana {
+    }
+    dummy.CurvedTanCicely NursingCoralCaryl {
+    }
+  }
+  SuperbPlumMatti = file("FoolishWhiteMarcy.txt")
+  OverseasCoffeeBertina = 832
+  ArabMaroonFlorrie = "A steak pun is a rare medium well done."
+  PhilosophicalRedKatti = "Why is Peter Pan always flying? Because he Neverlands."
+  SuitableWhiteMercy = false
+  BizarreMaroonMarylinda = 679
+  BrightMagentaTommy = 928
+  HelplessLavenderRozanna = 953
+  FrailCrimsonMeghan = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  RottenRoseAili = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  HeavyBrownGlyn = 924
+  TerribleSilverEmlynne = "Slept like a log last night  woke up in the fireplace."
+  ZealousMoccasinPenelopa = 494
+  EvidentBronzeDaron = file("InadequateMagentaDawna.txt")
+  OutstandingCopperBellanca = 691
+  LivingGreenBerte = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ImpossibleSapphireJeana = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  NursingCoralCaryl = file("MaximumLavenderRaina.txt")
+}

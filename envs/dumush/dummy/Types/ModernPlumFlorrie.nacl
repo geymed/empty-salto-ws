@@ -1,0 +1,50 @@
+type dummy.ModernPlumFlorrie {
+  annotations {
+    number ExceptionalLimeDulce {
+    }
+    serviceid FreshGreenJenda {
+    }
+    boolean CruelGreenKoo {
+    }
+    json UniformPeachMechelle {
+    }
+    json AcceptableTurquoiseCasey {
+    }
+  }
+  serviceid BlondeBrownMyrilla {
+  }
+  dummy.ConsciousOrangeBernelle GeographicalCoffeeMerl {
+    UpsetCopperQuintana = 51
+    HurtJadeDoralyn = file("RapidBlueBritney.txt")
+    FormidableMagentaFlorry = "What did one nut say as he chased another nut?  I'm a cashew!"
+    AssociatedCrimsonMahalia = file("HugeCoffeeEveleen.txt")
+    ProgressiveTealRickie = true
+  }
+  dummy.WeeTanMarcelia ConfidentialPinkMel {
+  }
+  dummy.ConsciousOrangeBernelle LowChocolateAveril {
+    UpsetCopperQuintana = 573
+    HurtJadeDoralyn = file("SpareBrownWileen.txt")
+    FormidableMagentaFlorry = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    AssociatedCrimsonMahalia = file("WetBeigeCariotta.txt")
+    ProgressiveTealRickie = false
+  }
+  number GrievingGoldAnnecorinne {
+  }
+  dummy.CloseHarlequinJanela BetterTealPaule {
+    MightyPlumAlissa = 348
+    CrazyAmaranthJoann = 162
+    ClassicTurquoiseJoice = 669
+    HelplessCoralEvangeline = true
+  }
+  boolean TenseCopperLucie {
+  }
+  string GrievingOrangeGusta {
+  }
+  ExceptionalLimeDulce = 266
+  FreshGreenJenda = "Why did the tomato blush? Because it saw the salad dressing."
+  CruelGreenKoo = true
+  UniformPeachMechelle = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  AcceptableTurquoiseCasey = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

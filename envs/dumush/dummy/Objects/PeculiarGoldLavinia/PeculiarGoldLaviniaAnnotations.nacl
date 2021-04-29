@@ -1,0 +1,65 @@
+type dummy.PeculiarGoldLavinia {
+  annotations {
+    dummy.SwiftYellowKatleen IrishBrownDniren {
+    }
+    serviceid DistinctiveHarlequinReeta {
+    }
+    boolean PlainTealOlenka {
+    }
+    dummy.CorporateAquamarineMary AbsentIndigoElvera {
+    }
+    number ManagingCyanMurial {
+    }
+    json ShakyPlumWynn {
+    }
+    dummy.ParliamentaryGoldEleen SplendidAmethystDiahann {
+    }
+    json MoralAmberEddi {
+    }
+    boolean DramaticAmethystBel {
+    }
+    dummy.JustAmberPrisca GorgeousAzureJanna {
+    }
+    json OccasionalTealHester {
+    }
+    boolean SteadyBlushGail {
+    }
+    string ManagingWhiteKarleen {
+    }
+    dummy.JustAmberPrisca WorkingBeigeIsabelle {
+    }
+    dummy.ScrawnyBeigeNoni ElectoralTanHollie {
+    }
+    dummy.FrenchEmeraldConcordia HomelyApricotLoraine {
+    }
+    dummy.ScrawnyBeigeNoni UncertainOrangeAli {
+    }
+    dummy.ArchitecturalSalmonNani StupidTomatoIdell {
+    }
+    json SuccessfulAmaranthChelsea {
+    }
+    number ControversialBronzeKaitlyn {
+    }
+    dummy.RelativeSalmonMerrie WideMaroonAnnabal {
+    }
+  }
+  IrishBrownDniren = false
+  DistinctiveHarlequinReeta = "Whoever invented the knock-knock joke should get a no bell prize."
+  PlainTealOlenka = false
+  AbsentIndigoElvera = file("RainyTanDennie.txt")
+  ManagingCyanMurial = 337
+  ShakyPlumWynn = "Why did the tomato blush? Because it saw the salad dressing."
+  SplendidAmethystDiahann = file("StrangeBeigeNatalina.txt")
+  MoralAmberEddi = "What creature is smarter than a talking parrot? A spelling bee."
+  DramaticAmethystBel = false
+  GorgeousAzureJanna = 573
+  OccasionalTealHester = "Slept like a log last night  woke up in the fireplace."
+  SteadyBlushGail = true
+  ManagingWhiteKarleen = "Why was it called the dark ages? Because of all the knights. "
+  WorkingBeigeIsabelle = 809
+  ElectoralTanHollie = 493
+  UncertainOrangeAli = 493
+  StupidTomatoIdell = 297
+  SuccessfulAmaranthChelsea = "Why do birds fly south for the winter? Because it's too far to walk."
+  ControversialBronzeKaitlyn = 285
+}

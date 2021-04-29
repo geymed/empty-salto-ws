@@ -1,0 +1,25 @@
+type dummy.SquareApricotMariya {
+  annotations {
+    dummy.TotalMaroonCaroljean AnnualPeachYettie {
+    }
+    dummy.ScrawnyBeigeNoni InnocentHarlequinDorita {
+    }
+    json OpenJadeBidget {
+    }
+    dummy.ArchitecturalSalmonNani FlatJadeMellisa {
+    }
+  }
+  dummy.GenuineFuchsiaMelli GreatCopperHelenelizabeth {
+    CombinedCyanHilary = 46
+    DramaticAmethystBernita = false
+    SlowVioletEthelin = true
+    RottenLavenderRonica = "To be Frank, I'd have to change my name."
+    DisappointedCoralSheilakathryn = "How come the stadium got hot after the game? Because all of the fans left."
+    WellCrimsonElspeth = file("MagnificentCopperElayne.txt")
+  }
+  AnnualPeachYettie = 610
+  InnocentHarlequinDorita = 731
+  OpenJadeBidget = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  FlatJadeMellisa = 410
+  _hidden_value = true
+}

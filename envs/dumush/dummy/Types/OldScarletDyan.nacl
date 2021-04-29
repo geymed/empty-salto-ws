@@ -1,0 +1,25 @@
+type dummy.OldScarletDyan {
+  annotations {
+    string HappyTurquoiseLegra {
+    }
+    dummy.GiganticIndigoDennie AccurateCrimsonLana {
+    }
+    dummy.SpatialChocolateBrigitta DeliciousRedBlisse {
+    }
+    string MedicalGreenHappy {
+    }
+    dummy.ArchitecturalSalmonNani ExtensiveWhiteShirley {
+    }
+    dummy.InformalTealJosepha StraightCrimsonKatlin {
+    }
+  }
+  json MalePlumChrystal {
+  }
+  HappyTurquoiseLegra = "Dad Im hungry  Hi hungry Im dad"
+  AccurateCrimsonLana = true
+  DeliciousRedBlisse = 869
+  MedicalGreenHappy = "Im only familiar with 25 letters in the English language. I dont know why."
+  ExtensiveWhiteShirley = 397
+  StraightCrimsonKatlin = 877
+  _hidden_value = true
+}

@@ -1,0 +1,57 @@
+type dummy.ImportantScarletAlicia {
+  annotations {
+    dummy.EasySalmonCaterina RainyBeigeCarlotta {
+    }
+    boolean VitalFuchsiaErnestine {
+    }
+    number MassivePinkJuliann {
+    }
+  }
+  dummy.GoodTomatoTeri HappyTanFloris {
+    RegularAzureDori = true
+    MusicalPurpleNana = 930
+    WidePurpleShena = 634
+    ArmedScarletCathrin = 450
+    SmallMagentaKym = false
+    AppropriateBrownMarylin = true
+    OddRedLinnie = 929
+    IllegalLimeAshely = "Im only familiar with 25 letters in the English language. I dont know why."
+    UnemployedBeigeLauree = "A steak pun is a rare medium well done."
+    BoredGrayFenelia = 224
+    ConsiderableSalmonGarnette = 449
+    DepressedAmberAudie = 670
+    OutstandingRedCornela = 463
+    BrightMoccasinMaia = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    EquivalentJadeCaria = "My first time using an elevator was an uplifting experience. The second time let me down."
+    UsualScarletCollie = true
+  }
+  dummy.VaryingVioletHester HappyPeachDeirdre {
+    EqualCoffeeSharl = 820
+    DependentSapphireHalimeda = 386
+    SmartCopperSarina = "Im only familiar with 25 letters in the English language. I dont know why."
+    BottomAmberBethina = "Whoever invented the knock-knock joke should get a no bell prize."
+    ToughBrownLurlene = 647
+  }
+  dummy.FluffyApricotBenoite MagentaBronzeTalyah {
+    PoorYellowSherry = 852
+    TropicalMoccasinBrinn = 39
+  }
+  dummy.ImaginativeTurquoiseElfreda SevereSilverChelsey {
+    UnusualLavenderCecelia = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    PrintedGoldLauralee = "Dad Im hungry  Hi hungry Im dad"
+    CorrespondingFuchsiaAvie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SatisfactoryBlackAdelaida = "Why didnt the skeleton cross the road? Because he had no guts."
+    FilthyTomatoRebecca = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    FrightenedLavenderJasmine = "Why did the kid cross the playground? To get to the other slide."
+  }
+  boolean SweetAquamarineMarilyn {
+  }
+  dummy.FluffyApricotBenoite ThoughtlessVioletGusella {
+    PoorYellowSherry = 101
+    TropicalMoccasinBrinn = 644
+  }
+  RainyBeigeCarlotta = file("UnawareCoralPhilipa.txt")
+  VitalFuchsiaErnestine = true
+  MassivePinkJuliann = 963
+  _hidden_value = true
+}

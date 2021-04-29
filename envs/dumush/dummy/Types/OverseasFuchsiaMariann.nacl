@@ -1,0 +1,35 @@
+type dummy.OverseasFuchsiaMariann {
+  annotations {
+    boolean DirtyApricotTillie {
+    }
+    dummy.FluffyApricotBenoite BraveBronzeGilbertine {
+    }
+    serviceid OutdoorOrangeAmalia {
+    }
+    dummy.JustAmberPrisca BumpyGreenNicoli {
+    }
+    boolean WickedPlumSile {
+    }
+    string NovelLimeMercy {
+    }
+    dummy.SharpEmeraldBerry LooseBlushChantal {
+    }
+  }
+  string StrongBeigeTeodora {
+  }
+  "List<dummy.MidVioletKikelia>" BeautifulPlumIsabelita {
+    ElatedYellowChad = true
+    OpenMoccasinLyda = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    DrunkFuchsiaColene = 407
+    SurprisingRoseMartina = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  DirtyApricotTillie = false
+  BraveBronzeGilbertine = file("SadCyanClarette.txt")
+  OutdoorOrangeAmalia = "What do you call two barracuda fish?  A Pairacuda!"
+  BumpyGreenNicoli = 886
+  WickedPlumSile = true
+  NovelLimeMercy = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

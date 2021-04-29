@@ -1,0 +1,66 @@
+type dummy.QuietCopperMarlo {
+  annotations {
+    string ThickApricotJennine {
+    }
+    dummy.ConsciousOrangeBernelle CurrentRedJena {
+    }
+    dummy.BasicPeachEvangeline StingyLavenderMerrile {
+    }
+    dummy.RealGrayAnaliese UniversalPinkChristen {
+    }
+    boolean FinancialIndigoDevi {
+    }
+    dummy.ScrawnyBeigeNoni DeafRoseAstrid {
+    }
+    dummy.NumerousApricotAllix ChineseGreenCybill {
+    }
+    boolean InternalAquamarineTeresa {
+    }
+    number DizzyOliveJordan {
+    }
+    dummy.TechnologicalSalmonBirdie SunnyRedHoratia {
+    }
+    serviceid GreyVioletAnnora {
+    }
+    number StrangeBlueGabbey {
+    }
+    number MassOliveIlise {
+    }
+    dummy.ImaginativeTurquoiseElfreda UnlikelySilverLeyla {
+    }
+    dummy.RealGrayAnaliese TameLavenderMariquilla {
+    }
+    boolean SlowBlueElka {
+    }
+    json ComprehensiveJadeKirsten {
+    }
+    dummy.GiganticIndigoDennie EnviousAmberMerrilee {
+    }
+    boolean EarlyOliveMarchelle {
+    }
+    dummy.EasySalmonCaterina FreeBlueLivvy {
+    }
+    number JapaneseApricotHilary {
+    }
+  }
+  ThickApricotJennine = "My first time using an elevator was an uplifting experience. The second time let me down."
+  CurrentRedJena = 404
+  StingyLavenderMerrile = file("MiserableSilverMoyra.txt")
+  UniversalPinkChristen = file("SmallApricotFelipa.txt")
+  FinancialIndigoDevi = true
+  DeafRoseAstrid = 839
+  ChineseGreenCybill = file("CorporateJadeDori.txt")
+  InternalAquamarineTeresa = true
+  DizzyOliveJordan = 796
+  GreyVioletAnnora = "What do you do on a remote island? Try and find the TV island it belongs to."
+  StrangeBlueGabbey = 671
+  MassOliveIlise = 321
+  UnlikelySilverLeyla = 802
+  TameLavenderMariquilla = file("EmbarrassedRedBlisse.txt")
+  SlowBlueElka = false
+  ComprehensiveJadeKirsten = "Why was it called the dark ages? Because of all the knights. "
+  EnviousAmberMerrilee = false
+  EarlyOliveMarchelle = true
+  FreeBlueLivvy = file("SevereRoseRow.txt")
+  JapaneseApricotHilary = 517
+}

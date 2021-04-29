@@ -1,0 +1,29 @@
+type dummy.SlipperyIndigoEugenie {
+  annotations {
+    dummy.UpsetIvoryAjay SurprisingBlueSharia {
+    }
+    string VictorianPeachCelesta {
+    }
+    dummy.InherentAmberBeth EmbarrassedTanRyann {
+    }
+    dummy.SolarVioletMarylynne ClinicalJadeJewel {
+    }
+    json FunnyMoccasinArlee {
+    }
+    dummy.RelievedIndigoJobina EvilFuchsiaGabriela {
+    }
+    serviceid InterimYellowJere {
+    }
+  }
+  "List<dummy.FluffyApricotBenoite>" GoverningAmberSusan {
+    PoorYellowSherry = 181
+    TropicalMoccasinBrinn = 447
+  }
+  SurprisingBlueSharia = false
+  VictorianPeachCelesta = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  EmbarrassedTanRyann = 481
+  FunnyMoccasinArlee = "Dad Im hungry  Hi hungry Im dad"
+  EvilFuchsiaGabriela = file("AustralianLimeDrucy.txt")
+  InterimYellowJere = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

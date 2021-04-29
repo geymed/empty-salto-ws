@@ -1,0 +1,33 @@
+type dummy.UglyBlueGinelle {
+  annotations {
+    string BitterPeachBarbey {
+    }
+    boolean NarrowScarletFarand {
+    }
+    number WickedCoffeeLinda {
+    }
+    boolean LiteraryIndigoHenrieta {
+    }
+    serviceid FrailCopperDemetra {
+    }
+    serviceid BlankGreenBab {
+    }
+  }
+  string WhiteVioletMyranda {
+  }
+  dummy.RelativeSalmonMerrie LonelyGoldRowena {
+    CasualVioletGrissel = false
+    StrangeApricotGenni = "Im only familiar with 25 letters in the English language. I dont know why."
+    JudicialPeachTheressa = file("NecessaryGoldSusann.txt")
+    AlrightTurquoiseUlrikaumeko = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    CuriousGoldSandy = true
+    ScottishGreenOndrea = "Slept like a log last night  woke up in the fireplace."
+  }
+  BitterPeachBarbey = "What did one nut say as he chased another nut?  I'm a cashew!"
+  NarrowScarletFarand = false
+  WickedCoffeeLinda = 85
+  LiteraryIndigoHenrieta = true
+  FrailCopperDemetra = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  BlankGreenBab = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

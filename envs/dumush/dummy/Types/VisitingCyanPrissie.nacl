@@ -1,0 +1,22 @@
+type dummy.VisitingCyanPrissie {
+  annotations {
+    dummy.DefiantIndigoRenie SportingBlackJennee {
+    }
+    dummy.GoodTomatoTeri InstitutionalMagentaCatrina {
+    }
+    boolean ImportantLavenderXena {
+    }
+    string InevitableIvoryLetizia {
+    }
+    dummy.ProtestantAzureStafani RaspySalmonChelsae {
+    }
+  }
+  json NaughtyCyanRenee {
+  }
+  SportingBlackJennee = file("AdministrativeRedGrissel.txt")
+  InstitutionalMagentaCatrina = 937
+  ImportantLavenderXena = true
+  InevitableIvoryLetizia = "Why did the kid cross the playground? To get to the other slide."
+  RaspySalmonChelsae = file("LivelySilverJaclyn.txt")
+  _hidden_value = true
+}

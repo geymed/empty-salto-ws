@@ -1,0 +1,10 @@
+type dummy.Permissions {
+  string name {
+  }
+  boolean read {
+  }
+  boolean write {
+  }
+  boolean edit {
+  }
+}

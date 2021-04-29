@@ -1,0 +1,23 @@
+type dummy.AncientCrimsonTillie {
+  annotations {
+    number FairSilverEadith {
+    }
+    dummy.RealGrayAnaliese CompactGrayJanis {
+    }
+    serviceid InadequateTealJamima {
+    }
+    string UglyCoffeeTrisha {
+    }
+    number NovelGreenVina {
+    }
+  }
+  dummy.AlertWhiteLenee SmallRedStephenie {
+    ProudChocolateOfella = true
+  }
+  FairSilverEadith = 126
+  CompactGrayJanis = file("FunnyPeachArleen.txt")
+  InadequateTealJamima = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  UglyCoffeeTrisha = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  NovelGreenVina = 880
+  _hidden_value = true
+}

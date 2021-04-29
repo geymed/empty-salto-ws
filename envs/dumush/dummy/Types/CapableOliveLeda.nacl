@@ -1,0 +1,31 @@
+type dummy.CapableOliveLeda {
+  annotations {
+    dummy.VagueSilverRoxy JustMaroonMinetta {
+    }
+    dummy.SpatialChocolateBrigitta QuietBeigeAstrix {
+    }
+    serviceid DevotedMaroonBunni {
+    }
+    serviceid TameMoccasinKatya {
+    }
+    dummy.RealGrayAnaliese AsianRedDelilah {
+    }
+    dummy.SmoothMaroonKacy MiddleSapphireCoreen {
+    }
+  }
+  serviceid MagicVioletCassandra {
+  }
+  dummy.SmoothMaroonKacy MarvellousCrimsonMalena {
+    AmazingMagentaKay = true
+    ExtensiveAmberFanechka = "What do you call two barracuda fish?  A Pairacuda!"
+    AwkwardBrownJori = "Why is Peter Pan always flying? Because he Neverlands."
+    FrequentBlueLurlene = "A steak pun is a rare medium well done."
+  }
+  boolean BurningTurquoiseChelsey {
+  }
+  QuietBeigeAstrix = 29
+  DevotedMaroonBunni = "What do you call two barracuda fish?  A Pairacuda!"
+  TameMoccasinKatya = "Why didnt the skeleton cross the road? Because he had no guts."
+  AsianRedDelilah = file("CoherentMoccasinLynnell.txt")
+  _hidden_value = true
+}

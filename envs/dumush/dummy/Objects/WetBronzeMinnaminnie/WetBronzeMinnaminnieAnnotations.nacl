@@ -1,0 +1,64 @@
+type dummy.WetBronzeMinnaminnie {
+  annotations {
+    serviceid LargePlumTansy {
+    }
+    string GlamorousIndigoDonella {
+    }
+    dummy.GiganticIndigoDennie BoredSalmonRonnica {
+    }
+    dummy.SharpEmeraldBerry FatalCoralKristi {
+    }
+    dummy.LightTurquoiseDaffy StupidMagentaJulina {
+    }
+    dummy.ArchitecturalSalmonNani LimitedCoffeeBelva {
+    }
+    dummy.RealGrayAnaliese ForeignMagentaJessalin {
+    }
+    dummy.ArchitecturalSalmonNani CuriousBlueDarbie {
+    }
+    string EmpiricalAzureElmira {
+    }
+    serviceid ParallelSapphireVivianna {
+    }
+    json UnexpectedBeigeLyda {
+    }
+    boolean BraveVioletTeena {
+    }
+    dummy.TechnologicalSalmonBirdie AutonomousOrangeRhona {
+    }
+    json AnnualPeachEvania {
+    }
+    number RevolutionaryTurquoiseBelvia {
+    }
+    boolean OldAquamarineStephani {
+    }
+    string WhisperingSapphireSheeree {
+    }
+    dummy.EvolutionaryScarletOlympia AccurateWhitePansie {
+    }
+    dummy.PricklyBlueJanot RidiculousAquamarineClo {
+    }
+    number ColonialGoldScarlet {
+    }
+    json TenderRoseCrin {
+    }
+  }
+  LargePlumTansy = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  GlamorousIndigoDonella = "A steak pun is a rare medium well done."
+  BoredSalmonRonnica = false
+  LimitedCoffeeBelva = 242
+  ForeignMagentaJessalin = file("UnusualBlackKaitlin.txt")
+  CuriousBlueDarbie = 989
+  EmpiricalAzureElmira = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ParallelSapphireVivianna = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  UnexpectedBeigeLyda = "How come the stadium got hot after the game? Because all of the fans left."
+  BraveVioletTeena = true
+  AnnualPeachEvania = "Slept like a log last night  woke up in the fireplace."
+  RevolutionaryTurquoiseBelvia = 510
+  OldAquamarineStephani = false
+  WhisperingSapphireSheeree = "Whoever invented the knock-knock joke should get a no bell prize."
+  AccurateWhitePansie = file("HandicappedBeigeCatharina.txt")
+  RidiculousAquamarineClo = true
+  ColonialGoldScarlet = 129
+  TenderRoseCrin = "Slept like a log last night  woke up in the fireplace."
+}

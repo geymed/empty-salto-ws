@@ -1,0 +1,51 @@
+type dummy.FrozenLavenderKelly {
+  annotations {
+    dummy.MidVioletKikelia ComparableGrayKessiah {
+    }
+    json NumerousBlackMadelyn {
+    }
+    dummy.ProtestantAzureStafani FreshBeigeJoceline {
+    }
+    dummy.MidVioletKikelia PersonalAmethystLorri {
+    }
+    dummy.GiganticIndigoDennie RemoteOliveSuzi {
+    }
+    number FriendlyJadeCatina {
+    }
+    string AnnoyedLimeAntonetta {
+    }
+    string PolishBlueJustina {
+    }
+    dummy.FluffyApricotBenoite ProfitableBlushJosephina {
+    }
+    serviceid WetBlackModestine {
+    }
+    number ConstitutionalYellowErmengarde {
+    }
+    dummy.UpsetIvoryAjay OrganicTanJennine {
+    }
+    json HonestIvoryHillary {
+    }
+    dummy.DesperatePurpleViviene CloudySalmonMirabel {
+    }
+    string RelievedHarlequinMeris {
+    }
+    number ConvenientVioletBecka {
+    }
+  }
+  ComparableGrayKessiah = false
+  NumerousBlackMadelyn = "Why didnt the skeleton cross the road? Because he had no guts."
+  FreshBeigeJoceline = file("StrikingTomatoSherry.txt")
+  PersonalAmethystLorri = true
+  RemoteOliveSuzi = false
+  FriendlyJadeCatina = 297
+  AnnoyedLimeAntonetta = "Why didnt the skeleton cross the road? Because he had no guts."
+  PolishBlueJustina = "I'll tell you what often gets over looked... garden fences."
+  ProfitableBlushJosephina = file("WonderfulTurquoiseKrystyna.txt")
+  WetBlackModestine = "I'll tell you what often gets over looked... garden fences."
+  ConstitutionalYellowErmengarde = 762
+  OrganicTanJennine = true
+  HonestIvoryHillary = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  RelievedHarlequinMeris = "Im only familiar with 25 letters in the English language. I dont know why."
+  ConvenientVioletBecka = 968
+}

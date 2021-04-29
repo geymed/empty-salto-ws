@@ -1,0 +1,76 @@
+type dummy.ImprovedBrownEsma {
+  annotations {
+    json InitialIvoryDemetra {
+    }
+    number GermanApricotAshly {
+    }
+    dummy.SwiftYellowKatleen RollingHarlequinSisile {
+    }
+    string AssistantBrownLexie {
+    }
+    dummy.CloseHarlequinJanela LongIndigoGretal {
+    }
+    dummy.WeeTanMarcelia ForeignAmaranthHali {
+    }
+    number SpectacularApricotMahala {
+    }
+    boolean PanickyIndigoShawna {
+    }
+    number ZealousAmethystAustina {
+    }
+    dummy.MeaningfulIndigoRebeka DecentLavenderSelma {
+    }
+    dummy.CurvedTanCicely InappropriateSalmonOphelie {
+    }
+    dummy.TotalMaroonCaroljean FortunateTealRayna {
+    }
+    json TerritorialSalmonNertie {
+    }
+    json DustyTurquoiseDeb {
+    }
+    dummy.ArchitecturalSalmonNani AssistantPurpleMinnie {
+    }
+    dummy.FluffyApricotBenoite NativeGrayHelyn {
+    }
+    dummy.OuterChocolateXylia QuietBlueAdelle {
+    }
+    number FemaleAmethystHeda {
+    }
+    json DecisiveSalmonFilia {
+    }
+    dummy.MeaningfulIndigoRebeka WelcomeHarlequinAnnmarie {
+    }
+    dummy.FluffyApricotBenoite VictorianTomatoGilberte {
+    }
+    boolean FantasticCrimsonShannon {
+    }
+    dummy.ImaginativeTurquoiseElfreda BoilingPinkEdee {
+    }
+    number HeadHarlequinGrissel {
+    }
+  }
+  InitialIvoryDemetra = "Why did the tomato blush? Because it saw the salad dressing."
+  GermanApricotAshly = 546
+  RollingHarlequinSisile = true
+  AssistantBrownLexie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  LongIndigoGretal = file("TallCyanTalia.txt")
+  ForeignAmaranthHali = true
+  SpectacularApricotMahala = 921
+  PanickyIndigoShawna = false
+  ZealousAmethystAustina = 980
+  DecentLavenderSelma = 890
+  InappropriateSalmonOphelie = file("AggressiveGoldConchita.txt")
+  FortunateTealRayna = 629
+  TerritorialSalmonNertie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DustyTurquoiseDeb = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  AssistantPurpleMinnie = 570
+  NativeGrayHelyn = file("FluffyCrimsonBrunhilda.txt")
+  QuietBlueAdelle = file("LiveCyanElle.txt")
+  FemaleAmethystHeda = 498
+  DecisiveSalmonFilia = "Why did the kid cross the playground? To get to the other slide."
+  WelcomeHarlequinAnnmarie = 376
+  VictorianTomatoGilberte = file("FuzzyHarlequinKatharina.txt")
+  FantasticCrimsonShannon = false
+  BoilingPinkEdee = 388
+  HeadHarlequinGrissel = 933
+}

@@ -1,0 +1,18 @@
+type dummy.ScornfulMaroonCharisse {
+  annotations {
+    dummy.BasicPeachEvangeline MagentaTurquoiseRivy {
+    }
+    serviceid SupremeMoccasinMarje {
+    }
+    dummy.CloseHarlequinJanela VividGrayFelice {
+    }
+    dummy.LightTurquoiseDaffy SuperiorGoldGoldarina {
+    }
+  }
+  string GradualIndigoGerrie {
+  }
+  MagentaTurquoiseRivy = file("ProudSapphireDixie.txt")
+  SupremeMoccasinMarje = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  VividGrayFelice = file("GayPinkRoxi.txt")
+  _hidden_value = true
+}

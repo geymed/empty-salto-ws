@@ -1,0 +1,48 @@
+type dummy.AliveHarlequinGlory {
+  annotations {
+    dummy.CloseHarlequinJanela FuzzyWhiteJorrie {
+    }
+    boolean IndianBrownDania {
+    }
+    dummy.GiganticIndigoDennie DistinctiveHarlequinSilvia {
+    }
+    dummy.FluffyApricotBenoite InstantMaroonCandi {
+    }
+    dummy.JustGreenShayna EquivalentIvoryMartina {
+    }
+    boolean UniqueCopperDatha {
+    }
+    serviceid UnfairRoseMarty {
+    }
+    dummy.ConsciousOrangeBernelle CalmLimeSammy {
+    }
+    string BeautifulSalmonDinnie {
+    }
+    serviceid DelightfulLavenderWendy {
+    }
+    number DampBeigeAndriana {
+    }
+    string UpsetRoseAdrea {
+    }
+    boolean UsualWhiteMadonna {
+    }
+    json DefeatedAmethystDarrelle {
+    }
+    dummy.RealGrayAnaliese FederalVioletRhetta {
+    }
+  }
+  FuzzyWhiteJorrie = file("ValuableBrownGratiana.txt")
+  IndianBrownDania = false
+  DistinctiveHarlequinSilvia = false
+  InstantMaroonCandi = file("SubstantialAmethystMarilyn.txt")
+  UniqueCopperDatha = true
+  UnfairRoseMarty = "Dad Im hungry  Hi hungry Im dad"
+  CalmLimeSammy = 879
+  BeautifulSalmonDinnie = "Slept like a log last night  woke up in the fireplace."
+  DelightfulLavenderWendy = "A steak pun is a rare medium well done."
+  DampBeigeAndriana = 803
+  UpsetRoseAdrea = "What do you call two barracuda fish?  A Pairacuda!"
+  UsualWhiteMadonna = true
+  DefeatedAmethystDarrelle = "Did you know that protons have mass? I didn't even know they were catholic."
+  FederalVioletRhetta = file("HolyAquamarineMalia.txt")
+}

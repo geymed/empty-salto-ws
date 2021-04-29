@@ -1,0 +1,63 @@
+type dummy.NegativeChocolateGusta {
+  annotations {
+    number GentlePeachMichele {
+    }
+    dummy.ConsciousOrangeBernelle NarrowRoseDavine {
+    }
+    number CrookedBronzeAllegra {
+    }
+    boolean MarxistCyanBrynn {
+    }
+    dummy.CloseHarlequinJanela EmotionalBlackSherilyn {
+    }
+    dummy.OkCoffeeJanessa FondTealAnneliese {
+    }
+    serviceid HugeOrangeStephie {
+    }
+    dummy.MeaningfulIndigoRebeka OrangeFuchsiaDamara {
+    }
+    dummy.UpsetIvoryAjay NetChocolateGussi {
+    }
+    string PriorPurpleGisela {
+    }
+    serviceid BrightCoralLeigh {
+    }
+    json SpecifiedAzureGeralda {
+    }
+    boolean CollectivePinkIngaberg {
+    }
+    dummy.UpsetIvoryAjay RoastedBlushCrissy {
+    }
+    json HorizontalPlumBerrie {
+    }
+    number PoliticalApricotCharlotte {
+    }
+    string DeterminedTurquoiseLorinda {
+    }
+    dummy.SweetCoralCarlynne ManagingAzureLouella {
+    }
+    dummy.CircularAmaranthAnnmarie RoundBlackDagmar {
+    }
+    dummy.ExceptionalBlushBeverly DifficultScarletKerrie {
+    }
+    boolean HomelyBlueMirabelle {
+    }
+  }
+  GentlePeachMichele = 29
+  NarrowRoseDavine = 542
+  CrookedBronzeAllegra = 369
+  MarxistCyanBrynn = true
+  EmotionalBlackSherilyn = file("ContentBlackGretna.txt")
+  HugeOrangeStephie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  OrangeFuchsiaDamara = 479
+  NetChocolateGussi = false
+  PriorPurpleGisela = "Did you know that protons have mass? I didn't even know they were catholic."
+  BrightCoralLeigh = "A steak pun is a rare medium well done."
+  SpecifiedAzureGeralda = "Why did the tomato blush? Because it saw the salad dressing."
+  CollectivePinkIngaberg = true
+  RoastedBlushCrissy = false
+  HorizontalPlumBerrie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  PoliticalApricotCharlotte = 291
+  DeterminedTurquoiseLorinda = "Did you know that protons have mass? I didn't even know they were catholic."
+  HomelyBlueMirabelle = true
+}

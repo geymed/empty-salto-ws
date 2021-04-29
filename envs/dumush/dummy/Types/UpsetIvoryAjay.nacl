@@ -1,0 +1,22 @@
+type dummy.UpsetIvoryAjay is boolean {
+  annotations {
+    number UniqueIndigoAnallise {
+    }
+    dummy.JustAmberPrisca ApplicableTealKeelia {
+    }
+    dummy.RealGrayAnaliese FarSalmonKorney {
+    }
+    string BeautifulYellowLisetta {
+    }
+    dummy.ScrawnyBeigeNoni InappropriateApricotDidi {
+    }
+    json AllegedMaroonCharmine {
+    }
+  }
+  UniqueIndigoAnallise = 3
+  ApplicableTealKeelia = 125
+  FarSalmonKorney = file("InlandGreenSarene.txt")
+  BeautifulYellowLisetta = "Why didnt the skeleton cross the road? Because he had no guts."
+  InappropriateApricotDidi = 925
+  AllegedMaroonCharmine = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+}

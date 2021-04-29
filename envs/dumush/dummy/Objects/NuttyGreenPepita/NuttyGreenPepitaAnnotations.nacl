@@ -1,0 +1,57 @@
+type dummy.NuttyGreenPepita {
+  annotations {
+    dummy.BasicPeachEvangeline SurroundingCyanHanna {
+    }
+    dummy.CloseHarlequinJanela IndirectGoldCarolynn {
+    }
+    dummy.SpatialChocolateBrigitta IcySalmonJohnath {
+    }
+    dummy.MeaningfulIndigoRebeka ExoticWhiteDenyse {
+    }
+    dummy.GenuineFuchsiaMelli CruelHarlequinCristal {
+    }
+    string SupportingBeigeJustine {
+    }
+    boolean FunAmethystJanella {
+    }
+    dummy.EvolutionaryScarletOlympia UndergroundFuchsiaLauri {
+    }
+    dummy.FatTanNeille ProtestantMaroonIanthe {
+    }
+    boolean FaithfulAquaLetta {
+    }
+    json WiseAquaMicky {
+    }
+    serviceid GradualWhiteKelly {
+    }
+    dummy.WhisperingSalmonMaiga BlindMagentaCorissa {
+    }
+    dummy.GoodTomatoTeri SystematicCoffeeFaustine {
+    }
+    json WonderfulTanGrazia {
+    }
+    boolean PlasticYellowKrystal {
+    }
+    dummy.ArchitecturalSalmonNani MolecularGreenAnnabell {
+    }
+    dummy.ScrawnyBeigeNoni InternalLimeCorina {
+    }
+    dummy.WrittenFuchsiaAlvinia AboveCrimsonAgna {
+    }
+  }
+  SurroundingCyanHanna = file("ProperAzureEmlyn.txt")
+  IndirectGoldCarolynn = file("ObedientPlumMab.txt")
+  IcySalmonJohnath = 721
+  ExoticWhiteDenyse = 739
+  SupportingBeigeJustine = "Im only familiar with 25 letters in the English language. I dont know why."
+  FunAmethystJanella = false
+  UndergroundFuchsiaLauri = file("ConvincingGrayTatum.txt")
+  FaithfulAquaLetta = true
+  WiseAquaMicky = "Whoever invented the knock-knock joke should get a no bell prize."
+  GradualWhiteKelly = "Did you know that protons have mass? I didn't even know they were catholic."
+  SystematicCoffeeFaustine = 962
+  WonderfulTanGrazia = "To be Frank, I'd have to change my name."
+  PlasticYellowKrystal = false
+  MolecularGreenAnnabell = 912
+  InternalLimeCorina = 38
+}

@@ -1,0 +1,63 @@
+type dummy.QuietLimeDrona {
+  annotations {
+    dummy.DefiantIndigoRenie FrequentCyanTina {
+    }
+    dummy.CurvedTanCicely TallAmethystTerrie {
+    }
+    boolean SimilarIvoryNoellyn {
+    }
+    dummy.StormyBeigeCodee LengthyIvoryKaralynn {
+    }
+    dummy.JustAmberPrisca DeadBronzeOllie {
+    }
+    boolean AgreeableMaroonCody {
+    }
+    dummy.BasicPeachEvangeline QuaintAquaJacki {
+    }
+    dummy.ScrawnyBeigeNoni SuccessfulGrayCarrissa {
+    }
+    number StraightPeachNoreen {
+    }
+    dummy.SuccessfulSalmonAdrianne WorriedLavenderOdelinda {
+    }
+    dummy.OuterChocolateXylia BitterFuchsiaHarri {
+    }
+    number IncreasingOrangeRene {
+    }
+    dummy.BasicPeachEvangeline CoolTanLura {
+    }
+    dummy.CuriousIvoryJanet MightyPurpleBillie {
+    }
+    json DullTealBetteann {
+    }
+    string ZanyApricotGayleen {
+    }
+    dummy.GrievingEmeraldMerlina OpenBlushRachel {
+    }
+    string ManyCoralCarlita {
+    }
+    dummy.JustAmberPrisca DifficultPurpleMyrtia {
+    }
+    number WickedBlueMallory {
+    }
+    boolean SplendidFuchsiaHermia {
+    }
+  }
+  FrequentCyanTina = file("MalePeachIsabella.txt")
+  TallAmethystTerrie = file("TinyYellowMathilda.txt")
+  SimilarIvoryNoellyn = true
+  DeadBronzeOllie = 811
+  AgreeableMaroonCody = false
+  QuaintAquaJacki = file("NoisyMaroonJanot.txt")
+  SuccessfulGrayCarrissa = 261
+  StraightPeachNoreen = 802
+  BitterFuchsiaHarri = file("JitteryCoralFanni.txt")
+  IncreasingOrangeRene = 712
+  CoolTanLura = file("JustAquamarineOlivia.txt")
+  DullTealBetteann = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ZanyApricotGayleen = "Why didnt the skeleton cross the road? Because he had no guts."
+  ManyCoralCarlita = "How come the stadium got hot after the game? Because all of the fans left."
+  DifficultPurpleMyrtia = 237
+  WickedBlueMallory = 460
+  SplendidFuchsiaHermia = true
+}

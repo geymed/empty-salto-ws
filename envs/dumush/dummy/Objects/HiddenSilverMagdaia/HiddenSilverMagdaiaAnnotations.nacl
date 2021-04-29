@@ -1,0 +1,66 @@
+type dummy.HiddenSilverMagdaia {
+  annotations {
+    string CoastalSalmonCarita {
+    }
+    dummy.DefiantIndigoRenie IdealTurquoiseJasmine {
+    }
+    dummy.BasicPeachEvangeline BizarreBlueAyn {
+    }
+    dummy.InformalMagentaLanie ResidentScarletEmelda {
+    }
+    json WrittenApricotOdette {
+    }
+    dummy.WeeTanMarcelia FairCoffeeGenevieve {
+    }
+    dummy.ProtestantAzureStafani DrunkCoffeeMerle {
+    }
+    number ShallowSilverHoney {
+    }
+    dummy.SpatialChocolateBrigitta EasternBlueVitoria {
+    }
+    json FundamentalTanLucita {
+    }
+    serviceid HeavyTanLyndel {
+    }
+    json BloodyCopperDaniella {
+    }
+    dummy.ConsciousOrangeBernelle RelievedTanNaomi {
+    }
+    json NaughtyBronzeLindsay {
+    }
+    dummy.UndergroundTurquoiseLynn WearyIvoryXaviera {
+    }
+    string YoungApricotCilka {
+    }
+    number FilthyWhiteSybil {
+    }
+    number UnusualAquaFidelia {
+    }
+    boolean SpecialGreenJamima {
+    }
+    number CalmSalmonDenna {
+    }
+    json MechanicalSapphireLiesa {
+    }
+  }
+  CoastalSalmonCarita = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  IdealTurquoiseJasmine = file("ChemicalFuchsiaJackqueline.txt")
+  BizarreBlueAyn = file("GrimSilverRasla.txt")
+  WrittenApricotOdette = "I'll tell you what often gets over looked... garden fences."
+  FairCoffeeGenevieve = true
+  DrunkCoffeeMerle = file("PaleBeigeMarsha.txt")
+  ShallowSilverHoney = 161
+  EasternBlueVitoria = 524
+  FundamentalTanLucita = "How come the stadium got hot after the game? Because all of the fans left."
+  HeavyTanLyndel = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  BloodyCopperDaniella = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  RelievedTanNaomi = 924
+  NaughtyBronzeLindsay = "What did one nut say as he chased another nut?  I'm a cashew!"
+  WearyIvoryXaviera = false
+  YoungApricotCilka = "Dad Im hungry  Hi hungry Im dad"
+  FilthyWhiteSybil = 743
+  UnusualAquaFidelia = 443
+  SpecialGreenJamima = true
+  CalmSalmonDenna = 464
+  MechanicalSapphireLiesa = "Did you hear the joke about the wandering nun? She was a roman catholic."
+}

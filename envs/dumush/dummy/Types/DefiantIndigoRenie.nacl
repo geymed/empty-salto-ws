@@ -1,0 +1,25 @@
+type dummy.DefiantIndigoRenie is string {
+  annotations {
+    dummy.UndergroundTurquoiseLynn SensibleCopperAlysa {
+    }
+    serviceid ScreechingBlueAntonietta {
+    }
+    dummy.RealGrayAnaliese IdenticalMaroonRodie {
+    }
+    json PayableCrimsonLina {
+    }
+    dummy.UpsetIvoryAjay SecureAquaJoby {
+    }
+    json AlliedIndigoBerget {
+    }
+    boolean EnvironmentalTealSalaidh {
+    }
+  }
+  SensibleCopperAlysa = true
+  ScreechingBlueAntonietta = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  IdenticalMaroonRodie = file("WillingCoffeeGlynda.txt")
+  PayableCrimsonLina = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  SecureAquaJoby = true
+  AlliedIndigoBerget = "To be Frank, I'd have to change my name."
+  EnvironmentalTealSalaidh = true
+}

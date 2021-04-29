@@ -1,0 +1,28 @@
+type dummy.ColonialIndigoChristyna {
+  annotations {
+    string RisingJadeChiquia {
+    }
+    dummy.FluffyApricotBenoite BasicTurquoiseMarabel {
+    }
+    boolean FixedMoccasinArda {
+    }
+    dummy.FluffyApricotBenoite ElectricalPurpleRebeca {
+    }
+    json PerfectSilverHelga {
+    }
+    dummy.ProtestantAzureStafani GreyBlackMil {
+    }
+    boolean FlexiblePeachMarquita {
+    }
+  }
+  json SoftChocolateGarland {
+  }
+  RisingJadeChiquia = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  BasicTurquoiseMarabel = file("BadGreenMinta.txt")
+  FixedMoccasinArda = true
+  ElectricalPurpleRebeca = file("TameRedMinda.txt")
+  PerfectSilverHelga = "What creature is smarter than a talking parrot? A spelling bee."
+  GreyBlackMil = file("DevelopedIvoryMargie.txt")
+  FlexiblePeachMarquita = true
+  _hidden_value = true
+}

@@ -1,0 +1,40 @@
+type dummy.PetiteCoffeeBebe {
+  annotations {
+    dummy.JustAmberPrisca SilentRoseMarie {
+    }
+    dummy.RealGrayAnaliese CausalRoseAlexis {
+    }
+    number PhilosophicalWhiteHelge {
+    }
+    json MinimumApricotElsy {
+    }
+    dummy.RealGrayAnaliese WoodenLimeOneida {
+    }
+  }
+  boolean IraqiTealMinnie {
+  }
+  dummy.SmoothMaroonKacy CurrentGoldHarmony {
+    AmazingMagentaKay = true
+    ExtensiveAmberFanechka = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    AwkwardBrownJori = "How come the stadium got hot after the game? Because all of the fans left."
+    FrequentBlueLurlene = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  string ConventionalBlushChandra {
+  }
+  string WickedMaroonPhyllis {
+  }
+  dummy.MidVioletKikelia CuriousTealMarieann {
+    ElatedYellowChad = true
+    OpenMoccasinLyda = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    DrunkFuchsiaColene = 737
+    SurprisingRoseMartina = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  SilentRoseMarie = 595
+  CausalRoseAlexis = file("NuttyApricotEnrichetta.txt")
+  PhilosophicalWhiteHelge = 874
+  MinimumApricotElsy = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  WoodenLimeOneida = file("SurprisedCoffeeKaterine.txt")
+  _hidden_value = true
+}

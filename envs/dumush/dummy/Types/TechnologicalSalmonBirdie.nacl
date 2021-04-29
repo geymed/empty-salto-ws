@@ -1,0 +1,21 @@
+type dummy.TechnologicalSalmonBirdie {
+  annotations {
+    number ImpossibleBeigeJanella {
+    }
+    json QuickCyanJohannah {
+    }
+    string TamePinkDorree {
+    }
+    string EssentialSalmonPhedra {
+    }
+    dummy.SubsequentTurquoiseNari FullGreenDorena {
+    }
+  }
+  number DifficultHarlequinJaneva {
+  }
+  ImpossibleBeigeJanella = 115
+  QuickCyanJohannah = "Why didnt the skeleton cross the road? Because he had no guts."
+  TamePinkDorree = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  EssentialSalmonPhedra = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

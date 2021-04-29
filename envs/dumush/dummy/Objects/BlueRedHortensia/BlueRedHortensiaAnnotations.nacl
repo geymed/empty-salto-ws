@@ -1,0 +1,57 @@
+type dummy.BlueRedHortensia {
+  annotations {
+    dummy.CurvedTanCicely WoodenFuchsiaAurea {
+    }
+    dummy.BasicPeachEvangeline HilariousMagentaJoela {
+    }
+    number SupportingCyanDorena {
+    }
+    boolean RelievedCopperCathrine {
+    }
+    json UglyLavenderShawnee {
+    }
+    json UsualChocolateCherianne {
+    }
+    number ModestEmeraldBea {
+    }
+    dummy.WearyCyanFanchon DelightedVioletEmmalynn {
+    }
+    json SadAmethystDevin {
+    }
+    dummy.UpsetIvoryAjay MinisterialAmberSherill {
+    }
+    serviceid MammothAmethystEsmeralda {
+    }
+    json DiverseMaroonVilhelmina {
+    }
+    string MissingRedMichaeline {
+    }
+    dummy.SpatialChocolateBrigitta PromisingBlackAnnmarie {
+    }
+    dummy.ArchitecturalSalmonNani AccurateCrimsonBlakelee {
+    }
+    dummy.JustAmberPrisca ConsistentTanDianemarie {
+    }
+    dummy.GiganticIndigoDennie ArchitecturalAquamarineEmilia {
+    }
+    dummy.FluffyApricotBenoite FascinatingApricotNadean {
+    }
+  }
+  WoodenFuchsiaAurea = file("BlushingBrownFarrah.txt")
+  HilariousMagentaJoela = file("PerfectLimeLynnet.txt")
+  SupportingCyanDorena = 312
+  RelievedCopperCathrine = false
+  UglyLavenderShawnee = "What do you call two barracuda fish?  A Pairacuda!"
+  UsualChocolateCherianne = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ModestEmeraldBea = 28
+  SadAmethystDevin = "Why did the tomato blush? Because it saw the salad dressing."
+  MinisterialAmberSherill = true
+  MammothAmethystEsmeralda = "Why is Peter Pan always flying? Because he Neverlands."
+  DiverseMaroonVilhelmina = "Slept like a log last night  woke up in the fireplace."
+  MissingRedMichaeline = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  PromisingBlackAnnmarie = 900
+  AccurateCrimsonBlakelee = 171
+  ConsistentTanDianemarie = 809
+  ArchitecturalAquamarineEmilia = true
+  FascinatingApricotNadean = file("AwfulAquamarineRosene.txt")
+}

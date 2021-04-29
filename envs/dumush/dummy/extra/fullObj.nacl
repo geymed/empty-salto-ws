@@ -1,0 +1,14 @@
+type dummy.Full {
+  annotations {
+    string strAnno {
+    }
+    number numAnno {
+    }
+  }
+  string strField {
+  }
+  number numField {
+  }
+  strAnno = "ANNO"
+  numAnno = 12
+}
