@@ -1,8 +1,0 @@
-type dummy.PrimWithAnnos is string {
-  annotations {
-    hidden_string SharedHidden {
-    }
-    hidden_string DiffHidden {
-    }
-  }
-}

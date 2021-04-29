@@ -1,9 +1,0 @@
-type dummy.Partial {
-  annotations {
-    string strAnno {
-    }
-  }
-  string strField {
-  }
-  strAnno = "ANNO"
-}

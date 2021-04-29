@@ -1,4 +1,0 @@
-type dummy.DEFAULT {
-  string legit {
-  }
-}
