@@ -1,7 +1,2 @@
-afaaafafasddsd
-<<<<<<< HEAD
-This is my change
-=======
-
-This is a second change
->>>>>>> bo
+NEw one
+merge 11
