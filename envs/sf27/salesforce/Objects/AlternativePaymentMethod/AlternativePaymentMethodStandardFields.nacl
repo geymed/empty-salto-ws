@@ -1,0 +1,35 @@
+type salesforce.AlternativePaymentMethod {
+  salesforce.Lookup AccountId {
+    apiName = "AlternativePaymentMethod.AccountId"
+  }
+  string AuditEmail {
+  }
+  string Comments {
+  }
+  string CompanyName {
+  }
+  string Email {
+  }
+  string GatewayToken {
+  }
+  string GatewayTokenDetails {
+  }
+  string IpAddress {
+  }
+  string MacAddress {
+  }
+  string NickName {
+  }
+  salesforce.Lookup OwnerId {
+    apiName = "AlternativePaymentMethod.OwnerId"
+  }
+  salesforce.Lookup PaymentGatewayId {
+    apiName = "AlternativePaymentMethod.PaymentGatewayId"
+  }
+  string Phone {
+  }
+  string ProcessingMode {
+  }
+  string Status {
+  }
+}

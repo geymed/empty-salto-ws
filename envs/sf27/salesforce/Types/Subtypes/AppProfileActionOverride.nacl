@@ -1,0 +1,126 @@
+type salesforce.AppProfileActionOverride {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  string actionName {
+  }
+  string content {
+    foreignKeyDomain = [
+      salesforce.LightningPage,
+    ]
+  }
+  string formFactor {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Large",
+        "Medium",
+        "Small",
+      ]
+    }
+  }
+  string pageOrSobjectType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Account",
+        "AlternativePaymentMethod",
+        "Asset",
+        "AssetAction",
+        "AssetActionSource",
+        "AssetRelationship",
+        "AssetStatePeriod",
+        "Campaign",
+        "CampaignMember",
+        "CardPaymentMethod",
+        "Case",
+        "CollaborationGroup",
+        "CommSubscription",
+        "CommSubscriptionChannelType",
+        "CommSubscriptionConsent",
+        "CommSubscriptionTiming",
+        "Contact",
+        "ContactRequest",
+        "ContentDocument",
+        "Contract",
+        "DigitalWallet",
+        "EngagementChannelType",
+        "EnhancedLetterhead",
+        "Event",
+        "Individual",
+        "Lead",
+        "LegalEntity",
+        "MessagingEndUser",
+        "MessagingSession",
+        "NewObjectBabe__c",
+        "NewObjectBabi__c",
+        "NewObjectName__c",
+        "Note",
+        "Opportunity",
+        "OpportunityLineItem",
+        "Order",
+        "OrderItem",
+        "PartyConsent",
+        "Payment",
+        "PaymentAuthAdjustment",
+        "PaymentAuthorization",
+        "PaymentGateway",
+        "PaymentGatewayLog",
+        "Pricebook2",
+        "PricebookEntry",
+        "ProcessException",
+        "ProcessInstanceStep",
+        "ProcessInstanceWorkitem",
+        "Product2",
+        "Refund",
+        "RefundLinePayment",
+        "Scorecard",
+        "ScorecardAssociation",
+        "ScorecardMetric",
+        "SocialPersona",
+        "Task",
+        "User",
+        "standard-home",
+        "standard-mailapp",
+      ]
+    }
+    foreignKeyDomain = [
+      "CustomObject",
+    ]
+  }
+  string recordType {
+    foreignKeyDomain = [
+      salesforce.RecordType,
+    ]
+  }
+  string type {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Default",
+        "Flexipage",
+        "LightningComponent",
+        "Scontrol",
+        "Standard",
+        "Visualforce",
+      ]
+    }
+  }
+  string profile {
+    foreignKeyDomain = [
+      "Profile",
+    ]
+  }
+  metadataType = "AppProfileActionOverride"
+}

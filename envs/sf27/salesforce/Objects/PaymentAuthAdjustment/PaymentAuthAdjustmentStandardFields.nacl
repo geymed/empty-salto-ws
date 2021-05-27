@@ -1,0 +1,42 @@
+type salesforce.PaymentAuthAdjustment {
+  salesforce.Lookup AccountId {
+    apiName = "PaymentAuthAdjustment.AccountId"
+  }
+  string Amount {
+  }
+  string Comments {
+  }
+  string Date {
+  }
+  string EffectiveDate {
+  }
+  string Email {
+  }
+  string GatewayDate {
+  }
+  string GatewayRefDetails {
+  }
+  string GatewayRefNumber {
+  }
+  string GatewayResultCode {
+  }
+  string GatewayResultCodeDescription {
+  }
+  string IpAddress {
+  }
+  string MacAddress {
+  }
+  salesforce.MasterDetail PaymentAuthorizationId {
+    apiName = "PaymentAuthAdjustment.PaymentAuthorizationId"
+  }
+  string Phone {
+  }
+  string ProcessingMode {
+  }
+  string SfResultCode {
+  }
+  string Status {
+  }
+  string Type {
+  }
+}

@@ -1,0 +1,45 @@
+type salesforce.MktDataModelFieldAttributes {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  string definitionCreationType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Bridge",
+        "Custom",
+        "Derived",
+        "Standard",
+        "System",
+      ]
+    }
+  }
+  string invalidMergeActionType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Drop",
+        "Keep",
+        "Override",
+      ]
+    }
+  }
+  boolean isDynamicLookup {
+  }
+  number primaryIndexOrder {
+  }
+  string refAttrDeveloperName {
+  }
+  metadataType = "MktDataModelFieldAttributes"
+}

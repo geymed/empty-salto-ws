@@ -1,0 +1,112 @@
+type salesforce.AnimationRule {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  serviceid fullName {
+  }
+  string animationFrequency {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "always",
+        "often",
+        "rarely",
+        "sometimes",
+      ]
+    }
+  }
+  string developerName {
+  }
+  boolean isActive {
+  }
+  string masterLabel {
+  }
+  string recordTypeContext {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "All",
+        "Custom",
+        "Master",
+      ]
+    }
+  }
+  string recordTypeName {
+  }
+  string sobjectType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Account",
+        "Campaign",
+        "Case",
+        "Contact",
+        "Contract",
+        "Lead",
+        "NewObjectBabe__c",
+        "NewObjectBabi__c",
+        "NewObjectName__c",
+        "Opportunity",
+        "Order",
+        "ProcessException",
+      ]
+    }
+    foreignKeyDomain = [
+      "CustomObject",
+    ]
+  }
+  string targetField {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "AccountSource",
+        "Active__c",
+        "Category",
+        "CustomerPriority__c",
+        "DeliveryInstallationStatus__c",
+        "ForecastCategoryName",
+        "Industry",
+        "LeadSource",
+        "Level__c",
+        "Ownership",
+        "PotentialLiability__c",
+        "Primary__c",
+        "Priority",
+        "ProductInterest__c",
+        "Product__c",
+        "Rating",
+        "SLAViolation__c",
+        "SLA__c",
+        "Severity",
+        "StageName",
+        "Status",
+        "Type",
+        "UpsellOpportunity__c",
+        "aaaman__c",
+      ]
+    }
+    foreignKeyDomain = [
+      salesforce.CustomField,
+    ]
+  }
+  string targetFieldChangeToValues {
+  }
+  string internalId {
+    _hidden_value = true
+    localOnly = true
+  }
+  suffix = "animationRule"
+  dirName = "animationRules"
+  metadataType = "AnimationRule"
+}

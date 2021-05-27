@@ -1,0 +1,10 @@
+salesforce.Role CDO {
+  fullName = "CDO"
+  caseAccessLevel = "Edit"
+  contactAccessLevel = "Edit"
+  description = "CDOhn"
+  mayForecastManagerShare = false
+  name = "CDO"
+  opportunityAccessLevel = "Edit"
+  parentRole = salesforce.Role.instance.CEO
+}
