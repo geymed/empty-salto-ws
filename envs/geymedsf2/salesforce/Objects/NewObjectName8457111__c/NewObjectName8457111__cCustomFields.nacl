@@ -1,0 +1,26 @@
+type salesforce.NewObjectName8457111__c {
+  salesforce.Text Alpha__c {
+    apiName = "NewObjectName8457111__c.Alpha__c"
+    label = "Alpha"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    length = 80
+    queryable = true
+    externalId = false
+    trackTrending = false
+  }
+  salesforce.Text Modified__c {
+    apiName = "NewObjectName8457111__c.Modified__c"
+    externalId = false
+    label = "Beta"
+    length = 80
+    trackTrending = false
+    unique = false
+    queryable = false
+    updateable = false
+    createable = false
+    _hidden_value = true
+  }
+}

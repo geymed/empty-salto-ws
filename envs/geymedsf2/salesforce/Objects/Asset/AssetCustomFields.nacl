@@ -1,0 +1,14 @@
+type salesforce.Asset {
+  salesforce.Text gilad__c {
+    apiName = "Asset.gilad__c"
+    label = "gilad"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    length = 6
+    queryable = true
+    externalId = false
+    trackHistory = "false"
+  }
+}
