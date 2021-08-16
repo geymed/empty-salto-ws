@@ -10,7 +10,7 @@ salesforce.DuplicateRule Account_Standard_Account_Duplicate_Rule@vuuu {
       matchingRule = "Standard_Account_Match_Rule_v1_0"
     },
   ]
-  isActive = true
+  isActive = false
   masterLabel = "Standard Account Duplicate Rule"
   operationsOnInsert = [
     "Alert",
