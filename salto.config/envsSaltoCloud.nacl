@@ -1,8 +1,13 @@
 envs {
   envsCloud = [
     {
+<<<<<<< HEAD
       uuid = "9a8a3a49-cf81-4a80-a2a9-a0c8d0bc0021"
       folderName = "geymedsf2"
+=======
+      uuid = "7db05d09-594d-4afe-9d7d-edb11337b497"
+      folderName = "dum"
+>>>>>>> 38970b9 (Salto initial commit)
     },
   ]
 }
