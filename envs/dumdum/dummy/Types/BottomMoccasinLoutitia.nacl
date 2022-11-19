@@ -1,0 +1,27 @@
+type dummy.BottomMoccasinLoutitia {
+  annotations {
+    dummy.CommonBronzeConstantine OrangeWhiteVinny {
+    }
+    string EconomicBlushClare {
+    }
+    dummy.BrightTomatoTamara AmericanBronzeCorrianne2 {
+    }
+    serviceid SmartPeachMarj {
+    }
+    hidden_boolean SquareAmberAlvinia {
+    }
+    hidden_boolean HissingApricotAnnmarie {
+    }
+    json ArchitecturalRosePatrica2 {
+    }
+  }
+  number DueCopperDosi {
+    _hidden_value = true
+  }
+  OrangeWhiteVinny = 563
+  EconomicBlushClare = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  AmericanBronzeCorrianne2 = 102
+  SmartPeachMarj = "How come the stadium got hot after the game? Because all of the fans left."
+  ArchitecturalRosePatrica2 = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

@@ -1,0 +1,78 @@
+type dummy.TiredGoldGretal3 {
+  annotations {
+    serviceid MarkedMagentaLaura2 {
+    }
+    serviceid_number LegalBrownDagmar2 {
+    }
+    serviceid RelativeGoldGuglielma2 {
+    }
+    serviceid_number ExpensiveCrimsonErnaline2 {
+    }
+    json ImpossibleTealSosanna2 {
+    }
+  }
+  json JollyBlackCaron3 {
+    _hidden_value = true
+  }
+  number PossibleBlushCherye2 {
+    _hidden_value = true
+  }
+  number ConvenientMagentaLeesa {
+    _hidden_value = true
+  }
+  json ColorfulTomatoTandy2 {
+    _hidden_value = true
+  }
+  serviceid_number ProvincialPeachMaritsa2 {
+    _hidden_value = true
+  }
+  number AncientEmeraldFlora2 {
+    _hidden_value = true
+  }
+  serviceid_number AwakeRedNoemi {
+    _hidden_value = true
+  }
+  serviceid_number OccupationalOliveMadel2 {
+    _hidden_value = true
+  }
+  serviceid_number AshamedScarletRosana {
+    _hidden_value = true
+  }
+  serviceid_number SelfishBeigeBridgette2 {
+    _hidden_value = true
+  }
+  hidden_boolean PunyAmaranthAeriell5 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid QuaintTurquoiseThomasine {
+    _hidden_value = true
+  }
+  number StructuralIvoryJosephine4 {
+    _hidden_value = true
+  }
+  string HungryAzureBlithe3 {
+    _hidden_value = true
+  }
+  string HighAmberAllissa {
+    _hidden_value = true
+  }
+  boolean IntegralSalmonPhilly {
+    _hidden_value = true
+  }
+  hidden_boolean RadicalGrayHelaine2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid SupposedCyanFarrand {
+    _hidden_value = true
+  }
+  MarkedMagentaLaura2 = "Why is Peter Pan always flying? Because he Neverlands."
+  LegalBrownDagmar2 = 639
+  RelativeGoldGuglielma2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ExpensiveCrimsonErnaline2 = 230
+  ImpossibleTealSosanna2 = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

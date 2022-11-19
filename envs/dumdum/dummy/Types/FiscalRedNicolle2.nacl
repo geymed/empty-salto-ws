@@ -1,0 +1,39 @@
+type dummy.FiscalRedNicolle2 {
+  annotations {
+    serviceid_number RegisteredPurpleNadya3 {
+    }
+    string YoungAmethystAndee3 {
+    }
+    boolean SadYellowWillamina3 {
+    }
+    serviceid SuccessfulBlueCatrina2 {
+    }
+    json IntactRosePatricia {
+    }
+    serviceid_number ShyScarletRosette4 {
+    }
+  }
+  number ArmedGrayHeidie3 {
+    _hidden_value = true
+  }
+  serviceid CharmingPlumMorgana5 {
+    _hidden_value = true
+  }
+  hidden_boolean ChangingJadeKassandra {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ScaryBeigeBria2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  RegisteredPurpleNadya3 = 982
+  YoungAmethystAndee3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  SadYellowWillamina3 = true
+  SuccessfulBlueCatrina2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  IntactRosePatricia = "Why didnt the skeleton cross the road? Because he had no guts."
+  ShyScarletRosette4 = 723
+  _hidden_value = true
+}

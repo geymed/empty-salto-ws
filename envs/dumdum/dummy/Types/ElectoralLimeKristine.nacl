@@ -1,0 +1,72 @@
+type dummy.ElectoralLimeKristine {
+  annotations {
+    boolean ComingSilverSande {
+    }
+    json MassGreenIlise {
+    }
+    serviceid PrimeBrownDanielle {
+    }
+    hidden_boolean ElaborateRedNicolea {
+    }
+    number ArrogantAquamarineBerget {
+    }
+  }
+  serviceid FragileTealSonia {
+    _hidden_value = true
+  }
+  serviceid UpperCyanFaustine {
+    _hidden_value = true
+  }
+  json YoungBlueChere {
+    _hidden_value = true
+  }
+  serviceid_number RegionalCopperDoria {
+    _hidden_value = true
+  }
+  json ResonantApricotAnstice2 {
+    _hidden_value = true
+  }
+  number GradualSilverSallee {
+    _hidden_value = true
+  }
+  string OriginalChocolateDarryl {
+    _hidden_value = true
+  }
+  string FastEmeraldFlor {
+    _hidden_value = true
+  }
+  dummy.ScreechingApricotAnthea InlandSalmonPrudi {
+    OpenTealStarr = 689
+    EntitledIvoryJulia = 110
+    PassivePurpleMurielle = "What do you call two barracuda fish?  A Pairacuda!"
+    NearFuchsiaGerianne = {
+      legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    }
+    ConfidentialScarletRomola = 701
+    HistoricLavenderKellie = 235
+    HelpfulBlackCaroline = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    _hidden_value = true
+  }
+  string CharmingPlumMorena2 {
+    _hidden_value = true
+  }
+  string BurningRedNikki {
+    _hidden_value = true
+  }
+  boolean PremierOrangeMari {
+    _hidden_value = true
+  }
+  hidden_boolean SpicyAquaArleyne {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number UptightBeigeBrittney2 {
+    _hidden_value = true
+  }
+  ComingSilverSande = false
+  MassGreenIlise = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  PrimeBrownDanielle = "Why is Peter Pan always flying? Because he Neverlands."
+  ArrogantAquamarineBerget = 768
+  _hidden_value = true
+}

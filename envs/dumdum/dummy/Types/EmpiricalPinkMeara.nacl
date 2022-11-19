@@ -1,0 +1,22 @@
+type dummy.EmpiricalPinkMeara is boolean {
+  annotations {
+    string InfluentialMoccasinLorette {
+    }
+    dummy.DEFAULT RichCopperDorelle {
+    }
+    serviceid TerribleEmeraldFredra {
+    }
+    json LoudLavenderKiele2 {
+    }
+    hidden_boolean PresidentialLimeKrystyna {
+    }
+    hidden_boolean ProminentLavenderKelcey {
+    }
+  }
+  InfluentialMoccasinLorette = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  RichCopperDorelle = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  TerribleEmeraldFredra = "Why was it called the dark ages? Because of all the knights. "
+  LoudLavenderKiele2 = "Why did the kid cross the playground? To get to the other slide."
+}

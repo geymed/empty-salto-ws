@@ -1,0 +1,59 @@
+type dummy.LightTurquoiseTessie4 {
+  annotations {
+    serviceid ChubbyAmberAline3 {
+    }
+    json InstantSapphireRandie2 {
+    }
+    hidden_boolean BindingSalmonPetrina {
+    }
+    boolean UnsightlyTurquoiseTish4 {
+    }
+    string WesternChocolateDeena3 {
+    }
+    serviceid RegulatorySalmonQuintilla7 {
+    }
+    string UnusualTurquoiseTobey {
+    }
+    boolean PoorTomatoStepha4 {
+    }
+    boolean PhysicalCoffeeDenise3 {
+    }
+    string BraveMoccasinLucine5 {
+    }
+    json WeakAquamarineBelia2 {
+    }
+    dummy.FamousCoralElianora BlankPinkMelodie {
+    }
+    json LightTurquoiseThalia5 {
+    }
+    hidden_boolean IraqiOliveMadelon5 {
+    }
+    boolean ReducedPinkMersey {
+    }
+    number MedievalJadeKaree4 {
+    }
+    string DevelopingHarlequinJeanie2 {
+    }
+    serviceid_number SignificantBrownDanita4 {
+    }
+    number UniqueFuchsiaGerry2 {
+    }
+  }
+  ChubbyAmberAline3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  InstantSapphireRandie2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  UnsightlyTurquoiseTish4 = true
+  WesternChocolateDeena3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  RegulatorySalmonQuintilla7 = "Why do birds fly south for the winter? Because it's too far to walk."
+  UnusualTurquoiseTobey = "Dad Im hungry  Hi hungry Im dad"
+  PoorTomatoStepha4 = true
+  PhysicalCoffeeDenise3 = true
+  BraveMoccasinLucine5 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  WeakAquamarineBelia2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  BlankPinkMelodie = 441
+  LightTurquoiseThalia5 = "Why was it called the dark ages? Because of all the knights. "
+  ReducedPinkMersey = false
+  MedievalJadeKaree4 = 441
+  DevelopingHarlequinJeanie2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SignificantBrownDanita4 = 199
+  UniqueFuchsiaGerry2 = 846
+}

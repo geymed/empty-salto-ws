@@ -1,0 +1,24 @@
+type dummy.PassingSalmonPippa is number {
+  annotations {
+    json FaintMaroonLiva {
+    }
+    json DoubtfulRosePansy {
+    }
+    json AnxiousAquamarineBeret {
+    }
+    boolean AfricanFuchsiaGiana {
+    }
+    number LiableLimeKimmi {
+    }
+    boolean LeftCoffeeDenny {
+    }
+    hidden_boolean UrbanCyanFan {
+    }
+  }
+  FaintMaroonLiva = "What creature is smarter than a talking parrot? A spelling bee."
+  DoubtfulRosePansy = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  AnxiousAquamarineBeret = "What do you do on a remote island? Try and find the TV island it belongs to."
+  AfricanFuchsiaGiana = false
+  LiableLimeKimmi = 413
+  LeftCoffeeDenny = false
+}

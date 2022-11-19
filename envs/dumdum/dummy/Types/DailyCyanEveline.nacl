@@ -1,0 +1,84 @@
+type dummy.DailyCyanEveline {
+  annotations {
+    number LivelyBlackCasi4 {
+    }
+    hidden_boolean PlannedPlumMireielle3 {
+    }
+    string EarlyBlushCherri3 {
+    }
+    number ValidLavenderKerry {
+    }
+  }
+  string FavourablePinkMercedes2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT InterimOrangeMalory3 {
+    _hidden_value = true
+  }
+  number DifficultBronzeClemence2 {
+    _hidden_value = true
+  }
+  json CarefulCyanFerdinande2 {
+    _hidden_value = true
+  }
+  serviceid_number RationalLavenderKatusha {
+    _hidden_value = true
+  }
+  serviceid ModernTealStarla {
+    _hidden_value = true
+  }
+  string DyingScarletRoby {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HonestIndigoJerrilee2 {
+    _hidden_value = true
+  }
+  boolean ScaryYellowWillie2 {
+    _hidden_value = true
+  }
+  hidden_boolean JollyVioletValli {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean SolidGreenIbby {
+    _hidden_value = true
+  }
+  json PricklyAquaAurlie2 {
+    _hidden_value = true
+  }
+  "List<string>" LateAmethystAmber6 {
+    _hidden_value = true
+  }
+  "List<serviceid>" PreciousOrangeMariellen {
+    _hidden_value = true
+  }
+  boolean PrivateBronzeCordula4 {
+    _hidden_value = true
+  }
+  serviceid SilentGrayHarley4 {
+    _hidden_value = true
+  }
+  number FunnyBlackCarmelita3 {
+    _hidden_value = true
+  }
+  number PreviousBrownDania2 {
+    _hidden_value = true
+  }
+  json LinearRedNessie2 {
+    _hidden_value = true
+  }
+  serviceid RoundAmberAlmira2 {
+    _hidden_value = true
+  }
+  boolean FashionableSapphireRemy {
+    _hidden_value = true
+  }
+  number BrightVioletTory2 {
+    _hidden_value = true
+  }
+  LivelyBlackCasi4 = 611
+  EarlyBlushCherri3 = "Why did the tomato blush? Because it saw the salad dressing."
+  ValidLavenderKerry = 614
+  _hidden_value = true
+}

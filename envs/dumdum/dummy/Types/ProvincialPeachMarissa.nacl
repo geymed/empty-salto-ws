@@ -1,0 +1,62 @@
+type dummy.ProvincialPeachMarissa {
+  annotations {
+    hidden_boolean TenderAquamarineBebe2 {
+    }
+    hidden_boolean CautiousTealSiana {
+    }
+    boolean DominantIndigoJen2 {
+    }
+  }
+  string RedundantSalmonPhilis4 {
+    _hidden_value = true
+  }
+  dummy.FeministPlumMin ManagerialPurpleNert {
+    GreenVioletUlrica = false
+    SovietChocolateDaria = "What do you call two barracuda fish?  A Pairacuda!"
+    CuriousTealSidoney = false
+    ColdChocolateDebbie = 219
+    IrishCrimsonErminia = true
+    ShakyAquaBab = 578
+    ScientificCrimsonErda = 864
+    LatinLimeKonstanze = 633
+    IsraeliPinkMeriel = "What do you do on a remote island? Try and find the TV island it belongs to."
+    _hidden_value = true
+  }
+  boolean InnovativeTanSheena {
+    _hidden_value = true
+  }
+  boolean FamousTealSissie {
+    _hidden_value = true
+  }
+  serviceid ExtraCoffeeDianemarie {
+    _hidden_value = true
+  }
+  string SuccessfulChocolateDarya {
+    _hidden_value = true
+  }
+  "Map<number>" PreciousOrangeMariele {
+    _hidden_value = true
+  }
+  boolean FamousCoralElfrieda2 {
+    _hidden_value = true
+  }
+  number SoreBeigeBrigida {
+    _hidden_value = true
+  }
+  hidden_boolean PerfectCyanEudora {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number OpenTealStarr2 {
+    _hidden_value = true
+  }
+  serviceid_number TenderAquamarineBecka {
+    _hidden_value = true
+  }
+  number UrbanCyanFan4 {
+    _hidden_value = true
+  }
+  DominantIndigoJen2 = false
+  _hidden_value = true
+}

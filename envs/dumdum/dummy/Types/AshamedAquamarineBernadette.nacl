@@ -1,0 +1,51 @@
+type dummy.AshamedAquamarineBernadette {
+  annotations {
+    string MedicalCoffeeDevora2 {
+    }
+    serviceid_number IdealEmeraldFredia {
+    }
+    hidden_boolean AtomicScarletRorie2 {
+    }
+    string WanderingTomatoSuzanne3 {
+    }
+    number BitterJadeKaryn {
+    }
+    hidden_boolean ContentPeachMathilde2 {
+    }
+  }
+  serviceid HealthyBlackCarolan {
+    _hidden_value = true
+  }
+  number ScrawnyYellowWillyt {
+    _hidden_value = true
+  }
+  serviceid_number FellowIvoryJunina {
+    _hidden_value = true
+  }
+  boolean DeadBrownDara2 {
+    _hidden_value = true
+  }
+  boolean NavalPinkMelamie2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HugeAmaranthAdelaida2 {
+    _hidden_value = true
+  }
+  string UptightBeigeBrittni {
+    _hidden_value = true
+  }
+  serviceid_number HealthyBlackCarolee2 {
+    _hidden_value = true
+  }
+  serviceid_number AccurateIndigoJillayne2 {
+    _hidden_value = true
+  }
+  string FondSalmonPietra3 {
+    _hidden_value = true
+  }
+  MedicalCoffeeDevora2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  IdealEmeraldFredia = 759
+  WanderingTomatoSuzanne3 = "Why didnt the skeleton cross the road? Because he had no guts."
+  BitterJadeKaryn = 48
+  _hidden_value = true
+}

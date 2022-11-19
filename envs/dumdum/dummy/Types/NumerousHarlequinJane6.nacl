@@ -1,0 +1,120 @@
+type dummy.NumerousHarlequinJane6 {
+  annotations {
+    serviceid_number SpareMaroonLilli2 {
+    }
+    number FilthyAmberAlfie {
+    }
+    hidden_boolean SimpleBronzeCorissa3 {
+    }
+    boolean HandsomeOliveMala2 {
+    }
+  }
+  serviceid WildTomatoSuzy2 {
+    _hidden_value = true
+  }
+  boolean IdenticalLimeKorrie3 {
+    _hidden_value = true
+  }
+  boolean VisitingScarletRoanne3 {
+    _hidden_value = true
+  }
+  serviceid SelectiveRedNorry2 {
+    _hidden_value = true
+  }
+  json CurlyAmberAlbertine3 {
+    _hidden_value = true
+  }
+  number PossibleBlushChery2 {
+    _hidden_value = true
+  }
+  hidden_boolean PrintedRedNeysa {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean CollectiveLavenderKathye {
+    _hidden_value = true
+  }
+  serviceid_number PinkIndigoJennee {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ConservationPlumMoll2 {
+    _hidden_value = true
+  }
+  string ElatedBeigeCaprice {
+    _hidden_value = true
+  }
+  boolean BitterJadeKaryn4 {
+    _hidden_value = true
+  }
+  "List<serviceid>" InjuredScarletRosalinde2 {
+    _hidden_value = true
+  }
+  boolean MiddleCopperDusty6 {
+    _hidden_value = true
+  }
+  number DeliciousScarletRodie {
+    _hidden_value = true
+  }
+  boolean NaughtyAzureBonnie {
+    _hidden_value = true
+  }
+  json FullBlushChristen3 {
+    _hidden_value = true
+  }
+  serviceid RollingSilverRubina5 {
+    _hidden_value = true
+  }
+  hidden_boolean WorkingCrimsonEmmaline2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json SoftCoralElana4 {
+    _hidden_value = true
+  }
+  string AliveFuchsiaGillian {
+    _hidden_value = true
+  }
+  dummy.DailyCyanEvelina SadGrayHesther4 {
+    _hidden_value = true
+  }
+  string HealthyBlackCarolee4 {
+    _hidden_value = true
+  }
+  serviceid InjuredScarletRosalind6 {
+    _hidden_value = true
+  }
+  string HungryMaroonLisabeth3 {
+    _hidden_value = true
+  }
+  boolean ParticularBlushClaudelle4 {
+    _hidden_value = true
+  }
+  serviceid SupportingSilverSamantha5 {
+    _hidden_value = true
+  }
+  string AwakeRedNoemi2 {
+    _hidden_value = true
+  }
+  hidden_boolean RegulatorySalmonQuintilla6 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean InitialCoralElsey3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid AcceptableGrayHelge2 {
+    _hidden_value = true
+  }
+  boolean DampAmberAlena5 {
+    _hidden_value = true
+  }
+  SpareMaroonLilli2 = 657
+  FilthyAmberAlfie = 522
+  HandsomeOliveMala2 = false
+  _hidden_value = true
+}

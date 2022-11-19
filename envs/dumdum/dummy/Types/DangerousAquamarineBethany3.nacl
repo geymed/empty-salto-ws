@@ -1,0 +1,34 @@
+type dummy.DangerousAquamarineBethany3 {
+  annotations {
+    string BadVioletToinette {
+    }
+    serviceid_number MassiveAmaranthAdorne2 {
+    }
+    json AnonymousSapphireRayshell5 {
+    }
+    serviceid_number WastefulYellowZitella {
+    }
+    string NetGoldGleda2 {
+    }
+    boolean MinimumIndigoJeri2 {
+    }
+    boolean NervousAzureBrandea2 {
+    }
+    number CuriousLimeKirby3 {
+    }
+  }
+  hidden_boolean YummyYellowZorana3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  BadVioletToinette = "What do you call two barracuda fish?  A Pairacuda!"
+  MassiveAmaranthAdorne2 = 25
+  AnonymousSapphireRayshell5 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  WastefulYellowZitella = 864
+  NetGoldGleda2 = "What creature is smarter than a talking parrot? A spelling bee."
+  MinimumIndigoJeri2 = false
+  NervousAzureBrandea2 = true
+  CuriousLimeKirby3 = 271
+  _hidden_value = true
+}

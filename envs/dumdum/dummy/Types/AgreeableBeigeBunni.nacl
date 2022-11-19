@@ -1,0 +1,64 @@
+type dummy.AgreeableBeigeBunni {
+  annotations {
+    serviceid CrowdedTomatoTanitansy {
+    }
+    dummy.DEFAULT WorthwhilePinkMelita {
+    }
+    number SaltyApricotArlee {
+    }
+    dummy.DEFAULT ProtestantScarletRobin {
+    }
+    dummy.StiffPeachMarya ChiefCopperDorree {
+    }
+  }
+  serviceid MissingPinkMelly2 {
+    _hidden_value = true
+  }
+  string UglyYellowYvonne {
+    _hidden_value = true
+  }
+  serviceid_number IdenticalLimeKorie2 {
+    _hidden_value = true
+  }
+  hidden_boolean SuperTomatoSusanetta {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.SpareMaroonLilli OpenTealStefa {
+    ShortAmethystAnabella = 670
+    DeliberateRedNoella = true
+    IslamicRoseOlympie = "Slept like a log last night  woke up in the fireplace."
+    WorthyRedOdette = "What did one nut say as he chased another nut?  I'm a cashew!"
+    BlackVioletTorey2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    SelectedPlumMilli = "Why do birds fly south for the winter? Because it's too far to walk."
+    SubjectiveSapphireRiane = 425
+    ExuberantBlackCarlee = {
+      legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    }
+    TenderRedOdelia = "My first time using an elevator was an uplifting experience. The second time let me down."
+    FormalCoralElka = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    _hidden_value = true
+  }
+  number OkayOliveMaggi {
+    _hidden_value = true
+  }
+  string WorryingSilverRozamond3 {
+    _hidden_value = true
+  }
+  hidden_boolean ConcreteOliveLynelle {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  CrowdedTomatoTanitansy = "I'll tell you what often gets over looked... garden fences."
+  WorthwhilePinkMelita = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  SaltyApricotArlee = 508
+  ProtestantScarletRobin = {
+    legit = "How come the stadium got hot after the game? Because all of the fans left."
+  }
+  ChiefCopperDorree = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

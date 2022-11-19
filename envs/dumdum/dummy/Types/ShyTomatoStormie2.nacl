@@ -1,0 +1,28 @@
+type dummy.ShyTomatoStormie2 {
+  annotations {
+    dummy.DEFAULT MushyWhiteVerla2 {
+    }
+    json HappyBlackCaroljean {
+    }
+    number MiniatureAmaranthAdriana2 {
+    }
+    number SeriousBrownDanette {
+    }
+    dummy.DistinctTurquoiseTatum SkilledMoccasinLu {
+    }
+  }
+  string BraveBeigeCairistiona {
+    _hidden_value = true
+  }
+  serviceid_number TerribleEmeraldFredrika {
+    _hidden_value = true
+  }
+  MushyWhiteVerla2 = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  HappyBlackCaroljean = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  MiniatureAmaranthAdriana2 = 688
+  SeriousBrownDanette = 93
+  SkilledMoccasinLu = true
+  _hidden_value = true
+}

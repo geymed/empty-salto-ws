@@ -1,0 +1,97 @@
+type dummy.UnusualGoldGladi {
+  annotations {
+    dummy.DEFAULT DesperateIvoryJunie {
+    }
+    hidden_boolean SillyYellowWini2 {
+    }
+    dummy.DEFAULT InteriorPurpleNathalie2 {
+    }
+    boolean HistoricalCyanEvangelia2 {
+    }
+    serviceid GoodBlackCaro {
+    }
+    serviceid ZanyBlueCelia3 {
+    }
+    number CalmBeigeCalida2 {
+    }
+  }
+  hidden_boolean DelightfulBeigeCandace3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.EfficientGoldGretna ImaginativeTanSeline3 {
+    OppositeHarlequinJanel = "Why did the kid cross the playground? To get to the other slide."
+    StrangeCoralEdna = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ExcitingGreenIvett = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    AdequateGrayHildy = false
+    RattyWhiteWaneta = 439
+    FastEmeraldFleur = 566
+    MiddleCopperDusty = 871
+    ParliamentaryFuchsiaGiacinta = "Im only familiar with 25 letters in the English language. I dont know why."
+    ExcitingGreenIssie = "A steak pun is a rare medium well done."
+    MaturePeachMaud = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    StraightAmethystAlysia = false
+    _hidden_value = true
+  }
+  hidden_boolean IncCrimsonErmentrude {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number ScaredSalmonRafaelita {
+    _hidden_value = true
+  }
+  boolean EvilPeachMaurine {
+    _hidden_value = true
+  }
+  json DynamicPeachMarna {
+    _hidden_value = true
+  }
+  hidden_boolean UnchangedSilverRozelle2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number LengthySapphireRanee {
+    _hidden_value = true
+  }
+  "List<dummy.WanderingTomatoSuzann2>" AverageCrimsonElysia2 {
+    VariableRedNona = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    ComfortableGoldGrissel = "Why was it called the dark ages? Because of all the knights. "
+    ElectronicGreenInez = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ExperimentalLavenderKatinka = "How come the stadium got hot after the game? Because all of the fans left."
+    SilkyAquaBambi = true
+    MysteriousPurpleNell = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    CruelPlumMichaela = true
+    IncCrimsonErinna = false
+    RadicalGrayHelenelizabeth = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    ProfoundPinkMerlina = "Dad Im hungry  Hi hungry Im dad"
+    CanadianPlumMinda = "Why do birds fly south for the winter? Because it's too far to walk."
+    RightBlushCherise = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    LooseAquaAura = 412
+    LongVioletVan = "A steak pun is a rare medium well done."
+    NormalBrownDamaris = "What creature is smarter than a talking parrot? A spelling bee."
+    PlainTurquoiseTherine = "Why did the kid cross the playground? To get to the other slide."
+    OuterJadeKarrie = "What creature is smarter than a talking parrot? A spelling bee."
+    _hidden_value = true
+  }
+  "List<serviceid_number>" NumerousAmethystAngel {
+    _hidden_value = true
+  }
+  DesperateIvoryJunie = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  InteriorPurpleNathalie2 = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  HistoricalCyanEvangelia2 = false
+  GoodBlackCaro = "Why is Peter Pan always flying? Because he Neverlands."
+  ZanyBlueCelia3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  CalmBeigeCalida2 = 975
+  _hidden_value = true
+}

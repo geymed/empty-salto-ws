@@ -1,0 +1,129 @@
+type dummy.AdministrativeGreenHonor5 {
+  annotations {
+    json ExclusiveMagentaLatia3 {
+    }
+    boolean KindBlackCary3 {
+    }
+    number NearFuchsiaGerianne5 {
+    }
+    serviceid_number CurlyAmberAlecia4 {
+    }
+    number RoastedWhiteWenona3 {
+    }
+    json SovietChocolateDari3 {
+    }
+  }
+  serviceid UniqueFuchsiaGerry {
+    _hidden_value = true
+  }
+  serviceid RidiculousMoccasinLivy2 {
+    _hidden_value = true
+  }
+  serviceid_number MajorBlushCissy3 {
+    _hidden_value = true
+  }
+  serviceid_number FarBlushChristie3 {
+    _hidden_value = true
+  }
+  number MoralCyanFenelia3 {
+    _hidden_value = true
+  }
+  boolean EerieAzureBeverly3 {
+    _hidden_value = true
+  }
+  dummy.FamousCoralElianora IdenticalLimeKorry4 {
+    ShinyTurquoiseTiff = 29
+    RelativeGoldGuillema = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    OkSapphireRhianna = 420
+    StupidTomatoSusan = "Why did the kid cross the playground? To get to the other slide."
+    EarlyAmethystAmanda = "Why did the tomato blush? Because it saw the salad dressing."
+    UncertainMagentaLela = "How come the stadium got hot after the game? Because all of the fans left."
+    UpsetOliveLyssa = "My first time using an elevator was an uplifting experience. The second time let me down."
+    WorryingSilverRozamond2 = "Why do birds fly south for the winter? Because it's too far to walk."
+    FatIvoryJoelle = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    PlasticAquaAuria = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    _hidden_value = true
+  }
+  hidden_boolean MiddleCopperDyana3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number EntitledIvoryJuliana2 {
+    _hidden_value = true
+  }
+  serviceid_number SleepyTomatoSuellen2 {
+    _hidden_value = true
+  }
+  boolean DelightfulSilverRosy2 {
+    _hidden_value = true
+  }
+  number ThenSalmonPhilomena2 {
+    _hidden_value = true
+  }
+  boolean SharpFuchsiaGeorgie2 {
+    _hidden_value = true
+  }
+  hidden_boolean OverseasIvoryJudye5 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.EmpiricalPinkMeara BitterJadeKaryn3 {
+    InfluentialMoccasinLorette = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    RichCopperDorelle = {
+      legit = "Why did the tomato blush? Because it saw the salad dressing."
+    }
+    TerribleEmeraldFredra = "Im only familiar with 25 letters in the English language. I dont know why."
+    LoudLavenderKiele2 = "Why did the tomato blush? Because it saw the salad dressing."
+    _hidden_value = true
+  }
+  number AsianMaroonLinda {
+    _hidden_value = true
+  }
+  hidden_boolean UglyYellowYvonne2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number DreadfulPinkMerrilee4 {
+    _hidden_value = true
+  }
+  boolean UnfairMaroonLilian3 {
+    _hidden_value = true
+  }
+  json AccusedSilverSallyann5 {
+    _hidden_value = true
+  }
+  json NovelScarletRosina4 {
+    _hidden_value = true
+  }
+  serviceid_number SoftCoralElaine3 {
+    _hidden_value = true
+  }
+  "List<json>" UnableCoralEloisa2 {
+    _hidden_value = true
+  }
+  string UncomfortablePlumModesty4 {
+    _hidden_value = true
+  }
+  hidden_boolean ElectricGreenInger4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ParticularBlushClaudetta {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  ExclusiveMagentaLatia3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  KindBlackCary3 = false
+  NearFuchsiaGerianne5 = 336
+  CurlyAmberAlecia4 = 71
+  RoastedWhiteWenona3 = 418
+  SovietChocolateDari3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

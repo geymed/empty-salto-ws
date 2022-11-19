@@ -1,0 +1,29 @@
+type dummy.HappyBrownDaisy {
+  annotations {
+    hidden_boolean PunyAmaranthAeriell4 {
+    }
+    json PoliticalBlushChloris2 {
+    }
+    serviceid AbsoluteGreenImogene2 {
+    }
+    number InteriorPurpleNathalie3 {
+    }
+    hidden_boolean MilitaryChocolateDarlleen {
+    }
+  }
+  serviceid BlankPinkMelodee {
+    _hidden_value = true
+  }
+  serviceid_number UsefulChocolateDedra {
+    _hidden_value = true
+  }
+  hidden_boolean IndirectPeachMary3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  PoliticalBlushChloris2 = "A steak pun is a rare medium well done."
+  AbsoluteGreenImogene2 = "Why is Peter Pan always flying? Because he Neverlands."
+  InteriorPurpleNathalie3 = 438
+  _hidden_value = true
+}

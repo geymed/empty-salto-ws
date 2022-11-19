@@ -1,0 +1,28 @@
+type dummy.SatisfactoryLimeKrissy4 {
+  annotations {
+    dummy.EmpiricalPinkMeara FamousCoralElga2 {
+    }
+    string WeakAquamarineBelinda {
+    }
+    dummy.DEFAULT EqualCrimsonEmiline2 {
+    }
+    number FierceOliveMaire {
+    }
+    serviceid CommonBronzeConstantina {
+    }
+    serviceid UncertainMagentaLelah2 {
+    }
+  }
+  string SpiritualLavenderKatrine5 {
+    _hidden_value = true
+  }
+  FamousCoralElga2 = false
+  WeakAquamarineBelinda = "To be Frank, I'd have to change my name."
+  EqualCrimsonEmiline2 = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  FierceOliveMaire = 886
+  CommonBronzeConstantina = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  UncertainMagentaLelah2 = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

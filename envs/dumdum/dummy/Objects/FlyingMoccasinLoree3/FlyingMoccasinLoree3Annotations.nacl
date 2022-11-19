@@ -1,0 +1,64 @@
+type dummy.FlyingMoccasinLoree3 {
+  annotations {
+    hidden_boolean BigVioletTonie4 {
+    }
+    serviceid_number ClinicalIndigoJennine3 {
+    }
+    string StraightforwardMaroonLia {
+    }
+    string PerfectBlackCaterina3 {
+    }
+    number WrongBrownCrissy2 {
+    }
+    serviceid_number LargeBlueCharlot3 {
+    }
+    serviceid_number ProtectiveRoseOlive2 {
+    }
+    hidden_boolean MusicalIndigoJoannes3 {
+    }
+    number RegionalCopperDoria4 {
+    }
+    json IndianGrayHarmonie2 {
+    }
+    string RespectiveSalmonPet2 {
+    }
+    json IntermediateRoseOfelia {
+    }
+    dummy.RealisticMoccasinLona IntegratedOliveMadonna {
+    }
+    serviceid PrincipalGoldGrazia {
+    }
+    serviceid SecondaryFuchsiaGertie3 {
+    }
+    dummy.VariedRedNorah LiquidRosePage4 {
+    }
+    json CarefulTealShirley {
+    }
+    dummy.InteriorPurpleNathalie PlannedPlumMiranda2 {
+    }
+    dummy.CompatibleSapphireRenelle3 NewWhiteVeronike4 {
+    }
+    boolean RapidGrayHilda4 {
+    }
+    hidden_boolean CircularRoseOrsola2 {
+    }
+    number RichCoffeeDoreen4 {
+    }
+  }
+  ClinicalIndigoJennine3 = 227
+  StraightforwardMaroonLia = "Why did the tomato blush? Because it saw the salad dressing."
+  PerfectBlackCaterina3 = "Why didnt the skeleton cross the road? Because he had no guts."
+  WrongBrownCrissy2 = 534
+  LargeBlueCharlot3 = 573
+  ProtectiveRoseOlive2 = 365
+  RegionalCopperDoria4 = 521
+  IndianGrayHarmonie2 = "What do you call two barracuda fish?  A Pairacuda!"
+  RespectiveSalmonPet2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  IntermediateRoseOfelia = "My first time using an elevator was an uplifting experience. The second time let me down."
+  PrincipalGoldGrazia = "What creature is smarter than a talking parrot? A spelling bee."
+  SecondaryFuchsiaGertie3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  CarefulTealShirley = "Why didnt the skeleton cross the road? Because he had no guts."
+  PlannedPlumMiranda2 = true
+  RapidGrayHilda4 = false
+  RichCoffeeDoreen4 = 839
+}

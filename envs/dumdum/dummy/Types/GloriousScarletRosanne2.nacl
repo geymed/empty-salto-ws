@@ -1,0 +1,69 @@
+type dummy.GloriousScarletRosanne2 {
+  annotations {
+    serviceid_number ProbableSalmonPhylys2 {
+    }
+    number GleamingTurquoiseTeri2 {
+    }
+    number DemocraticCrimsonEmyle3 {
+    }
+    serviceid GeographicalPeachMarleen {
+    }
+    json ImaginativeTanSella {
+    }
+  }
+  dummy.ModernTealStafani RightBlushCherish {
+    ColonialPeachMaura = "Why did the kid cross the playground? To get to the other slide."
+    UnderlyingLimeKoressa = "What do you call two barracuda fish?  A Pairacuda!"
+    NursingSalmonPetronille2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    AgreedTanSelie = 396
+    ObnoxiousAzureBrandi = "Why do birds fly south for the winter? Because it's too far to walk."
+    ComprehensiveGreenHyacinthia = true
+    DampMoccasinLorry = "To be Frank, I'd have to change my name."
+    ClearBlushCinnamon = "A steak pun is a rare medium well done."
+    WickedScarletRoselia = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    SpontaneousTanShauna = "Why didnt the skeleton cross the road? Because he had no guts."
+    ShortAmethystAnabella2 = true
+    StraightforwardMaroonLeyla = 751
+    SubsequentFuchsiaGilemette = false
+    RollingSilverRubina = "My first time using an elevator was an uplifting experience. The second time let me down."
+    FreeBronzeCodie = false
+    ShyTomatoStormie = "Why did the tomato blush? Because it saw the salad dressing."
+    AboveIvoryJoycelin = 165
+    PromisingRedNonie = "What creature is smarter than a talking parrot? A spelling bee."
+    _hidden_value = true
+  }
+  number AllegedOliveLynn {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" NeutralPeachMaryrose {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number MuteApricotAnnelise2 {
+    _hidden_value = true
+  }
+  serviceid_number MagicOrangeManya2 {
+    _hidden_value = true
+  }
+  number CrookedAmberAlana {
+    _hidden_value = true
+  }
+  serviceid_number EagerBeigeCandy {
+    _hidden_value = true
+  }
+  serviceid_number CruelPlumMichaela3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BoredPlumMonique {
+    _hidden_value = true
+  }
+  ProbableSalmonPhylys2 = 39
+  GleamingTurquoiseTeri2 = 833
+  DemocraticCrimsonEmyle3 = 156
+  GeographicalPeachMarleen = "Why didnt the skeleton cross the road? Because he had no guts."
+  ImaginativeTanSella = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

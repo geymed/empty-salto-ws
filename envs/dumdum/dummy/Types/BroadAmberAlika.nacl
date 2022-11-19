@@ -1,0 +1,82 @@
+type dummy.BroadAmberAlika {
+  annotations {
+    serviceid_number UnableCoralElonore {
+    }
+    json ReducedPinkMeryl {
+    }
+    json SteadyJadeKaile {
+    }
+    serviceid DeepChocolateDeloria {
+    }
+    boolean MarxistSapphireRaine2 {
+    }
+    dummy.BrightTomatoTamara SquareAmberAlvina {
+    }
+  }
+  boolean IncredibleRosePattie2 {
+    _hidden_value = true
+  }
+  serviceid MagneticPeachMavis2 {
+    _hidden_value = true
+  }
+  json DrivingRoseOralie {
+    _hidden_value = true
+  }
+  serviceid StrangeCoralEdna3 {
+    _hidden_value = true
+  }
+  boolean IntegratedOliveMae {
+    _hidden_value = true
+  }
+  json RichCoffeeDorelia {
+    _hidden_value = true
+  }
+  serviceid HeavyAmethystAndromache3 {
+    _hidden_value = true
+  }
+  json LinguisticJadeKarilynn4 {
+    _hidden_value = true
+  }
+  serviceid_number NorthernCoralEleanora2 {
+    _hidden_value = true
+  }
+  json FantasticBlackCarlota3 {
+    _hidden_value = true
+  }
+  serviceid SweetGreenHollyanne2 {
+    _hidden_value = true
+  }
+  hidden_boolean CommunistGoldGiuditta2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json SovietChocolateDaria2 {
+    _hidden_value = true
+  }
+  number BlueCoffeeDiana {
+    _hidden_value = true
+  }
+  json PoliticalBlushChris3 {
+    _hidden_value = true
+  }
+  serviceid_number SignificantBrownDanita2 {
+    _hidden_value = true
+  }
+  string ShortAmaranthAfton {
+    _hidden_value = true
+  }
+  number BizarreTanSeka {
+    _hidden_value = true
+  }
+  string ObnoxiousAzureBrandi2 {
+    _hidden_value = true
+  }
+  UnableCoralElonore = 122
+  ReducedPinkMeryl = "Why did the kid cross the playground? To get to the other slide."
+  SteadyJadeKaile = "Why is Peter Pan always flying? Because he Neverlands."
+  DeepChocolateDeloria = "Why did the tomato blush? Because it saw the salad dressing."
+  MarxistSapphireRaine2 = false
+  SquareAmberAlvina = 287
+  _hidden_value = true
+}

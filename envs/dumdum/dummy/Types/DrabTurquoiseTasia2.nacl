@@ -1,0 +1,54 @@
+type dummy.DrabTurquoiseTasia2 {
+  annotations {
+    serviceid_number LuckyBlackCassandry2 {
+    }
+    serviceid UnpleasantRedNonna2 {
+    }
+    dummy.StrategicIndigoJehanna MinorEmeraldGabi {
+    }
+    hidden_boolean ImpressedOrangeMaris {
+    }
+  }
+  json ManualRosePat2 {
+    _hidden_value = true
+  }
+  string AdverseSapphireRaquel {
+    _hidden_value = true
+  }
+  serviceid ManyWhiteVeradis2 {
+    _hidden_value = true
+  }
+  serviceid RegulatorySalmonQuintilla4 {
+    _hidden_value = true
+  }
+  string BadBlushCiel {
+    _hidden_value = true
+  }
+  number WearyBeigeBrunhilda {
+    _hidden_value = true
+  }
+  string TypicalEmeraldFrancine {
+    _hidden_value = true
+  }
+  boolean NumerousHarlequinJane4 {
+    _hidden_value = true
+  }
+  number OrdinaryCopperEdie {
+    _hidden_value = true
+  }
+  string DistantIndigoJilly4 {
+    _hidden_value = true
+  }
+  boolean EthicalScarletRobbyn {
+    _hidden_value = true
+  }
+  hidden_boolean EldestTanSharlene2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  LuckyBlackCassandry2 = 468
+  UnpleasantRedNonna2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  MinorEmeraldGabi = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

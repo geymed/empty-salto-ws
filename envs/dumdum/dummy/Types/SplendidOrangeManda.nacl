@@ -1,0 +1,27 @@
+type dummy.SplendidOrangeManda {
+  annotations {
+    serviceid_number FarBlushChristiana {
+    }
+    string CertainBronzeClemmy2 {
+    }
+    number SubsequentFuchsiaGilemette2 {
+    }
+    hidden_boolean PaleGrayHarriet {
+    }
+    string SparklingTurquoiseTildi3 {
+    }
+    number GermanChocolateDelilah {
+    }
+  }
+  hidden_boolean ResidentialIndigoJesselyn2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  FarBlushChristiana = 962
+  CertainBronzeClemmy2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SubsequentFuchsiaGilemette2 = 48
+  SparklingTurquoiseTildi3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  GermanChocolateDelilah = 84
+  _hidden_value = true
+}

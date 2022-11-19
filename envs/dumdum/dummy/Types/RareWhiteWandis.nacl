@@ -1,0 +1,98 @@
+type dummy.RareWhiteWandis {
+  annotations {
+    serviceid_number MiserableSalmonRachael2 {
+    }
+    json IdeologicalOrangeMargarette {
+    }
+    boolean ToryGreenIndira {
+    }
+    boolean WhiteBronzeClovis2 {
+    }
+    string DullVioletTrina2 {
+    }
+    string PricklyAquaAuroora2 {
+    }
+    hidden_boolean ParliamentaryFuchsiaGerty2 {
+    }
+    dummy.DEFAULT TropicalOliveLyda {
+    }
+  }
+  boolean GoldenGrayHalette3 {
+    _hidden_value = true
+  }
+  number FellowJadeJustinn {
+    _hidden_value = true
+  }
+  dummy.DEFAULT StupidTomatoSunshine {
+    _hidden_value = true
+  }
+  hidden_boolean BalancedSilverRosita {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number CuriousLimeKirby2 {
+    _hidden_value = true
+  }
+  string MiddleCopperDyana2 {
+    _hidden_value = true
+  }
+  string NovelScarletRosette3 {
+    _hidden_value = true
+  }
+  "Map<string>" InterestingChocolateDelphinia2 {
+    _hidden_value = true
+  }
+  serviceid AggregateScarletRobbi {
+    _hidden_value = true
+  }
+  number FrozenScarletRosabel2 {
+    _hidden_value = true
+  }
+  hidden_boolean MildOliveMaddi2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ConvenientMagentaLeese {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SexualCopperDynah2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid WeakFuchsiaGayla {
+    _hidden_value = true
+  }
+  number DecentMoccasinLonni {
+    _hidden_value = true
+  }
+  serviceid_number UniversalJadeKacie {
+    _hidden_value = true
+  }
+  serviceid_number NewWhiteVeronike3 {
+    _hidden_value = true
+  }
+  serviceid ParliamentaryFuchsiaGiacinta3 {
+    _hidden_value = true
+  }
+  boolean MarineMagentaLeone2 {
+    _hidden_value = true
+  }
+  serviceid_number SurroundingOrangeMargeaux2 {
+    _hidden_value = true
+  }
+  MiserableSalmonRachael2 = 664
+  IdeologicalOrangeMargarette = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ToryGreenIndira = false
+  WhiteBronzeClovis2 = false
+  DullVioletTrina2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  PricklyAquaAuroora2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  TropicalOliveLyda = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  _hidden_value = true
+}

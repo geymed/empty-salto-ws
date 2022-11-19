@@ -1,0 +1,29 @@
+type dummy.EnglishBrownCris3 {
+  annotations {
+    string HandsomeVioletVal3 {
+    }
+    hidden_boolean NearbyLimeKoral2 {
+    }
+    hidden_boolean NegativeEmeraldGarnette2 {
+    }
+    boolean TemporaryGrayHalley2 {
+    }
+    dummy.DEFAULT ProtestantScarletRobinet4 {
+    }
+    json RubberSilverSarene2 {
+    }
+    serviceid_number HilariousBlackCarolynn {
+    }
+  }
+  boolean ForeignBronzeCoriss2 {
+    _hidden_value = true
+  }
+  HandsomeVioletVal3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  TemporaryGrayHalley2 = false
+  ProtestantScarletRobinet4 = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  RubberSilverSarene2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  HilariousBlackCarolynn = 40
+  _hidden_value = true
+}

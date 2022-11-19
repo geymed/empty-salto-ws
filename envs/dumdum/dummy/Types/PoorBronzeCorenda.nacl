@@ -1,0 +1,96 @@
+type dummy.PoorBronzeCorenda {
+  annotations {
+    string AncientAmethystAmalee2 {
+    }
+    json ResultingPurpleNadeen {
+    }
+    dummy.InteriorPurpleNathalie OrdinaryCopperEdin {
+    }
+    string FatAmaranthAbigale2 {
+    }
+    hidden_boolean GreatVioletTyne {
+    }
+    hidden_boolean UglyYellowZahara {
+    }
+  }
+  json ConvincingSalmonPeggy {
+    _hidden_value = true
+  }
+  hidden_boolean DeterminedBeigeCandice {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ApparentCyanFawnia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json CrazyVioletTrescha {
+    _hidden_value = true
+  }
+  boolean AggressiveMaroonLilith {
+    _hidden_value = true
+  }
+  hidden_boolean CheerfulSapphireRhody {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ClearTomatoTammy {
+    _hidden_value = true
+  }
+  json TinyAmaranthAgnes {
+    _hidden_value = true
+  }
+  serviceid_number GoldenGrayHalette {
+    _hidden_value = true
+  }
+  string RedWhiteWendie {
+    _hidden_value = true
+  }
+  hidden_boolean InterestedCoffeeDina {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean IndustrialBrownDannye {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid PrivateBronzeCordy {
+    _hidden_value = true
+  }
+  serviceid_number EmpiricalPinkMeara2 {
+    _hidden_value = true
+  }
+  serviceid WidespreadHarlequinJacquette2 {
+    _hidden_value = true
+  }
+  serviceid_number BloodyTomatoTally {
+    _hidden_value = true
+  }
+  serviceid IntelligentMaroonLinnell {
+    _hidden_value = true
+  }
+  hidden_boolean SophisticatedJadeKarlotta {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string EerieAzureBevvy {
+    _hidden_value = true
+  }
+  serviceid YellowGoldGizela {
+    _hidden_value = true
+  }
+  string FineBlackCarlye {
+    _hidden_value = true
+  }
+  AncientAmethystAmalee2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ResultingPurpleNadeen = "What did one nut say as he chased another nut?  I'm a cashew!"
+  OrdinaryCopperEdin = false
+  FatAmaranthAbigale2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

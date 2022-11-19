@@ -1,0 +1,35 @@
+type dummy.UglyYellowZandra4 {
+  number AbleBlushChrista3 {
+  }
+  boolean SatisfactoryLimeKris {
+  }
+  boolean FamiliarCrimsonEstrellita4 {
+  }
+  string RoundAmberAlmeta4 {
+  }
+  json AcuteLavenderKeriann {
+  }
+  boolean RulingLimeKippy3 {
+  }
+  string BoringPeachMarney2 {
+  }
+  number BoldPlumMinette4 {
+  }
+  "List<serviceid_number>" PreciousOrangeMarielle4 {
+  }
+  boolean GoodBlackCaro2 {
+  }
+  string ItalianGoldGray5 {
+  }
+  boolean EvidentIvoryJulita {
+  }
+  json LabourBrownDaffie2 {
+  }
+  hidden_boolean HappyBlackCarolan3 {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  json CharacteristicOliveMalia3 {
+  }
+}

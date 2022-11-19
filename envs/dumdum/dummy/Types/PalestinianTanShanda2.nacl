@@ -1,0 +1,69 @@
+type dummy.PalestinianTanShanda2 {
+  annotations {
+    json WorldwideTanShannen3 {
+    }
+    number EthnicLavenderKaycee {
+    }
+    serviceid InvolvedCoffeeDenice2 {
+    }
+    string TenderAquamarineBecca2 {
+    }
+    boolean EquivalentJadeKala {
+    }
+    json StupidHarlequinJacenta2 {
+    }
+    json CarefulCyanFeodora {
+    }
+  }
+  boolean PoisedTurquoiseThia2 {
+    _hidden_value = true
+  }
+  string GreyEmeraldFrankie {
+    _hidden_value = true
+  }
+  string RaspyApricotAnnmarie {
+    _hidden_value = true
+  }
+  string NarrowAmberAlma2 {
+    _hidden_value = true
+  }
+  boolean BrokenAmaranthAilee {
+    _hidden_value = true
+  }
+  json StuckRoseOralee2 {
+    _hidden_value = true
+  }
+  hidden_boolean DryAmberAlexa3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number HandicappedTanShannon2 {
+    _hidden_value = true
+  }
+  string SpecifiedSalmonPortia2 {
+    _hidden_value = true
+  }
+  string ArabLimeKiri2 {
+    _hidden_value = true
+  }
+  boolean PrivateBronzeCordula2 {
+    _hidden_value = true
+  }
+  hidden_boolean BrownFuchsiaGaynor2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json CorporateEmeraldGarland {
+    _hidden_value = true
+  }
+  WorldwideTanShannen3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  EthnicLavenderKaycee = 220
+  InvolvedCoffeeDenice2 = "I'll tell you what often gets over looked... garden fences."
+  TenderAquamarineBecca2 = "Slept like a log last night  woke up in the fireplace."
+  EquivalentJadeKala = true
+  StupidHarlequinJacenta2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  CarefulCyanFeodora = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

@@ -1,0 +1,102 @@
+type dummy.CompatibleSapphireRenelle3 {
+  annotations {
+    serviceid_number SlowCyanEudora2 {
+    }
+    number MightyWhiteVerena3 {
+    }
+    serviceid ExtraCoffeeDiane3 {
+    }
+    string SymbolicPurpleNadiya4 {
+    }
+    json ImpressedPeachMarisa {
+    }
+    hidden_boolean InclinedRedNyssa2 {
+    }
+  }
+  hidden_boolean LegislativeMaroonLinea {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean EmptyCyanFancie {
+    _hidden_value = true
+  }
+  string BasicChocolateDarleen3 {
+    _hidden_value = true
+  }
+  hidden_boolean OldBlueChantalle3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number NorthernCoralEleanora3 {
+    _hidden_value = true
+  }
+  boolean LoudApricotAnnadiana2 {
+    _hidden_value = true
+  }
+  serviceid SmoggyTurquoiseTiffie2 {
+    _hidden_value = true
+  }
+  hidden_boolean PleasantIvoryJorrie2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ComingSilverSande3 {
+    _hidden_value = true
+  }
+  boolean WastefulYellowZia {
+    _hidden_value = true
+  }
+  string EmpiricalPinkMeara4 {
+    _hidden_value = true
+  }
+  boolean ReligiousCoralElectra {
+    _hidden_value = true
+  }
+  serviceid OddFuchsiaGenna3 {
+    _hidden_value = true
+  }
+  hidden_boolean FantasticBlackCarlotta4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid RuralCoralElse2 {
+    _hidden_value = true
+  }
+  boolean AnnoyedAquamarineBenita3 {
+    _hidden_value = true
+  }
+  number FascinatingOrangeMargaretha3 {
+    _hidden_value = true
+  }
+  boolean FreshCopperDyanne4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BasicChocolateDarla3 {
+    _hidden_value = true
+  }
+  serviceid_number CharmingBeigeCallie2 {
+    _hidden_value = true
+  }
+  boolean StraightHarlequinJaimie3 {
+    _hidden_value = true
+  }
+  serviceid_number TartYellowWynnie2 {
+    _hidden_value = true
+  }
+  serviceid IdeologicalOrangeMargaretta3 {
+    _hidden_value = true
+  }
+  json CurrentBrownDacey {
+    _hidden_value = true
+  }
+  SlowCyanEudora2 = 849
+  MightyWhiteVerena3 = 211
+  ExtraCoffeeDiane3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SymbolicPurpleNadiya4 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ImpressedPeachMarisa = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

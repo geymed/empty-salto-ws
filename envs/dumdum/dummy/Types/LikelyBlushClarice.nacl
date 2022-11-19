@@ -1,0 +1,71 @@
+type dummy.LikelyBlushClarice {
+  annotations {
+    dummy.BoilingAmaranthAgneta ClassicJadeKaja {
+    }
+    serviceid_number ShinyTurquoiseTiff2 {
+    }
+    serviceid UpperCyanFawn {
+    }
+    string ConfidentHarlequinJade {
+    }
+  }
+  json DrabTurquoiseTasha {
+    _hidden_value = true
+  }
+  number CharmingPlumMorgana2 {
+    _hidden_value = true
+  }
+  boolean ElatedBeigeCaralie {
+    _hidden_value = true
+  }
+  number MightyWhiteVerene {
+    _hidden_value = true
+  }
+  json OrganicLimeLaetitia {
+    _hidden_value = true
+  }
+  hidden_boolean HeavyAmethystAndromache {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ScaredSapphireRahel2 {
+    _hidden_value = true
+  }
+  json InevitableIvoryJonell {
+    _hidden_value = true
+  }
+  string EerieAzureBeverly2 {
+    _hidden_value = true
+  }
+  serviceid RainyAquaAurora3 {
+    _hidden_value = true
+  }
+  number EstimatedOrangeMargie {
+    _hidden_value = true
+  }
+  boolean LeftCoffeeDenys {
+    _hidden_value = true
+  }
+  hidden_boolean EnchantingBlackCaresa {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT SaltyApricotArlen {
+    _hidden_value = true
+  }
+  number UglyPlumMicky2 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" ContinentalOliveMagdalen {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  ClassicJadeKaja = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ShinyTurquoiseTiff2 = 355
+  UpperCyanFawn = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ConfidentHarlequinJade = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

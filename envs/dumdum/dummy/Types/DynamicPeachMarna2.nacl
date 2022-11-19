@@ -1,0 +1,22 @@
+type dummy.DynamicPeachMarna2 {
+  annotations {
+    hidden_boolean LinearRedNessie3 {
+    }
+    serviceid InstitutionalMaroonLesli2 {
+    }
+    number FinancialBronzeCorey2 {
+    }
+    json StormyTurquoiseTim4 {
+    }
+    string EvolutionarySilverRuth {
+    }
+  }
+  number NastyMaroonLissa {
+    _hidden_value = true
+  }
+  InstitutionalMaroonLesli2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  FinancialBronzeCorey2 = 814
+  StormyTurquoiseTim4 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  EvolutionarySilverRuth = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

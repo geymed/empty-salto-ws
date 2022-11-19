@@ -1,0 +1,32 @@
+type dummy.VariedRedNorah {
+  annotations {
+    dummy.DailyCyanEvelina SweetAquaAshil2 {
+    }
+    serviceid HollowAmberAllx2 {
+    }
+    json HappyVioletValencia {
+    }
+    number LevelJadeKameko {
+    }
+    string IllEmeraldGae {
+    }
+    boolean VastYellowZarla {
+    }
+  }
+  string SensitiveGrayHenka {
+    _hidden_value = true
+  }
+  boolean OnlyBlushClarey {
+    _hidden_value = true
+  }
+  serviceid GayOrangeMarijo {
+    _hidden_value = true
+  }
+  SweetAquaAshil2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  HollowAmberAllx2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  HappyVioletValencia = "What did one nut say as he chased another nut?  I'm a cashew!"
+  LevelJadeKameko = 601
+  IllEmeraldGae = "Why was it called the dark ages? Because of all the knights. "
+  VastYellowZarla = false
+  _hidden_value = true
+}

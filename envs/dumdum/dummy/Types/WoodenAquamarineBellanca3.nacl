@@ -1,0 +1,24 @@
+type dummy.WoodenAquamarineBellanca3 {
+  annotations {
+    hidden_boolean NiceWhiteVi3 {
+    }
+    number MoralCyanFeliza {
+    }
+    string VisualGreenIngeborg {
+    }
+    serviceid LegislativeMaroonLinet2 {
+    }
+  }
+  hidden_boolean MainBlushCindee {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean PrettyWhiteVirgina3 {
+    _hidden_value = true
+  }
+  MoralCyanFeliza = 573
+  VisualGreenIngeborg = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  LegislativeMaroonLinet2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+}

@@ -1,0 +1,20 @@
+type dummy.GrimScarletRonni {
+  annotations {
+    number BasicChocolateDarleen {
+    }
+    serviceid_number FlakyAmberAlfy3 {
+    }
+    boolean SignificantBrownDanni2 {
+    }
+    number VividTanShay3 {
+    }
+  }
+  serviceid_number DependentGrayHeda3 {
+    _hidden_value = true
+  }
+  BasicChocolateDarleen = 386
+  FlakyAmberAlfy3 = 209
+  SignificantBrownDanni2 = true
+  VividTanShay3 = 22
+  _hidden_value = true
+}

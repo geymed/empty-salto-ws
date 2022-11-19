@@ -1,0 +1,40 @@
+type dummy.DifferentTealSilvana {
+  serviceid_number RobustYellowWilhelmina3 {
+  }
+  string PowerfulTomatoStephani2 {
+  }
+  string SoleLimeKissee {
+  }
+  string QuietWhiteVivien6 {
+  }
+  serviceid SoreBeigeBrigid {
+  }
+  number TastelessAquaAshlee3 {
+  }
+  hidden_boolean BritishBlushCherie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid InternationalBlushClaudette3 {
+  }
+  hidden_boolean PrettyWhiteVirgina6 {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  serviceid_number MildOliveMadalyn4 {
+  }
+  string WetAquamarineBell2 {
+  }
+  json TropicalOliveLuz2 {
+  }
+  dummy.CoolGreenInna FunnyVioletTrula2 {
+    DisappointedMagentaLaurice2 = false
+    UpsetOliveMabel3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+    GrotesqueTurquoiseTersina = 896
+    ModernTealStar = 743
+  }
+  number EnviousAzureBibi {
+  }
+}

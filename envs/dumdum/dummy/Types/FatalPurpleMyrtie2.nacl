@@ -1,0 +1,56 @@
+type dummy.FatalPurpleMyrtie2 {
+  annotations {
+    serviceid GladGoldGlynnis {
+    }
+    json ElaborateRedNicola2 {
+    }
+    hidden_boolean RationalLavenderKatya {
+    }
+    number PublicBlushChrysler {
+    }
+    boolean QuietCoralEkaterina2 {
+    }
+  }
+  string EnthusiasticBlackCarina2 {
+    _hidden_value = true
+  }
+  serviceid_number SleepyTomatoSuki2 {
+    _hidden_value = true
+  }
+  serviceid WelshGrayHattie7 {
+    _hidden_value = true
+  }
+  serviceid InclinedRedNovelia4 {
+    _hidden_value = true
+  }
+  hidden_boolean AbundantAmethystAndi2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean CleanTomatoTamera {
+    _hidden_value = true
+  }
+  number SensibleIvoryJordain {
+    _hidden_value = true
+  }
+  boolean ManyWhiteVera2 {
+    _hidden_value = true
+  }
+  "List<serviceid>" MeltedAquaAurelea {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" WorthyRedOdette3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json AccessibleOrangeMarika3 {
+    _hidden_value = true
+  }
+  GladGoldGlynnis = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ElaborateRedNicola2 = "Why was it called the dark ages? Because of all the knights. "
+  PublicBlushChrysler = 955
+  QuietCoralEkaterina2 = true
+  _hidden_value = true
+}

@@ -1,0 +1,90 @@
+type dummy.MolecularRedNerte5 {
+  annotations {
+    json KeenGrayHana4 {
+    }
+    json ClearBlushCissiee {
+    }
+    json DevelopedPinkMerilyn2 {
+    }
+    json GradualSilverSallee2 {
+    }
+    string UrgentLimeKrysta3 {
+    }
+  }
+  boolean ShrillApricotAntoinette6 {
+    _hidden_value = true
+  }
+  string WorthwhilePinkMelita3 {
+    _hidden_value = true
+  }
+  hidden_boolean FragileTealSondra2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number ContinentalOliveMagdalena2 {
+    _hidden_value = true
+  }
+  json ChiefCopperDorrie2 {
+    _hidden_value = true
+  }
+  serviceid_number JointCoralElita {
+    _hidden_value = true
+  }
+  string CautiousScarletRivy2 {
+    _hidden_value = true
+  }
+  string ExuberantBlackCarla4 {
+    _hidden_value = true
+  }
+  serviceid PoisedTurquoiseThomasin2 {
+    _hidden_value = true
+  }
+  string DecentMoccasinLonnie {
+    _hidden_value = true
+  }
+  number EasternCrimsonEricha {
+    _hidden_value = true
+  }
+  hidden_boolean IncCrimsonErma4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json AwfulAquamarineBernelle3 {
+    _hidden_value = true
+  }
+  string DearGoldGloria2 {
+    _hidden_value = true
+  }
+  string SorryBrownDaphene4 {
+    _hidden_value = true
+  }
+  json BackMoccasinLonna2 {
+    _hidden_value = true
+  }
+  number CooingAmethystAngelita {
+    _hidden_value = true
+  }
+  number ArtisticPeachMathilda4 {
+    _hidden_value = true
+  }
+  boolean AboveIvoryJoyce2 {
+    _hidden_value = true
+  }
+  json ResultingPurpleNada2 {
+    _hidden_value = true
+  }
+  boolean WrittenGreenIvonne3 {
+    _hidden_value = true
+  }
+  json LikePeachMarlo {
+    _hidden_value = true
+  }
+  KeenGrayHana4 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ClearBlushCissiee = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  DevelopedPinkMerilyn2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  GradualSilverSallee2 = "Why did the kid cross the playground? To get to the other slide."
+  UrgentLimeKrysta3 = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

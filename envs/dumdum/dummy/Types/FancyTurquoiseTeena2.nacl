@@ -1,0 +1,28 @@
+type dummy.FancyTurquoiseTeena2 {
+  annotations {
+    serviceid UnemployedIvoryJoly {
+    }
+    dummy.UnhappyMaroonLibby UglyPlumMicky {
+    }
+    dummy.DEFAULT SimpleBronzeCorly {
+    }
+    hidden_boolean OccasionalIvoryJulietta {
+    }
+    dummy.DEFAULT ControversialLimeKrystyna {
+    }
+    hidden_boolean NosyWhiteVictoria {
+    }
+  }
+  dummy.DEFAULT DemocraticCrimsonEmyle2 {
+    _hidden_value = true
+  }
+  UnemployedIvoryJoly = "Im only familiar with 25 letters in the English language. I dont know why."
+  UglyPlumMicky = false
+  SimpleBronzeCorly = {
+    legit = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  ControversialLimeKrystyna = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  _hidden_value = true
+}

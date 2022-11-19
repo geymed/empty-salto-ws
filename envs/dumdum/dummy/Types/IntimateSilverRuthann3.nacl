@@ -1,0 +1,44 @@
+type dummy.IntimateSilverRuthann3 {
+  annotations {
+    string NarrowAmberAlma4 {
+    }
+    hidden_boolean NumerousAmethystAngelia2 {
+    }
+    serviceid SeriousBrownDani2 {
+    }
+    dummy.DEFAULT HarshAmethystAnitra2 {
+    }
+    hidden_boolean FormidableSilverSabra {
+    }
+  }
+  serviceid_number MonthlyMaroonLinnell {
+    _hidden_value = true
+  }
+  number ReliableLavenderKiley {
+    _hidden_value = true
+  }
+  serviceid_number OddFuchsiaGenni {
+    _hidden_value = true
+  }
+  boolean TameTomatoSusanna {
+    _hidden_value = true
+  }
+  serviceid_number GratefulIvoryJori2 {
+    _hidden_value = true
+  }
+  json DeepAmberAllegra4 {
+    _hidden_value = true
+  }
+  number UnusualGoldGizela {
+    _hidden_value = true
+  }
+  number RuralCoralElsa3 {
+    _hidden_value = true
+  }
+  NarrowAmberAlma4 = "To be Frank, I'd have to change my name."
+  SeriousBrownDani2 = "A steak pun is a rare medium well done."
+  HarshAmethystAnitra2 = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  _hidden_value = true
+}

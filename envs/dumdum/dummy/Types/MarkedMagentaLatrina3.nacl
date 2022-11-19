@@ -1,0 +1,54 @@
+type dummy.MarkedMagentaLatrina3 {
+  annotations {
+    serviceid NervousAzureBrana5 {
+    }
+    serviceid_number SquealingApricotApril {
+    }
+    string EverydayLimeLacee {
+    }
+    number StiffPeachMaryanna3 {
+    }
+    serviceid_number SpareMaroonLillian3 {
+    }
+    string WelshGrayHattie8 {
+    }
+  }
+  dummy.DEFAULT FriendlyBlackCarmel3 {
+    _hidden_value = true
+  }
+  serviceid_number AlliedPlumMisti2 {
+    _hidden_value = true
+  }
+  hidden_boolean SensibleIvoryJordain2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SouthernCyanEvey5 {
+    _hidden_value = true
+  }
+  string ItchyVioletValentine2 {
+    _hidden_value = true
+  }
+  number IllAzureBobbette {
+    _hidden_value = true
+  }
+  serviceid_number RussianCyanFelicle {
+    _hidden_value = true
+  }
+  serviceid ExperimentalLavenderKatlin {
+    _hidden_value = true
+  }
+  hidden_boolean ParticularBlushClaudelle3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  NervousAzureBrana5 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  SquealingApricotApril = 327
+  EverydayLimeLacee = "To be Frank, I'd have to change my name."
+  StiffPeachMaryanna3 = 577
+  SpareMaroonLillian3 = 976
+  WelshGrayHattie8 = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

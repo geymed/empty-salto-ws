@@ -1,0 +1,43 @@
+type dummy.JointCoralElissa3 {
+  annotations {
+    serviceid_number FundamentalFuchsiaGenevieve {
+    }
+    serviceid_number DistantIndigoJillian4 {
+    }
+    hidden_boolean OddWhiteVinni {
+    }
+    serviceid_number AwfulAquamarineBernelle2 {
+    }
+    string UgliestYellowZaneta3 {
+    }
+    serviceid_number CloudyTomatoTana2 {
+    }
+  }
+  number BlondeTomatoTalia3 {
+    _hidden_value = true
+  }
+  serviceid_number NeutralPeachMarys2 {
+    _hidden_value = true
+  }
+  number YoungAmethystAndee2 {
+    _hidden_value = true
+  }
+  string SmoothIndigoJemmie2 {
+    _hidden_value = true
+  }
+  boolean HomelyTurquoiseTessie {
+    _hidden_value = true
+  }
+  number WidespreadHarlequinJacquie2 {
+    _hidden_value = true
+  }
+  string ResponsibleCoffeeDevi {
+    _hidden_value = true
+  }
+  FundamentalFuchsiaGenevieve = 596
+  DistantIndigoJillian4 = 924
+  AwfulAquamarineBernelle2 = 863
+  UgliestYellowZaneta3 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  CloudyTomatoTana2 = 679
+  _hidden_value = true
+}

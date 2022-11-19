@@ -1,0 +1,90 @@
+type dummy.TroubledBeigeBrittani2 {
+  annotations {
+    number GiantMoccasinLottie2 {
+    }
+    string ContinuousIvoryJsandye {
+    }
+    boolean EmbarrassedAzureBibby3 {
+    }
+    number DangerousAzureBethena2 {
+    }
+    string DemocraticCrimsonEmylee4 {
+    }
+  }
+  boolean RenewedSilverSandy3 {
+    _hidden_value = true
+  }
+  string BrokenIndigoJoceline {
+    _hidden_value = true
+  }
+  dummy.FollowingBrownCynthia MiniatureAmaranthAdriana4 {
+    SoftCoralElana = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    InherentRedNoami = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    PleasantBlueCathe = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    PlasticAquaAurelia = "What do you call two barracuda fish?  A Pairacuda!"
+    BriefAmethystAmaleta = "What did one nut say as he chased another nut?  I'm a cashew!"
+    RuralCoralElsa = "A steak pun is a rare medium well done."
+    GoverningTanSena = 313
+    GrievingAzureBlanca = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    PricklyWhiteVittoria = 169
+    ScatteredAquaAveryl = "Why did the kid cross the playground? To get to the other slide."
+    ItchyVioletValentina = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    _hidden_value = true
+  }
+  dummy.DEFAULT CuddlyAmberAlayne2 {
+    _hidden_value = true
+  }
+  serviceid HighAmberAllis {
+    _hidden_value = true
+  }
+  number ParliamentaryFuchsiaGertrudis2 {
+    _hidden_value = true
+  }
+  number DeterminedOrangeMarilyn {
+    _hidden_value = true
+  }
+  hidden_boolean ComparativePlumModesta {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean RedWhiteWendie3 {
+    _hidden_value = true
+  }
+  hidden_boolean MetropolitanOrangeMargaux2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid QuaintTurquoiseTiena {
+    _hidden_value = true
+  }
+  string TastelessAquaAshleigh {
+    _hidden_value = true
+  }
+  hidden_boolean FoolishAzureBinni3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean StingyYellowWinnah3 {
+    _hidden_value = true
+  }
+  hidden_boolean MushyWhiteVerla5 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  GiantMoccasinLottie2 = 505
+  ContinuousIvoryJsandye = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  EmbarrassedAzureBibby3 = false
+  DangerousAzureBethena2 = 580
+  DemocraticCrimsonEmylee4 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

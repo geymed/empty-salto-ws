@@ -1,0 +1,131 @@
+type dummy.ShortAmaranthAgace {
+  annotations {
+    string MetropolitanOrangeMargarita {
+    }
+    json BloodyTomatoTallulah {
+    }
+    serviceid PleasantBlackCatharina {
+    }
+    dummy.PassingSalmonPippa ScreechingApricotAnthea2 {
+    }
+    boolean AttractiveCyanFerne {
+    }
+    hidden_boolean MildOliveMaddi {
+    }
+    json MechanicalMagentaLeonelle2 {
+    }
+  }
+  dummy.DailyCyanEvelina CleverTealSibby3 {
+    _hidden_value = true
+  }
+  json FastEmeraldFlor2 {
+    _hidden_value = true
+  }
+  dummy.AwakeRedNola BraveMoccasinLucinda2 {
+    IrrelevantPurpleNani = false
+    RealBlushClarie = true
+    RapidGrayHildagarde = "I'll tell you what often gets over looked... garden fences."
+    ZanyYellowZorine = 614
+    CertainBronzeClemmie = 924
+    VivaciousBlueCecilla = true
+    ConservationPlumMoira = 325
+    GrossLavenderKetty = false
+    NetGoldGladys = 907
+    AccessibleOrangeMarika = false
+    BadAquamarineBernetta = true
+    InnovativeTanSheeree = "My first time using an elevator was an uplifting experience. The second time let me down."
+    WillingGoldGusti = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ParallelMoccasinLuelle = 459
+    SadYellowWilletta = "My first time using an elevator was an uplifting experience. The second time let me down."
+    EligiblePurpleNeille = 227
+    _hidden_value = true
+  }
+  json LongBlueChelsy2 {
+    _hidden_value = true
+  }
+  json MarxistSapphireRakel2 {
+    _hidden_value = true
+  }
+  boolean MarineMagentaLeone {
+    _hidden_value = true
+  }
+  json AwkwardPeachMaryl {
+    _hidden_value = true
+  }
+  serviceid_number ProfitablePurpleNaoma3 {
+    _hidden_value = true
+  }
+  hidden_boolean FatVioletTrix {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "Map<dummy.DEFAULT>" AbundantAmethystAndeee {
+    _hidden_value = true
+  }
+  serviceid SuspiciousPurpleMyriam {
+    _hidden_value = true
+  }
+  serviceid_number SexualCopperDynah {
+    _hidden_value = true
+  }
+  boolean BroadCoralElisabetta {
+    _hidden_value = true
+  }
+  string YellowYellowZonda {
+    _hidden_value = true
+  }
+  json CulturalCoralElianore3 {
+    _hidden_value = true
+  }
+  json SkinnyAmberAlta {
+    _hidden_value = true
+  }
+  hidden_boolean MeaningfulTanSher {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT FunctionalMaroonLexi2 {
+    _hidden_value = true
+  }
+  serviceid_number GorgeousVioletUrsa {
+    _hidden_value = true
+  }
+  json WateryYellowZelma {
+    _hidden_value = true
+  }
+  dummy.SpotlessTurquoiseTildy BriefAmethystAmalia2 {
+    ResonantApricotAnstice = true
+    LittleAmaranthAdella = 644
+    NegativeFuchsiaGavra = 363
+    LocalBlueCharmaine = "I'll tell you what often gets over looked... garden fences."
+    CuriousLimeKira = "Why did the tomato blush? Because it saw the salad dressing."
+    MedicalCoffeeDevonne = true
+    InnocentMagentaLari = false
+    LoudLavenderKiele = 388
+    CleverTealSibby = 194
+    FunOrangeMarcy = 104
+    ChillyAmaranthAilis = 937
+    GentleIndigoJoceline = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  string AccusedSilverSallyann {
+    _hidden_value = true
+  }
+  serviceid_number ThirstyAquaAstra2 {
+    _hidden_value = true
+  }
+  hidden_boolean SystematicOrangeMarcella3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  MetropolitanOrangeMargarita = "Why do birds fly south for the winter? Because it's too far to walk."
+  BloodyTomatoTallulah = "Why do birds fly south for the winter? Because it's too far to walk."
+  PleasantBlackCatharina = "I'll tell you what often gets over looked... garden fences."
+  ScreechingApricotAnthea2 = 240
+  AttractiveCyanFerne = false
+  MechanicalMagentaLeonelle2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

@@ -1,0 +1,45 @@
+type dummy.AverageTomatoTabbitha is boolean {
+  annotations {
+    json LonelyAzureBobine {
+    }
+    serviceid_number ComplexCopperDrucy {
+    }
+    serviceid_number DangerousCrimsonEssie {
+    }
+    hidden_boolean CanadianPlumMinetta {
+    }
+    string FreshCopperDyanne {
+    }
+    boolean DepressedAzureBetty {
+    }
+    serviceid_number HiddenRedOdessa {
+    }
+    number ProminentLavenderKelci {
+    }
+    serviceid_number ImmensePlumMirna {
+    }
+    boolean NavalPinkMelamie {
+    }
+    number MysteriousAzureBobinette {
+    }
+    boolean RenewedSilverSandy {
+    }
+    number PriorRosePauli {
+    }
+    number EagerBeigeCandis {
+    }
+  }
+  LonelyAzureBobine = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ComplexCopperDrucy = 788
+  DangerousCrimsonEssie = 583
+  FreshCopperDyanne = "Why did the kid cross the playground? To get to the other slide."
+  DepressedAzureBetty = false
+  HiddenRedOdessa = 429
+  ProminentLavenderKelci = 923
+  ImmensePlumMirna = 100
+  NavalPinkMelamie = true
+  MysteriousAzureBobinette = 618
+  RenewedSilverSandy = false
+  PriorRosePauli = 769
+  EagerBeigeCandis = 546
+}

@@ -1,0 +1,22 @@
+type dummy.DisturbedAzureBeverley2 {
+  annotations {
+    number RelevantCoffeeDora7 {
+    }
+    boolean PaleGrayHarriet2 {
+    }
+    number BeautifulCoffeeDixie {
+    }
+    hidden_boolean SpicyAquaArleyne4 {
+    }
+    serviceid PrimaryCoffeeDodie2 {
+    }
+  }
+  boolean ComplicatedIndigoJoanna {
+    _hidden_value = true
+  }
+  RelevantCoffeeDora7 = 243
+  PaleGrayHarriet2 = true
+  BeautifulCoffeeDixie = 790
+  PrimaryCoffeeDodie2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

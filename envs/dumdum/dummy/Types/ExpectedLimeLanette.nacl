@@ -1,0 +1,86 @@
+type dummy.ExpectedLimeLanette {
+  annotations {
+    serviceid_number ContemporaryFuchsiaGeorgiana2 {
+    }
+    dummy.MightyTanShandra HomelessAzureBlinnie3 {
+    }
+    hidden_boolean NewBlueChandal7 {
+    }
+    serviceid MeaningfulTealSheree {
+    }
+    string PowerfulTomatoStephana2 {
+    }
+    serviceid SensitiveGrayHenka3 {
+    }
+  }
+  string DynamicPeachMarney2 {
+    _hidden_value = true
+  }
+  dummy.CommonBronzeConstantine CleverTealSibby7 {
+    CrazyTealSibyl = 505
+    _hidden_value = true
+  }
+  serviceid_number TestyYellowYolanda3 {
+    _hidden_value = true
+  }
+  boolean MildOliveMaddalena {
+    _hidden_value = true
+  }
+  boolean CruelAquamarineBethany2 {
+    _hidden_value = true
+  }
+  serviceid_number IllegalJadeKarole2 {
+    _hidden_value = true
+  }
+  json UsefulChocolateDedra3 {
+    _hidden_value = true
+  }
+  dummy.PassivePurpleMyranda ZanyYellowZulema3 {
+    RepulsiveBeigeBrena = true
+    DiverseRedNicol = 571
+    LegitimatePinkMaxine = "What do you call two barracuda fish?  A Pairacuda!"
+    ObligedOrangeMarcelline = 149
+    FluffyAmberAlia = true
+    FunnyVioletTuesday = "What did one nut say as he chased another nut?  I'm a cashew!"
+    RelaxedPlumMinnie = false
+    AwfulAquamarineBernelle = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    DomesticCopperEba = 399
+    FuzzyAquaAtlante = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    _hidden_value = true
+  }
+  boolean UpsetOliveMabel5 {
+    _hidden_value = true
+  }
+  boolean ForthcomingPeachMarquita2 {
+    _hidden_value = true
+  }
+  dummy.PassivePurpleMyranda HilariousBlackCarolyne4 {
+    RepulsiveBeigeBrena = false
+    DiverseRedNicol = 776
+    LegitimatePinkMaxine = "A steak pun is a rare medium well done."
+    ObligedOrangeMarcelline = 377
+    FluffyAmberAlia = true
+    FunnyVioletTuesday = "Did you know that protons have mass? I didn't even know they were catholic."
+    RelaxedPlumMinnie = true
+    AwfulAquamarineBernelle = "I'll tell you what often gets over looked... garden fences."
+    DomesticCopperEba = 660
+    FuzzyAquaAtlante = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    _hidden_value = true
+  }
+  number PalestinianTanShana3 {
+    _hidden_value = true
+  }
+  json RetailMagentaLeontine3 {
+    _hidden_value = true
+  }
+  ContemporaryFuchsiaGeorgiana2 = 845
+  HomelessAzureBlinnie3 = false
+  MeaningfulTealSheree = "Why did the kid cross the playground? To get to the other slide."
+  PowerfulTomatoStephana2 = "Why did the kid cross the playground? To get to the other slide."
+  SensitiveGrayHenka3 = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

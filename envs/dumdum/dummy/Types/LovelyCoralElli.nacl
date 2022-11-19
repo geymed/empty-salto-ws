@@ -1,0 +1,51 @@
+type dummy.LovelyCoralElli {
+  annotations {
+    serviceid CommunistGoldGiuditta3 {
+    }
+    json StructuralIvoryJosephine3 {
+    }
+    serviceid_number ProgressiveOliveMadelin {
+    }
+    serviceid_number PregnantLimeKizzie3 {
+    }
+    dummy.DEFAULT UsedFuchsiaGeorgeanne4 {
+    }
+    number ChangingJadeKassi {
+    }
+  }
+  serviceid_number ElegantTurquoiseTeddi3 {
+    _hidden_value = true
+  }
+  "List<string>" BlueCoffeeDiahann {
+    _hidden_value = true
+  }
+  number PremierOrangeMari4 {
+    _hidden_value = true
+  }
+  json OutdoorSilverSarine {
+    _hidden_value = true
+  }
+  serviceid SpontaneousTanSharyl4 {
+    _hidden_value = true
+  }
+  number YoungAmethystAnastassia {
+    _hidden_value = true
+  }
+  hidden_boolean ExoticScarletRina {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number PoorTealSteffie2 {
+    _hidden_value = true
+  }
+  CommunistGoldGiuditta3 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  StructuralIvoryJosephine3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ProgressiveOliveMadelin = 0
+  PregnantLimeKizzie3 = 168
+  UsedFuchsiaGeorgeanne4 = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  ChangingJadeKassi = 994
+  _hidden_value = true
+}

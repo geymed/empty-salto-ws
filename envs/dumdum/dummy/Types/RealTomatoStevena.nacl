@@ -1,0 +1,56 @@
+type dummy.RealTomatoStevena {
+  annotations {
+    json LateBlushChristal {
+    }
+    dummy.WorryingSilverRozamond ArtisticPeachMathilda2 {
+    }
+    json IllegalJadeKaroly {
+    }
+    string WhiteBronzeClovis {
+    }
+    serviceid BareLavenderKelli {
+    }
+    number VaguePinkMehetabel {
+    }
+  }
+  serviceid_number CleanTomatoTamiko {
+    _hidden_value = true
+  }
+  json PunyAmaranthAdrienne {
+    _hidden_value = true
+  }
+  string ParallelMoccasinLudovika {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MolecularRedNerte3 {
+    _hidden_value = true
+  }
+  number EnglishBrownCourtney {
+    _hidden_value = true
+  }
+  string CreativeJadeKania {
+    _hidden_value = true
+  }
+  number SuperTomatoSusanna {
+    _hidden_value = true
+  }
+  json DepressedPinkMelanie {
+    _hidden_value = true
+  }
+  boolean ProposedGoldGweneth {
+    _hidden_value = true
+  }
+  serviceid OrdinaryWhiteVioletta {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FriendlyBlackCarmel {
+    _hidden_value = true
+  }
+  LateBlushChristal = "Why is Peter Pan always flying? Because he Neverlands."
+  ArtisticPeachMathilda2 = 95
+  IllegalJadeKaroly = "Why did the tomato blush? Because it saw the salad dressing."
+  WhiteBronzeClovis = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  BareLavenderKelli = "A steak pun is a rare medium well done."
+  VaguePinkMehetabel = 218
+  _hidden_value = true
+}

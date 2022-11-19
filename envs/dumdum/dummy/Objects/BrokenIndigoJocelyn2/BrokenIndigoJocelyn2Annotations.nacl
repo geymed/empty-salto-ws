@@ -1,0 +1,50 @@
+type dummy.BrokenIndigoJocelyn2 {
+  annotations {
+    dummy.BoilingAmaranthAgneta ModernTealStar2 {
+    }
+    dummy.CommonBronzeConstantine ProfoundPinkMerlina5 {
+    }
+    hidden_boolean DiplomaticMagentaLenore3 {
+    }
+    hidden_boolean DepressedPinkMelantha2 {
+    }
+    json ManualRosePaola4 {
+    }
+    hidden_boolean PassingSalmonPollyanna4 {
+    }
+    dummy.HappyBrownDaisy GeneticMoccasinLorie5 {
+    }
+    string RapidAmethystAna {
+    }
+    json AbleBlushChrissie2 {
+    }
+    dummy.InteriorPurpleNatividad MiserableSalmonQuintina3 {
+    }
+    hidden_boolean LongBlueChelsie {
+    }
+    number WastefulYellowZita3 {
+    }
+    string SaltyApricotArlena {
+    }
+    boolean LowBlushChristina2 {
+    }
+    dummy.JuniorIvoryJonie2 SkinnyAmberAlverta {
+    }
+    serviceid_number PhysicalCoffeeDenise2 {
+    }
+    string UnacceptableSalmonPenelopa6 {
+    }
+    hidden_boolean IndividualBrownCrystie4 {
+    }
+  }
+  ModernTealStar2 = file("FilthyAmberAlfie2.txt")
+  ProfoundPinkMerlina5 = 861
+  ManualRosePaola4 = "Why didnt the skeleton cross the road? Because he had no guts."
+  RapidAmethystAna = "Why did the tomato blush? Because it saw the salad dressing."
+  AbleBlushChrissie2 = "What creature is smarter than a talking parrot? A spelling bee."
+  WastefulYellowZita3 = 686
+  SaltyApricotArlena = "Why didnt the skeleton cross the road? Because he had no guts."
+  LowBlushChristina2 = false
+  PhysicalCoffeeDenise2 = 217
+  UnacceptableSalmonPenelopa6 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+}

@@ -1,0 +1,52 @@
+type dummy.LegitimatePinkMaybelle4 {
+  annotations {
+    string EqualCrimsonEmiline {
+    }
+    serviceid DelightedIvoryJulianna3 {
+    }
+    number BigBlushChicky {
+    }
+    json SmoothIndigoJemmy6 {
+    }
+    serviceid TightIvoryJoelynn2 {
+    }
+  }
+  number SmoothAquamarineBarbi2 {
+    _hidden_value = true
+  }
+  boolean ConstantEmeraldFrannie {
+    _hidden_value = true
+  }
+  serviceid_number CivilCoffeeDode2 {
+    _hidden_value = true
+  }
+  string DistinctTurquoiseTatiania {
+    _hidden_value = true
+  }
+  json BusyTealShirlene4 {
+    _hidden_value = true
+  }
+  number DizzyVioletTricia2 {
+    _hidden_value = true
+  }
+  boolean SadYellowWillette {
+    _hidden_value = true
+  }
+  hidden_boolean ImportantBlueChastity4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number UnwillingTanShelia2 {
+    _hidden_value = true
+  }
+  serviceid AutonomousScarletRora3 {
+    _hidden_value = true
+  }
+  EqualCrimsonEmiline = "What do you call two barracuda fish?  A Pairacuda!"
+  DelightedIvoryJulianna3 = "Why was it called the dark ages? Because of all the knights. "
+  BigBlushChicky = 983
+  SmoothIndigoJemmy6 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  TightIvoryJoelynn2 = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

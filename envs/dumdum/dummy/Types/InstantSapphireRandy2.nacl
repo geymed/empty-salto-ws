@@ -1,0 +1,72 @@
+type dummy.InstantSapphireRandy2 {
+  annotations {
+    number GastricMagentaLavinia {
+    }
+    boolean TastyAquaAshley {
+    }
+    json ShyScarletRosene2 {
+    }
+    json NewWhiteVevay {
+    }
+  }
+  boolean TotalBrownDaniella3 {
+    _hidden_value = true
+  }
+  json StatisticalMagentaLanna2 {
+    _hidden_value = true
+  }
+  json BewilderedAquamarineBernie2 {
+    _hidden_value = true
+  }
+  serviceid_number InvolvedCoffeeDena3 {
+    _hidden_value = true
+  }
+  serviceid_number SweetAquaAshlan4 {
+    _hidden_value = true
+  }
+  number CondemnedAquamarineBerthe5 {
+    _hidden_value = true
+  }
+  json GoverningTanSelma2 {
+    _hidden_value = true
+  }
+  json PreferredTanScarlet4 {
+    _hidden_value = true
+  }
+  hidden_boolean CorrespondingPlumMinta {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<json>" BadAquamarineBernetta2 {
+    _hidden_value = true
+  }
+  json MultipleLimeKinna3 {
+    _hidden_value = true
+  }
+  dummy.ProposedGoldGwendolen SeniorCoffeeDonelle {
+    GrowingCrimsonEnrica = 552
+    DelicateOliveMable = 251
+    OkSapphireRhianon = 116
+    ClosedMagentaLeilah = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    AlertTomatoTabatha = true
+    StrongBronzeColly = 490
+    NavalPinkMel = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    _hidden_value = true
+  }
+  number GoodBlueCesya {
+    _hidden_value = true
+  }
+  number VastEmeraldFreddie {
+    _hidden_value = true
+  }
+  GastricMagentaLavinia = 344
+  TastyAquaAshley = true
+  ShyScarletRosene2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  NewWhiteVevay = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

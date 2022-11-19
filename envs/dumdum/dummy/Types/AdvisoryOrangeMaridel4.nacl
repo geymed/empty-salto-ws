@@ -1,0 +1,43 @@
+type dummy.AdvisoryOrangeMaridel4 {
+  annotations {
+    boolean BlackBlushClarita5 {
+    }
+    hidden_boolean ShortYellowWilona2 {
+    }
+    serviceid TragicRosePaulita2 {
+    }
+    number RattyWhiteWaneta4 {
+    }
+    string ThunderingApricotArabelle2 {
+    }
+  }
+  boolean IsolatedPeachMarjy2 {
+    _hidden_value = true
+  }
+  dummy.InteriorPurpleNathalie UnevenAquamarineBeilul3 {
+    ShaggyAquaAviva = 501
+    ThenSalmonPhylis = 425
+    PassingSalmonPolly = "Did you know that protons have mass? I didn't even know they were catholic."
+    DemocraticCrimsonEmyle = 572
+    StrikingOliveMag = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ExcellentCoralEilis = 599
+    _hidden_value = true
+  }
+  number PsychiatricSilverRozalie {
+    _hidden_value = true
+  }
+  number LongAmaranthAdina {
+    _hidden_value = true
+  }
+  "List<string>" FatalPurpleMyrtia4 {
+    _hidden_value = true
+  }
+  "List<json>" AverageCoralElysee2 {
+    _hidden_value = true
+  }
+  BlackBlushClarita5 = false
+  TragicRosePaulita2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  RattyWhiteWaneta4 = 964
+  ThunderingApricotArabelle2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

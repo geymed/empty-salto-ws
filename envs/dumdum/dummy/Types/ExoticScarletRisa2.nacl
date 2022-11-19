@@ -1,0 +1,100 @@
+type dummy.ExoticScarletRisa2 {
+  annotations {
+    boolean HushedApricotAnnadiane2 {
+    }
+    serviceid StingyYellowWinni {
+    }
+    number WeakFuchsiaGayle {
+    }
+    hidden_boolean RacialPlumMickie {
+    }
+  }
+  serviceid GloriousScarletRosanne3 {
+    _hidden_value = true
+  }
+  json UnfairMaroonLilia {
+    _hidden_value = true
+  }
+  hidden_boolean UniqueFuchsiaGerti {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<serviceid_number>" SleepyTomatoSuki {
+    _hidden_value = true
+  }
+  boolean PatientPurpleNanine2 {
+    _hidden_value = true
+  }
+  serviceid DoubtfulTealSiobhan {
+    _hidden_value = true
+  }
+  hidden_boolean UgliestYellowZaneta2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string RelaxedPlumMinni {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CleverTealSibby4 {
+    _hidden_value = true
+  }
+  serviceid HungryMaroonLisabeth {
+    _hidden_value = true
+  }
+  serviceid_number CharmingPlumMorgan {
+    _hidden_value = true
+  }
+  dummy.CommonBronzeConstantine RoundAmberAlmeta2 {
+    CrazyTealSibyl = 660
+    _hidden_value = true
+  }
+  serviceid RepresentativePinkMerola2 {
+    _hidden_value = true
+  }
+  number MusicalIndigoJobey {
+    _hidden_value = true
+  }
+  string NeutralPeachMarys {
+    _hidden_value = true
+  }
+  number BetterVioletTomasine {
+    _hidden_value = true
+  }
+  string GentleIndigoJocelin {
+    _hidden_value = true
+  }
+  hidden_boolean BeautifulVioletTommie2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number NetGoldGleda {
+    _hidden_value = true
+  }
+  serviceid CriminalFuchsiaGeorgetta3 {
+    _hidden_value = true
+  }
+  serviceid FaintAmethystAnita2 {
+    _hidden_value = true
+  }
+  string CrazyMoccasinLorrayne {
+    _hidden_value = true
+  }
+  number PreciseIndigoJobie {
+    _hidden_value = true
+  }
+  hidden_boolean AtomicScarletRory2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean YoungAmethystAndeee {
+    _hidden_value = true
+  }
+  HushedApricotAnnadiane2 = false
+  StingyYellowWinni = "Slept like a log last night  woke up in the fireplace."
+  WeakFuchsiaGayle = 315
+  _hidden_value = true
+}

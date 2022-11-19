@@ -1,0 +1,64 @@
+type dummy.ProbableSalmonPhyllys3 {
+  annotations {
+    serviceid_number OutstandingTealStefanie {
+    }
+    number TallAmaranthAgna {
+    }
+    serviceid_number MagnificentMagentaLeena {
+    }
+    dummy.ShallowAmberAloysia FormidableSilverSabrina3 {
+    }
+  }
+  hidden_boolean CrazyTealSibylla2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ContinuingGreenIsa2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean MotionlessTurquoiseTheodora {
+    _hidden_value = true
+  }
+  serviceid_number MaximumGreenImelda {
+    _hidden_value = true
+  }
+  serviceid_number PartialOliveLyndsay {
+    _hidden_value = true
+  }
+  serviceid_number RetailMagentaLeontine {
+    _hidden_value = true
+  }
+  json ContentPeachMatti2 {
+    _hidden_value = true
+  }
+  serviceid_number ObjectiveOrangeManda2 {
+    _hidden_value = true
+  }
+  dummy.WorryingSilverRozamond PhysicalCoffeeDennie {
+    StormyTurquoiseTim = 297
+    IntegratedOliveMady = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    UltimateJadeKamillah = "I'll tell you what often gets over looked... garden fences."
+    QuickWhiteVivyan = 623
+    _hidden_value = true
+  }
+  boolean PrettyWhiteVirginia {
+    _hidden_value = true
+  }
+  number ProspectiveRedNettle {
+    _hidden_value = true
+  }
+  "List<number>" BlueVioletTori {
+    _hidden_value = true
+  }
+  json LazyWhiteVanni2 {
+    _hidden_value = true
+  }
+  OutstandingTealStefanie = 764
+  TallAmaranthAgna = 798
+  MagnificentMagentaLeena = 121
+  FormidableSilverSabrina3 = false
+  _hidden_value = true
+}

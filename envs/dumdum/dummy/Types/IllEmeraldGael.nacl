@@ -1,0 +1,26 @@
+type dummy.IllEmeraldGael {
+  annotations {
+    serviceid_number DistantIndigoJilly2 {
+    }
+    dummy.DEFAULT DeterminedOrangeMarillin2 {
+    }
+    serviceid SteadyJadeKaitlin {
+    }
+    hidden_boolean SimpleBronzeCorissa {
+    }
+    serviceid_number RealBlushClarine {
+    }
+  }
+  hidden_boolean GermanChocolateDelia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  DistantIndigoJilly2 = 21
+  DeterminedOrangeMarillin2 = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  SteadyJadeKaitlin = "A steak pun is a rare medium well done."
+  RealBlushClarine = 105
+  _hidden_value = true
+}

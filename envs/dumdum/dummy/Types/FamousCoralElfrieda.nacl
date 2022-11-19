@@ -1,0 +1,35 @@
+type dummy.FamousCoralElfrieda is number {
+  annotations {
+    number ChristianCoralElvera {
+    }
+    serviceid NoblePurpleNatty {
+    }
+    json PassivePurpleMyra {
+    }
+    string GeographicalPeachMarlene {
+    }
+    dummy.DEFAULT AwakeRedNola2 {
+    }
+    hidden_boolean CivicTanShellie {
+    }
+    number DeepAmberAllegra {
+    }
+    json OrangePurpleMufinella {
+    }
+    json FascinatingOrangeMargareta {
+    }
+    number IntellectualJadeKalina {
+    }
+  }
+  ChristianCoralElvera = 56
+  NoblePurpleNatty = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  PassivePurpleMyra = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  GeographicalPeachMarlene = "Slept like a log last night  woke up in the fireplace."
+  AwakeRedNola2 = {
+    legit = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  DeepAmberAllegra = 934
+  OrangePurpleMufinella = "Did you know that protons have mass? I didn't even know they were catholic."
+  FascinatingOrangeMargareta = "Why do birds fly south for the winter? Because it's too far to walk."
+  IntellectualJadeKalina = 286
+}

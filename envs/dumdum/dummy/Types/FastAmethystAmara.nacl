@@ -1,0 +1,41 @@
+type dummy.FastAmethystAmara {
+  annotations {
+    dummy.UnhappyMaroonLibby UniversalJadeKacy {
+    }
+    boolean SharedPinkMelba2 {
+    }
+    string CharmingPlumMorena3 {
+    }
+    dummy.StrategicIndigoJehanna MiniatureAmaranthAdrian2 {
+    }
+    number ShortYellowWilone3 {
+    }
+    json SecondaryFuchsiaGertie2 {
+    }
+    json ShyScarletRosetta2 {
+    }
+    serviceid SilentGrayHarli2 {
+    }
+  }
+  serviceid ProductivePlumMolly2 {
+    _hidden_value = true
+  }
+  string TastelessAquaAshleigh2 {
+    _hidden_value = true
+  }
+  string TanYellowYettie2 {
+    _hidden_value = true
+  }
+  number BlankPinkMelody3 {
+    _hidden_value = true
+  }
+  UniversalJadeKacy = false
+  SharedPinkMelba2 = true
+  CharmingPlumMorena3 = "Why did the kid cross the playground? To get to the other slide."
+  MiniatureAmaranthAdrian2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ShortYellowWilone3 = 630
+  SecondaryFuchsiaGertie2 = "Why did the tomato blush? Because it saw the salad dressing."
+  ShyScarletRosetta2 = "What creature is smarter than a talking parrot? A spelling bee."
+  SilentGrayHarli2 = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

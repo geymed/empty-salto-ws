@@ -1,0 +1,22 @@
+type dummy.TinyAmaranthAgnes4 {
+  annotations {
+    boolean LatinLimeKonstanze2 {
+    }
+    dummy.LoudLavenderKial ModeratePurpleNatalina2 {
+    }
+    number ClassicJadeKaitlynn3 {
+    }
+    dummy.DEFAULT ConcernedTealSibelle4 {
+    }
+  }
+  serviceid SensitiveGrayHenka2 {
+    _hidden_value = true
+  }
+  LatinLimeKonstanze2 = true
+  ModeratePurpleNatalina2 = 398
+  ClassicJadeKaitlynn3 = 15
+  ConcernedTealSibelle4 = {
+    legit = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  _hidden_value = true
+}

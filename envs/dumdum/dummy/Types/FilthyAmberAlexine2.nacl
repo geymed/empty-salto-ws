@@ -1,0 +1,19 @@
+type dummy.FilthyAmberAlexine2 {
+  annotations {
+    string LiteraryGreenIrina {
+    }
+    string DualSapphireRhetta2 {
+    }
+    number ChubbyAmberAline {
+    }
+  }
+  hidden_boolean InitialCoralElsie2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  LiteraryGreenIrina = "What creature is smarter than a talking parrot? A spelling bee."
+  DualSapphireRhetta2 = "How come the stadium got hot after the game? Because all of the fans left."
+  ChubbyAmberAline = 811
+  _hidden_value = true
+}

@@ -1,0 +1,29 @@
+type dummy.NervousAzureBrana2 {
+  annotations {
+    json ConceptualTanShelba3 {
+    }
+    hidden_boolean FunctionalMaroonLexine {
+    }
+    hidden_boolean SuddenGoldGwen2 {
+    }
+    serviceid PerfectCyanEtty2 {
+    }
+    hidden_boolean BitterJadeKarylin {
+    }
+  }
+  number UsedFuchsiaGeorgeanne3 {
+    _hidden_value = true
+  }
+  number ChemicalGreenIsidora {
+    _hidden_value = true
+  }
+  json RulingLimeKipp2 {
+    _hidden_value = true
+  }
+  string LonelyAzureBobina2 {
+    _hidden_value = true
+  }
+  ConceptualTanShelba3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  PerfectCyanEtty2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

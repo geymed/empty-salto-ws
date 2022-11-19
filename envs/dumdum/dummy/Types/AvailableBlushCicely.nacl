@@ -1,0 +1,74 @@
+type dummy.AvailableBlushCicely {
+  annotations {
+    serviceid_number FunOrangeMarcy4 {
+    }
+    serviceid_number ElectricGreenIngrid {
+    }
+    hidden_boolean VividTanShawnee5 {
+    }
+    serviceid_number RoughGreenIdelle3 {
+    }
+    serviceid_number FatVioletTrixy2 {
+    }
+    boolean PaleGrayHarrietta3 {
+    }
+  }
+  serviceid DeafIvoryJoy2 {
+    _hidden_value = true
+  }
+  number AboveIvoryJoycelin2 {
+    _hidden_value = true
+  }
+  number EmbarrassedAzureBibbye {
+    _hidden_value = true
+  }
+  number ScrawnyYellowWilma3 {
+    _hidden_value = true
+  }
+  hidden_boolean DisabledHarlequinJanice {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number InlandSalmonPrue2 {
+    _hidden_value = true
+  }
+  serviceid HungryMaroonLisabeth2 {
+    _hidden_value = true
+  }
+  json SoleLimeKirsti4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WastefulYellowZilvia {
+    _hidden_value = true
+  }
+  serviceid_number DampAmberAlena4 {
+    _hidden_value = true
+  }
+  string MaximumGreenIlyssa4 {
+    _hidden_value = true
+  }
+  hidden_boolean GeographicalPeachMarley3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string LikelyBlushClarey3 {
+    _hidden_value = true
+  }
+  serviceid CruelPlumMichaela4 {
+    _hidden_value = true
+  }
+  json AttractiveCyanFiann2 {
+    _hidden_value = true
+  }
+  serviceid ConcernedBronzeCorny {
+    _hidden_value = true
+  }
+  FunOrangeMarcy4 = 276
+  ElectricGreenIngrid = 833
+  RoughGreenIdelle3 = 498
+  FatVioletTrixy2 = 910
+  PaleGrayHarrietta3 = false
+  _hidden_value = true
+}

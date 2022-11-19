@@ -1,0 +1,62 @@
+type dummy.BlankPinkMelody2 {
+  annotations {
+    serviceid_number LuckyBlackCassandry {
+    }
+    serviceid DizzyVioletTressa {
+    }
+    number OutsideGrayHelenka3 {
+    }
+    json LoudLavenderKiersten2 {
+    }
+    serviceid QuietApricotAnnis2 {
+    }
+  }
+  json RollingSilverRubi2 {
+    _hidden_value = true
+  }
+  number BareLavenderKelli2 {
+    _hidden_value = true
+  }
+  serviceid BloodyTomatoTallulah2 {
+    _hidden_value = true
+  }
+  number ModeratePurpleNatalya2 {
+    _hidden_value = true
+  }
+  number LongVioletVan3 {
+    _hidden_value = true
+  }
+  json BizarreTanSean3 {
+    _hidden_value = true
+  }
+  boolean ManyAmethystAnetta2 {
+    _hidden_value = true
+  }
+  boolean DistantIndigoJilli {
+    _hidden_value = true
+  }
+  json ActiveCopperDre {
+    _hidden_value = true
+  }
+  number CircularRoseOriana {
+    _hidden_value = true
+  }
+  boolean CatholicHarlequinJamie2 {
+    _hidden_value = true
+  }
+  serviceid_number ElectricGreenInger3 {
+    _hidden_value = true
+  }
+  number FancyTurquoiseTedra2 {
+    _hidden_value = true
+  }
+  number PremierOrangeMargy {
+    _hidden_value = true
+  }
+  LuckyBlackCassandry = 458
+  DizzyVioletTressa = "What creature is smarter than a talking parrot? A spelling bee."
+  OutsideGrayHelenka3 = 220
+  LoudLavenderKiersten2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  QuietApricotAnnis2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

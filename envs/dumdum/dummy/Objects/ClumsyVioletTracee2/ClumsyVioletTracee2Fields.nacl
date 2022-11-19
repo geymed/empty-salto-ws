@@ -1,0 +1,7 @@
+type dummy.ClumsyVioletTracee2 {
+  hidden_boolean MassiveFuchsiaGerrie4 {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+}

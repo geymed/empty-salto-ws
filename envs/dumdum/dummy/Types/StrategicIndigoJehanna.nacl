@@ -1,0 +1,25 @@
+type dummy.StrategicIndigoJehanna is string {
+  annotations {
+    json BrilliantGreenIlsa {
+    }
+    serviceid_number ImplicitSapphireRhea {
+    }
+    serviceid EmbarrassedAzureBibby {
+    }
+    serviceid DarkTurquoiseTaryn {
+    }
+    serviceid_number ElectricalLavenderKerrie {
+    }
+    serviceid_number GorgeousVioletUrsola {
+    }
+    serviceid_number ContemporaryFuchsiaGeorgianna {
+    }
+  }
+  BrilliantGreenIlsa = "What do you call two barracuda fish?  A Pairacuda!"
+  ImplicitSapphireRhea = 422
+  EmbarrassedAzureBibby = "I'll tell you what often gets over looked... garden fences."
+  DarkTurquoiseTaryn = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ElectricalLavenderKerrie = 16
+  GorgeousVioletUrsola = 76
+  ContemporaryFuchsiaGeorgianna = 138
+}

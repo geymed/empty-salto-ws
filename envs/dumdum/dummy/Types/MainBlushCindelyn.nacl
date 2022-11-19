@@ -1,0 +1,91 @@
+type dummy.MainBlushCindelyn {
+  annotations {
+    boolean QuickCoralEleonora {
+    }
+    boolean ThunderingApricotArabelle {
+    }
+    number DepressedPinkMelantha {
+    }
+    serviceid AfraidCrimsonEmmy {
+    }
+    hidden_boolean ShortBronzeColette {
+    }
+  }
+  dummy.DEFAULT DampAmberAlena {
+    _hidden_value = true
+  }
+  boolean FrenchBrownCyndia {
+    _hidden_value = true
+  }
+  string CrazyTealSibylla {
+    _hidden_value = true
+  }
+  string DrunkPeachMarleah2 {
+    _hidden_value = true
+  }
+  hidden_boolean OddWhiteVinnie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string ContemporaryFuchsiaGeorgiana {
+    _hidden_value = true
+  }
+  hidden_boolean FranticAzureBirgit {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT WeeSapphireReta {
+    _hidden_value = true
+  }
+  dummy.DistinctHarlequinJanella DefensiveRoseOndrea {
+    MinimumIndigoJermaine = "Why did the tomato blush? Because it saw the salad dressing."
+    ConceptualTanShelbi = true
+    IdenticalLimeKorie = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    RelievedBlueCathie = true
+    RegulatorySalmonQuintilla = true
+    GoodBlueCelisse = "What creature is smarter than a talking parrot? A spelling bee."
+    SoftApricotApril = 184
+    NursingSalmonPetronille = true
+    CriticalCrimsonEstele = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  serviceid_number ExcitingGreenIssy {
+    _hidden_value = true
+  }
+  serviceid_number FemaleCrimsonEmmeline {
+    _hidden_value = true
+  }
+  string ForwardSapphireRicca {
+    _hidden_value = true
+  }
+  number CreepyAmberAjay {
+    _hidden_value = true
+  }
+  "List<json>" StrangeCoralEdiva {
+    _hidden_value = true
+  }
+  dummy.SpotlessTurquoiseTildy EnchantingBlackCarena {
+    ResonantApricotAnstice = true
+    LittleAmaranthAdella = 752
+    NegativeFuchsiaGavra = 150
+    LocalBlueCharmaine = "Dad Im hungry  Hi hungry Im dad"
+    CuriousLimeKira = "To be Frank, I'd have to change my name."
+    MedicalCoffeeDevonne = true
+    InnocentMagentaLari = true
+    LoudLavenderKiele = 363
+    CleverTealSibby = 987
+    FunOrangeMarcy = 11
+    ChillyAmaranthAilis = 872
+    GentleIndigoJoceline = "Why was it called the dark ages? Because of all the knights. "
+    _hidden_value = true
+  }
+  QuickCoralEleonora = true
+  ThunderingApricotArabelle = true
+  DepressedPinkMelantha = 570
+  AfraidCrimsonEmmy = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

@@ -1,0 +1,63 @@
+type dummy.GrimScarletRonna3 {
+  annotations {
+    dummy.StiffPeachMarya CreepyAquamarineBeryl {
+    }
+    serviceid_number BigAmaranthAbbe4 {
+    }
+    boolean LexicalSilverSadie {
+    }
+    serviceid_number ColourfulScarletRosalia3 {
+    }
+    hidden_boolean PuzzledTomatoStephi {
+    }
+    serviceid ElectricGreenInger5 {
+    }
+    string FarBlushChristiana2 {
+    }
+    serviceid DelightfulBeigeCammie2 {
+    }
+    dummy.MotionlessTurquoiseTheo AbsoluteGreenIna5 {
+    }
+    serviceid_number DueCopperDosi2 {
+    }
+    dummy.CommonBronzeConstantine WidespreadHarlequinJacqui3 {
+    }
+    boolean ScaryBeigeBrett2 {
+    }
+    boolean BriefEmeraldFlorry2 {
+    }
+    serviceid_number MajorBlushClair3 {
+    }
+    hidden_boolean GenuineGreenIsis4 {
+    }
+    boolean DearGoldGlennis4 {
+    }
+    string LittleAmaranthAdey3 {
+    }
+    serviceid_number StrongAquaAryn3 {
+    }
+    dummy.BusyTealShirlee2 PeacefulOrangeMargo2 {
+    }
+    dummy.MightyTanShandra GoldenGrayHaleigh4 {
+    }
+    string ComfortableBeigeCamellia {
+    }
+  }
+  CreepyAquamarineBeryl = file("AmateurSalmonPia3.txt")
+  BigAmaranthAbbe4 = 140
+  LexicalSilverSadie = true
+  ColourfulScarletRosalia3 = 26
+  ElectricGreenInger5 = "Whoever invented the knock-knock joke should get a no bell prize."
+  FarBlushChristiana2 = "What creature is smarter than a talking parrot? A spelling bee."
+  DelightfulBeigeCammie2 = "A steak pun is a rare medium well done."
+  DueCopperDosi2 = 605
+  WidespreadHarlequinJacqui3 = 277
+  ScaryBeigeBrett2 = false
+  BriefEmeraldFlorry2 = false
+  MajorBlushClair3 = 702
+  DearGoldGlennis4 = false
+  LittleAmaranthAdey3 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  StrongAquaAryn3 = 480
+  GoldenGrayHaleigh4 = true
+  ComfortableBeigeCamellia = "Why is Peter Pan always flying? Because he Neverlands."
+}

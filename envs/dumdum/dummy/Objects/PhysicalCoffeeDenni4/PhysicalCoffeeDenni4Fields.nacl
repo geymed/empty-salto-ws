@@ -1,0 +1,45 @@
+type dummy.PhysicalCoffeeDenni4 {
+  string EnvironmentalCoffeeDomeniga2 {
+  }
+  string FavouriteHarlequinJacquelin2 {
+  }
+  "List<string>" EncouragingLimeLacee {
+  }
+  hidden_boolean InappropriateRoseOthella2 {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  dummy.GrubbyAquaAubrie WetGrayHedvige2 {
+    WearyBeigeBrooke = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    SolidAquamarineBarrie = true
+    RivalPurpleNara = "Slept like a log last night  woke up in the fireplace."
+    DifficultBronzeClementia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  serviceid CombinedOliveMaiga3 {
+  }
+  dummy.DigitalMaroonLianna2 WorldwideTanShanna {
+    FixedGreenHinda = "Dad Im hungry  Hi hungry Im dad"
+    MiddleCopperDyane = 207
+    SemanticRedNinnetta = "Did you know that protons have mass? I didn't even know they were catholic."
+    BlueVioletTorrie = "Why did the tomato blush? Because it saw the salad dressing."
+    MysteriousPurpleNelia = 780
+  }
+  serviceid_number HandicappedTanShantee3 {
+  }
+  hidden_boolean RoundAmberAlmeria {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  json ExperimentalLavenderKatinka5 {
+  }
+  serviceid_number FairBlackCarlene5 {
+  }
+  serviceid_number SmallBlueCharlean2 {
+  }
+  serviceid FrightenedMagentaLaverne3 {
+  }
+  serviceid SacredRedNorina3 {
+  }
+}

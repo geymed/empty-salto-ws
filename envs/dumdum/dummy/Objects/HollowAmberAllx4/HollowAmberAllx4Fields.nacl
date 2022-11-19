@@ -1,0 +1,83 @@
+type dummy.HollowAmberAllx4 {
+  json EthnicLavenderKayla3 {
+  }
+  string GlobalGrayHermina3 {
+  }
+  number FunctionalMaroonLexis2 {
+  }
+  serviceid_number ConfusedAquamarineBertine3 {
+  }
+  serviceid AmusedBeigeCahra3 {
+  }
+  serviceid_number ForthcomingPeachMarris {
+  }
+  boolean DefeatedAzureBetsy3 {
+  }
+  boolean BloodyTomatoTallou3 {
+  }
+  serviceid_number VastYellowZea4 {
+  }
+  serviceid ResidentSalmonRaeann3 {
+  }
+  serviceid EagerPlumMilzie5 {
+  }
+  dummy.SecureMoccasinLouella2 PregnantLimeKlara {
+    ExcitedOrangeMariquilla4 = 256
+    DyingScarletRoby2 = "A steak pun is a rare medium well done."
+    UselessRedNinetta2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    SafeCopperDorey2 = 835
+  }
+  serviceid_number ApplicablePlumMirelle {
+  }
+  serviceid_number IncredibleRosePaula3 {
+  }
+  hidden_boolean WateryYellowZena2 {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  hidden_boolean MarriedCyanFannie2 {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  serviceid_number PopularChocolateDaveta {
+  }
+  boolean DampAmberAlene3 {
+  }
+  boolean ProvincialPeachMariya4 {
+  }
+  serviceid IncreasingCyanEvita4 {
+  }
+  dummy.PassivePurpleMyranda PuzzledTomatoStephi2 {
+    RepulsiveBeigeBrena = true
+    DiverseRedNicol = 641
+    LegitimatePinkMaxine = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ObligedOrangeMarcelline = 387
+    FluffyAmberAlia = true
+    FunnyVioletTuesday = "What creature is smarter than a talking parrot? A spelling bee."
+    RelaxedPlumMinnie = true
+    AwfulAquamarineBernelle = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    DomesticCopperEba = 217
+    FuzzyAquaAtlante = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+  }
+  serviceid PleasedEmeraldGabrielle3 {
+  }
+  hidden_boolean DefiantAzureBetti {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  boolean TragicRosePavia3 {
+  }
+  boolean FashionableSapphireRenata2 {
+  }
+  serviceid DelightfulSilverRowena2 {
+  }
+  boolean LivelyBlackCasi5 {
+  }
+  serviceid BrokenAmaranthAilee5 {
+  }
+}

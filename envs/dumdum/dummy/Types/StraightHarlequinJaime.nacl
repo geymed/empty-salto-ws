@@ -1,0 +1,103 @@
+type dummy.StraightHarlequinJaime {
+  annotations {
+    json DivineRoseOpalina4 {
+    }
+    serviceid GreyEmeraldFranky {
+    }
+    dummy.DEFAULT EarlyAmethystAmanda2 {
+    }
+    serviceid_number StupidTomatoSunny3 {
+    }
+    serviceid GradualSilverSallie {
+    }
+    serviceid_number ItalianGoldGratiana4 {
+    }
+  }
+  json EnergeticBlackCarilyn {
+    _hidden_value = true
+  }
+  serviceid_number PricklyAquaAuroora3 {
+    _hidden_value = true
+  }
+  json AnnualCoffeeDonny3 {
+    _hidden_value = true
+  }
+  serviceid_number IntensiveOliveLurette2 {
+    _hidden_value = true
+  }
+  string NovelScarletRoshelle {
+    _hidden_value = true
+  }
+  serviceid FrailVioletTrude4 {
+    _hidden_value = true
+  }
+  serviceid_number MassiveAmaranthAdria2 {
+    _hidden_value = true
+  }
+  dummy.DeliciousApricotArdisj UglyPlumMidge2 {
+    ResidentSalmonRachelle = 849
+    ShrillApricotAntonella = "What do you call two barracuda fish?  A Pairacuda!"
+    SpecifiedSalmonPortia = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    TerribleBeigeBrinn = 138
+    WeeklyLavenderKessia = 710
+    FoolishSapphireReine = 334
+    FutureCoffeeDolly = "What do you do on a remote island? Try and find the TV island it belongs to."
+    WittyBlueCeil = "Why is Peter Pan always flying? Because he Neverlands."
+    WellFuchsiaGisela = true
+    MadHarlequinJanessa = 364
+    SweetAquaAshlan = "Why do birds fly south for the winter? Because it's too far to walk."
+    OrganisationalTanSharai = "Slept like a log last night  woke up in the fireplace."
+    ExcitedBlackCariotta = true
+    _hidden_value = true
+  }
+  hidden_boolean ClassicJadeKaja2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json RegionalCopperDorice2 {
+    _hidden_value = true
+  }
+  serviceid_number PricklyWhiteViva {
+    _hidden_value = true
+  }
+  boolean TinyCyanEunice {
+    _hidden_value = true
+  }
+  json PetiteAmaranthAdrianna3 {
+    _hidden_value = true
+  }
+  number ShrillApricotAntonetta2 {
+    _hidden_value = true
+  }
+  serviceid_number OutrageousAzureBrandise3 {
+    _hidden_value = true
+  }
+  serviceid StickyAquaArlyn4 {
+    _hidden_value = true
+  }
+  string RelievedSalmonPetrina {
+    _hidden_value = true
+  }
+  serviceid_number EncouragingBlackCaresse2 {
+    _hidden_value = true
+  }
+  serviceid SuccessiveMoccasinLola2 {
+    _hidden_value = true
+  }
+  number PreferredTanScarlet3 {
+    _hidden_value = true
+  }
+  string DoubtfulRosePandora2 {
+    _hidden_value = true
+  }
+  DivineRoseOpalina4 = "Did you know that protons have mass? I didn't even know they were catholic."
+  GreyEmeraldFranky = "Whoever invented the knock-knock joke should get a no bell prize."
+  EarlyAmethystAmanda2 = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  StupidTomatoSunny3 = 32
+  GradualSilverSallie = "A steak pun is a rare medium well done."
+  ItalianGoldGratiana4 = 444
+  _hidden_value = true
+}

@@ -1,0 +1,57 @@
+type dummy.HarshOliveMahala {
+  annotations {
+    number FierceOliveMaisie2 {
+    }
+    boolean SmoothAquamarineBarbey2 {
+    }
+    serviceid GeographicalPeachMarley {
+    }
+    serviceid ToughGoldGlenine3 {
+    }
+    number FashionableSapphireRena3 {
+    }
+    serviceid EmptyCyanFancy2 {
+    }
+  }
+  json FunctionalMaroonLexis {
+    _hidden_value = true
+  }
+  serviceid EnormousFuchsiaGinny {
+    _hidden_value = true
+  }
+  hidden_boolean FrontCopperEalasaid {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean AngryAquamarineBenedikta {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string SovietChocolateDarelle {
+    _hidden_value = true
+  }
+  serviceid_number PersonalBronzeCoraline2 {
+    _hidden_value = true
+  }
+  number GiantAmaranthAdaline {
+    _hidden_value = true
+  }
+  number ResonantApricotAnstice4 {
+    _hidden_value = true
+  }
+  number UnpleasantRedNonnah {
+    _hidden_value = true
+  }
+  serviceid SmoothAquamarineBarbi {
+    _hidden_value = true
+  }
+  FierceOliveMaisie2 = 475
+  SmoothAquamarineBarbey2 = true
+  GeographicalPeachMarley = "Did you know that protons have mass? I didn't even know they were catholic."
+  ToughGoldGlenine3 = "Slept like a log last night  woke up in the fireplace."
+  FashionableSapphireRena3 = 456
+  EmptyCyanFancy2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

@@ -1,0 +1,44 @@
+type dummy.PassivePurpleMyranda is boolean {
+  annotations {
+    hidden_boolean BrightTomatoTamarra {
+    }
+    hidden_boolean AlertTomatoSydney {
+    }
+    boolean RepulsiveBeigeBrena {
+    }
+    serviceid_number DiverseRedNicol {
+    }
+    json LegitimatePinkMaxine {
+    }
+    number ObligedOrangeMarcelline {
+    }
+    boolean FluffyAmberAlia {
+    }
+    serviceid FunnyVioletTuesday {
+    }
+    hidden_boolean CondemnedAquamarineBertha {
+    }
+    boolean RelaxedPlumMinnie {
+    }
+    serviceid AwfulAquamarineBernelle {
+    }
+    hidden_boolean DifficultTealSimonette {
+    }
+    number DomesticCopperEba {
+    }
+    dummy.DEFAULT FuzzyAquaAtlante {
+    }
+  }
+  RepulsiveBeigeBrena = true
+  DiverseRedNicol = 932
+  LegitimatePinkMaxine = "Why do birds fly south for the winter? Because it's too far to walk."
+  ObligedOrangeMarcelline = 654
+  FluffyAmberAlia = true
+  FunnyVioletTuesday = "Why did the tomato blush? Because it saw the salad dressing."
+  RelaxedPlumMinnie = true
+  AwfulAquamarineBernelle = "Why did the kid cross the playground? To get to the other slide."
+  DomesticCopperEba = 169
+  FuzzyAquaAtlante = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+}

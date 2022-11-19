@@ -1,0 +1,31 @@
+type dummy.CriminalFuchsiaGeorgia3 {
+  annotations {
+    hidden_boolean FrontCopperEadith {
+    }
+    dummy.DEFAULT OkayOliveMaggie {
+    }
+    hidden_boolean StickyAquaArlyne4 {
+    }
+    string MisleadingRoseOrella2 {
+    }
+    hidden_boolean SubstantialCoralElsy2 {
+    }
+    dummy.SpotlessTurquoiseTildy DeepChocolateDelora {
+    }
+    serviceid ExpensiveCrimsonErnestine2 {
+    }
+    serviceid TinyAmaranthAgnella {
+    }
+  }
+  serviceid_number RoughGreenIdaline {
+    _hidden_value = true
+  }
+  OkayOliveMaggie = {
+    legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  MisleadingRoseOrella2 = "Slept like a log last night  woke up in the fireplace."
+  DeepChocolateDelora = 103
+  ExpensiveCrimsonErnestine2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  TinyAmaranthAgnella = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

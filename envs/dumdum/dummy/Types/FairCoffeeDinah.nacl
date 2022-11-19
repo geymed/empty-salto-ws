@@ -1,0 +1,109 @@
+type dummy.FairCoffeeDinah {
+  annotations {
+    number BlackVioletTonye4 {
+    }
+    boolean IncreasingCyanEvvy4 {
+    }
+    serviceid_number SoleLimeKirstyn2 {
+    }
+    number VulnerableJadeKarol4 {
+    }
+    json NarrowCyanFanya2 {
+    }
+  }
+  number LongVioletVanda4 {
+    _hidden_value = true
+  }
+  number RareEmeraldFlorentia {
+    _hidden_value = true
+  }
+  json FlatAmberAllie3 {
+    _hidden_value = true
+  }
+  json InteriorPurpleNatka3 {
+    _hidden_value = true
+  }
+  json ZanyYellowZuzana3 {
+    _hidden_value = true
+  }
+  boolean FineBlackCarly3 {
+    _hidden_value = true
+  }
+  string ObligedOrangeMarcelle3 {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" ScottishChocolateDel2 {
+    _hidden_value = true
+  }
+  json AliveFuchsiaGilligan {
+    _hidden_value = true
+  }
+  serviceid_number GreatAmaranthAddia4 {
+    _hidden_value = true
+  }
+  hidden_boolean OutstandingIndigoJenn {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DailyCyanEvelina ArabLimeKirsteni {
+    _hidden_value = true
+  }
+  dummy.EfficientGoldGretna KeyCopperDorothy2 {
+    OppositeHarlequinJanel = "Why is Peter Pan always flying? Because he Neverlands."
+    StrangeCoralEdna = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    ExcitingGreenIvett = "Dad Im hungry  Hi hungry Im dad"
+    AdequateGrayHildy = true
+    RattyWhiteWaneta = 307
+    FastEmeraldFleur = 700
+    MiddleCopperDusty = 632
+    ParliamentaryFuchsiaGiacinta = "Why didnt the skeleton cross the road? Because he had no guts."
+    ExcitingGreenIssie = "Slept like a log last night  woke up in the fireplace."
+    MaturePeachMaud = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    StraightAmethystAlysia = true
+    _hidden_value = true
+  }
+  serviceid_number SuccessiveMoccasinLola4 {
+    _hidden_value = true
+  }
+  number RedWhiteWendeline4 {
+    _hidden_value = true
+  }
+  hidden_boolean ViolentIvoryJolene2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number ScottishChocolateDelcina {
+    _hidden_value = true
+  }
+  number FeministPlumMina2 {
+    _hidden_value = true
+  }
+  serviceid ModeratePurpleNatalya4 {
+    _hidden_value = true
+  }
+  boolean ExcellentCoralEimile {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MiddleCopperDusty5 {
+    _hidden_value = true
+  }
+  string ElderlyEmeraldFlore {
+    _hidden_value = true
+  }
+  json RollingSilverRubi3 {
+    _hidden_value = true
+  }
+  hidden_boolean EmbarrassingSilverSaudra {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  BlackVioletTonye4 = 103
+  IncreasingCyanEvvy4 = false
+  SoleLimeKirstyn2 = 777
+  VulnerableJadeKarol4 = 587
+  NarrowCyanFanya2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

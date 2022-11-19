@@ -1,0 +1,78 @@
+type dummy.MidPinkMelissa3 {
+  annotations {
+    dummy.DEFAULT StraightAmethystAlyse {
+    }
+    string EagerBeigeCandis3 {
+    }
+    json InadequateLavenderKaylyn {
+    }
+    serviceid GlamorousTurquoiseTeresita {
+    }
+    serviceid ElderlyEmeraldFlorencia2 {
+    }
+    serviceid_number UsualCoralElly2 {
+    }
+  }
+  serviceid_number ExcitingGreenIssie3 {
+    _hidden_value = true
+  }
+  hidden_boolean FavouriteHarlequinJacqueline2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.ResidentialIndigoJesse AestheticSapphireRea2 {
+    AggregateScarletRobbie = "A steak pun is a rare medium well done."
+    MidPinkMelissa = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    CulturalCoralElie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    CondemnedAquamarineBerthe = "What do you do on a remote island? Try and find the TV island it belongs to."
+    GoverningTanSephira = false
+    SquealingApricotAra = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    UncomfortablePlumModesty = "Why was it called the dark ages? Because of all the knights. "
+    SouthernCyanEvey = "Why is Peter Pan always flying? Because he Neverlands."
+    EerieAzureBeverly = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    RoughGreenIdalina = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    SuitableCrimsonEmilee = "Why did the kid cross the playground? To get to the other slide."
+    VocationalTanShalna = 810
+    AfraidCrimsonEmmie = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    OrthodoxSapphireRebecca = "What do you do on a remote island? Try and find the TV island it belongs to."
+    NuclearCoffeeDonna = false
+    ColourfulScarletRosabelle = 609
+    UnableCoralEloise = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    _hidden_value = true
+  }
+  hidden_boolean FederalGrayHally3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.WorryingSilverRozamond CoolGreenIolande {
+    StormyTurquoiseTim = 883
+    IntegratedOliveMady = "Im only familiar with 25 letters in the English language. I dont know why."
+    UltimateJadeKamillah = "Why was it called the dark ages? Because of all the knights. "
+    QuickWhiteVivyan = 951
+    _hidden_value = true
+  }
+  serviceid_number StingyYellowWinni2 {
+    _hidden_value = true
+  }
+  json VariedRedNorene {
+    _hidden_value = true
+  }
+  number ChillyAmaranthAilyn2 {
+    _hidden_value = true
+  }
+  StraightAmethystAlyse = {
+    legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  EagerBeigeCandis3 = "Why do birds fly south for the winter? Because it's too far to walk."
+  InadequateLavenderKaylyn = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  GlamorousTurquoiseTeresita = "What creature is smarter than a talking parrot? A spelling bee."
+  ElderlyEmeraldFlorencia2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  UsualCoralElly2 = 220
+  _hidden_value = true
+}

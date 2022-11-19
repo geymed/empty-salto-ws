@@ -1,0 +1,91 @@
+type dummy.JuniorIvoryJonie2 {
+  annotations {
+    boolean LivingGrayHenrie {
+    }
+    hidden_boolean WealthyPeachMaryellen2 {
+    }
+    hidden_boolean IraqiOliveMadelle {
+    }
+    serviceid AccurateIndigoJilleen3 {
+    }
+    serviceid_number UncomfortablePlumModestine2 {
+    }
+    json PricklyWhiteVivi {
+    }
+  }
+  number NavalPinkMelamie4 {
+    _hidden_value = true
+  }
+  number RidiculousMoccasinLivy {
+    _hidden_value = true
+  }
+  hidden_boolean ArmedGrayHeidie2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid OrganisationalTanShara2 {
+    _hidden_value = true
+  }
+  number TallAmaranthAggy {
+    _hidden_value = true
+  }
+  string OddWhiteVinny {
+    _hidden_value = true
+  }
+  boolean CompetentSalmonPeri3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT TerribleEmeraldFreida2 {
+    _hidden_value = true
+  }
+  string EthnicLavenderKaye2 {
+    _hidden_value = true
+  }
+  number AncientAmethystAmalea2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MolecularRedNertie {
+    _hidden_value = true
+  }
+  serviceid_number HurtAzureBlondy2 {
+    _hidden_value = true
+  }
+  json BoringPeachMarni3 {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" SpotlessTurquoiseTildie {
+    _hidden_value = true
+  }
+  serviceid PlainTurquoiseTheresita {
+    _hidden_value = true
+  }
+  string WarmCopperDulcinea3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PrettyIndigoJennifer2 {
+    _hidden_value = true
+  }
+  json WittyBlueCeil4 {
+    _hidden_value = true
+  }
+  hidden_boolean SquareJadeKai2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<serviceid_number>" VictorianJadeKalinda {
+    _hidden_value = true
+  }
+  number RidiculousMoccasinLivvyy3 {
+    _hidden_value = true
+  }
+  json NativeJadeKate2 {
+    _hidden_value = true
+  }
+  LivingGrayHenrie = true
+  AccurateIndigoJilleen3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  UncomfortablePlumModestine2 = 112
+  PricklyWhiteVivi = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

@@ -1,0 +1,114 @@
+type dummy.RussianCyanFelisha2 {
+  annotations {
+    
+    
+    
+    
+    
+    boolean SpontaneousTanShaun3 {
+    }
+    hidden_boolean ComfortableGoldGrissel6 {
+    }
+    string MissingPinkMelloney3 {
+    }
+    json SeparateCopperDorolisa4 {
+    }
+    hidden_boolean RulingLimeKippie3 {
+    }
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  _hidden_value = true
+  SpontaneousTanShaun3 = true
+  MissingPinkMelloney3 = "Dad Im hungry  Hi hungry Im dad"
+  SeparateCopperDorolisa4 = "Dad Im hungry  Hi hungry Im dad"
+  serviceid_number NewWhiteVeronika2 {
+    _hidden_value = true
+  }
+  serviceid_number ConcernedTealSibelle3 {
+    _hidden_value = true
+  }
+  string CalmBeigeCalla3 {
+    _hidden_value = true
+  }
+  serviceid_number NormalBrownDamara2 {
+    _hidden_value = true
+  }
+  boolean InterestedCoffeeDierdre3 {
+    _hidden_value = true
+  }
+  hidden_boolean InclinedRedNyssa {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string MusicalIndigoJoanne2 {
+    _hidden_value = true
+  }
+  json CompatibleSapphireRenell3 {
+    _hidden_value = true
+  }
+  "List<json>" SlightGoldGwenny2 {
+    _hidden_value = true
+  }
+  hidden_boolean SensibleIvoryJordana {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.FamousCoralElfrieda IntegralSalmonPhilomena {
+    ChristianCoralElvera = 99
+    NoblePurpleNatty = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    PassivePurpleMyra = "Im only familiar with 25 letters in the English language. I dont know why."
+    GeographicalPeachMarlene = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    AwakeRedNola2 = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    DeepAmberAllegra = 866
+    OrangePurpleMufinella = "Why did the tomato blush? Because it saw the salad dressing."
+    FascinatingOrangeMargareta = "What creature is smarter than a talking parrot? A spelling bee."
+    IntellectualJadeKalina = 342
+    _hidden_value = true
+  }
+  number FlexibleLavenderKathleen {
+    _hidden_value = true
+  }
+  number GrievingAzureBlanca3 {
+    _hidden_value = true
+  }
+  serviceid AddedPinkMelinda2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT VariedRedNorah2 {
+    _hidden_value = true
+  }
+  serviceid PreferredTanSayre2 {
+    _hidden_value = true
+  }
+  string OddFuchsiaGenna2 {
+    _hidden_value = true
+  }
+  boolean SweetGreenHolli {
+    _hidden_value = true
+  }
+  boolean HungryMaroonLisa {
+    _hidden_value = true
+  }
+  serviceid ScientificCrimsonEran {
+    _hidden_value = true
+  }
+}

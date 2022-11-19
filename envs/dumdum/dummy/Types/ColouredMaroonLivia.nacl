@@ -1,0 +1,101 @@
+type dummy.ColouredMaroonLivia {
+  annotations {
+    serviceid StickyAquaArlyne {
+    }
+    number WorldwideTanShannen {
+    }
+    json PermanentFuchsiaGayel {
+    }
+  }
+  json JealousAzureBobbie {
+    _hidden_value = true
+  }
+  boolean CentralBronzeConni {
+    _hidden_value = true
+  }
+  serviceid_number InstitutionalMaroonLeora {
+    _hidden_value = true
+  }
+  serviceid QuickCoralEleonore {
+    _hidden_value = true
+  }
+  json MereGreenIdette2 {
+    _hidden_value = true
+  }
+  serviceid_number NosyWhiteVictoria2 {
+    _hidden_value = true
+  }
+  boolean RearPurpleMurial {
+    _hidden_value = true
+  }
+  dummy.FollowingBrownCynthia PromisingRedNonie3 {
+    SoftCoralElana = "To be Frank, I'd have to change my name."
+    InherentRedNoami = {
+      legit = "Why is Peter Pan always flying? Because he Neverlands."
+    }
+    PleasantBlueCathe = {
+      legit = "Why did the kid cross the playground? To get to the other slide."
+    }
+    PlasticAquaAurelia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    BriefAmethystAmaleta = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    RuralCoralElsa = "What do you do on a remote island? Try and find the TV island it belongs to."
+    GoverningTanSena = 364
+    GrievingAzureBlanca = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    PricklyWhiteVittoria = 161
+    ScatteredAquaAveryl = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ItchyVioletValentina = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    _hidden_value = true
+  }
+  string TenderAquamarineBecca {
+    _hidden_value = true
+  }
+  hidden_boolean RetiredSilverSarajane {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string CruelPlumMichaela2 {
+    _hidden_value = true
+  }
+  number GreekIndigoJoane {
+    _hidden_value = true
+  }
+  json UnknownFuchsiaGilberte2 {
+    _hidden_value = true
+  }
+  serviceid MistyTurquoiseThekla {
+    _hidden_value = true
+  }
+  serviceid ZanyBlueCelia {
+    _hidden_value = true
+  }
+  serviceid_number UncertainMagentaLelia {
+    _hidden_value = true
+  }
+  string AcceptableGrayHelli2 {
+    _hidden_value = true
+  }
+  hidden_boolean PinkIndigoJennette {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json UnevenAquamarineBeitris {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ColourfulScarletRosabella {
+    _hidden_value = true
+  }
+  number SpontaneousTanShaun {
+    _hidden_value = true
+  }
+  "List<serviceid>" CuteTomatoTanya {
+    _hidden_value = true
+  }
+  StickyAquaArlyne = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  WorldwideTanShannen = 506
+  PermanentFuchsiaGayel = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

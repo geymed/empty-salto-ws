@@ -1,0 +1,86 @@
+type dummy.TenderYellowYevette {
+  "List<number>" EnviousAzureBibi2 {
+  }
+  serviceid ClassicalHarlequinJacklyn3 {
+  }
+  boolean DampMoccasinLorrin4 {
+  }
+  serviceid CommunistFuchsiaGisele {
+  }
+  serviceid EasyBronzeCollette5 {
+  }
+  serviceid EmptyCyanFanchon3 {
+  }
+  boolean SingleBronzeCoral2 {
+  }
+  json CondemnedAquamarineBerthe8 {
+  }
+  json AboveIvoryJoyce3 {
+  }
+  dummy.SpotlessTurquoiseTildy DeepAmberAllegra5 {
+    ResonantApricotAnstice = false
+    LittleAmaranthAdella = 456
+    NegativeFuchsiaGavra = 681
+    LocalBlueCharmaine = "Why didnt the skeleton cross the road? Because he had no guts."
+    CuriousLimeKira = "Why is Peter Pan always flying? Because he Neverlands."
+    MedicalCoffeeDevonne = false
+    InnocentMagentaLari = false
+    LoudLavenderKiele = 579
+    CleverTealSibby = 569
+    FunOrangeMarcy = 68
+    ChillyAmaranthAilis = 128
+    GentleIndigoJoceline = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  dummy.GeneticMoccasinLorianne2 DisgustedAzureBeulah3 {
+    SlowAmethystAnabelle4 = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    StillIndigoJo4 = "Why didnt the skeleton cross the road? Because he had no guts."
+    RepresentativePinkMerola3 = "Why was it called the dark ages? Because of all the knights. "
+    CautiousTealSibbie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  "List<string>" CriticalCrimsonEstel5 {
+  }
+  hidden_boolean WoodenAquamarineBellina {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  string EasternCrimsonEricha2 {
+  }
+  string FierceAzureBilly2 {
+  }
+  "List<boolean>" VerbalPinkMaxie2 {
+  }
+  string SadGrayHetti2 {
+  }
+  dummy.IndianGrayHarli2 UpperCyanFaustina3 {
+    SpectacularMaroonLibbi = file("MilitaryChocolateDarlleen3.txt")
+    EnthusiasticBlackCarin = 809
+    AnxiousAquamarineBeret2 = true
+    AverageCrimsonElysia = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    StrongBronzeCollie2 = true
+  }
+  serviceid HorribleOrangeMaressa2 {
+  }
+  dummy.MultipleLimeKinna2 LovelyBlackCassandre5 {
+    ForeignBronzeCorinna = false
+    OrthodoxSapphireRebecka2 = true
+    AestheticSapphireRebbecca2 = true
+    EmbarrassedAzureBianka3 = 398
+  }
+  json WhiteBronzeCodi2 {
+  }
+  dummy.GladGoldGlynis NoisySilverSadye4 {
+    ModernAmethystAmelie2 = true
+    MushyWhiteVerile2 = 965
+    AlertTomatoTabatha4 = 756
+    SatisfiedHarlequinJazmin = true
+  }
+  number PoisedTurquoiseThomasina {
+  }
+  "List<serviceid>" FortunateRoseOlivie2 {
+  }
+}

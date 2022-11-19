@@ -1,0 +1,30 @@
+type dummy.PleasantIvoryJoscelin2 {
+  annotations {
+    dummy.DEFAULT GloriousScarletRose2 {
+    }
+    boolean SquareJadeKai {
+    }
+    hidden_boolean SpectacularMaroonLibbie2 {
+    }
+    number MisleadingRoseOrelle {
+    }
+    boolean DependentGrayHeda2 {
+    }
+    boolean VisualGreenIngaborg3 {
+    }
+  }
+  number DeterminedOrangeMarillin3 {
+    _hidden_value = true
+  }
+  serviceid RedBrownDallas3 {
+    _hidden_value = true
+  }
+  GloriousScarletRose2 = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  SquareJadeKai = false
+  MisleadingRoseOrelle = 251
+  DependentGrayHeda2 = true
+  VisualGreenIngaborg3 = true
+  _hidden_value = true
+}

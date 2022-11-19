@@ -1,0 +1,90 @@
+type dummy.HarshApricotAnjela2 {
+  annotations {
+    hidden_boolean InappropriateRoseOthilie2 {
+    }
+    string OrganicLimeLadonna3 {
+    }
+    string WelshGrayHattie5 {
+    }
+    serviceid_number DustyAmberAlexi {
+    }
+    serviceid_number WetAmberAlicea {
+    }
+    number BrightVioletTove3 {
+    }
+  }
+  serviceid SurroundingOrangeMargeaux {
+    _hidden_value = true
+  }
+  string PolishPinkMeredithe2 {
+    _hidden_value = true
+  }
+  number UnfairMaroonLilian {
+    _hidden_value = true
+  }
+  boolean SubstantialCoralElsinore3 {
+    _hidden_value = true
+  }
+  string LoudLavenderKiele3 {
+    _hidden_value = true
+  }
+  boolean NursingSalmonPhaidra {
+    _hidden_value = true
+  }
+  string DepressedAzureBettina {
+    _hidden_value = true
+  }
+  hidden_boolean ColdAmaranthAime {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.InteriorPurpleNathalie AggressiveMaroonLilith4 {
+    ShaggyAquaAviva = 652
+    ThenSalmonPhylis = 628
+    PassingSalmonPolly = "Why did the kid cross the playground? To get to the other slide."
+    DemocraticCrimsonEmyle = 459
+    StrikingOliveMag = "I'll tell you what often gets over looked... garden fences."
+    ExcellentCoralEilis = 997
+    _hidden_value = true
+  }
+  json NoisySilverSaidee {
+    _hidden_value = true
+  }
+  json CheerfulBeigeCally {
+    _hidden_value = true
+  }
+  serviceid_number IntegratedOliveMaegan2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ConfidentialScarletRois3 {
+    _hidden_value = true
+  }
+  boolean EvilAzureBilli {
+    _hidden_value = true
+  }
+  string EmbarrassingSilverSashenka {
+    _hidden_value = true
+  }
+  dummy.SpareMaroonLilli LightAmethystAnett {
+    ShortAmethystAnabella = 825
+    DeliberateRedNoella = false
+    IslamicRoseOlympie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    WorthyRedOdette = "Why didnt the skeleton cross the road? Because he had no guts."
+    BlackVioletTorey2 = "Whoever invented the knock-knock joke should get a no bell prize."
+    SelectedPlumMilli = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    SubjectiveSapphireRiane = 127
+    ExuberantBlackCarlee = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    TenderRedOdelia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    FormalCoralElka = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  OrganicLimeLadonna3 = "Why did the kid cross the playground? To get to the other slide."
+  WelshGrayHattie5 = "Dad Im hungry  Hi hungry Im dad"
+  DustyAmberAlexi = 276
+  WetAmberAlicea = 247
+  BrightVioletTove3 = 651
+  _hidden_value = true
+}

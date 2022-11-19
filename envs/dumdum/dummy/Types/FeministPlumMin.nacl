@@ -1,0 +1,31 @@
+type dummy.FeministPlumMin is boolean {
+  annotations {
+    boolean GreenVioletUlrica {
+    }
+    json SovietChocolateDaria {
+    }
+    boolean CuriousTealSidoney {
+    }
+    number ColdChocolateDebbie {
+    }
+    boolean IrishCrimsonErminia {
+    }
+    serviceid_number ShakyAquaBab {
+    }
+    number ScientificCrimsonErda {
+    }
+    serviceid_number LatinLimeKonstanze {
+    }
+    serviceid IsraeliPinkMeriel {
+    }
+  }
+  GreenVioletUlrica = true
+  SovietChocolateDaria = "Why do birds fly south for the winter? Because it's too far to walk."
+  CuriousTealSidoney = false
+  ColdChocolateDebbie = 816
+  IrishCrimsonErminia = false
+  ShakyAquaBab = 228
+  ScientificCrimsonErda = 794
+  LatinLimeKonstanze = 237
+  IsraeliPinkMeriel = "Im only familiar with 25 letters in the English language. I dont know why."
+}

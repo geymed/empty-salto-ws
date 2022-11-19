@@ -1,0 +1,43 @@
+type dummy.FlatAmberAllianora {
+  annotations {
+    
+    
+    
+    
+    
+    
+    
+    
+    dummy.BoilingAmaranthAgneta ShallowAmberAlmire {
+    }
+    number PleasantBlueCathe2 {
+    }
+    boolean SurvivingSapphireRickie {
+    }
+    serviceid SoundAmethystAngelina {
+    }
+    json LiberalCyanFarand {
+    }
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  _hidden_value = true
+  ShallowAmberAlmire = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  PleasantBlueCathe2 = 220
+  SurvivingSapphireRickie = true
+  SoundAmethystAngelina = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  LiberalCyanFarand = "How come the stadium got hot after the game? Because all of the fans left."
+  string SingleBronzeCoralie {
+    _hidden_value = true
+  }
+}

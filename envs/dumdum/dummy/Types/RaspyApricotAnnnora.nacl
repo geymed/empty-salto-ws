@@ -1,0 +1,77 @@
+type dummy.RaspyApricotAnnnora {
+  annotations {
+    serviceid_number TightIvoryJoelly {
+    }
+    json LuckyBlackCassey3 {
+    }
+    hidden_boolean NovelScarletRosina3 {
+    }
+    hidden_boolean ConservationPlumMolli {
+    }
+    dummy.DEFAULT MedievalJadeKarel {
+    }
+  }
+  boolean HomelessAzureBliss2 {
+    _hidden_value = true
+  }
+  json RealBlushClarinda2 {
+    _hidden_value = true
+  }
+  "List<boolean>" LogicalLavenderKelcie {
+    _hidden_value = true
+  }
+  serviceid_number VastYellowZelda2 {
+    _hidden_value = true
+  }
+  string DemocraticCrimsonEmylee3 {
+    _hidden_value = true
+  }
+  json ConsiderableChocolateDemetra {
+    _hidden_value = true
+  }
+  number MobilePurpleMorna2 {
+    _hidden_value = true
+  }
+  boolean EmbarrassingSilverSashenka2 {
+    _hidden_value = true
+  }
+  serviceid_number HeavyChocolateDavita {
+    _hidden_value = true
+  }
+  boolean SurvivingSapphireRicki {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FlatAmberAllie2 {
+    _hidden_value = true
+  }
+  json HonChocolateDasya2 {
+    _hidden_value = true
+  }
+  json FrontCopperEadie {
+    _hidden_value = true
+  }
+  "List<json>" OrganisationalTanSharai6 {
+    _hidden_value = true
+  }
+  json OldBlueChantal {
+    _hidden_value = true
+  }
+  serviceid_number StupidTomatoSunny4 {
+    _hidden_value = true
+  }
+  number HorizontalSalmonPrissie2 {
+    _hidden_value = true
+  }
+  number SolidAquamarineBarry {
+    _hidden_value = true
+  }
+  json NovelScarletRosette4 {
+    _hidden_value = true
+  }
+  TightIvoryJoelly = 334
+  LuckyBlackCassey3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  MedievalJadeKarel = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  _hidden_value = true
+}

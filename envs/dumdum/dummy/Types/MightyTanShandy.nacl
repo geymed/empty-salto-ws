@@ -1,0 +1,45 @@
+type dummy.MightyTanShandy {
+  annotations {
+    serviceid FrequentLavenderKati4 {
+    }
+    string LivelyPeachMarylinda2 {
+    }
+    json MightyWhiteVerena4 {
+    }
+    hidden_boolean EasyBronzeCollen4 {
+    }
+    json EvilPeachMaurita3 {
+    }
+    dummy.DEFAULT EnchantingBlackCarena3 {
+    }
+    boolean AtomicScarletRorie3 {
+    }
+  }
+  "List<serviceid_number>" ImpressiveIndigoJerrylee3 {
+    _hidden_value = true
+  }
+  number WetAquamarineBelita2 {
+    _hidden_value = true
+  }
+  string NegativeFuchsiaGates3 {
+    _hidden_value = true
+  }
+  number SocialistHarlequinJacquenette2 {
+    _hidden_value = true
+  }
+  string AcademicEmeraldFrieda {
+    _hidden_value = true
+  }
+  json AshamedScarletRosana2 {
+    _hidden_value = true
+  }
+  FrequentLavenderKati4 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  LivelyPeachMarylinda2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  MightyWhiteVerena4 = "I'll tell you what often gets over looked... garden fences."
+  EvilPeachMaurita3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  EnchantingBlackCarena3 = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  AtomicScarletRorie3 = true
+  _hidden_value = true
+}

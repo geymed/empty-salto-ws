@@ -1,0 +1,78 @@
+type dummy.ElatedBeigeCara {
+  annotations {
+    boolean LuckyBlackCassaundra2 {
+    }
+    json MysteriousAzureBonni2 {
+    }
+    boolean VastYellowZea3 {
+    }
+    hidden_boolean RelativeGoldGuillemette {
+    }
+  }
+  serviceid AbstractMaroonLind {
+    _hidden_value = true
+  }
+  serviceid OpenTealStarlene {
+    _hidden_value = true
+  }
+  string EasyBronzeCollete {
+    _hidden_value = true
+  }
+  boolean ManagingLimeKitty {
+    _hidden_value = true
+  }
+  json BraveBeigeCairistiona4 {
+    _hidden_value = true
+  }
+  serviceid_number AdvisoryOrangeMarie {
+    _hidden_value = true
+  }
+  hidden_boolean BlueCoffeeDi {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string LeftCoffeeDeny {
+    _hidden_value = true
+  }
+  number ReasonableCrimsonEmalia {
+    _hidden_value = true
+  }
+  hidden_boolean BoredPlumMora {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean TerribleBeigeBriney {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean TanYellowYettie {
+    _hidden_value = true
+  }
+  dummy.UnknownFuchsiaGilberte FascinatingOrangeMargarete {
+    UnexpectedMagentaLauree = false
+    InternationalBlushClaudette = 465
+    BoldPlumMinna = true
+    _hidden_value = true
+  }
+  json DefiantAzureBetteann3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SubstantialCoralElsy {
+    _hidden_value = true
+  }
+  hidden_boolean MassiveFuchsiaGerrie2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json FunctionalMaroonLexie {
+    _hidden_value = true
+  }
+  LuckyBlackCassaundra2 = true
+  MysteriousAzureBonni2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  VastYellowZea3 = true
+  _hidden_value = true
+}

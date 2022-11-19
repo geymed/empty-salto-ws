@@ -1,0 +1,34 @@
+type dummy.EfficientGoldGretna3 {
+  annotations {
+    boolean HelpfulHarlequinJaneta2 {
+    }
+    string JuicyApricotAriadne2 {
+    }
+    dummy.DEFAULT IntelligentMaroonLinnell4 {
+    }
+    boolean MarvellousMoccasinLorne4 {
+    }
+  }
+  string NearbyLimeKora {
+    _hidden_value = true
+  }
+  boolean SocialistHarlequinJacquetta {
+    _hidden_value = true
+  }
+  boolean FamousCoralElfrida {
+    _hidden_value = true
+  }
+  json FairBlackCarlen2 {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" UnnecessaryMoccasinLoraine3 {
+    _hidden_value = true
+  }
+  HelpfulHarlequinJaneta2 = true
+  JuicyApricotAriadne2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  IntelligentMaroonLinnell4 = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  MarvellousMoccasinLorne4 = false
+  _hidden_value = true
+}

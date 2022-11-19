@@ -1,0 +1,42 @@
+type dummy.EstimatedOrangeMargie3 {
+  annotations {
+    dummy.DEFAULT CreepyAmberAjay3 {
+    }
+    dummy.DEFAULT CautiousScarletRivkah2 {
+    }
+    serviceid DecisiveSalmonPepi3 {
+    }
+    number BigVioletTonie2 {
+    }
+    json LivelyBlackCasey {
+    }
+  }
+  boolean InadequateLavenderKeelia {
+    _hidden_value = true
+  }
+  serviceid_number ColossalAmaranthAbbie3 {
+    _hidden_value = true
+  }
+  json UselessRedNikolia {
+    _hidden_value = true
+  }
+  boolean AncientAmethystAmalea {
+    _hidden_value = true
+  }
+  serviceid_number PowerfulTomatoStephana {
+    _hidden_value = true
+  }
+  string GiantAmaranthAda {
+    _hidden_value = true
+  }
+  CreepyAmberAjay3 = {
+    legit = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  CautiousScarletRivkah2 = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  DecisiveSalmonPepi3 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  BigVioletTonie2 = 748
+  LivelyBlackCasey = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

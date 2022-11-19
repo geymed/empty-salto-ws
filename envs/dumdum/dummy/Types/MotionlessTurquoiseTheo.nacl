@@ -1,0 +1,154 @@
+type dummy.MotionlessTurquoiseTheo {
+  annotations {
+    json SexualCopperEada2 {
+    }
+    string AmateurSalmonPierrette {
+    }
+    string NotablePeachMartie4 {
+    }
+    json PartialOliveLyndell3 {
+    }
+    boolean QuaintWhiteVivianne3 {
+    }
+    json DisastrousScarletRochelle3 {
+    }
+    number DifferentBlueCharline2 {
+    }
+  }
+  boolean PleasedEmeraldGabriela4 {
+    _hidden_value = true
+  }
+  string DynamicPeachMarney {
+    _hidden_value = true
+  }
+  string GracefulTurquoiseTerri4 {
+    _hidden_value = true
+  }
+  number RigidPinkMerrily {
+    _hidden_value = true
+  }
+  hidden_boolean DearGoldGlennie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string SouthernCyanEvey6 {
+    _hidden_value = true
+  }
+  serviceid_number RichCoffeeDoreen3 {
+    _hidden_value = true
+  }
+  number VisualGreenIngaborg5 {
+    _hidden_value = true
+  }
+  serviceid UselessRedNinetta3 {
+    _hidden_value = true
+  }
+  hidden_boolean PatientPurpleNanice2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean CharmingPlumMorgana6 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.PassingSalmonPippa TemporaryGrayHalie {
+    FaintMaroonLiva = "Why did the kid cross the playground? To get to the other slide."
+    DoubtfulRosePansy = "My first time using an elevator was an uplifting experience. The second time let me down."
+    AnxiousAquamarineBeret = "Why was it called the dark ages? Because of all the knights. "
+    AfricanFuchsiaGiana = true
+    LiableLimeKimmi = 932
+    LeftCoffeeDenny = true
+    _hidden_value = true
+  }
+  serviceid DoubleCrimsonEthyl {
+    _hidden_value = true
+  }
+  number LinearRedNetta2 {
+    _hidden_value = true
+  }
+  serviceid_number WorkingCrimsonEmma2 {
+    _hidden_value = true
+  }
+  hidden_boolean DrabTurquoiseTate3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean EndlessPeachMarji3 {
+    _hidden_value = true
+  }
+  number HorizontalSalmonPru {
+    _hidden_value = true
+  }
+  boolean EnergeticBlackCaril3 {
+    _hidden_value = true
+  }
+  hidden_boolean ConceptualTanShelba4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ForwardSapphireRicca3 {
+    _hidden_value = true
+  }
+  dummy.SpareMaroonLilli RigidPinkMerry2 {
+    ShortAmethystAnabella = 739
+    DeliberateRedNoella = true
+    IslamicRoseOlympie = "My first time using an elevator was an uplifting experience. The second time let me down."
+    WorthyRedOdette = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    BlackVioletTorey2 = "What creature is smarter than a talking parrot? A spelling bee."
+    SelectedPlumMilli = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    SubjectiveSapphireRiane = 300
+    ExuberantBlackCarlee = {
+      legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+    }
+    TenderRedOdelia = "Why is Peter Pan always flying? Because he Neverlands."
+    FormalCoralElka = "I'll tell you what often gets over looked... garden fences."
+    _hidden_value = true
+  }
+  hidden_boolean ThoughtlessBeigeBrit2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json LittleAmaranthAdena2 {
+    _hidden_value = true
+  }
+  number OrganisationalTanShantee {
+    _hidden_value = true
+  }
+  hidden_boolean RemarkableGreenHortensia4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT LexicalSilverSacha {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" DullTurquoiseTed2 {
+    _hidden_value = true
+  }
+  serviceid_number FreeBronzeCodi {
+    _hidden_value = true
+  }
+  number DesperateIvoryJunina2 {
+    _hidden_value = true
+  }
+  string LivelyPeachMarylin2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PrettyWhiteVirginie {
+    _hidden_value = true
+  }
+  SexualCopperEada2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  AmateurSalmonPierrette = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  NotablePeachMartie4 = "Did you know that protons have mass? I didn't even know they were catholic."
+  PartialOliveLyndell3 = "A steak pun is a rare medium well done."
+  QuaintWhiteVivianne3 = false
+  DisastrousScarletRochelle3 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  DifferentBlueCharline2 = 990
+  _hidden_value = true
+}

@@ -1,0 +1,116 @@
+type dummy.CooperativeBeigeCamile {
+  annotations {
+    boolean InnocentTealStacia {
+    }
+    boolean MeaningfulTanShena2 {
+    }
+    string RedBrownDallas {
+    }
+    serviceid_number WiseLavenderKathe {
+    }
+    boolean OralLimeKylie {
+    }
+  }
+  number VaguePinkMei {
+    _hidden_value = true
+  }
+  "List<string>" CorrectCrimsonErin {
+    _hidden_value = true
+  }
+  json ValuableGoldGwynne {
+    _hidden_value = true
+  }
+  hidden_boolean BriefAmethystAmalia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string SafeCopperDorey {
+    _hidden_value = true
+  }
+  number HorribleOrangeMareah {
+    _hidden_value = true
+  }
+  hidden_boolean DoubleCrimsonEtta {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT ExcitedBlackCariotta3 {
+    _hidden_value = true
+  }
+  serviceid_number InevitableIvoryJolyn {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GloriousScarletRosanne {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HollowAmberAllx {
+    _hidden_value = true
+  }
+  number SadGrayHesther {
+    _hidden_value = true
+  }
+  serviceid_number RandomMoccasinLorelle {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PoliteSalmonRafaelia {
+    _hidden_value = true
+  }
+  json PerfectCyanEtty {
+    _hidden_value = true
+  }
+  string LongAmaranthAdi {
+    _hidden_value = true
+  }
+  number DryCyanEvaleen {
+    _hidden_value = true
+  }
+  dummy.EfficientGoldGretna VaguePinkMei2 {
+    OppositeHarlequinJanel = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    StrangeCoralEdna = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ExcitingGreenIvett = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    AdequateGrayHildy = false
+    RattyWhiteWaneta = 526
+    FastEmeraldFleur = 457
+    MiddleCopperDusty = 825
+    ParliamentaryFuchsiaGiacinta = "Slept like a log last night  woke up in the fireplace."
+    ExcitingGreenIssie = "To be Frank, I'd have to change my name."
+    MaturePeachMaud = "Whoever invented the knock-knock joke should get a no bell prize."
+    StraightAmethystAlysia = false
+    _hidden_value = true
+  }
+  boolean ExpensiveCrimsonErnaline {
+    _hidden_value = true
+  }
+  hidden_boolean PayableOrangeMarcie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean PlannedPlumMireielle2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean MightyWhiteVerene2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string OuterJadeKarrah {
+    _hidden_value = true
+  }
+  dummy.DEFAULT InnerFuchsiaGeorge {
+    _hidden_value = true
+  }
+  InnocentTealStacia = true
+  MeaningfulTanShena2 = true
+  RedBrownDallas = '''
+What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
+What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
+'''
+  WiseLavenderKathe = 148
+  OralLimeKylie = false
+  _hidden_value = true
+}

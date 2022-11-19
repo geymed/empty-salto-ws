@@ -1,0 +1,37 @@
+type dummy.PeacefulOrangeMarguerite {
+  annotations {
+    boolean LongVioletVanessa2 {
+    }
+    string LivelyBlackCasi2 {
+    }
+    number BrightCoralElyn {
+    }
+    json IdeologicalOrangeMargaretta {
+    }
+    serviceid BadBlushCicily {
+    }
+    json ProtestantScarletRobinet2 {
+    }
+  }
+  json DueCopperDot {
+    _hidden_value = true
+  }
+  string FantasticBlackCarline2 {
+    _hidden_value = true
+  }
+  serviceid CompactPurpleNanni {
+    _hidden_value = true
+  }
+  hidden_boolean OperationalOrangeMarian {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  LongVioletVanessa2 = true
+  LivelyBlackCasi2 = "Why did the kid cross the playground? To get to the other slide."
+  BrightCoralElyn = 159
+  IdeologicalOrangeMargaretta = "To be Frank, I'd have to change my name."
+  BadBlushCicily = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ProtestantScarletRobinet2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

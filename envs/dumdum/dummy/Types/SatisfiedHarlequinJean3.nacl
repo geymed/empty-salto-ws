@@ -1,0 +1,110 @@
+type dummy.SatisfiedHarlequinJean3 {
+  annotations {
+    serviceid MightyWhiteVeriee2 {
+    }
+    serviceid NoblePurpleNeda {
+    }
+    hidden_boolean TightAquamarineBecky {
+    }
+    number DullVioletTrina3 {
+    }
+    boolean EnglishBrownCrin3 {
+    }
+    boolean PremierOrangeMari3 {
+    }
+    serviceid_number ReasonableCrimsonEmalia3 {
+    }
+  }
+  serviceid_number SquealingApricotAra2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GenuineGreenIsis2 {
+    _hidden_value = true
+  }
+  json SymbolicPurpleNadiya2 {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" StiffPeachMaryanne3 {
+    _hidden_value = true
+  }
+  serviceid_number ThickEmeraldFina2 {
+    _hidden_value = true
+  }
+  dummy.EmpiricalPinkMeara SportingSilverRuthy2 {
+    InfluentialMoccasinLorette = "What creature is smarter than a talking parrot? A spelling bee."
+    RichCopperDorelle = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    TerribleEmeraldFredra = "What do you do on a remote island? Try and find the TV island it belongs to."
+    LoudLavenderKiele2 = "To be Frank, I'd have to change my name."
+    _hidden_value = true
+  }
+  number FriendlyVioletTrudy4 {
+    _hidden_value = true
+  }
+  serviceid FlakyAmberAlfy2 {
+    _hidden_value = true
+  }
+  serviceid SatisfactoryLimeKrissy3 {
+    _hidden_value = true
+  }
+  json LivingGrayHenrieta2 {
+    _hidden_value = true
+  }
+  hidden_boolean BraveMoccasinLucine2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid AddedPinkMelinde3 {
+    _hidden_value = true
+  }
+  boolean InappropriateRoseOthilia {
+    _hidden_value = true
+  }
+  "List<string>" PolishPinkMeridel {
+    _hidden_value = true
+  }
+  number OrganisationalTanShara {
+    _hidden_value = true
+  }
+  number AllegedOliveLynna2 {
+    _hidden_value = true
+  }
+  boolean ExceptionalOliveMadlen2 {
+    _hidden_value = true
+  }
+  number MoaningApricotAnnecorinne {
+    _hidden_value = true
+  }
+  hidden_boolean MultipleLimeKip {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json CombinedOliveMair3 {
+    _hidden_value = true
+  }
+  number DryCyanEva {
+    _hidden_value = true
+  }
+  serviceid FilthyAmberAlfi {
+    _hidden_value = true
+  }
+  string FashionableSapphireRenae2 {
+    _hidden_value = true
+  }
+  string ArbitrarySilverRoxana2 {
+    _hidden_value = true
+  }
+  serviceid NewWhiteVeronique {
+    _hidden_value = true
+  }
+  MightyWhiteVeriee2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  NoblePurpleNeda = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  DullVioletTrina3 = 922
+  EnglishBrownCrin3 = true
+  PremierOrangeMari3 = true
+  ReasonableCrimsonEmalia3 = 101
+  _hidden_value = true
+}

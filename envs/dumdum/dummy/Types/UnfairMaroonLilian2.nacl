@@ -1,0 +1,106 @@
+type dummy.UnfairMaroonLilian2 {
+  annotations {
+    hidden_boolean DullVioletTrisha {
+    }
+    serviceid_number AggregateScarletRobbin2 {
+    }
+    boolean CheerfulSapphireRhodie4 {
+    }
+    json LinearRedNetta {
+    }
+    boolean IllEmeraldGail {
+    }
+    hidden_boolean SuccessiveMoccasinLoise4 {
+    }
+  }
+  serviceid_number ZanyBlueCelia4 {
+    _hidden_value = true
+  }
+  serviceid CatholicHarlequinJami {
+    _hidden_value = true
+  }
+  number LiableLimeKimmi3 {
+    _hidden_value = true
+  }
+  string LonelyAzureBobine3 {
+    _hidden_value = true
+  }
+  number SurvivingSapphireRicky3 {
+    _hidden_value = true
+  }
+  "List<string>" SolarRosePammie4 {
+    _hidden_value = true
+  }
+  string CheerfulBeigeCamala {
+    _hidden_value = true
+  }
+  hidden_boolean UnemployedIvoryJoline3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number PlainIndigoJewell3 {
+    _hidden_value = true
+  }
+  hidden_boolean PremierOrangeMaria2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid VaguePinkMehetabel3 {
+    _hidden_value = true
+  }
+  number ShortAmethystAnabella3 {
+    _hidden_value = true
+  }
+  serviceid_number ScrawnyYellowWilly {
+    _hidden_value = true
+  }
+  number SplendidOrangeMandy2 {
+    _hidden_value = true
+  }
+  string RunningPlumMirabella2 {
+    _hidden_value = true
+  }
+  json IndependentChocolateDella {
+    _hidden_value = true
+  }
+  serviceid PreciousWhiteVitia {
+    _hidden_value = true
+  }
+  dummy.WanderingTomatoSuzann PoliticalBlushChrissie {
+    MolecularRedNerta = 758
+    SureBlushCindi = 51
+    AdvisoryOrangeMaridel = "Why was it called the dark ages? Because of all the knights. "
+    MarxistSapphireRaine = "To be Frank, I'd have to change my name."
+    CleanCyanFernandina = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    MathematicalRoseOthelia = 452
+    BrightVioletTove = 511
+    UniqueFuchsiaGert = 70
+    GiganticAmaranthAdda = false
+    RottenApricotArlana = "Im only familiar with 25 letters in the English language. I dont know why."
+    MaturePeachMatty = 644
+    UnknownFuchsiaGilberta = false
+    SpicyAquaArlie = 760
+    HelplessTealSonny = "Why did the tomato blush? Because it saw the salad dressing."
+    WesternChocolateDeeyn = 812
+    _hidden_value = true
+  }
+  boolean MagnificentWhiteVeda2 {
+    _hidden_value = true
+  }
+  string TerribleEmeraldFreida3 {
+    _hidden_value = true
+  }
+  number AcademicEmeraldGabbey3 {
+    _hidden_value = true
+  }
+  serviceid_number BoilingAmaranthAgretha3 {
+    _hidden_value = true
+  }
+  AggregateScarletRobbin2 = 310
+  CheerfulSapphireRhodie4 = true
+  LinearRedNetta = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  IllEmeraldGail = true
+  _hidden_value = true
+}

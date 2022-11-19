@@ -1,0 +1,55 @@
+type dummy.HandsomeVioletValaree2 {
+  annotations {
+    boolean SignificantBrownDanna3 {
+    }
+    serviceid_number CourageousBeigeCammi3 {
+    }
+    dummy.DEFAULT RomanticMagentaLeah2 {
+    }
+    hidden_boolean LikelyBlushClari {
+    }
+    serviceid WhisperingApricotArdelis2 {
+    }
+  }
+  hidden_boolean HardBronzeCordey2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number CharacteristicOliveMalina {
+    _hidden_value = true
+  }
+  serviceid ConfidentialScarletRois4 {
+    _hidden_value = true
+  }
+  serviceid_number RubberSilverSaree2 {
+    _hidden_value = true
+  }
+  serviceid RealBlushClarice {
+    _hidden_value = true
+  }
+  string ProfitablePurpleNaomi2 {
+    _hidden_value = true
+  }
+  dummy.StiffPeachMarya StupidTomatoSusan5 {
+    BritishBlushCherin = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    InnerFuchsiaGenovera = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    CurlyAmberAlecia = 329
+    ArtisticPeachMathilda = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    OpenBronzeClio = false
+    LinguisticJadeKarilynn = 352
+    MonthlyMaroonLinnea = false
+    FantasticBlackCarlota = 423
+    ThinCyanEvangeline = 349
+    _hidden_value = true
+  }
+  SignificantBrownDanna3 = false
+  CourageousBeigeCammi3 = 394
+  RomanticMagentaLeah2 = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  WhisperingApricotArdelis2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

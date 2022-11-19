@@ -1,0 +1,88 @@
+type dummy.StructuralIvoryJosephina2 {
+  annotations {
+    number MajorBlushClaire {
+    }
+    serviceid WickedBeigeBryna3 {
+    }
+    hidden_boolean CleverTealSibby6 {
+    }
+    boolean CriticalCrimsonEstel3 {
+    }
+    hidden_boolean CautiousTealSib4 {
+    }
+    hidden_boolean SharpFuchsiaGeorgine3 {
+    }
+    serviceid MightyTanShandeigh2 {
+    }
+  }
+  serviceid ResponsibleCoffeeDevi2 {
+    _hidden_value = true
+  }
+  "Map<serviceid_number>" FlatAmberAllianora4 {
+    _hidden_value = true
+  }
+  serviceid_number DoubtfulTealSioux4 {
+    _hidden_value = true
+  }
+  hidden_boolean InnovativeTanSheena3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ContinuousIvoryJuana3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean OkayOliveMaggy2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<string>" BeautifulTomatoTabina2 {
+    _hidden_value = true
+  }
+  serviceid_number HighBlueCharity {
+    _hidden_value = true
+  }
+  boolean InadequateLavenderKeelia2 {
+    _hidden_value = true
+  }
+  serviceid_number LuckyBlackCassaundra3 {
+    _hidden_value = true
+  }
+  serviceid GeneralBlushChristan3 {
+    _hidden_value = true
+  }
+  serviceid_number DeafIvoryJoya2 {
+    _hidden_value = true
+  }
+  "List<json>" FixedGreenHinda2 {
+    _hidden_value = true
+  }
+  serviceid LinguisticJadeKarie2 {
+    _hidden_value = true
+  }
+  json NastyWhiteVernice3 {
+    _hidden_value = true
+  }
+  json CrucialFuchsiaGennie4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FamiliarCrimsonEthel3 {
+    _hidden_value = true
+  }
+  json IraqiOliveMadelle2 {
+    _hidden_value = true
+  }
+  hidden_boolean KindVioletValry2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  MajorBlushClaire = 502
+  WickedBeigeBryna3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  CriticalCrimsonEstel3 = true
+  MightyTanShandeigh2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

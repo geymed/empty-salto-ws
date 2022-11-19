@@ -1,0 +1,60 @@
+type dummy.SoftCoralElane6 {
+  annotations {
+    serviceid IrishCrimsonErmina5 {
+    }
+    string RadicalGrayHelen3 {
+    }
+    hidden_boolean BlondeTomatoTallie {
+    }
+    serviceid_number ConservativeCoralEllene3 {
+    }
+    serviceid NumerousHarlequinJane5 {
+    }
+  }
+  boolean ConfusedAquamarineBertine2 {
+    _hidden_value = true
+  }
+  string StrongAquaAshia2 {
+    _hidden_value = true
+  }
+  serviceid_number IllAzureBobbette2 {
+    _hidden_value = true
+  }
+  number ImpossibleCopperDulcea2 {
+    _hidden_value = true
+  }
+  serviceid UptightBeigeBrook2 {
+    _hidden_value = true
+  }
+  json FutureCoffeeDoloritas3 {
+    _hidden_value = true
+  }
+  number YellowGoldGiulia {
+    _hidden_value = true
+  }
+  serviceid_number OutrageousAzureBrandise4 {
+    _hidden_value = true
+  }
+  string RacialPlumMichelle2 {
+    _hidden_value = true
+  }
+  serviceid_number TheoreticalIndigoJenine {
+    _hidden_value = true
+  }
+  string UglyPlumMidge4 {
+    _hidden_value = true
+  }
+  json RedundantSalmonPhilippine2 {
+    _hidden_value = true
+  }
+  hidden_boolean DeadBrownDaphne4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  IrishCrimsonErmina5 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  RadicalGrayHelen3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ConservativeCoralEllene3 = 401
+  NumerousHarlequinJane5 = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

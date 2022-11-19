@@ -1,0 +1,105 @@
+type dummy.StraightforwardMaroonLeyla3 {
+  annotations {
+    serviceid StrategicIndigoJeannine3 {
+    }
+    serviceid FuriousRedNicoli4 {
+    }
+    boolean HelpfulTealSonnie {
+    }
+    json PotentialCoralElbertine3 {
+    }
+    boolean AssistantOliveLynnelle4 {
+    }
+  }
+  "Map<number>" EstablishedMagentaLeia4 {
+    _hidden_value = true
+  }
+  json BlackBlushClarita6 {
+    _hidden_value = true
+  }
+  dummy.WanderingTomatoSuzann2 PrimaryCoffeeDody3 {
+    VariableRedNona = {
+      legit = "Why did the tomato blush? Because it saw the salad dressing."
+    }
+    ComfortableGoldGrissel = "Why didnt the skeleton cross the road? Because he had no guts."
+    ElectronicGreenInez = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    ExperimentalLavenderKatinka = "A steak pun is a rare medium well done."
+    SilkyAquaBambi = true
+    MysteriousPurpleNell = {
+      legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    }
+    CruelPlumMichaela = false
+    IncCrimsonErinna = false
+    RadicalGrayHelenelizabeth = "Why was it called the dark ages? Because of all the knights. "
+    ProfoundPinkMerlina = "I'll tell you what often gets over looked... garden fences."
+    CanadianPlumMinda = "What creature is smarter than a talking parrot? A spelling bee."
+    RightBlushCherise = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    LooseAquaAura = 504
+    LongVioletVan = "Whoever invented the knock-knock joke should get a no bell prize."
+    NormalBrownDamaris = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    PlainTurquoiseTherine = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    OuterJadeKarrie = "Why did the tomato blush? Because it saw the salad dressing."
+    _hidden_value = true
+  }
+  serviceid_number ExplicitMaroonLisetta2 {
+    _hidden_value = true
+  }
+  hidden_boolean FewAmethystAndria3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean FiscalRedNike {
+    _hidden_value = true
+  }
+  json RoastedWhiteWendye4 {
+    _hidden_value = true
+  }
+  dummy.ImmediateCrimsonEmelita ThickEmeraldFilide3 {
+    HandsomeOliveMaitilde = "Slept like a log last night  woke up in the fireplace."
+    KindBlackCaryl = 419
+    FeministPlumMinda = 848
+    _hidden_value = true
+  }
+  number FarBlushChristin {
+    _hidden_value = true
+  }
+  number InitialCoralElsie3 {
+    _hidden_value = true
+  }
+  hidden_boolean ConvenientMagentaLeese2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT DrunkPeachMarleah3 {
+    _hidden_value = true
+  }
+  number ToughYellowYvette3 {
+    _hidden_value = true
+  }
+  dummy.ScreechingApricotAnthea UnfairMaroonLilas6 {
+    OpenTealStarr = 27
+    EntitledIvoryJulia = 700
+    PassivePurpleMurielle = "My first time using an elevator was an uplifting experience. The second time let me down."
+    NearFuchsiaGerianne = {
+      legit = "Im only familiar with 25 letters in the English language. I dont know why."
+    }
+    ConfidentialScarletRomola = 955
+    HistoricLavenderKellie = 525
+    HelpfulBlackCaroline = "Im only familiar with 25 letters in the English language. I dont know why."
+    _hidden_value = true
+  }
+  boolean LargeAmaranthAdelina2 {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" DeliciousApricotArdine3 {
+    _hidden_value = true
+  }
+  StrategicIndigoJeannine3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  FuriousRedNicoli4 = "How come the stadium got hot after the game? Because all of the fans left."
+  HelpfulTealSonnie = false
+  PotentialCoralElbertine3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  AssistantOliveLynnelle4 = false
+  _hidden_value = true
+}

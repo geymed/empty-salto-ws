@@ -1,0 +1,87 @@
+type dummy.DailyCyanEvelina3 {
+  annotations {
+    serviceid DryCyanEuphemia {
+    }
+    json CharmingPlumMorgana4 {
+    }
+    json RevolutionaryJadeKarry2 {
+    }
+    number MildOliveMaddi4 {
+    }
+    boolean BigBlushChiquia2 {
+    }
+  }
+  hidden_boolean BeautifulTomatoTabitha2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.FamousCoralElfrieda CheapCoralEdithe2 {
+    ChristianCoralElvera = 529
+    NoblePurpleNatty = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    PassivePurpleMyra = "A steak pun is a rare medium well done."
+    GeographicalPeachMarlene = "Im only familiar with 25 letters in the English language. I dont know why."
+    AwakeRedNola2 = {
+      legit = "Why did the kid cross the playground? To get to the other slide."
+    }
+    DeepAmberAllegra = 96
+    OrangePurpleMufinella = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    FascinatingOrangeMargareta = "I'll tell you what often gets over looked... garden fences."
+    IntellectualJadeKalina = 969
+    _hidden_value = true
+  }
+  json UsedFuchsiaGeorgeta {
+    _hidden_value = true
+  }
+  json UnfortunatePeachMarrissa2 {
+    _hidden_value = true
+  }
+  serviceid_number InterestingChocolateDelphine2 {
+    _hidden_value = true
+  }
+  json DevelopingHarlequinJeanna {
+    _hidden_value = true
+  }
+  string RomanticMagentaLeah3 {
+    _hidden_value = true
+  }
+  hidden_boolean RareEmeraldFlorenza {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number CondemnedAquamarineBerthe7 {
+    _hidden_value = true
+  }
+  boolean RequiredMaroonLethia {
+    _hidden_value = true
+  }
+  string FluffyAmberAlica {
+    _hidden_value = true
+  }
+  hidden_boolean VastEmeraldFreddie3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid HeavyChocolateDavine2 {
+    _hidden_value = true
+  }
+  hidden_boolean CivicTanShelli3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number HardBronzeCordey3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SpiritualLavenderKatlin4 {
+    _hidden_value = true
+  }
+  DryCyanEuphemia = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  CharmingPlumMorgana4 = "I'll tell you what often gets over looked... garden fences."
+  RevolutionaryJadeKarry2 = "What do you call two barracuda fish?  A Pairacuda!"
+  MildOliveMaddi4 = 557
+  BigBlushChiquia2 = true
+  _hidden_value = true
+}

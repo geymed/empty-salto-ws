@@ -1,0 +1,96 @@
+type dummy.ParentalRedNicki {
+  annotations {
+    json PassivePurpleMurielle2 {
+    }
+    string StraightHarlequinJaimie2 {
+    }
+    serviceid_number DelightfulSilverRow2 {
+    }
+    boolean IndianGrayHarlie {
+    }
+    dummy.ScreechingApricotAnthea CrookedAmberAlisha {
+    }
+    boolean RisingScarletRosemarie {
+    }
+  }
+  boolean SpanishGreenIrena {
+    _hidden_value = true
+  }
+  serviceid_number SimilarBronzeConstance {
+    _hidden_value = true
+  }
+  json ConfusedMaroonLil {
+    _hidden_value = true
+  }
+  serviceid_number NearFuchsiaGerianne2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AcceptedTanSerene {
+    _hidden_value = true
+  }
+  number RisingScarletRosemaria3 {
+    _hidden_value = true
+  }
+  serviceid_number InnocentMagentaLarina {
+    _hidden_value = true
+  }
+  json StructuralIvoryJosephine2 {
+    _hidden_value = true
+  }
+  hidden_boolean FrozenScarletRosa {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.PassivePurpleMyranda InnocentMagentaLarina2 {
+    RepulsiveBeigeBrena = false
+    DiverseRedNicol = 749
+    LegitimatePinkMaxine = "Why was it called the dark ages? Because of all the knights. "
+    ObligedOrangeMarcelline = 987
+    FluffyAmberAlia = false
+    FunnyVioletTuesday = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    RelaxedPlumMinnie = true
+    AwfulAquamarineBernelle = "Why was it called the dark ages? Because of all the knights. "
+    DomesticCopperEba = 892
+    FuzzyAquaAtlante = {
+      legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    }
+    _hidden_value = true
+  }
+  serviceid NewBlueChandal {
+    _hidden_value = true
+  }
+  dummy.DistinctHarlequinJanella ExcessSilverSapphira {
+    MinimumIndigoJermaine = "Why is Peter Pan always flying? Because he Neverlands."
+    ConceptualTanShelbi = false
+    IdenticalLimeKorie = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    RelievedBlueCathie = false
+    RegulatorySalmonQuintilla = true
+    GoodBlueCelisse = "Did you know that protons have mass? I didn't even know they were catholic."
+    SoftApricotApril = 449
+    NursingSalmonPetronille = false
+    CriticalCrimsonEstele = "To be Frank, I'd have to change my name."
+    _hidden_value = true
+  }
+  serviceid CriticalCrimsonEstel {
+    _hidden_value = true
+  }
+  boolean RespectiveSalmonPet {
+    _hidden_value = true
+  }
+  string ModeratePurpleNatalie {
+    _hidden_value = true
+  }
+  boolean UsefulChocolateDee2 {
+    _hidden_value = true
+  }
+  PassivePurpleMurielle2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  StraightHarlequinJaimie2 = "Why did the tomato blush? Because it saw the salad dressing."
+  DelightfulSilverRow2 = 542
+  IndianGrayHarlie = true
+  CrookedAmberAlisha = "What did one nut say as he chased another nut?  I'm a cashew!"
+  RisingScarletRosemarie = true
+  _hidden_value = true
+}

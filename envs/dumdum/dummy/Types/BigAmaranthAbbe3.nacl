@@ -1,0 +1,38 @@
+type dummy.BigAmaranthAbbe3 {
+  annotations {
+    serviceid SmallBlueCharleen {
+    }
+    json GayOrangeMarijo2 {
+    }
+    serviceid SpotlessTurquoiseTilly2 {
+    }
+    boolean EntitledIvoryJuliana {
+    }
+    serviceid_number EnglishBrownCrissie {
+    }
+    boolean InclinedRedNyssa3 {
+    }
+    hidden_boolean CombinedOliveMair5 {
+    }
+  }
+  boolean InnerFuchsiaGeorgeanna {
+    _hidden_value = true
+  }
+  hidden_boolean ComprehensiveGreenHyacinthe {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean RelativeGoldGuillemette2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  SmallBlueCharleen = "What do you do on a remote island? Try and find the TV island it belongs to."
+  GayOrangeMarijo2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SpotlessTurquoiseTilly2 = "Why is Peter Pan always flying? Because he Neverlands."
+  EntitledIvoryJuliana = true
+  EnglishBrownCrissie = 762
+  InclinedRedNyssa3 = false
+  _hidden_value = true
+}

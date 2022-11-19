@@ -1,0 +1,46 @@
+type dummy.ShallowPinkMeggy {
+  annotations {
+    dummy.DEFAULT NecessaryBronzeCookie {
+    }
+    serviceid_number ThickEmeraldFilide {
+    }
+    hidden_boolean DoubtfulRosePansie2 {
+    }
+    boolean FairBlackCarlie {
+    }
+  }
+  number AggressiveMaroonLilith3 {
+    _hidden_value = true
+  }
+  string SpareMaroonLillian {
+    _hidden_value = true
+  }
+  json OkSapphireRhianon2 {
+    _hidden_value = true
+  }
+  hidden_boolean EagerPlumMilly {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number VerticalOliveLynnette {
+    _hidden_value = true
+  }
+  hidden_boolean SadYellowWillamina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean HonestIndigoJerrine {
+    _hidden_value = true
+  }
+  number EvolutionarySilverRubina2 {
+    _hidden_value = true
+  }
+  NecessaryBronzeCookie = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  ThickEmeraldFilide = 285
+  FairBlackCarlie = true
+  _hidden_value = true
+}

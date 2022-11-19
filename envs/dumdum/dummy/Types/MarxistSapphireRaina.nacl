@@ -1,0 +1,91 @@
+type dummy.MarxistSapphireRaina {
+  annotations {
+    hidden_boolean CriminalFuchsiaGeorgetta2 {
+    }
+    serviceid_number ImpressiveIndigoJess2 {
+    }
+    number MassGreenIlla {
+    }
+    serviceid_number LonelyOliveLynda2 {
+    }
+    serviceid SpontaneousTanSharyl2 {
+    }
+    dummy.DEFAULT OutstandingTealStefanie2 {
+    }
+    boolean PayableOrangeMarcie2 {
+    }
+  }
+  hidden_boolean UptightBeigeBrittni2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string DifferentTealSilvia2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PrivateBronzeCordula3 {
+    _hidden_value = true
+  }
+  boolean VastEmeraldFred2 {
+    _hidden_value = true
+  }
+  hidden_boolean VictoriousBlueCecil {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string BadBlushCilka {
+    _hidden_value = true
+  }
+  dummy.FollowingBrownCynthia HotCoffeeDesdemona3 {
+    SoftCoralElana = "What do you call two barracuda fish?  A Pairacuda!"
+    InherentRedNoami = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    PleasantBlueCathe = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    PlasticAquaAurelia = "Im only familiar with 25 letters in the English language. I dont know why."
+    BriefAmethystAmaleta = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    RuralCoralElsa = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    GoverningTanSena = 914
+    GrievingAzureBlanca = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    PricklyWhiteVittoria = 832
+    ScatteredAquaAveryl = "Why didnt the skeleton cross the road? Because he had no guts."
+    ItchyVioletValentina = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    _hidden_value = true
+  }
+  hidden_boolean CondemnedAquamarineBerti {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid UnevenAquamarineBeitris2 {
+    _hidden_value = true
+  }
+  dummy.StiffPeachMarya ShyTomatoStormy {
+    BritishBlushCherin = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    InnerFuchsiaGenovera = "Why was it called the dark ages? Because of all the knights. "
+    CurlyAmberAlecia = 358
+    ArtisticPeachMathilda = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    OpenBronzeClio = true
+    LinguisticJadeKarilynn = 344
+    MonthlyMaroonLinnea = true
+    FantasticBlackCarlota = 595
+    ThinCyanEvangeline = 305
+    _hidden_value = true
+  }
+  ImpressiveIndigoJess2 = 18
+  MassGreenIlla = 668
+  LonelyOliveLynda2 = 461
+  SpontaneousTanSharyl2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  OutstandingTealStefanie2 = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  PayableOrangeMarcie2 = true
+  _hidden_value = true
+}

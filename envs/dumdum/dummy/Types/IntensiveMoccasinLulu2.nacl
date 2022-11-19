@@ -1,0 +1,88 @@
+type dummy.IntensiveMoccasinLulu2 {
+  annotations {
+    serviceid DigitalMaroonLib3 {
+    }
+    serviceid_number TightAquamarineBecki {
+    }
+    serviceid_number AloneCyanFaina4 {
+    }
+    number MiserableSalmonRachele2 {
+    }
+    dummy.ShallowAmberAloysia AmateurSalmonPia2 {
+    }
+    dummy.DEFAULT LeftCoffeeDenys3 {
+    }
+    boolean ReadyChocolateDebi4 {
+    }
+  }
+  number AnxiousAquamarineBeret3 {
+    _hidden_value = true
+  }
+  boolean RigidPinkMerrill3 {
+    _hidden_value = true
+  }
+  hidden_boolean LegalBrownDaile2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean SmilingBlueCathy2 {
+    _hidden_value = true
+  }
+  json CreepyAquamarineBess2 {
+    _hidden_value = true
+  }
+  json CostlySapphireReggi {
+    _hidden_value = true
+  }
+  boolean SuddenGoldGusty2 {
+    _hidden_value = true
+  }
+  json SkinnyAmberAloysia4 {
+    _hidden_value = true
+  }
+  string DiverseRedNicky3 {
+    _hidden_value = true
+  }
+  boolean DustyAmberAlexi2 {
+    _hidden_value = true
+  }
+  hidden_boolean GrandEmeraldFrances3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ContinuingGreenIrma2 {
+    _hidden_value = true
+  }
+  string LongAmaranthAdi2 {
+    _hidden_value = true
+  }
+  hidden_boolean BriefAmethystAmalita4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string CondemnedAquamarineBerthe4 {
+    _hidden_value = true
+  }
+  string DistinctHarlequinJanela2 {
+    _hidden_value = true
+  }
+  string JustMaroonLissie2 {
+    _hidden_value = true
+  }
+  serviceid ProfitablePurpleNaoma7 {
+    _hidden_value = true
+  }
+  DigitalMaroonLib3 = "I'll tell you what often gets over looked... garden fences."
+  TightAquamarineBecki = 516
+  AloneCyanFaina4 = 160
+  MiserableSalmonRachele2 = 772
+  AmateurSalmonPia2 = true
+  LeftCoffeeDenys3 = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  ReadyChocolateDebi4 = true
+  _hidden_value = true
+}

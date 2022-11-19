@@ -1,0 +1,60 @@
+type dummy.RelevantCoffeeDoralia2 {
+  annotations {
+    boolean ZanyBlueCelia6 {
+    }
+    json AppropriateChocolateDarci3 {
+    }
+    json RevolutionaryJadeKaryl2 {
+    }
+    serviceid_number WickedBeigeBryn {
+    }
+    json ContinuingGreenIsa4 {
+    }
+    serviceid FondSalmonPierrette2 {
+    }
+  }
+  hidden_boolean CoherentScarletRoselin3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json SlimyAquamarineBarbabra2 {
+    _hidden_value = true
+  }
+  serviceid_number LiteraryGreenIris2 {
+    _hidden_value = true
+  }
+  json ConvincedJadeKarina {
+    _hidden_value = true
+  }
+  serviceid_number ProfitablePurpleNaomi {
+    _hidden_value = true
+  }
+  boolean RomanticMagentaLeah {
+    _hidden_value = true
+  }
+  serviceid_number SacredRedNorri {
+    _hidden_value = true
+  }
+  boolean ReducedPinkMeryl2 {
+    _hidden_value = true
+  }
+  hidden_boolean AutonomousScarletRora4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number ShaggyAquaAviva4 {
+    _hidden_value = true
+  }
+  serviceid BitterApricotArdene {
+    _hidden_value = true
+  }
+  ZanyBlueCelia6 = true
+  AppropriateChocolateDarci3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  RevolutionaryJadeKaryl2 = "Why was it called the dark ages? Because of all the knights. "
+  WickedBeigeBryn = 542
+  ContinuingGreenIsa4 = "Whoever invented the knock-knock joke should get a no bell prize."
+  FondSalmonPierrette2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

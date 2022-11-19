@@ -1,0 +1,112 @@
+type dummy.SadGrayHesther3 {
+  annotations {
+    serviceid_number DampMoccasinLorrin2 {
+    }
+    serviceid InnocentTealStaci2 {
+    }
+    boolean WeakAquamarineBelicia3 {
+    }
+    boolean OptimisticRosePearle {
+    }
+    hidden_boolean StickyAquamarineBeatrix {
+    }
+  }
+  boolean NearFuchsiaGerianne6 {
+    _hidden_value = true
+  }
+  json SteepAmberAlvira {
+    _hidden_value = true
+  }
+  hidden_boolean RubberSilverSarena3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean CruelPlumMicaela {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean SolarRosePammie5 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean BareLavenderKellia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid TeenageScarletRobinia {
+    _hidden_value = true
+  }
+  hidden_boolean DearGoldGlori {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid TechnicalCopperEdee {
+    _hidden_value = true
+  }
+  boolean HilariousBlackCarolyne5 {
+    _hidden_value = true
+  }
+  "List<number>" IncCrimsonErmengarde2 {
+    _hidden_value = true
+  }
+  string FormidableSilverSabrina4 {
+    _hidden_value = true
+  }
+  hidden_boolean CuriousLimeKirbee2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number EarlyAmethystAmalita {
+    _hidden_value = true
+  }
+  serviceid RepulsiveBeigeBrenn2 {
+    _hidden_value = true
+  }
+  number PassingSalmonPollyanna3 {
+    _hidden_value = true
+  }
+  hidden_boolean StraightforwardMaroonLexy {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ElegantTurquoiseTeddie3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json ComprehensiveGreenHyacinthia2 {
+    _hidden_value = true
+  }
+  json BreezyAmaranthAida3 {
+    _hidden_value = true
+  }
+  serviceid TightIvoryJoelynn3 {
+    _hidden_value = true
+  }
+  serviceid_number LiberalCyanFarica4 {
+    _hidden_value = true
+  }
+  hidden_boolean EquivalentJadeKala2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean MarkedMagentaLatrina5 {
+    _hidden_value = true
+  }
+  json CurlyAmberAlbertine2 {
+    _hidden_value = true
+  }
+  DampMoccasinLorrin2 = 519
+  InnocentTealStaci2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  WeakAquamarineBelicia3 = false
+  OptimisticRosePearle = true
+  _hidden_value = true
+}

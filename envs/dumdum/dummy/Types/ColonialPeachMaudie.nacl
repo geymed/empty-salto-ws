@@ -1,0 +1,42 @@
+type dummy.ColonialPeachMaudie is string {
+  annotations {
+    serviceid_number FrequentLavenderKatie2 {
+    }
+    boolean VoicelessApricotArdeen {
+    }
+    json InnerFuchsiaGenvieve {
+    }
+    json FlakyAmberAlfy {
+    }
+    json CentralBronzeConnie {
+    }
+    serviceid StingyYellowWinnah {
+    }
+    number AnnoyedAquamarineBenita {
+    }
+    json DullVioletTrish {
+    }
+    hidden_boolean SuccessfulBlueCatlee {
+    }
+    json WeeklyLavenderKessia2 {
+    }
+    serviceid_number RawJadeKarlee {
+    }
+    number WeirdSilverRozella {
+    }
+    json ShaggyAquaAvis {
+    }
+  }
+  FrequentLavenderKatie2 = 180
+  VoicelessApricotArdeen = false
+  InnerFuchsiaGenvieve = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FlakyAmberAlfy = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  CentralBronzeConnie = "To be Frank, I'd have to change my name."
+  StingyYellowWinnah = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  AnnoyedAquamarineBenita = 488
+  DullVioletTrish = "What did one nut say as he chased another nut?  I'm a cashew!"
+  WeeklyLavenderKessia2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  RawJadeKarlee = 101
+  WeirdSilverRozella = 941
+  ShaggyAquaAvis = "Slept like a log last night  woke up in the fireplace."
+}

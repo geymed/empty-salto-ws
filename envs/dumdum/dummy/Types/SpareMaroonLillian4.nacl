@@ -1,0 +1,21 @@
+type dummy.SpareMaroonLillian4 {
+  annotations {
+    serviceid_number QuickestWhiteVonny3 {
+    }
+    boolean FancyTurquoiseTedi2 {
+    }
+    hidden_boolean UnevenAquamarineBeilul2 {
+    }
+    number PleasedEmeraldGabriella2 {
+    }
+    hidden_boolean SillyYellowWindy {
+    }
+  }
+  serviceid AliveTealSherri2 {
+    _hidden_value = true
+  }
+  QuickestWhiteVonny3 = 358
+  FancyTurquoiseTedi2 = false
+  PleasedEmeraldGabriella2 = 324
+  _hidden_value = true
+}

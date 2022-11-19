@@ -1,0 +1,25 @@
+type dummy.JudicialJadeKarita2 {
+  annotations {
+    json GreasyAquaAubree4 {
+    }
+    serviceid SecondaryFuchsiaGertrud2 {
+    }
+    boolean ElegantMoccasinLucina4 {
+    }
+    json GeographicalPeachMarlene3 {
+    }
+    json UnpleasantRedNonnah4 {
+    }
+    hidden_boolean WhiteBronzeCodee2 {
+    }
+  }
+  json RunningPlumMira {
+    _hidden_value = true
+  }
+  GreasyAquaAubree4 = "I'll tell you what often gets over looked... garden fences."
+  SecondaryFuchsiaGertrud2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  ElegantMoccasinLucina4 = false
+  GeographicalPeachMarlene3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  UnpleasantRedNonnah4 = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

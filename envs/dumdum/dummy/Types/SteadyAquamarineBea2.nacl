@@ -1,0 +1,74 @@
+type dummy.SteadyAquamarineBea2 {
+  annotations {
+    serviceid FamousTealSissy {
+    }
+    serviceid EmpiricalPinkMeara3 {
+    }
+    json VulnerableJadeKarole {
+    }
+    string GreatAmaranthAddie {
+    }
+    string ProbableSalmonPhyllis {
+    }
+    json QuaintWhiteVivianna3 {
+    }
+  }
+  string AmbitiousPeachMaure {
+    _hidden_value = true
+  }
+  hidden_boolean SymbolicPurpleNadine {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number DistantIndigoJillian {
+    _hidden_value = true
+  }
+  json IdenticalLimeKorrie {
+    _hidden_value = true
+  }
+  serviceid_number KoreanSapphireRasla {
+    _hidden_value = true
+  }
+  string AdequateGrayHildy4 {
+    _hidden_value = true
+  }
+  dummy.ImmediateCrimsonEmelita FrightenedMagentaLaverne {
+    HandsomeOliveMaitilde = "Why was it called the dark ages? Because of all the knights. "
+    KindBlackCaryl = 400
+    FeministPlumMinda = 784
+    _hidden_value = true
+  }
+  serviceid_number BloodyTomatoTally2 {
+    _hidden_value = true
+  }
+  serviceid RattyWhiteWanids {
+    _hidden_value = true
+  }
+  boolean MotionlessTurquoiseThelma {
+    _hidden_value = true
+  }
+  hidden_boolean SmoothIndigoJemmy3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean AliveFuchsiaGillie2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number StickyAquaArlyn {
+    _hidden_value = true
+  }
+  json PreviousBrownDani {
+    _hidden_value = true
+  }
+  FamousTealSissy = "What creature is smarter than a talking parrot? A spelling bee."
+  EmpiricalPinkMeara3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  VulnerableJadeKarole = "Slept like a log last night  woke up in the fireplace."
+  GreatAmaranthAddie = "What do you call two barracuda fish?  A Pairacuda!"
+  ProbableSalmonPhyllis = "What do you do on a remote island? Try and find the TV island it belongs to."
+  QuaintWhiteVivianna3 = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

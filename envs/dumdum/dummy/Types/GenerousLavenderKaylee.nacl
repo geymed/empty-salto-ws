@@ -1,0 +1,49 @@
+type dummy.GenerousLavenderKaylee {
+  annotations {
+    boolean CreepyAquamarineBess {
+    }
+    json SillyYellowWini {
+    }
+    number NeatMoccasinLorita {
+    }
+    boolean CheerfulSapphireRhodie2 {
+    }
+    number ConservationPlumMoira4 {
+    }
+  }
+  serviceid UnchangedSilverRubetta2 {
+    _hidden_value = true
+  }
+  serviceid BetterVioletTommi {
+    _hidden_value = true
+  }
+  json FamiliarCrimsonEthel {
+    _hidden_value = true
+  }
+  hidden_boolean GoldenGrayHalette2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json ChristianCoralElvera2 {
+    _hidden_value = true
+  }
+  serviceid FollowingBrownCyndie2 {
+    _hidden_value = true
+  }
+  number WhiteBronzeCodee {
+    _hidden_value = true
+  }
+  boolean OtherBlueCelinda2 {
+    _hidden_value = true
+  }
+  string ColorfulTomatoTanhya {
+    _hidden_value = true
+  }
+  CreepyAquamarineBess = false
+  SillyYellowWini = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  NeatMoccasinLorita = 531
+  CheerfulSapphireRhodie2 = true
+  ConservationPlumMoira4 = 929
+  _hidden_value = true
+}

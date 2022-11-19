@@ -1,0 +1,49 @@
+type dummy.VastYellowZarla3 {
+  annotations {
+    serviceid_number DepressedAzureBettine {
+    }
+    json NiceWhiteVi5 {
+    }
+    dummy.RedWhiteWendeline ProtestantScarletRobin5 {
+    }
+    serviceid ElderlyEmeraldFlorella3 {
+    }
+    serviceid_number ColouredMaroonLivia2 {
+    }
+    string VaryingPurpleNellie2 {
+    }
+    serviceid MobilePurpleMorna6 {
+    }
+    serviceid_number NakedMagentaLeanora2 {
+    }
+    serviceid_number MassiveFuchsiaGerry2 {
+    }
+    json AmusedBeigeBunny {
+    }
+    dummy.ImmediateCrimsonEmelita ComparativePlumMitzi4 {
+    }
+    serviceid_number CheapCopperEdita3 {
+    }
+    number RivalPurpleNari3 {
+    }
+    number SweetAquaAshien {
+    }
+    string ExtensiveGoldGlory3 {
+    }
+  }
+  DepressedAzureBettine = 992
+  NiceWhiteVi5 = "Why didnt the skeleton cross the road? Because he had no guts."
+  ProtestantScarletRobin5 = file("ArtisticPeachMarysa2.txt")
+  ElderlyEmeraldFlorella3 = "Why is Peter Pan always flying? Because he Neverlands."
+  ColouredMaroonLivia2 = 102
+  VaryingPurpleNellie2 = "Why was it called the dark ages? Because of all the knights. "
+  MobilePurpleMorna6 = "Why didnt the skeleton cross the road? Because he had no guts."
+  NakedMagentaLeanora2 = 874
+  MassiveFuchsiaGerry2 = 481
+  AmusedBeigeBunny = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ComparativePlumMitzi4 = file("AcuteLavenderKeriann2.txt")
+  CheapCopperEdita3 = 78
+  RivalPurpleNari3 = 756
+  SweetAquaAshien = 984
+  ExtensiveGoldGlory3 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+}

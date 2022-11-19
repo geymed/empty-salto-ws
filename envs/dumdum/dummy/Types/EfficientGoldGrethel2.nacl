@@ -1,0 +1,27 @@
+type dummy.EfficientGoldGrethel2 {
+  annotations {
+    serviceid_number ExtraCoffeeDianemarie3 {
+    }
+    number EldestTanSharlene3 {
+    }
+    json FuriousRedNicoli {
+    }
+    boolean RareEmeraldFlori {
+    }
+    serviceid_number MildOliveMadalyn3 {
+    }
+    hidden_boolean FarBlushChristiane4 {
+    }
+  }
+  hidden_boolean BraveMoccasinLucine3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  ExtraCoffeeDianemarie3 = 527
+  EldestTanSharlene3 = 627
+  FuriousRedNicoli = "Dad Im hungry  Hi hungry Im dad"
+  RareEmeraldFlori = false
+  MildOliveMadalyn3 = 539
+  _hidden_value = true
+}

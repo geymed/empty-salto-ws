@@ -1,0 +1,45 @@
+type dummy.FamiliarCrimsonEthelda {
+  annotations {
+    string PrimitiveOrangeMarga {
+    }
+    string SmoothAquamarineBarbey {
+    }
+    dummy.DEFAULT FatalPurpleMyrtie {
+    }
+    serviceid_number YoungBlueChere2 {
+    }
+  }
+  serviceid FreeBronzeColeen2 {
+    _hidden_value = true
+  }
+  string ConceptualTanShelba2 {
+    _hidden_value = true
+  }
+  serviceid_number ShaggyAquaAvivah {
+    _hidden_value = true
+  }
+  hidden_boolean PaleGrayHarriett {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean QuaintWhiteVivianne {
+    _hidden_value = true
+  }
+  json JollyVioletValida {
+    _hidden_value = true
+  }
+  boolean AppropriateChocolateDarcey {
+    _hidden_value = true
+  }
+  string QuickWhiteVonni {
+    _hidden_value = true
+  }
+  PrimitiveOrangeMarga = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SmoothAquamarineBarbey = "Why did the kid cross the playground? To get to the other slide."
+  FatalPurpleMyrtie = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  YoungBlueChere2 = 992
+  _hidden_value = true
+}

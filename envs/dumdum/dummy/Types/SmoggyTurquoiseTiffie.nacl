@@ -1,0 +1,70 @@
+type dummy.SmoggyTurquoiseTiffie {
+  annotations {
+    number BasicChocolateDarla {
+    }
+    json EstablishedMagentaLeia2 {
+    }
+    serviceid StatisticalMagentaLanie2 {
+    }
+    serviceid_number TypicalEmeraldFrancesca {
+    }
+    serviceid InitialCoralElset2 {
+    }
+    string DemocraticCrimsonEmylee2 {
+    }
+  }
+  boolean ChronicOliveMalissia3 {
+    _hidden_value = true
+  }
+  serviceid ShyScarletRosette {
+    _hidden_value = true
+  }
+  serviceid_number OralLimeKym {
+    _hidden_value = true
+  }
+  string AggregateScarletRobbyn2 {
+    _hidden_value = true
+  }
+  boolean LonelyAzureBobine2 {
+    _hidden_value = true
+  }
+  hidden_boolean ThinCyanEvania {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean AlertTomatoTabatha3 {
+    _hidden_value = true
+  }
+  hidden_boolean ArbitrarySilverRoxana {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number FastEmeraldFleurette2 {
+    _hidden_value = true
+  }
+  hidden_boolean VividTanShawnee {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string RawJadeKarlen {
+    _hidden_value = true
+  }
+  hidden_boolean ExcessiveOliveMadelena {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid CompleteCoffeeDevon {
+    _hidden_value = true
+  }
+  BasicChocolateDarla = 31
+  EstablishedMagentaLeia2 = "Why was it called the dark ages? Because of all the knights. "
+  StatisticalMagentaLanie2 = "Why is Peter Pan always flying? Because he Neverlands."
+  TypicalEmeraldFrancesca = 653
+  InitialCoralElset2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  DemocraticCrimsonEmylee2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

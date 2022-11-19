@@ -1,0 +1,120 @@
+type dummy.SleepyTomatoSula {
+  annotations {
+    
+    
+    
+    
+    string SteepMoccasinLuise2 {
+    }
+    string JudicialJadeKarla {
+    }
+    number RelatedIndigoJessalin2 {
+    }
+    string AlertTomatoTabatha2 {
+    }
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  _hidden_value = true
+  SteepMoccasinLuise2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  JudicialJadeKarla = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  RelatedIndigoJessalin2 = 189
+  AlertTomatoTabatha2 = "I'll tell you what often gets over looked... garden fences."
+  hidden_boolean SwissPlumMiguelita2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number RenewedSilverSandie {
+    _hidden_value = true
+  }
+  hidden_boolean StatisticalMagentaLanie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean CreepyAmberAlaine2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ExtendedPlumMilena {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean PresentBrownCristi {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string DisappointedMagentaLauryn {
+    _hidden_value = true
+  }
+  boolean InformalLavenderKatheryn {
+    _hidden_value = true
+  }
+  serviceid ApparentCyanFawnia3 {
+    _hidden_value = true
+  }
+  json EmotionalGrayHertha {
+    _hidden_value = true
+  }
+  boolean CharmingBeigeCallie {
+    _hidden_value = true
+  }
+  number HumanBronzeConstantia {
+    _hidden_value = true
+  }
+  boolean CloudyTomatoTana {
+    _hidden_value = true
+  }
+  boolean IndianGrayHarmonia {
+    _hidden_value = true
+  }
+  number EagerPlumMilzie {
+    _hidden_value = true
+  }
+  json MarineMagentaLeonanie2 {
+    _hidden_value = true
+  }
+  json IrishCrimsonErna2 {
+    _hidden_value = true
+  }
+  dummy.DistinctHarlequinJanella BusyTealShirleen2 {
+    MinimumIndigoJermaine = "Why is Peter Pan always flying? Because he Neverlands."
+    ConceptualTanShelbi = false
+    IdenticalLimeKorie = {
+      legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    }
+    RelievedBlueCathie = false
+    RegulatorySalmonQuintilla = true
+    GoodBlueCelisse = "Why is Peter Pan always flying? Because he Neverlands."
+    SoftApricotApril = 310
+    NursingSalmonPetronille = true
+    CriticalCrimsonEstele = "Why is Peter Pan always flying? Because he Neverlands."
+    _hidden_value = true
+  }
+}

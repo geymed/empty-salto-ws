@@ -1,0 +1,52 @@
+type dummy.CompulsoryOrangeMallory {
+  annotations {
+    hidden_boolean CoastalPlumMichel {
+    }
+    number AnxiousAquamarineBenny {
+    }
+    serviceid_number TurkishPurpleMoyra {
+    }
+    hidden_boolean KindBlackCaryl2 {
+    }
+  }
+  hidden_boolean FantasticSapphireRegine2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string DifficultTealSimona2 {
+    _hidden_value = true
+  }
+  serviceid SteepMoccasinLuise {
+    _hidden_value = true
+  }
+  boolean RaspyApricotAnnora {
+    _hidden_value = true
+  }
+  number PublicBlushChrysa {
+    _hidden_value = true
+  }
+  string ResidentialIndigoJessi {
+    _hidden_value = true
+  }
+  "List<number>" FunnyEmeraldGabbi {
+    _hidden_value = true
+  }
+  hidden_boolean ElegantTurquoiseTeddie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number HelpfulTealSonni {
+    _hidden_value = true
+  }
+  boolean IslamicRoseOlympia {
+    _hidden_value = true
+  }
+  serviceid_number IntactRosePatti {
+    _hidden_value = true
+  }
+  AnxiousAquamarineBenny = 566
+  TurkishPurpleMoyra = 42
+  _hidden_value = true
+}

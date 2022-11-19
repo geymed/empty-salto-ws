@@ -1,0 +1,29 @@
+type dummy.GrimScarletRonna3 {
+  dummy.SecureMoccasinLouella2 SaltyApricotArleen2 {
+    ExcitedOrangeMariquilla4 = 785
+    DyingScarletRoby2 = "What do you call two barracuda fish?  A Pairacuda!"
+    UselessRedNinetta2 = "Im only familiar with 25 letters in the English language. I dont know why."
+    SafeCopperDorey2 = 416
+  }
+  number TechnologicalOrangeMarianna2 {
+  }
+  number TenderRedOdelinda2 {
+  }
+  boolean UnhappyMaroonLida2 {
+  }
+  json TeenageScarletRobinett {
+  }
+  hidden_boolean BoredPlumMonique4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number SillyBlueCathrin4 {
+  }
+  string AliveTealSherri3 {
+  }
+  serviceid_number NovelScarletRoshelle4 {
+  }
+  serviceid BoilingAmaranthAgretha4 {
+  }
+}

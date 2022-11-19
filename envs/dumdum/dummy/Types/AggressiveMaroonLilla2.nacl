@@ -1,0 +1,86 @@
+type dummy.AggressiveMaroonLilla2 {
+  annotations {
+    serviceid_number SoftApricotAnya {
+    }
+    serviceid_number LowAmberAllyn2 {
+    }
+    string ConstantEmeraldFranny {
+    }
+    json WittyBlueCecily {
+    }
+    boolean AncientAmethystAmabelle4 {
+    }
+    hidden_boolean UsedFuchsiaGeorgeanna2 {
+    }
+    hidden_boolean ConvincingSalmonPeggie {
+    }
+    json ImpressedPeachMarissa {
+    }
+  }
+  number ExpensiveCrimsonErnestine3 {
+    _hidden_value = true
+  }
+  hidden_boolean ReligiousCoralElena {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string SatisfiedHarlequinJeana {
+    _hidden_value = true
+  }
+  number WidespreadHarlequinJacqui {
+    _hidden_value = true
+  }
+  serviceid_number SuperPeachMarthe2 {
+    _hidden_value = true
+  }
+  json HeavyChocolateDavine {
+    _hidden_value = true
+  }
+  hidden_boolean AdverseSapphireRanna2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean LittleAmaranthAdella2 {
+    _hidden_value = true
+  }
+  hidden_boolean AncientEmeraldFlora3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid TypicalEmeraldFrancine3 {
+    _hidden_value = true
+  }
+  json NewBlueChandra2 {
+    _hidden_value = true
+  }
+  number MultipleLimeKimmy {
+    _hidden_value = true
+  }
+  string CoolGreenInna4 {
+    _hidden_value = true
+  }
+  number AliveFuchsiaGillie5 {
+    _hidden_value = true
+  }
+  serviceid_number ScatteredAquaAvie3 {
+    _hidden_value = true
+  }
+  hidden_boolean SwissPlumMignonne4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number SelectSalmonPhilippa3 {
+    _hidden_value = true
+  }
+  SoftApricotAnya = 526
+  LowAmberAllyn2 = 392
+  ConstantEmeraldFranny = "Why is Peter Pan always flying? Because he Neverlands."
+  WittyBlueCecily = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  AncientAmethystAmabelle4 = false
+  ImpressedPeachMarissa = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

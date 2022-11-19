@@ -1,0 +1,55 @@
+type dummy.FatalPurpleMyrtia3 {
+  annotations {
+    hidden_boolean PurpleWhiteVivian2 {
+    }
+    number LateAmethystAmber3 {
+    }
+    serviceid ThoughtlessBeigeBrita {
+    }
+    serviceid_number GothicSapphireRana {
+    }
+    hidden_boolean LongAmaranthAdiana2 {
+    }
+    number FirmGrayHedda {
+    }
+    number SmallAmaranthAgatha2 {
+    }
+  }
+  serviceid_number BitterJadeKass2 {
+    _hidden_value = true
+  }
+  string OrganisationalTanSharai3 {
+    _hidden_value = true
+  }
+  serviceid_number SkilledMoccasinLuce {
+    _hidden_value = true
+  }
+  string AdditionalCopperDotti {
+    _hidden_value = true
+  }
+  serviceid CondemnedAquamarineBerthe3 {
+    _hidden_value = true
+  }
+  hidden_boolean PreviousBrownDania {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<json>" ConcernedTealSibella {
+    _hidden_value = true
+  }
+  json WetAquamarineBella {
+    _hidden_value = true
+  }
+  hidden_boolean ValuableGoldGwyn2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  LateAmethystAmber3 = 442
+  ThoughtlessBeigeBrita = "I'll tell you what often gets over looked... garden fences."
+  GothicSapphireRana = 751
+  FirmGrayHedda = 249
+  SmallAmaranthAgatha2 = 916
+  _hidden_value = true
+}

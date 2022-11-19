@@ -1,0 +1,66 @@
+type dummy.PrimaryCoffeeDody {
+  annotations {
+    boolean UnexpectedMagentaLaureen {
+    }
+    string CreepyAmberAlameda {
+    }
+    dummy.DEFAULT SubjectiveSapphireRiane2 {
+    }
+    serviceid_number LevelJadeKamilah {
+    }
+    serviceid_number RepulsiveBeigeBrenda {
+    }
+  }
+  string LovelyBlackCassandre2 {
+    _hidden_value = true
+  }
+  serviceid RobustYellowWhitney {
+    _hidden_value = true
+  }
+  number JewishLimeKit {
+    _hidden_value = true
+  }
+  dummy.EmpiricalPinkMeara PayableOrangeMarcia {
+    InfluentialMoccasinLorette = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    RichCopperDorelle = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    TerribleEmeraldFredra = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    LoudLavenderKiele2 = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  serviceid_number EthnicLavenderKaye {
+    _hidden_value = true
+  }
+  hidden_boolean TropicalOliveLydie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ContentPeachMathilde {
+    _hidden_value = true
+  }
+  serviceid DampMoccasinLotta {
+    _hidden_value = true
+  }
+  boolean TeenageScarletRobinette {
+    _hidden_value = true
+  }
+  boolean OutstandingTealSteffi {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ImplicitSapphireRheba {
+    _hidden_value = true
+  }
+  "List<json>" CurvedAmberAlisun {
+    _hidden_value = true
+  }
+  UnexpectedMagentaLaureen = false
+  CreepyAmberAlameda = "Did you know that protons have mass? I didn't even know they were catholic."
+  SubjectiveSapphireRiane2 = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  LevelJadeKamilah = 770
+  RepulsiveBeigeBrenda = 413
+  _hidden_value = true
+}

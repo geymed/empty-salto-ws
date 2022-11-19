@@ -1,0 +1,60 @@
+type dummy.MagnificentMagentaLeena2 {
+  annotations {
+    serviceid_number TheoreticalIndigoJeniffer2 {
+    }
+    serviceid MiniatureAmaranthAdriane3 {
+    }
+    serviceid_number TallYellowXena3 {
+    }
+    serviceid_number ReadyChocolateDebera4 {
+    }
+    json DisturbingTealSherie {
+    }
+    serviceid_number FamousCoralElfrieda4 {
+    }
+    hidden_boolean SuperTomatoSusanetta4 {
+    }
+    string WorryingSilverRozamond4 {
+    }
+    hidden_boolean SourApricotArlene3 {
+    }
+    serviceid VastEmeraldFreda4 {
+    }
+    dummy.InstitutionalMaroonLesli4 AwfulAquamarineBernardine2 {
+    }
+    dummy.StraightHarlequinJaime WeakAquamarineBelia3 {
+    }
+    serviceid_number PunyAmaranthAeriel5 {
+    }
+    serviceid_number SmilingBlueCathy3 {
+    }
+    boolean IntegralSalmonPhilly4 {
+    }
+    boolean CommunistGoldGisella3 {
+    }
+    string RegularCopperDorthy5 {
+    }
+    number KeenGrayHana5 {
+    }
+    number CulturalCoralElinor {
+    }
+    dummy.AwakeRedNola SteepMoccasinLula2 {
+    }
+  }
+  TheoreticalIndigoJeniffer2 = 27
+  MiniatureAmaranthAdriane3 = "What creature is smarter than a talking parrot? A spelling bee."
+  TallYellowXena3 = 336
+  ReadyChocolateDebera4 = 168
+  DisturbingTealSherie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  FamousCoralElfrieda4 = 52
+  WorryingSilverRozamond4 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  VastEmeraldFreda4 = "Why was it called the dark ages? Because of all the knights. "
+  PunyAmaranthAeriel5 = 30
+  SmilingBlueCathy3 = 728
+  IntegralSalmonPhilly4 = false
+  CommunistGoldGisella3 = false
+  RegularCopperDorthy5 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  KeenGrayHana5 = 953
+  CulturalCoralElinor = 880
+  SteepMoccasinLula2 = file("InclinedRedNyssa4.txt")
+}

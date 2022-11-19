@@ -1,0 +1,25 @@
+type dummy.CautiousScarletRivi {
+  annotations {
+    serviceid AlrightGoldGoldy2 {
+    }
+    number BitterApricotArdenia {
+    }
+    string ScaryYellowWillow2 {
+    }
+    dummy.DEFAULT PerfectCrimsonEtti {
+    }
+    string RevolutionaryJadeKarylin {
+    }
+  }
+  number CrucialFuchsiaGennie3 {
+    _hidden_value = true
+  }
+  AlrightGoldGoldy2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  BitterApricotArdenia = 221
+  ScaryYellowWillow2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  PerfectCrimsonEtti = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  RevolutionaryJadeKarylin = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

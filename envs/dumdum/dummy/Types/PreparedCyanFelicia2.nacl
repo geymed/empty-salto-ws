@@ -1,0 +1,115 @@
+type dummy.PreparedCyanFelicia2 {
+  annotations {
+    serviceid ConcernedTealSibelle {
+    }
+    serviceid CausalSapphireRenate {
+    }
+    dummy.DEFAULT FreeBronzeCodie3 {
+    }
+    hidden_boolean ConvincingSalmonPeggi {
+    }
+    json ClassicJadeKaitlynn {
+    }
+    hidden_boolean MedicalCoffeeDevora {
+    }
+  }
+  json DefensiveRoseOnida2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UnevenAquamarineBee {
+    _hidden_value = true
+  }
+  dummy.DistinctHarlequinJanella KeyCopperDorothee {
+    MinimumIndigoJermaine = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ConceptualTanShelbi = false
+    IdenticalLimeKorie = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    RelievedBlueCathie = false
+    RegulatorySalmonQuintilla = true
+    GoodBlueCelisse = "To be Frank, I'd have to change my name."
+    SoftApricotApril = 516
+    NursingSalmonPetronille = false
+    CriticalCrimsonEstele = "What did one nut say as he chased another nut?  I'm a cashew!"
+    _hidden_value = true
+  }
+  json FastEmeraldFleurette {
+    _hidden_value = true
+  }
+  serviceid MiserableSalmonRachael {
+    _hidden_value = true
+  }
+  serviceid SquareAmberAlvinia2 {
+    _hidden_value = true
+  }
+  json InsufficientPurpleNeely2 {
+    _hidden_value = true
+  }
+  serviceid MereGreenIdette3 {
+    _hidden_value = true
+  }
+  serviceid MinorEmeraldGabie {
+    _hidden_value = true
+  }
+  boolean ScornfulBeigeBrianne {
+    _hidden_value = true
+  }
+  hidden_boolean OkSapphireRhoda {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ComfortableGoldGrissel2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number WildCyanEyde {
+    _hidden_value = true
+  }
+  string BeautifulVioletTommy {
+    _hidden_value = true
+  }
+  hidden_boolean EvilAzureBidget {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string SufficientCrimsonEolande2 {
+    _hidden_value = true
+  }
+  number ClinicalIndigoJennine2 {
+    _hidden_value = true
+  }
+  serviceid_number MusicalIndigoJoanne {
+    _hidden_value = true
+  }
+  serviceid_number GloriousScarletRoseann {
+    _hidden_value = true
+  }
+  json OnlyBlushClareta {
+    _hidden_value = true
+  }
+  serviceid_number RemoteIndigoJeniece2 {
+    _hidden_value = true
+  }
+  boolean ScaryBeigeBrett {
+    _hidden_value = true
+  }
+  serviceid BigVioletTony {
+    _hidden_value = true
+  }
+  string RoughAquaAustina {
+    _hidden_value = true
+  }
+  number MarineMagentaLeona {
+    _hidden_value = true
+  }
+  ConcernedTealSibelle = "What do you do on a remote island? Try and find the TV island it belongs to."
+  CausalSapphireRenate = "How come the stadium got hot after the game? Because all of the fans left."
+  FreeBronzeCodie3 = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  ClassicJadeKaitlynn = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

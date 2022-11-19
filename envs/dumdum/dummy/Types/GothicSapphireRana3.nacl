@@ -1,0 +1,86 @@
+type dummy.GothicSapphireRana3 {
+  annotations {
+    hidden_boolean ComingSilverSandi2 {
+    }
+    string MinorEmeraldGabi2 {
+    }
+    boolean OrangeWhiteViolante3 {
+    }
+    number IntimateSilverRuthe2 {
+    }
+    number RetailMagentaLeontine2 {
+    }
+  }
+  json LiberalCyanFarica3 {
+    _hidden_value = true
+  }
+  number DelightfulSilverRow5 {
+    _hidden_value = true
+  }
+  hidden_boolean IdeologicalOrangeMargarette2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean InnocentMagentaLari2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid JoyousBlackCarrie {
+    _hidden_value = true
+  }
+  serviceid MiniatureAmaranthAdriana6 {
+    _hidden_value = true
+  }
+  dummy.UnhappyMaroonLibby PreferredTanSayre3 {
+    EmptyAmethystAndra = "What did one nut say as he chased another nut?  I'm a cashew!"
+    GlamorousTurquoiseTerese = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    TiredGoldGretchen = "Dad Im hungry  Hi hungry Im dad"
+    NumerousHarlequinJanean = "I'll tell you what often gets over looked... garden fences."
+    WiseLavenderKatherine = 113
+    ExclusiveMagentaLatrena = "What creature is smarter than a talking parrot? A spelling bee."
+    DisastrousScarletRochell = 128
+    HistoricalCyanEvangelin = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ThickEmeraldFina = 806
+    SorryBrownDaphene = "What did one nut say as he chased another nut?  I'm a cashew!"
+    DullMoccasinLori = false
+    _hidden_value = true
+  }
+  serviceid_number SupportingSilverSamantha3 {
+    _hidden_value = true
+  }
+  hidden_boolean EasyBronzeCollete2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number FarBlushChristiane5 {
+    _hidden_value = true
+  }
+  hidden_boolean PunyAmaranthAeriell6 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean StrikingOliveMagdaia2 {
+    _hidden_value = true
+  }
+  json DisciplinarySilverSabina2 {
+    _hidden_value = true
+  }
+  string SecureMoccasinLouisa {
+    _hidden_value = true
+  }
+  number NiceBrownCybill3 {
+    _hidden_value = true
+  }
+  json SickFuchsiaGerda2 {
+    _hidden_value = true
+  }
+  MinorEmeraldGabi2 = "Slept like a log last night  woke up in the fireplace."
+  OrangeWhiteViolante3 = true
+  IntimateSilverRuthe2 = 246
+  RetailMagentaLeontine2 = 205
+  _hidden_value = true
+}

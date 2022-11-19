@@ -1,0 +1,94 @@
+type dummy.RipeApricotAriel2 {
+  annotations {
+    string ModernTealStafani2 {
+    }
+    json ElegantMoccasinLucille3 {
+    }
+    boolean PurpleWhiteVivian4 {
+    }
+    serviceid MetropolitanOrangeMargaux {
+    }
+  }
+  boolean SillyYellowWini5 {
+    _hidden_value = true
+  }
+  json SoundAmethystAngelica {
+    _hidden_value = true
+  }
+  string LovelyBlackCasie2 {
+    _hidden_value = true
+  }
+  json BrownFuchsiaGena {
+    _hidden_value = true
+  }
+  number InitialCoralElsi {
+    _hidden_value = true
+  }
+  serviceid_number LongAmethystAmberly {
+    _hidden_value = true
+  }
+  string SmoothAquamarineBarbette3 {
+    _hidden_value = true
+  }
+  string MinimumIndigoJermaine2 {
+    _hidden_value = true
+  }
+  dummy.FeministPlumMin MagneticPeachMax {
+    GreenVioletUlrica = true
+    SovietChocolateDaria = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    CuriousTealSidoney = true
+    ColdChocolateDebbie = 667
+    IrishCrimsonErminia = false
+    ShakyAquaBab = 961
+    ScientificCrimsonErda = 870
+    LatinLimeKonstanze = 748
+    IsraeliPinkMeriel = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    _hidden_value = true
+  }
+  string HiddenRedOdetta3 {
+    _hidden_value = true
+  }
+  json WanderingTomatoSuzanne4 {
+    _hidden_value = true
+  }
+  boolean LocalBlueCharmaine2 {
+    _hidden_value = true
+  }
+  number PreciseIndigoJobie2 {
+    _hidden_value = true
+  }
+  serviceid_number FiscalRedNiki3 {
+    _hidden_value = true
+  }
+  boolean UltimateJadeKandace2 {
+    _hidden_value = true
+  }
+  number ExpectedLimeLaney2 {
+    _hidden_value = true
+  }
+  hidden_boolean NeatMoccasinLorita3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean AngryAquamarineBenedetta3 {
+    _hidden_value = true
+  }
+  serviceid AverageTomatoTabbitha2 {
+    _hidden_value = true
+  }
+  string WideAmethystAlyson2 {
+    _hidden_value = true
+  }
+  number CompulsoryOliveMallorie2 {
+    _hidden_value = true
+  }
+  string CoastalPlumMichel3 {
+    _hidden_value = true
+  }
+  ModernTealStafani2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ElegantMoccasinLucille3 = "Dad Im hungry  Hi hungry Im dad"
+  PurpleWhiteVivian4 = true
+  MetropolitanOrangeMargaux = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

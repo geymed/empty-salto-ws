@@ -1,0 +1,34 @@
+type dummy.SubjectiveSapphireRhonda {
+  annotations {
+    serviceid_number UrbanCyanFaith2 {
+    }
+    serviceid GayOrangeMariette3 {
+    }
+    hidden_boolean SocialBlueCharo2 {
+    }
+    serviceid_number HelpfulBlackCaroline4 {
+    }
+    serviceid UnchangedSilverRozelle {
+    }
+    serviceid_number LikelyBlushClarey {
+    }
+  }
+  string DullTurquoiseTawsha {
+    _hidden_value = true
+  }
+  string SmartPeachMarja2 {
+    _hidden_value = true
+  }
+  serviceid WonderfulBlueCelestia {
+    _hidden_value = true
+  }
+  json CrookedAmberAlissa {
+    _hidden_value = true
+  }
+  UrbanCyanFaith2 = 979
+  GayOrangeMariette3 = "A steak pun is a rare medium well done."
+  HelpfulBlackCaroline4 = 505
+  UnchangedSilverRozelle = "Why did the kid cross the playground? To get to the other slide."
+  LikelyBlushClarey = 828
+  _hidden_value = true
+}

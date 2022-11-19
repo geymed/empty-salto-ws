@@ -1,0 +1,33 @@
+type dummy.RepresentativePinkMerline3 {
+  hidden_boolean InnocentMagentaLarina5 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean CurrentBrownDacey2 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  serviceid LovelyBlackCass3 {
+  }
+  hidden_boolean JealousAzureBobby {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<serviceid_number>" GleamingTurquoiseTerra4 {
+  }
+  boolean SpicyAquaArlette {
+  }
+  boolean GreekIndigoJoanne3 {
+  }
+  json JustMaroonLita2 {
+  }
+  serviceid_number AfricanFuchsiaGiana3 {
+  }
+  number ImmenseAmaranthAdele {
+  }
+  serviceid_number StableHarlequinJasmin {
+  }
+}

@@ -1,0 +1,50 @@
+type dummy.ArabLimeKiri3 {
+  annotations {
+    string NastyWhiteVerna3 {
+    }
+    boolean NastyWhiteVerla {
+    }
+    boolean CompleteCoffeeDevondra {
+    }
+  }
+  string SpicyAquaArleyne2 {
+    _hidden_value = true
+  }
+  serviceid_number DampAmberAlene {
+    _hidden_value = true
+  }
+  boolean AtomicScarletRori2 {
+    _hidden_value = true
+  }
+  number CautiousTealSib2 {
+    _hidden_value = true
+  }
+  "List<string>" SuccessiveMoccasinLoise5 {
+    _hidden_value = true
+  }
+  serviceid_number HonestIndigoJerrilee3 {
+    _hidden_value = true
+  }
+  serviceid_number OpenBronzeClerissa3 {
+    _hidden_value = true
+  }
+  string YellowYellowZorah {
+    _hidden_value = true
+  }
+  string DeterminedOrangeMarin2 {
+    _hidden_value = true
+  }
+  serviceid_number MagicOrangeMara {
+    _hidden_value = true
+  }
+  string SoundAmethystAngeline {
+    _hidden_value = true
+  }
+  json MinimalPlumMorganne {
+    _hidden_value = true
+  }
+  NastyWhiteVerna3 = "Why is Peter Pan always flying? Because he Neverlands."
+  NastyWhiteVerla = false
+  CompleteCoffeeDevondra = false
+  _hidden_value = true
+}

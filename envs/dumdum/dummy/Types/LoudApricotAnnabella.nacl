@@ -1,0 +1,25 @@
+type dummy.LoudApricotAnnabella {
+  annotations {
+    serviceid ArrogantAquamarineBerget2 {
+    }
+    json SaltyApricotArlen4 {
+    }
+    hidden_boolean CuriousLimeKira2 {
+    }
+    serviceid RoyalBrownCristie2 {
+    }
+    json ConceptualTanShelbi2 {
+    }
+    serviceid_number ChosenSilverSarette2 {
+    }
+  }
+  serviceid DisturbingTealSherill {
+    _hidden_value = true
+  }
+  ArrogantAquamarineBerget2 = "I'll tell you what often gets over looked... garden fences."
+  SaltyApricotArlen4 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  RoyalBrownCristie2 = "Why did the kid cross the playground? To get to the other slide."
+  ConceptualTanShelbi2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ChosenSilverSarette2 = 965
+  _hidden_value = true
+}

@@ -1,0 +1,26 @@
+type dummy.MassiveFuchsiaGerrie {
+  annotations {
+    string ToxicSalmonPhebe {
+    }
+    serviceid OverseasIvoryJudy2 {
+    }
+    json ApparentCyanFawnia2 {
+    }
+    serviceid SouthernCyanEvey2 {
+    }
+    json ElegantTurquoiseTeddi {
+    }
+    boolean UrbanCyanFan3 {
+    }
+  }
+  number UrgentLimeKristy2 {
+    _hidden_value = true
+  }
+  ToxicSalmonPhebe = "Whoever invented the knock-knock joke should get a no bell prize."
+  OverseasIvoryJudy2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  ApparentCyanFawnia2 = "Why did the kid cross the playground? To get to the other slide."
+  SouthernCyanEvey2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  ElegantTurquoiseTeddi = "I'll tell you what often gets over looked... garden fences."
+  UrbanCyanFan3 = false
+  _hidden_value = true
+}

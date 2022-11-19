@@ -1,0 +1,58 @@
+type dummy.CrudePlumMikaela {
+  annotations {
+    string DualSapphireRhiamon2 {
+    }
+    dummy.DEFAULT KindVioletVallie3 {
+    }
+    serviceid_number DutchLavenderKendra2 {
+    }
+    string BriefAmethystAmalia4 {
+    }
+    serviceid PreliminaryOliveLyndsey2 {
+    }
+    boolean LovelyBlackCassandre3 {
+    }
+  }
+  number StandardCopperDrusilla2 {
+    _hidden_value = true
+  }
+  "List<serviceid>" RoughGreenIdelle2 {
+    _hidden_value = true
+  }
+  serviceid SuccessiveMoccasinLola3 {
+    _hidden_value = true
+  }
+  string SoleLimeKirsti3 {
+    _hidden_value = true
+  }
+  serviceid_number DeadBrownDara4 {
+    _hidden_value = true
+  }
+  json NiceBrownCybil5 {
+    _hidden_value = true
+  }
+  string HorribleVioletValene5 {
+    _hidden_value = true
+  }
+  boolean RoundYellowWilhelmine3 {
+    _hidden_value = true
+  }
+  json FixedGreenHolli2 {
+    _hidden_value = true
+  }
+  json EmbarrassedAzureBianka6 {
+    _hidden_value = true
+  }
+  number FuriousRedNicoli2 {
+    _hidden_value = true
+  }
+  DualSapphireRhiamon2 = "Why did the tomato blush? Because it saw the salad dressing."
+  KindVioletVallie3 = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  DutchLavenderKendra2 = 800
+  BriefAmethystAmalia4 = "Why was it called the dark ages? Because of all the knights. "
+  PreliminaryOliveLyndsey2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  LovelyBlackCassandre3 = true
+  _hidden_value = true
+}

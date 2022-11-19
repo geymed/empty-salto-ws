@@ -1,0 +1,26 @@
+type dummy.EvilPeachMaurita {
+  annotations {
+    number SufficientCrimsonEolande {
+    }
+    boolean StrongAquaAryn {
+    }
+    dummy.WorryingSilverRozamond ReluctantMagentaLee {
+    }
+    serviceid ImaginativeTanSelinda2 {
+    }
+    number PracticalCopperDoris {
+    }
+  }
+  dummy.DEFAULT JollyBlackCaron {
+    _hidden_value = true
+  }
+  string WelshGrayHattie3 {
+    _hidden_value = true
+  }
+  SufficientCrimsonEolande = 726
+  StrongAquaAryn = false
+  ReluctantMagentaLee = 984
+  ImaginativeTanSelinda2 = "A steak pun is a rare medium well done."
+  PracticalCopperDoris = 91
+  _hidden_value = true
+}

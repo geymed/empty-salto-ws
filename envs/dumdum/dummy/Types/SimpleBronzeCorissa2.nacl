@@ -1,0 +1,25 @@
+type dummy.SimpleBronzeCorissa2 {
+  annotations {
+    serviceid_number FoolishAzureBinny {
+    }
+    hidden_boolean FlyingMoccasinLoralyn2 {
+    }
+    boolean OppositeHarlequinJanel4 {
+    }
+    json LooseIvoryJulietta2 {
+    }
+    number ControversialLimeKyla2 {
+    }
+  }
+  serviceid_number BrightTomatoTamarah3 {
+    _hidden_value = true
+  }
+  boolean LightCopperDulcie3 {
+    _hidden_value = true
+  }
+  FoolishAzureBinny = 657
+  OppositeHarlequinJanel4 = false
+  LooseIvoryJulietta2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ControversialLimeKyla2 = 445
+  _hidden_value = true
+}

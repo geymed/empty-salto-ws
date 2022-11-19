@@ -1,0 +1,73 @@
+type dummy.HolyIndigoJehanna {
+  annotations {
+    string SillyYellowWinifred {
+    }
+    serviceid DutchLavenderKelsy {
+    }
+    boolean GratefulIvoryJorey {
+    }
+    json AmericanBronzeCorrianne {
+    }
+    string DependentGrayHazel {
+    }
+    dummy.DEFAULT MaleCoffeeDiannne {
+    }
+  }
+  string CivilCoffeeDodie {
+    _hidden_value = true
+  }
+  hidden_boolean PuzzledTanShanie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid FunctionalMaroonLexi {
+    _hidden_value = true
+  }
+  number InnovativeTanSheeree2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ProperCoralElisa {
+    _hidden_value = true
+  }
+  serviceid SilentApricotAntonie {
+    _hidden_value = true
+  }
+  hidden_boolean ValuableGoldGwyneth2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number PoisedTurquoiseThia {
+    _hidden_value = true
+  }
+  number GloriousScarletRose {
+    _hidden_value = true
+  }
+  hidden_boolean ArmedGrayHeidie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json LovelyBlackCassandre {
+    _hidden_value = true
+  }
+  json NorthernCoralEleanore {
+    _hidden_value = true
+  }
+  string ProfoundPinkMerla {
+    _hidden_value = true
+  }
+  json CivicTanShelli {
+    _hidden_value = true
+  }
+  SillyYellowWinifred = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DutchLavenderKelsy = "Why did the kid cross the playground? To get to the other slide."
+  GratefulIvoryJorey = true
+  AmericanBronzeCorrianne = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  DependentGrayHazel = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  MaleCoffeeDiannne = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  _hidden_value = true
+}

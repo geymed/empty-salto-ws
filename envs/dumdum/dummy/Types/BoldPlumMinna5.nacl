@@ -1,0 +1,27 @@
+type dummy.BoldPlumMinna5 {
+  annotations {
+    dummy.BrightTomatoTamara PreparedCyanFelicia3 {
+    }
+    serviceid KindVioletVally2 {
+    }
+    boolean RoastedWhiteWendye3 {
+    }
+    hidden_boolean RepresentativePinkMerna {
+    }
+    boolean DevotedRosePauletta4 {
+    }
+    json TremendousMagentaLeola2 {
+    }
+    hidden_boolean DelightedIvoryJulianne2 {
+    }
+  }
+  number WeeSapphireReta2 {
+    _hidden_value = true
+  }
+  PreparedCyanFelicia3 = 48
+  KindVioletVally2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  RoastedWhiteWendye3 = false
+  DevotedRosePauletta4 = false
+  TremendousMagentaLeola2 = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

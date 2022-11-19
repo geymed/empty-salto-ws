@@ -1,0 +1,21 @@
+type dummy.SmartPeachMarje3 {
+  annotations {
+    string RomanFuchsiaGermain3 {
+    }
+    serviceid_number BlueVioletTori5 {
+    }
+    hidden_boolean ImmenseAmaranthAdelheid2 {
+    }
+    hidden_boolean GentleIndigoJobyna2 {
+    }
+    serviceid_number BoredPlumMonique3 {
+    }
+  }
+  serviceid OutstandingTealSteffi2 {
+    _hidden_value = true
+  }
+  RomanFuchsiaGermain3 = "Why did the tomato blush? Because it saw the salad dressing."
+  BlueVioletTori5 = 459
+  BoredPlumMonique3 = 283
+  _hidden_value = true
+}

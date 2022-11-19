@@ -1,0 +1,71 @@
+type dummy.UpsetBeigeBrittany2 {
+  json CrookedAmberAlisa {
+  }
+  number RoyalBrownCristine {
+  }
+  string WeakAquamarineBelinda2 {
+  }
+  dummy.NativeJadeKatalin SlowAmethystAnaliese2 {
+    BusyTealShirley2 = 475
+    FashionableSapphireRena5 = 467
+    ReasonableCrimsonEmelia2 = "Why do birds fly south for the winter? Because it's too far to walk."
+    RapidGrayHilda2 = "How come the stadium got hot after the game? Because all of the fans left."
+    PowerfulCopperDrona = true
+    BrightVioletTracee = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  serviceid_number HelpfulHarlequinJaneta4 {
+  }
+  boolean FoolishSapphireRemy2 {
+  }
+  dummy.WanderingTomatoSuzann2 PhilosophicalRedNoell4 {
+    VariableRedNona = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    ComfortableGoldGrissel = "Dad Im hungry  Hi hungry Im dad"
+    ElectronicGreenInez = "A steak pun is a rare medium well done."
+    ExperimentalLavenderKatinka = "Why did the kid cross the playground? To get to the other slide."
+    SilkyAquaBambi = true
+    MysteriousPurpleNell = {
+      legit = "Im only familiar with 25 letters in the English language. I dont know why."
+    }
+    CruelPlumMichaela = false
+    IncCrimsonErinna = true
+    RadicalGrayHelenelizabeth = "How come the stadium got hot after the game? Because all of the fans left."
+    ProfoundPinkMerlina = "Im only familiar with 25 letters in the English language. I dont know why."
+    CanadianPlumMinda = "Why was it called the dark ages? Because of all the knights. "
+    RightBlushCherise = "Whoever invented the knock-knock joke should get a no bell prize."
+    LooseAquaAura = 49
+    LongVioletVan = "Dad Im hungry  Hi hungry Im dad"
+    NormalBrownDamaris = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    PlainTurquoiseTherine = "What do you do on a remote island? Try and find the TV island it belongs to."
+    OuterJadeKarrie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  hidden_boolean ContemporaryFuchsiaGeorgianne2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number UninterestedTomatoSusie5 {
+  }
+  number UncertainMagentaLelia3 {
+  }
+  dummy.InteriorPurpleNathalie CautiousScarletRivy9 {
+    ShaggyAquaAviva = 978
+    ThenSalmonPhylis = 87
+    PassingSalmonPolly = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    DemocraticCrimsonEmyle = 0
+    StrikingOliveMag = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ExcellentCoralEilis = 509
+  }
+  hidden_boolean GrowingCrimsonEnrika4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.PoorBronzeCorenda DryCyanEvaleen3 {
+    AncientAmethystAmalee2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ResultingPurpleNadeen = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    OrdinaryCopperEdin = false
+    FatAmaranthAbigale2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+}

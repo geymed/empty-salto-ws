@@ -1,0 +1,22 @@
+type dummy.HandicappedTanShannon {
+  annotations {
+    string SickFuchsiaGeri {
+    }
+    json TenderYellowYnez3 {
+    }
+    hidden_boolean PsychiatricSilverRoxy {
+    }
+    json IrrelevantPurpleNanette {
+    }
+    serviceid HelplessTealSophey {
+    }
+  }
+  number NosyWhiteVida4 {
+    _hidden_value = true
+  }
+  SickFuchsiaGeri = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  TenderYellowYnez3 = "Why did the tomato blush? Because it saw the salad dressing."
+  IrrelevantPurpleNanette = "Dad Im hungry  Hi hungry Im dad"
+  HelplessTealSophey = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

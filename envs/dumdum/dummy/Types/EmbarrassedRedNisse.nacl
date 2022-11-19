@@ -1,0 +1,24 @@
+type dummy.EmbarrassedRedNisse {
+  annotations {
+    dummy.DailyCyanEvelina LooseAquaAundrea {
+    }
+    string InevitableIvoryJoly {
+    }
+    hidden_boolean CoherentScarletRoselin {
+    }
+    serviceid_number RepresentativePinkMerline {
+    }
+    dummy.DEFAULT NervousHarlequinJaquelyn {
+    }
+  }
+  string StingyYellowWinnah2 {
+    _hidden_value = true
+  }
+  LooseAquaAundrea = "Why didnt the skeleton cross the road? Because he had no guts."
+  InevitableIvoryJoly = "Why is Peter Pan always flying? Because he Neverlands."
+  RepresentativePinkMerline = 51
+  NervousHarlequinJaquelyn = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  _hidden_value = true
+}

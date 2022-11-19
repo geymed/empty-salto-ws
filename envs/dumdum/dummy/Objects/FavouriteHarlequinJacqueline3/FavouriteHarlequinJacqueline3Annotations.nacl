@@ -1,0 +1,45 @@
+type dummy.FavouriteHarlequinJacqueline3 {
+  annotations {
+    json TinyAmaranthAgnese {
+    }
+    serviceid ResidentialIndigoJessi2 {
+    }
+    hidden_boolean DynamicPeachMarne2 {
+    }
+    dummy.ShyTomatoStormie2 ParticularBlushClaude3 {
+    }
+    serviceid BrightCoralElwira {
+    }
+    dummy.AfraidCrimsonEmogene RussianCyanFelicle2 {
+    }
+    hidden_boolean BlueCoffeeDian3 {
+    }
+    serviceid_number AppropriateChocolateDarci4 {
+    }
+    dummy.DisciplinarySilverSaba2 DifferentTealSilvie4 {
+    }
+    hidden_boolean LowBlushChristina3 {
+    }
+    dummy.InstantSapphireRanee InteriorPurpleNatividad2 {
+    }
+    serviceid_number SuddenGoldGwendolen {
+    }
+    serviceid PriorRosePauline {
+    }
+    dummy.ColonialPeachMaudie EthnicLavenderKayla2 {
+    }
+    boolean GradualSilverSalli3 {
+    }
+    hidden_boolean MusicalIndigoJoannes5 {
+    }
+  }
+  TinyAmaranthAgnese = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ResidentialIndigoJessi2 = "Why is Peter Pan always flying? Because he Neverlands."
+  BrightCoralElwira = "Why was it called the dark ages? Because of all the knights. "
+  RussianCyanFelicle2 = file("OutdoorSilverSascha2.txt")
+  AppropriateChocolateDarci4 = 523
+  SuddenGoldGwendolen = 708
+  PriorRosePauline = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  EthnicLavenderKayla2 = file("StickyAquamarineBeatriz2.txt")
+  GradualSilverSalli3 = true
+}

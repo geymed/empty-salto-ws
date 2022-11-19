@@ -1,0 +1,104 @@
+type dummy.ElectricalLavenderKerrie2 {
+  annotations {
+    boolean CourageousBeigeCamille {
+    }
+    hidden_boolean CollectiveLavenderKathryne {
+    }
+    serviceid_number OrdinaryWhiteViolette {
+    }
+    string SweetAquaAshil {
+    }
+  }
+  boolean PrimeBrownDanika {
+    _hidden_value = true
+  }
+  hidden_boolean EthicalScarletRoberta {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json CivilianSapphireRandi {
+    _hidden_value = true
+  }
+  hidden_boolean EnglishBrownCris {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number LongAmethystAmbur {
+    _hidden_value = true
+  }
+  dummy.DEFAULT JustMaroonLissie {
+    _hidden_value = true
+  }
+  hidden_boolean RedWhiteWendeline2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean FastEmeraldFlo {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean EmbarrassedRedNissy {
+    _hidden_value = true
+  }
+  serviceid_number FragileTealSondra {
+    _hidden_value = true
+  }
+  serviceid_number VisitingScarletRoanne {
+    _hidden_value = true
+  }
+  dummy.AfraidAquamarineBenedetta DrunkPeachMarlee {
+    PrettyWhiteVirgina = true
+    WeeSapphireRevkah = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ManualRosePaola = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    InjuredScarletRosalind = "What creature is smarter than a talking parrot? A spelling bee."
+    NosyWhiteVida2 = 973
+    FollowingBrownCynthea = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    CriminalFuchsiaGeorgette = "My first time using an elevator was an uplifting experience. The second time let me down."
+    WanderingTomatoSuzanne = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    UnexpectedMagentaLaurella = true
+    TurkishPurpleMozelle = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  string HungryMaroonLinzy {
+    _hidden_value = true
+  }
+  serviceid_number StrangeCoralEdiva2 {
+    _hidden_value = true
+  }
+  string ExoticSapphireRiki {
+    _hidden_value = true
+  }
+  hidden_boolean SpontaneousTanShauna2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string PetiteAmaranthAdrianne {
+    _hidden_value = true
+  }
+  string TerribleBeigeBrina {
+    _hidden_value = true
+  }
+  number AnnualCoffeeDonny2 {
+    _hidden_value = true
+  }
+  number WittyBlueCeil2 {
+    _hidden_value = true
+  }
+  hidden_boolean MechanicalMagentaLeonelle {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number OkSapphireRhodia {
+    _hidden_value = true
+  }
+  CourageousBeigeCamille = true
+  OrdinaryWhiteViolette = 191
+  SweetAquaAshil = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

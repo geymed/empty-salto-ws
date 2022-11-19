@@ -1,0 +1,110 @@
+type dummy.WelshGrayHattie4 {
+  annotations {
+    string CuddlyAmberAlberta {
+    }
+    boolean DeafIvoryJourdan {
+    }
+    serviceid SmartPeachMarje2 {
+    }
+    number ExoticScarletRisa {
+    }
+    string PalestinianTanShanda {
+    }
+    dummy.DEFAULT BareLavenderKellen {
+    }
+  }
+  serviceid_number PuzzledTomatoStephenie3 {
+    _hidden_value = true
+  }
+  serviceid OrangeWhiteViolante2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT KindBlackCasandra {
+    _hidden_value = true
+  }
+  serviceid_number LoyalPurpleNatala3 {
+    _hidden_value = true
+  }
+  hidden_boolean IndirectPeachMary {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ImmenseAmaranthAdelice2 {
+    _hidden_value = true
+  }
+  serviceid JointCoralElisha {
+    _hidden_value = true
+  }
+  serviceid_number MinorEmeraldGabriel {
+    _hidden_value = true
+  }
+  serviceid_number GreatBlueCharis2 {
+    _hidden_value = true
+  }
+  number WiseLavenderKathe2 {
+    _hidden_value = true
+  }
+  boolean WoodenAquamarineBelle2 {
+    _hidden_value = true
+  }
+  boolean RidiculousMoccasinLivvyy {
+    _hidden_value = true
+  }
+  json EmbarrassedAzureBibby2 {
+    _hidden_value = true
+  }
+  number EasyTealSisile {
+    _hidden_value = true
+  }
+  number FineBlackCarly {
+    _hidden_value = true
+  }
+  serviceid_number LengthySapphireRania4 {
+    _hidden_value = true
+  }
+  hidden_boolean FairCoffeeDina {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json SuccessfulBlueCatlee2 {
+    _hidden_value = true
+  }
+  serviceid_number EmbarrassedAzureBianka2 {
+    _hidden_value = true
+  }
+  dummy.FeministPlumMin RoughAquaAva {
+    GreenVioletUlrica = true
+    SovietChocolateDaria = "What creature is smarter than a talking parrot? A spelling bee."
+    CuriousTealSidoney = false
+    ColdChocolateDebbie = 471
+    IrishCrimsonErminia = true
+    ShakyAquaBab = 607
+    ScientificCrimsonErda = 96
+    LatinLimeKonstanze = 332
+    IsraeliPinkMeriel = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    _hidden_value = true
+  }
+  number DeafIvoryJoya {
+    _hidden_value = true
+  }
+  boolean GuiltyFuchsiaGinelle2 {
+    _hidden_value = true
+  }
+  json KnownMaroonLettie {
+    _hidden_value = true
+  }
+  string SatisfactoryLimeKrissy2 {
+    _hidden_value = true
+  }
+  CuddlyAmberAlberta = "What did one nut say as he chased another nut?  I'm a cashew!"
+  DeafIvoryJourdan = false
+  SmartPeachMarje2 = "How come the stadium got hot after the game? Because all of the fans left."
+  ExoticScarletRisa = 626
+  PalestinianTanShanda = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  BareLavenderKellen = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  _hidden_value = true
+}

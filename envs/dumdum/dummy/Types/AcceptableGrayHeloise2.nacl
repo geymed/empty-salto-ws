@@ -1,0 +1,22 @@
+type dummy.AcceptableGrayHeloise2 {
+  annotations {
+    hidden_boolean FemaleCrimsonEmmie2 {
+    }
+    boolean BoldPlumMinna4 {
+    }
+    boolean SpareMaroonLillian2 {
+    }
+    string RelevantCoffeeDoralin2 {
+    }
+    serviceid_number IdeologicalOrangeMargaretta2 {
+    }
+  }
+  number CausalSapphireRenell {
+    _hidden_value = true
+  }
+  BoldPlumMinna4 = false
+  SpareMaroonLillian2 = true
+  RelevantCoffeeDoralin2 = "To be Frank, I'd have to change my name."
+  IdeologicalOrangeMargaretta2 = 748
+  _hidden_value = true
+}

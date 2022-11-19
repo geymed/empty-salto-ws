@@ -1,0 +1,132 @@
+type dummy.OverseasIvoryJudy3 {
+  annotations {
+    json NervousHarlequinJaquelin3 {
+    }
+    serviceid_number NationalBlushCherida {
+    }
+    boolean MagicOrangeManon2 {
+    }
+    serviceid SilentGrayHarley3 {
+    }
+    hidden_boolean AbstractMaroonLina {
+    }
+  }
+  hidden_boolean PoorTomatoStepha3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT GermanChocolateDelila {
+    _hidden_value = true
+  }
+  serviceid_number TraditionalChocolateDeirdre {
+    _hidden_value = true
+  }
+  serviceid_number FrozenScarletRosabella {
+    _hidden_value = true
+  }
+  string ParliamentaryFuchsiaGerty3 {
+    _hidden_value = true
+  }
+  json RelatedIndigoJessamine2 {
+    _hidden_value = true
+  }
+  hidden_boolean ExpensiveCrimsonErnestine {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string DisturbedAzureBeverlee {
+    _hidden_value = true
+  }
+  serviceid CorporateEmeraldGarland3 {
+    _hidden_value = true
+  }
+  hidden_boolean UnhappyMaroonLicha {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.StiffPeachMarya ExpectedLimeLaney {
+    BritishBlushCherin = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    InnerFuchsiaGenovera = "Why didnt the skeleton cross the road? Because he had no guts."
+    CurlyAmberAlecia = 984
+    ArtisticPeachMathilda = "What do you do on a remote island? Try and find the TV island it belongs to."
+    OpenBronzeClio = true
+    LinguisticJadeKarilynn = 79
+    MonthlyMaroonLinnea = false
+    FantasticBlackCarlota = 566
+    ThinCyanEvangeline = 227
+    _hidden_value = true
+  }
+  hidden_boolean OppositeHarlequinJaneen {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT HuskyApricotAnnabel2 {
+    _hidden_value = true
+  }
+  serviceid_number AdverseSapphireRaphaela {
+    _hidden_value = true
+  }
+  dummy.FamousCoralElianora ElegantMoccasinLucille2 {
+    ShinyTurquoiseTiff = 614
+    RelativeGoldGuillema = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    OkSapphireRhianna = 243
+    StupidTomatoSusan = "Why is Peter Pan always flying? Because he Neverlands."
+    EarlyAmethystAmanda = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    UncertainMagentaLela = "What do you call two barracuda fish?  A Pairacuda!"
+    UpsetOliveLyssa = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    WorryingSilverRozamond2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    FatIvoryJoelle = {
+      legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    }
+    PlasticAquaAuria = "Why did the kid cross the playground? To get to the other slide."
+    _hidden_value = true
+  }
+  json StatisticalMagentaLanna {
+    _hidden_value = true
+  }
+  hidden_boolean UnnecessaryMoccasinLoraine2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number LongVioletVan4 {
+    _hidden_value = true
+  }
+  serviceid PartialOliveLyndell {
+    _hidden_value = true
+  }
+  boolean FascinatingOrangeMargaret3 {
+    _hidden_value = true
+  }
+  boolean DullTurquoiseTedda {
+    _hidden_value = true
+  }
+  hidden_boolean ProgressiveOliveMadeline {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string DyingScarletRobinia {
+    _hidden_value = true
+  }
+  json IsolatedPeachMarketa3 {
+    _hidden_value = true
+  }
+  json EthnicLavenderKaye3 {
+    _hidden_value = true
+  }
+  number SouthernCyanEvey4 {
+    _hidden_value = true
+  }
+  NervousHarlequinJaquelin3 = "Im only familiar with 25 letters in the English language. I dont know why."
+  NationalBlushCherida = 763
+  MagicOrangeManon2 = true
+  SilentGrayHarley3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

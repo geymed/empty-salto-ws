@@ -1,0 +1,49 @@
+type dummy.PayableOrangeMarci2 {
+  number DepressedPinkMelantha6 {
+  }
+  string MiserableSalmonRachael6 {
+  }
+  boolean EarlyAmethystAmanda3 {
+  }
+  dummy.AdvisoryOrangeMaridel4 FreshApricotArdyce4 {
+    BlackBlushClarita5 = false
+    TragicRosePaulita2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    RattyWhiteWaneta4 = 179
+    ThunderingApricotArabelle2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  serviceid_number RottenApricotAriella2 {
+  }
+  number ProminentLavenderKelci4 {
+  }
+  string LatinLimeKonstance2 {
+  }
+  hidden_boolean AlertTomatoTabatha6 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" ApparentCyanFawne2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.IncreasingCyanEvonne3 FondSalmonPietra5 {
+    EmptyAmethystAndrea = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    VisitingScarletRobbi3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+    SuccessfulBlueCatlin = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    MammothAmaranthAdora = 238
+    ExternalEmeraldFlorie = true
+    EssentialCoffeeDion3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  dummy.SignificantBrownDanni3 SocialistHarlequinJacquenette4 {
+    SlipperyAquamarineBarbaraanne2 = 400
+    DrunkPeachMarleen = file("ReasonableCrimsonEmalee2.txt")
+    EnglishBrownCrin4 = 330
+    DivineRoseOpal = true
+    ExperimentalLavenderKatine = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  "List<boolean>" CompactPurpleNannie {
+  }
+}

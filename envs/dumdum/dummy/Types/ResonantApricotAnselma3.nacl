@@ -1,0 +1,67 @@
+type dummy.ResonantApricotAnselma3 {
+  annotations {
+    number HorribleOrangeMaren4 {
+    }
+    serviceid_number PurpleScarletRivalee2 {
+    }
+    dummy.AfraidAquamarineBenedetta OldAmethystAmii2 {
+    }
+    json InternationalBlushClaudette2 {
+    }
+    json CompetitiveGrayHeida {
+    }
+    serviceid SmoothAquamarineBarbette4 {
+    }
+  }
+  serviceid OperationalOrangeMariam {
+    _hidden_value = true
+  }
+  serviceid_number GentleBlackCarmelle2 {
+    _hidden_value = true
+  }
+  serviceid_number InsufficientPurpleNeely3 {
+    _hidden_value = true
+  }
+  serviceid_number WonderfulYellowZonda2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GloriousBlackCarmine {
+    _hidden_value = true
+  }
+  number GladGoldGlyn2 {
+    _hidden_value = true
+  }
+  string ShakyAquaBab4 {
+    _hidden_value = true
+  }
+  serviceid_number CarefulCyanFerdinande3 {
+    _hidden_value = true
+  }
+  hidden_boolean BreakableTealShir2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number EntireEmeraldFrank {
+    _hidden_value = true
+  }
+  "List<boolean>" UnitedCopperEddi2 {
+    _hidden_value = true
+  }
+  boolean AbsentPinkMelosa {
+    _hidden_value = true
+  }
+  string CanadianPlumMinetta3 {
+    _hidden_value = true
+  }
+  boolean HistoricLavenderKellina3 {
+    _hidden_value = true
+  }
+  HorribleOrangeMaren4 = 402
+  PurpleScarletRivalee2 = 95
+  OldAmethystAmii2 = true
+  InternationalBlushClaudette2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CompetitiveGrayHeida = "Did you know that protons have mass? I didn't even know they were catholic."
+  SmoothAquamarineBarbette4 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

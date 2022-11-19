@@ -1,0 +1,24 @@
+type dummy.DeterminedOrangeMarilyn2 {
+  annotations {
+    hidden_boolean CloseBrownCory4 {
+    }
+    json BriefAmethystAmaleta2 {
+    }
+    serviceid BrokenIndigoJocelyn {
+    }
+    json FullBlushChristian2 {
+    }
+    dummy.WorryingSilverRozamond IntelligentMaroonLinnet {
+    }
+  }
+  hidden_boolean ColonialPeachMaudie7 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  BriefAmethystAmaleta2 = "Why was it called the dark ages? Because of all the knights. "
+  BrokenIndigoJocelyn = "A steak pun is a rare medium well done."
+  FullBlushChristian2 = "Why is Peter Pan always flying? Because he Neverlands."
+  IntelligentMaroonLinnet = 155
+  _hidden_value = true
+}

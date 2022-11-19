@@ -1,0 +1,31 @@
+type dummy.RichTomatoStorm2 {
+  annotations {
+    string UnfairMaroonLilas4 {
+    }
+    serviceid_number UniformScarletRosalyn {
+    }
+    serviceid_number InquisitiveTealStafani {
+    }
+    json GiganticVioletUlrika2 {
+    }
+    serviceid SubtleMoccasinLucie {
+    }
+  }
+  "List<json>" OrangePurpleMufinella2 {
+    _hidden_value = true
+  }
+  string PoisedTurquoiseThomasin {
+    _hidden_value = true
+  }
+  hidden_boolean DemocraticCrimsonEngracia3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  UnfairMaroonLilas4 = "Why did the tomato blush? Because it saw the salad dressing."
+  UniformScarletRosalyn = 15
+  InquisitiveTealStafani = 272
+  GiganticVioletUlrika2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SubtleMoccasinLucie = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

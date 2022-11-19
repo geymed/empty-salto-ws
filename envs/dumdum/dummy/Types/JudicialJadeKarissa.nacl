@@ -1,0 +1,93 @@
+type dummy.JudicialJadeKarissa {
+  annotations {
+    serviceid DevotedRosePauletta {
+    }
+    number FrenchBrownCyndi {
+    }
+    number AncientAmethystAmalee {
+    }
+    string TastelessAquaAshlen {
+    }
+    number ExceptionalOliveMadge {
+    }
+    serviceid AbundantAmethystAndi {
+    }
+  }
+  dummy.DEFAULT InherentRedNixie {
+    _hidden_value = true
+  }
+  json PayableOrangeMarci {
+    _hidden_value = true
+  }
+  json BrightVioletTory {
+    _hidden_value = true
+  }
+  serviceid ThoughtfulBlueCatriona {
+    _hidden_value = true
+  }
+  boolean DefinitePeachMarthe {
+    _hidden_value = true
+  }
+  serviceid RawJadeKarleen {
+    _hidden_value = true
+  }
+  hidden_boolean IsraeliPinkMeridith {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SportingSilverRuthie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string StrongBronzeCon {
+    _hidden_value = true
+  }
+  boolean JustMaroonLissy {
+    _hidden_value = true
+  }
+  json SpontaneousTanShaun2 {
+    _hidden_value = true
+  }
+  string BrownFuchsiaGelya {
+    _hidden_value = true
+  }
+  string DifficultTealSimona {
+    _hidden_value = true
+  }
+  dummy.DEFAULT OfficialCopperDorise {
+    _hidden_value = true
+  }
+  serviceid_number ContentPeachMatilde {
+    _hidden_value = true
+  }
+  "List<serviceid>" ChangingJadeKassey {
+    _hidden_value = true
+  }
+  string CalmBeigeCalida {
+    _hidden_value = true
+  }
+  dummy.DEFAULT StrongAquaAshia {
+    _hidden_value = true
+  }
+  serviceid InclinedRedNydia {
+    _hidden_value = true
+  }
+  "Map<string>" StructuralIvoryJosephina {
+    _hidden_value = true
+  }
+  string BumpyAmaranthAili {
+    _hidden_value = true
+  }
+  boolean LikelyBlushClaribel {
+    _hidden_value = true
+  }
+  DevotedRosePauletta = "Why was it called the dark ages? Because of all the knights. "
+  FrenchBrownCyndi = 599
+  AncientAmethystAmalee = 109
+  TastelessAquaAshlen = "Why did the kid cross the playground? To get to the other slide."
+  ExceptionalOliveMadge = 196
+  AbundantAmethystAndi = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

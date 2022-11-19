@@ -1,0 +1,83 @@
+type dummy.OpenBronzeClerissa {
+  annotations {
+    serviceid_number MarxistSapphireRakel {
+    }
+    string ThirstyAquaAstra {
+    }
+    hidden_boolean SubstantialCoralElspeth {
+    }
+    boolean AggregateScarletRobbin {
+    }
+    number RollingSilverRubi {
+    }
+  }
+  number SoundRoseOlga {
+    _hidden_value = true
+  }
+  string InnovativeTanSheeree3 {
+    _hidden_value = true
+  }
+  json HungryMaroonLira {
+    _hidden_value = true
+  }
+  boolean IntenseLavenderKattie {
+    _hidden_value = true
+  }
+  string RichCoffeeDorella {
+    _hidden_value = true
+  }
+  string AngryAquamarineBenedetta {
+    _hidden_value = true
+  }
+  string BoringPeachMarnie2 {
+    _hidden_value = true
+  }
+  hidden_boolean GreenVioletUla {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean VastYellowZarla2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number IndustrialBrownDanny {
+    _hidden_value = true
+  }
+  serviceid UnchangedSilverRubetta {
+    _hidden_value = true
+  }
+  json SickFuchsiaGerda {
+    _hidden_value = true
+  }
+  serviceid_number ChemicalGreenIsadora {
+    _hidden_value = true
+  }
+  serviceid FollowingBrownCynthea2 {
+    _hidden_value = true
+  }
+  boolean PlainIndigoJewell {
+    _hidden_value = true
+  }
+  dummy.FamousCoralElianora ImportantBlueChelsea2 {
+    ShinyTurquoiseTiff = 241
+    RelativeGoldGuillema = "A steak pun is a rare medium well done."
+    OkSapphireRhianna = 454
+    StupidTomatoSusan = "Whoever invented the knock-knock joke should get a no bell prize."
+    EarlyAmethystAmanda = "What do you do on a remote island? Try and find the TV island it belongs to."
+    UncertainMagentaLela = "Whoever invented the knock-knock joke should get a no bell prize."
+    UpsetOliveLyssa = "How come the stadium got hot after the game? Because all of the fans left."
+    WorryingSilverRozamond2 = "How come the stadium got hot after the game? Because all of the fans left."
+    FatIvoryJoelle = {
+      legit = "Why is Peter Pan always flying? Because he Neverlands."
+    }
+    PlasticAquaAuria = "Slept like a log last night  woke up in the fireplace."
+    _hidden_value = true
+  }
+  MarxistSapphireRakel = 646
+  ThirstyAquaAstra = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  AggregateScarletRobbin = false
+  RollingSilverRubi = 87
+  _hidden_value = true
+}

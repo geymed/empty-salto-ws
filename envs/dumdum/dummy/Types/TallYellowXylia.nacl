@@ -1,0 +1,74 @@
+type dummy.TallYellowXylia {
+  annotations {
+    serviceid FullBlushChristen2 {
+    }
+    dummy.DEFAULT HushedApricotAnnamaria {
+    }
+    hidden_boolean StillIndigoJinny3 {
+    }
+    string ControlledTanSheilakathryn2 {
+    }
+    json WholeBronzeCloe2 {
+    }
+  }
+  number ThoughtfulBlueCaty5 {
+    _hidden_value = true
+  }
+  string FranticAzureBirgitta {
+    _hidden_value = true
+  }
+  serviceid_number FollowingBrownCyndy {
+    _hidden_value = true
+  }
+  boolean WeakFuchsiaGayle3 {
+    _hidden_value = true
+  }
+  hidden_boolean LightTurquoiseThalia4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid NosyWhiteVictoria4 {
+    _hidden_value = true
+  }
+  string SpecificChocolateDarby2 {
+    _hidden_value = true
+  }
+  dummy.StaleAquaArlina UnfairMaroonLilian4 {
+    FatalPurpleMyrtle = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    NaughtyAzureBonnibelle = 857
+    ControlledTanSheila = "What did one nut say as he chased another nut?  I'm a cashew!"
+    EncouragingBlackCaresse = 788
+    FollowingBrownCynthia2 = "Why did the tomato blush? Because it saw the salad dressing."
+    ProtectiveRoseOlive = "To be Frank, I'd have to change my name."
+    NosyWhiteVicky = 487
+    UniqueFuchsiaGerta = true
+    PassivePurpleMyrah = 207
+    DistinguishedPurpleNatassia = "To be Frank, I'd have to change my name."
+    CloudyTomatoTamqrah = 437
+    BrightVioletTova = "Dad Im hungry  Hi hungry Im dad"
+    SquealingApricotArabel = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    RegisteredPurpleNan = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    QuickCoralEleni = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  json RubberSilverSarene4 {
+    _hidden_value = true
+  }
+  serviceid DifficultBronzeClementina2 {
+    _hidden_value = true
+  }
+  boolean SpottyYellowWrennie3 {
+    _hidden_value = true
+  }
+  number ClearBlushCinnamon2 {
+    _hidden_value = true
+  }
+  FullBlushChristen2 = "To be Frank, I'd have to change my name."
+  HushedApricotAnnamaria = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  ControlledTanSheilakathryn2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  WholeBronzeCloe2 = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

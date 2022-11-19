@@ -1,0 +1,98 @@
+type dummy.SpecificBrownDarb {
+  annotations {
+    string MusicalIndigoJoannes {
+    }
+    serviceid_number ComparativePlumMitzi {
+    }
+    dummy.LargeBlueCharlotta MeltedAquaAura {
+    }
+    boolean UnchangedSilverRozina {
+    }
+    serviceid_number QuickWhiteVivyanne {
+    }
+  }
+  number PlasticAquaAuria2 {
+    _hidden_value = true
+  }
+  string CrazyMoccasinLorrie {
+    _hidden_value = true
+  }
+  json ZanyYellowZuzana {
+    _hidden_value = true
+  }
+  string StatutoryGrayHarriott {
+    _hidden_value = true
+  }
+  boolean ResonantApricotAnselma {
+    _hidden_value = true
+  }
+  number SpiritualLavenderKatrinka {
+    _hidden_value = true
+  }
+  number DirectChocolateDe {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MushyWhiteVerina {
+    _hidden_value = true
+  }
+  hidden_boolean CleanCyanFernandina2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number ImprovedMagentaLark {
+    _hidden_value = true
+  }
+  dummy.WorryingSilverRozamond NegativeFuchsiaGates {
+    StormyTurquoiseTim = 728
+    IntegratedOliveMady = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    UltimateJadeKamillah = "What creature is smarter than a talking parrot? A spelling bee."
+    QuickWhiteVivyan = 743
+    _hidden_value = true
+  }
+  boolean GreatBlueCharin {
+    _hidden_value = true
+  }
+  serviceid DifferentTealSilvia {
+    _hidden_value = true
+  }
+  serviceid_number PuzzledTanShanie2 {
+    _hidden_value = true
+  }
+  serviceid QuaintWhiteVivianna {
+    _hidden_value = true
+  }
+  hidden_boolean AmazingMoccasinLizabeth {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.ShallowAmberAloysia RussianCyanFelisha {
+    NiceWhiteVi = "Why did the kid cross the playground? To get to the other slide."
+    VisibleIndigoJillayne = false
+    PreparedCyanFelicia = "Why do birds fly south for the winter? Because it's too far to walk."
+    BlushingTomatoTalyah = 654
+    RedundantSalmonPhilis = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    LivelyPeachMarylin = "I'll tell you what often gets over looked... garden fences."
+    _hidden_value = true
+  }
+  "List<number>" BitterApricotArden {
+    _hidden_value = true
+  }
+  hidden_boolean MarkedMagentaLaura {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<number>" UnusualTurquoiseToby {
+    _hidden_value = true
+  }
+  MusicalIndigoJoannes = "Why do birds fly south for the winter? Because it's too far to walk."
+  ComparativePlumMitzi = 914
+  MeltedAquaAura = 590
+  UnchangedSilverRozina = true
+  QuickWhiteVivyanne = 737
+  _hidden_value = true
+}

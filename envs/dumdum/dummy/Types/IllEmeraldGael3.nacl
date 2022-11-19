@@ -1,0 +1,23 @@
+type dummy.IllEmeraldGael3 {
+  annotations {
+    dummy.MightyTanShandra ElegantTurquoiseTeddie2 {
+    }
+    boolean ModernBrownDacie2 {
+    }
+    string OldBlueChandra3 {
+    }
+    serviceid WastefulYellowZia2 {
+    }
+    serviceid_number DeadTealSileas3 {
+    }
+  }
+  json ToughYellowYsabel2 {
+    _hidden_value = true
+  }
+  ElegantTurquoiseTeddie2 = true
+  ModernBrownDacie2 = true
+  OldBlueChandra3 = "Dad Im hungry  Hi hungry Im dad"
+  WastefulYellowZia2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  DeadTealSileas3 = 296
+  _hidden_value = true
+}

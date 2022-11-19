@@ -1,0 +1,79 @@
+type dummy.PrintedRedNetty2 {
+  annotations {
+    string SurvivingSapphireRicky2 {
+    }
+    boolean SuperbMagentaLaurena2 {
+    }
+    json FilthyTurquoiseTeresa3 {
+    }
+    serviceid LargeBlueCharmain {
+    }
+    serviceid_number RubberSilverSarena2 {
+    }
+  }
+  serviceid_number SelectSalmonPhilippa {
+    _hidden_value = true
+  }
+  string HugeCoffeeDoralynne {
+    _hidden_value = true
+  }
+  string RelaxedPlumMinne {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ManyAmethystAnge2 {
+    _hidden_value = true
+  }
+  serviceid HissingApricotAnnmarie3 {
+    _hidden_value = true
+  }
+  string WeakFuchsiaGayleen2 {
+    _hidden_value = true
+  }
+  string VerticalOliveLynnette3 {
+    _hidden_value = true
+  }
+  number CentralBronzeConnie2 {
+    _hidden_value = true
+  }
+  boolean AfricanFuchsiaGigi {
+    _hidden_value = true
+  }
+  serviceid AverageCoralElyse {
+    _hidden_value = true
+  }
+  json GratefulIvoryJorey3 {
+    _hidden_value = true
+  }
+  number StaticSapphireRebekah4 {
+    _hidden_value = true
+  }
+  dummy.ShallowAmberAloysia NiceBrownCybil {
+    NiceWhiteVi = "What creature is smarter than a talking parrot? A spelling bee."
+    VisibleIndigoJillayne = true
+    PreparedCyanFelicia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    BlushingTomatoTalyah = 573
+    RedundantSalmonPhilis = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    LivelyPeachMarylin = "Why is Peter Pan always flying? Because he Neverlands."
+    _hidden_value = true
+  }
+  string PhysicalCoffeeDenna {
+    _hidden_value = true
+  }
+  json RespectiveSalmonPerry2 {
+    _hidden_value = true
+  }
+  boolean ClearTomatoTammara {
+    _hidden_value = true
+  }
+  serviceid FinancialBronzeCori2 {
+    _hidden_value = true
+  }
+  SurvivingSapphireRicky2 = "How come the stadium got hot after the game? Because all of the fans left."
+  SuperbMagentaLaurena2 = true
+  FilthyTurquoiseTeresa3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  LargeBlueCharmain = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  RubberSilverSarena2 = 687
+  _hidden_value = true
+}

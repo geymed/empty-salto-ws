@@ -1,0 +1,63 @@
+type dummy.ManyWhiteVere {
+  annotations {
+    serviceid_number NaturalBrownCristionna {
+    }
+    json AlrightGoldGoldina {
+    }
+    serviceid DailyCyanEveleen {
+    }
+    json SuperbMagentaLaurella {
+    }
+    hidden_boolean PurpleScarletRiva {
+    }
+  }
+  dummy.DEFAULT NuttyWhiteVikki {
+    _hidden_value = true
+  }
+  "List<serviceid>" BumpyAmaranthAilene2 {
+    _hidden_value = true
+  }
+  boolean RelatedIndigoJessamyn {
+    _hidden_value = true
+  }
+  number SupportingSilverSamantha {
+    _hidden_value = true
+  }
+  boolean HistoricalCyanEvaleen {
+    _hidden_value = true
+  }
+  number PoliticalBlushChloette {
+    _hidden_value = true
+  }
+  serviceid PhilosophicalRedNoelani {
+    _hidden_value = true
+  }
+  serviceid ColouredMoccasinLivvy {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" SparklingTurquoiseTilda {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean RelatedIndigoJessalyn {
+    _hidden_value = true
+  }
+  serviceid RawJadeKarlee2 {
+    _hidden_value = true
+  }
+  json ChronicOliveMalissa2 {
+    _hidden_value = true
+  }
+  serviceid_number MelodicApricotAnnaliese {
+    _hidden_value = true
+  }
+  number ValidLavenderKerstin {
+    _hidden_value = true
+  }
+  NaturalBrownCristionna = 935
+  AlrightGoldGoldina = "What creature is smarter than a talking parrot? A spelling bee."
+  DailyCyanEveleen = "Why did the kid cross the playground? To get to the other slide."
+  SuperbMagentaLaurella = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

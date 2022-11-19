@@ -1,0 +1,54 @@
+type dummy.AwakeRedNola is string {
+  annotations {
+    boolean IrrelevantPurpleNani {
+    }
+    boolean RealBlushClarie {
+    }
+    hidden_boolean AliveTealSherline {
+    }
+    serviceid RapidGrayHildagarde {
+    }
+    serviceid_number ZanyYellowZorine {
+    }
+    serviceid_number CertainBronzeClemmie {
+    }
+    boolean VivaciousBlueCecilla {
+    }
+    serviceid_number ConservationPlumMoira {
+    }
+    boolean GrossLavenderKetty {
+    }
+    serviceid_number NetGoldGladys {
+    }
+    boolean AccessibleOrangeMarika {
+    }
+    boolean BadAquamarineBernetta {
+    }
+    string InnovativeTanSheeree {
+    }
+    serviceid WillingGoldGusti {
+    }
+    number ParallelMoccasinLuelle {
+    }
+    serviceid SadYellowWilletta {
+    }
+    serviceid_number EligiblePurpleNeille {
+    }
+  }
+  IrrelevantPurpleNani = false
+  RealBlushClarie = false
+  RapidGrayHildagarde = "A steak pun is a rare medium well done."
+  ZanyYellowZorine = 561
+  CertainBronzeClemmie = 208
+  VivaciousBlueCecilla = false
+  ConservationPlumMoira = 853
+  GrossLavenderKetty = false
+  NetGoldGladys = 282
+  AccessibleOrangeMarika = false
+  BadAquamarineBernetta = false
+  InnovativeTanSheeree = "Whoever invented the knock-knock joke should get a no bell prize."
+  WillingGoldGusti = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ParallelMoccasinLuelle = 417
+  SadYellowWilletta = "Why didnt the skeleton cross the road? Because he had no guts."
+  EligiblePurpleNeille = 259
+}

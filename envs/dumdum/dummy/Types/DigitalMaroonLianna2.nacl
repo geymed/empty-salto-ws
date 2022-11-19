@@ -1,0 +1,48 @@
+type dummy.DigitalMaroonLianna2 {
+  annotations {
+    serviceid FixedGreenHinda {
+    }
+    serviceid_number MiddleCopperDyane {
+    }
+    json SemanticRedNinnetta {
+    }
+    hidden_boolean TallCyanFaydra {
+    }
+    serviceid BlueVioletTorrie {
+    }
+    serviceid_number MysteriousPurpleNelia {
+    }
+  }
+  serviceid_number ObjectiveOrangeMamie3 {
+    _hidden_value = true
+  }
+  boolean DelicateOliveMabelle {
+    _hidden_value = true
+  }
+  string PrettyIndigoJennine {
+    _hidden_value = true
+  }
+  serviceid SharedPinkMelba3 {
+    _hidden_value = true
+  }
+  hidden_boolean QuickestWhiteWallie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DailyCyanEvelina EasyBronzeCollen5 {
+    _hidden_value = true
+  }
+  boolean IsolatedPeachMarketa5 {
+    _hidden_value = true
+  }
+  number UninterestedTomatoSusi {
+    _hidden_value = true
+  }
+  FixedGreenHinda = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  MiddleCopperDyane = 870
+  SemanticRedNinnetta = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  BlueVioletTorrie = "What creature is smarter than a talking parrot? A spelling bee."
+  MysteriousPurpleNelia = 260
+  _hidden_value = true
+}

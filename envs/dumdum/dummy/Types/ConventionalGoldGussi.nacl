@@ -1,0 +1,61 @@
+type dummy.ConventionalGoldGussi {
+  annotations {
+    hidden_boolean DifficultBronzeClemence {
+    }
+    number SeparateCopperDoroteya {
+    }
+    serviceid_number SmoothIndigoJemmy4 {
+    }
+    boolean GorgeousVioletUna {
+    }
+    string PersonalBronzeCoraline {
+    }
+    string StrategicHarlequinJeannette {
+    }
+  }
+  number ReasonableCrimsonEmelia {
+    _hidden_value = true
+  }
+  json SpecialBlushClaudine {
+    _hidden_value = true
+  }
+  number ConservativeCoralEllen3 {
+    _hidden_value = true
+  }
+  json ElectricGreenIngunna {
+    _hidden_value = true
+  }
+  number SmoggyTurquoiseTiffany {
+    _hidden_value = true
+  }
+  serviceid BraveBeigeCairistiona3 {
+    _hidden_value = true
+  }
+  serviceid MilitaryChocolateDaron {
+    _hidden_value = true
+  }
+  serviceid CombinedOliveMair {
+    _hidden_value = true
+  }
+  number OfficialCopperDorita2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CivicTanShelley {
+    _hidden_value = true
+  }
+  string InterestedCoffeeDierdre2 {
+    _hidden_value = true
+  }
+  number HorribleVioletValene {
+    _hidden_value = true
+  }
+  string LiteraryGreenIris {
+    _hidden_value = true
+  }
+  SeparateCopperDoroteya = 509
+  SmoothIndigoJemmy4 = 733
+  GorgeousVioletUna = true
+  PersonalBronzeCoraline = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  StrategicHarlequinJeannette = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

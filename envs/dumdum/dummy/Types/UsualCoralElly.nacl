@@ -1,0 +1,90 @@
+type dummy.UsualCoralElly {
+  annotations {
+    serviceid UnwillingTanShelia {
+    }
+    json ResonantApricotAnstice3 {
+    }
+    serviceid ShinyTurquoiseTiffani {
+    }
+    number AmazingMoccasinLizabeth2 {
+    }
+    hidden_boolean EvilPeachMaurine2 {
+    }
+  }
+  serviceid_number AccessibleOrangeMarika2 {
+    _hidden_value = true
+  }
+  serviceid StraightforwardMaroonLezlie3 {
+    _hidden_value = true
+  }
+  json SupremeGreenIsabella {
+    _hidden_value = true
+  }
+  serviceid_number UnlikelyCrimsonEtheline {
+    _hidden_value = true
+  }
+  number ZanyYellowZorine2 {
+    _hidden_value = true
+  }
+  hidden_boolean MedicalCoffeeDevonna {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json CruelAquamarineBethany {
+    _hidden_value = true
+  }
+  json MagicOrangeManon {
+    _hidden_value = true
+  }
+  json MassiveAmaranthAdriaens {
+    _hidden_value = true
+  }
+  number DigitalMaroonLianne {
+    _hidden_value = true
+  }
+  boolean CompactPurpleNannette2 {
+    _hidden_value = true
+  }
+  dummy.InteriorPurpleNathalie GrandEmeraldFrances {
+    ShaggyAquaAviva = 251
+    ThenSalmonPhylis = 825
+    PassingSalmonPolly = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    DemocraticCrimsonEmyle = 474
+    StrikingOliveMag = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ExcellentCoralEilis = 550
+    _hidden_value = true
+  }
+  hidden_boolean SingleBronzeCorabelle {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT NutritiousWhiteVilhelmina {
+    _hidden_value = true
+  }
+  hidden_boolean SmoothAquamarineBarbette2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string GoodBlackCarmon3 {
+    _hidden_value = true
+  }
+  number SillyYellowWini4 {
+    _hidden_value = true
+  }
+  serviceid_number WorthwhilePinkMelita2 {
+    _hidden_value = true
+  }
+  hidden_boolean ConfusedAquamarineBertina4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  UnwillingTanShelia = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ResonantApricotAnstice3 = "What creature is smarter than a talking parrot? A spelling bee."
+  ShinyTurquoiseTiffani = "What did one nut say as he chased another nut?  I'm a cashew!"
+  AmazingMoccasinLizabeth2 = 590
+  _hidden_value = true
+}

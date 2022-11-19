@@ -1,0 +1,31 @@
+type dummy.LiberalCyanFarah {
+  annotations {
+    serviceid BoldPlumMinna3 {
+    }
+    serviceid_number WrongBrownCrissie {
+    }
+    number FunOrangeMarcille {
+    }
+    string TropicalOliveLydia {
+    }
+    boolean RelevantCoffeeDora3 {
+    }
+  }
+  hidden_boolean ConsciousHarlequinJeane {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ColonialPeachMaude {
+    _hidden_value = true
+  }
+  serviceid_number FemaleCrimsonEmmie {
+    _hidden_value = true
+  }
+  BoldPlumMinna3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  WrongBrownCrissie = 651
+  FunOrangeMarcille = 629
+  TropicalOliveLydia = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  RelevantCoffeeDora3 = false
+  _hidden_value = true
+}

@@ -1,0 +1,133 @@
+type dummy.GreekIndigoJoane2 {
+  annotations {
+    number DullMoccasinLori4 {
+    }
+    hidden_boolean MoaningApricotAnnamarie {
+    }
+    hidden_boolean CausalSapphireRene3 {
+    }
+    number SelectSalmonPhil2 {
+    }
+    dummy.DEFAULT CarefulCyanFerdinanda {
+    }
+  }
+  serviceid_number BottomMoccasinLouisa {
+    _hidden_value = true
+  }
+  number IncreasedCrimsonEsther2 {
+    _hidden_value = true
+  }
+  boolean LittleBlushChiquia2 {
+    _hidden_value = true
+  }
+  "Map<serviceid_number>" EducationalCrimsonEryn2 {
+    _hidden_value = true
+  }
+  string SweetAquaAshlan3 {
+    _hidden_value = true
+  }
+  dummy.SlimyAquamarineBarbara UnfortunatePeachMarta2 {
+    _hidden_value = true
+  }
+  serviceid_number ProductivePlumMollie3 {
+    _hidden_value = true
+  }
+  string ConventionalGoldGussie {
+    _hidden_value = true
+  }
+  string DisappointedMagentaLauryn2 {
+    _hidden_value = true
+  }
+  dummy.ProposedGoldGwendolen AgreeableBeigeBunny2 {
+    GrowingCrimsonEnrica = 535
+    DelicateOliveMable = 391
+    OkSapphireRhianon = 683
+    ClosedMagentaLeilah = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    AlertTomatoTabatha = true
+    StrongBronzeColly = 479
+    NavalPinkMel = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    _hidden_value = true
+  }
+  serviceid_number HorribleVioletValencia {
+    _hidden_value = true
+  }
+  string FatAmaranthAbigail2 {
+    _hidden_value = true
+  }
+  serviceid EmptyAmethystAndrea2 {
+    _hidden_value = true
+  }
+  serviceid_number InclinedRedOdele {
+    _hidden_value = true
+  }
+  serviceid SatisfiedHarlequinJazmin2 {
+    _hidden_value = true
+  }
+  serviceid ExtremeHarlequinJackelyn2 {
+    _hidden_value = true
+  }
+  string SuccessfulBlueCatlee3 {
+    _hidden_value = true
+  }
+  boolean WoodenAquamarineBelle4 {
+    _hidden_value = true
+  }
+  serviceid PleasantBlackCatharine2 {
+    _hidden_value = true
+  }
+  string DeadTealSile2 {
+    _hidden_value = true
+  }
+  hidden_boolean FiscalRedNicolle {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid BusyTealShirlee {
+    _hidden_value = true
+  }
+  json RegionalCopperDorian2 {
+    _hidden_value = true
+  }
+  string ElectronicGreenInessa {
+    _hidden_value = true
+  }
+  json PotentialCoralElbertine2 {
+    _hidden_value = true
+  }
+  string IdeologicalOrangeMargarethe2 {
+    _hidden_value = true
+  }
+  dummy.AverageTomatoTabbitha WidespreadHarlequinJacquetta5 {
+    LonelyAzureBobine = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ComplexCopperDrucy = 656
+    DangerousCrimsonEssie = 858
+    FreshCopperDyanne = "Slept like a log last night  woke up in the fireplace."
+    DepressedAzureBetty = true
+    HiddenRedOdessa = 105
+    ProminentLavenderKelci = 297
+    ImmensePlumMirna = 210
+    NavalPinkMelamie = false
+    MysteriousAzureBobinette = 512
+    RenewedSilverSandy = true
+    PriorRosePauli = 671
+    EagerBeigeCandis = 958
+    _hidden_value = true
+  }
+  serviceid DifficultBronzeClementina {
+    _hidden_value = true
+  }
+  string FantasticBlackCarlotta2 {
+    _hidden_value = true
+  }
+  DullMoccasinLori4 = 613
+  SelectSalmonPhil2 = 229
+  CarefulCyanFerdinanda = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  _hidden_value = true
+}

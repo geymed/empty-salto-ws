@@ -1,0 +1,67 @@
+type dummy.JudicialJadeKarita {
+  annotations {
+    string ExcessSilverSapphire {
+    }
+    hidden_boolean DefiantAzureBetteann6 {
+    }
+    string ThinCyanEvania4 {
+    }
+  }
+  json NarrowAmberAllys {
+    _hidden_value = true
+  }
+  json EconomicBlushClare5 {
+    _hidden_value = true
+  }
+  number ExcitingGreenIssy4 {
+    _hidden_value = true
+  }
+  serviceid_number HotAquaAudry {
+    _hidden_value = true
+  }
+  hidden_boolean LeadingCrimsonEm4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid CivilCoffeeDodi2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ArmedGrayHeidi {
+    _hidden_value = true
+  }
+  hidden_boolean TraditionalChocolateDel {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid BrownFuchsiaGaynor3 {
+    _hidden_value = true
+  }
+  number FunnyBlackCarmelia {
+    _hidden_value = true
+  }
+  string FederalGrayHally4 {
+    _hidden_value = true
+  }
+  json UnfortunatePeachMarsha {
+    _hidden_value = true
+  }
+  boolean WastefulYellowZita2 {
+    _hidden_value = true
+  }
+  hidden_boolean UniqueFuchsiaGerti2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean IncredibleRosePaula2 {
+    _hidden_value = true
+  }
+  number DoubtfulTealSioux3 {
+    _hidden_value = true
+  }
+  ExcessSilverSapphire = "Why do birds fly south for the winter? Because it's too far to walk."
+  ThinCyanEvania4 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

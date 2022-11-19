@@ -1,0 +1,71 @@
+type dummy.WorthwhilePinkMelitta {
+  annotations {
+    number NationalBlueCherice2 {
+    }
+    serviceid_number DeliciousApricotArdith {
+    }
+    serviceid_number MysteriousAzureBonita2 {
+    }
+    json InnovativeTanSheeree4 {
+    }
+    boolean FriendlyVioletTrudy5 {
+    }
+  }
+  number WealthyPeachMarybelle {
+    _hidden_value = true
+  }
+  hidden_boolean PurpleWhiteVivian3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string OuterJadeKaron {
+    _hidden_value = true
+  }
+  hidden_boolean HelpfulHarlequinJanette4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number ElderlyEmeraldFlorencia {
+    _hidden_value = true
+  }
+  serviceid_number MysteriousAzureBonnee2 {
+    _hidden_value = true
+  }
+  serviceid VariedRedNoreen {
+    _hidden_value = true
+  }
+  hidden_boolean UnsightlyTurquoiseTobe {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string RelievedSalmonPetronilla {
+    _hidden_value = true
+  }
+  string SufficientCrimsonEolanda3 {
+    _hidden_value = true
+  }
+  boolean SurroundingOrangeMarget {
+    _hidden_value = true
+  }
+  boolean DifferentTealSilvie3 {
+    _hidden_value = true
+  }
+  boolean PoliticalBlushChloris {
+    _hidden_value = true
+  }
+  number ColdChocolateDebby2 {
+    _hidden_value = true
+  }
+  json UniversalJadeKacie2 {
+    _hidden_value = true
+  }
+  NationalBlueCherice2 = 197
+  DeliciousApricotArdith = 774
+  MysteriousAzureBonita2 = 671
+  InnovativeTanSheeree4 = "What do you call two barracuda fish?  A Pairacuda!"
+  FriendlyVioletTrudy5 = false
+  _hidden_value = true
+}

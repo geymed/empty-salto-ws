@@ -1,0 +1,73 @@
+type dummy.VaguePinkMehetabel2 {
+  annotations {
+    serviceid_number EnchantingBlackCaren {
+    }
+  }
+  number OkayOliveMaggee {
+    _hidden_value = true
+  }
+  serviceid PowerfulCopperDruci2 {
+    _hidden_value = true
+  }
+  hidden_boolean InfluentialMoccasinLorenza2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string LowBlushChristine3 {
+    _hidden_value = true
+  }
+  hidden_boolean TerritorialSalmonPriscella {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string ShakyAquaBab3 {
+    _hidden_value = true
+  }
+  string JuniorIvoryJoni3 {
+    _hidden_value = true
+  }
+  string ToughGoldGlenna {
+    _hidden_value = true
+  }
+  serviceid_number VerbalPinkMaxie {
+    _hidden_value = true
+  }
+  hidden_boolean MisleadingRoseOrella {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number ValidLavenderKerrin {
+    _hidden_value = true
+  }
+  string EstimatedOrangeMargit4 {
+    _hidden_value = true
+  }
+  boolean ThirstyAquaAsia3 {
+    _hidden_value = true
+  }
+  serviceid_number ColouredMaroonLivvie {
+    _hidden_value = true
+  }
+  hidden_boolean SparklingTurquoiseTiffy {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean CasualOliveLurline4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BareLavenderKelli3 {
+    _hidden_value = true
+  }
+  string BoredPlumMoreen2 {
+    _hidden_value = true
+  }
+  serviceid MonetaryIvoryJohanna {
+    _hidden_value = true
+  }
+  EnchantingBlackCaren = 526
+  _hidden_value = true
+}

@@ -1,0 +1,141 @@
+type dummy.ColonialPeachMaudie2 {
+  annotations {
+    json RattyWhiteWaneta2 {
+    }
+    serviceid VisibleIndigoJewelle {
+    }
+    string DistinctHarlequinJanelle {
+    }
+    hidden_boolean StructuralIvoryJosey3 {
+    }
+    boolean IraqiOliveMadelyn2 {
+    }
+    json PersistentRosePamelina {
+    }
+  }
+  serviceid_number SacredRedNorma2 {
+    _hidden_value = true
+  }
+  serviceid_number PowerfulTomatoStephani {
+    _hidden_value = true
+  }
+  serviceid_number FatVioletTrixi2 {
+    _hidden_value = true
+  }
+  string SharpFuchsiaGeorgina {
+    _hidden_value = true
+  }
+  json AccurateIndigoJillayne3 {
+    _hidden_value = true
+  }
+  hidden_boolean MuddyTurquoiseTheresina {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string PositiveCoffeeDominica2 {
+    _hidden_value = true
+  }
+  serviceid_number ChristianCoralElva3 {
+    _hidden_value = true
+  }
+  number FederalGrayHallie {
+    _hidden_value = true
+  }
+  boolean IndirectPeachMarya {
+    _hidden_value = true
+  }
+  "List<serviceid>" ImmenseAmaranthAdelheid {
+    _hidden_value = true
+  }
+  serviceid_number WrongTomatoSybila {
+    _hidden_value = true
+  }
+  string RedundantSalmonPhilippine {
+    _hidden_value = true
+  }
+  string QuietWhiteViviene2 {
+    _hidden_value = true
+  }
+  boolean FancyTurquoiseTedi {
+    _hidden_value = true
+  }
+  serviceid OrganicLimeLaetitia3 {
+    _hidden_value = true
+  }
+  hidden_boolean CheapCoralEdithe {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number DangerousCrimsonEssy {
+    _hidden_value = true
+  }
+  serviceid ZanyBlueCelina {
+    _hidden_value = true
+  }
+  string CheerfulSapphireRhodia {
+    _hidden_value = true
+  }
+  boolean ConfusedMaroonLila {
+    _hidden_value = true
+  }
+  boolean ThickEmeraldFilide2 {
+    _hidden_value = true
+  }
+  string CulturalCoralElicia {
+    _hidden_value = true
+  }
+  string RespectiveSalmonPersis {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" UnexpectedMagentaLauree2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean CreepyAmberAlameda2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.SpotlessTurquoiseTildy MaturePeachMatty2 {
+    ResonantApricotAnstice = true
+    LittleAmaranthAdella = 401
+    NegativeFuchsiaGavra = 174
+    LocalBlueCharmaine = "Why did the tomato blush? Because it saw the salad dressing."
+    CuriousLimeKira = "Why did the kid cross the playground? To get to the other slide."
+    MedicalCoffeeDevonne = false
+    InnocentMagentaLari = false
+    LoudLavenderKiele = 67
+    CleverTealSibby = 637
+    FunOrangeMarcy = 865
+    ChillyAmaranthAilis = 106
+    GentleIndigoJoceline = "What do you do on a remote island? Try and find the TV island it belongs to."
+    _hidden_value = true
+  }
+  serviceid NecessaryBronzeCookie2 {
+    _hidden_value = true
+  }
+  json LooseAquaAugustina2 {
+    _hidden_value = true
+  }
+  serviceid_number RedundantSalmonPhilis5 {
+    _hidden_value = true
+  }
+  serviceid CloseBrownCory2 {
+    _hidden_value = true
+  }
+  serviceid CompetentSalmonPeri2 {
+    _hidden_value = true
+  }
+  serviceid GothicSapphireRamona2 {
+    _hidden_value = true
+  }
+  RattyWhiteWaneta2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  VisibleIndigoJewelle = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  DistinctHarlequinJanelle = "Why did the tomato blush? Because it saw the salad dressing."
+  IraqiOliveMadelyn2 = true
+  PersistentRosePamelina = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

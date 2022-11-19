@@ -1,0 +1,32 @@
+type dummy.LightTurquoiseTessie4 {
+  json EvilPeachMaurita4 {
+  }
+  json CharmingBeigeCalley {
+  }
+  serviceid FarBlushChristiane7 {
+  }
+  hidden_boolean VividTanShawnee6 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid TrickyYellowYolanthe3 {
+  }
+  serviceid_number StrongBronzeColline2 {
+  }
+  serviceid BrownFuchsiaGelya4 {
+  }
+  json JealousAzureBobbye2 {
+  }
+  string MedievalJadeKaree5 {
+  }
+  json PanickyAzureBree {
+  }
+  dummy.CooperativeBeigeCamile BroadAmberAlie2 {
+    InnocentTealStacia = false
+    MeaningfulTanShena2 = false
+    RedBrownDallas = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    WiseLavenderKathe = 578
+    OralLimeKylie = false
+  }
+}

@@ -1,0 +1,45 @@
+type dummy.LonelyAzureBobina {
+  annotations {
+    
+    
+    
+    
+    
+    number MoralCyanFelita {
+    }
+    boolean ConceptualTanShelagh {
+    }
+    hidden_boolean GrimScarletRonna {
+    }
+    string HomelessSilverSaloma2 {
+    }
+    dummy.SpareMaroonLilli OppositeHarlequinJanel3 {
+    }
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  _hidden_value = true
+  MoralCyanFelita = 8
+  ConceptualTanShelagh = false
+  HomelessSilverSaloma2 = "To be Frank, I'd have to change my name."
+  OppositeHarlequinJanel3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  boolean DistantIndigoJilly {
+    _hidden_value = true
+  }
+}

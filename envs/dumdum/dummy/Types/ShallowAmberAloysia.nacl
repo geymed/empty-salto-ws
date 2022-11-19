@@ -1,0 +1,32 @@
+type dummy.ShallowAmberAloysia is boolean {
+  annotations {
+    string NiceWhiteVi {
+    }
+    boolean VisibleIndigoJillayne {
+    }
+    hidden_boolean HotCoffeeDesdemona {
+    }
+    hidden_boolean ExtraordinaryIndigoJessie {
+    }
+    hidden_boolean InsufficientPurpleNeely {
+    }
+    string PreparedCyanFelicia {
+    }
+    number BlushingTomatoTalyah {
+    }
+    hidden_boolean FatalPurpleMyrtia {
+    }
+    dummy.DEFAULT RedundantSalmonPhilis {
+    }
+    serviceid LivelyPeachMarylin {
+    }
+  }
+  NiceWhiteVi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  VisibleIndigoJillayne = true
+  PreparedCyanFelicia = "Why do birds fly south for the winter? Because it's too far to walk."
+  BlushingTomatoTalyah = 788
+  RedundantSalmonPhilis = {
+    legit = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  LivelyPeachMarylin = "Why was it called the dark ages? Because of all the knights. "
+}

@@ -1,0 +1,73 @@
+type dummy.ForwardSapphireRicca2 {
+  annotations {
+    number ChiefCopperDorri2 {
+    }
+    serviceid_number DigitalMaroonLibbey {
+    }
+    hidden_boolean SharpFuchsiaGeorgine2 {
+    }
+    boolean HollowAmberAllix3 {
+    }
+    serviceid ImpressiveIndigoJessa {
+    }
+  }
+  boolean ConservativeCoralEllen4 {
+    _hidden_value = true
+  }
+  string DistinctHarlequinJanella3 {
+    _hidden_value = true
+  }
+  hidden_boolean SwissPlumMignonne3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid AppallingTanSelestina {
+    _hidden_value = true
+  }
+  hidden_boolean BriefEmeraldFlorrie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number LongAmaranthAdey {
+    _hidden_value = true
+  }
+  hidden_boolean NewBlueChad2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number CrazyMoccasinLorrie3 {
+    _hidden_value = true
+  }
+  json ConventionalGoldGussi3 {
+    _hidden_value = true
+  }
+  dummy.PassingSalmonPippa GuiltyFuchsiaGina {
+    FaintMaroonLiva = "Slept like a log last night  woke up in the fireplace."
+    DoubtfulRosePansy = "Did you know that protons have mass? I didn't even know they were catholic."
+    AnxiousAquamarineBeret = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    AfricanFuchsiaGiana = false
+    LiableLimeKimmi = 58
+    LeftCoffeeDenny = false
+    _hidden_value = true
+  }
+  number AcademicEmeraldGabbey2 {
+    _hidden_value = true
+  }
+  string VividTanShawnee2 {
+    _hidden_value = true
+  }
+  json CrookedAmberAlana2 {
+    _hidden_value = true
+  }
+  boolean IsolatedPeachMarketa2 {
+    _hidden_value = true
+  }
+  ChiefCopperDorri2 = 93
+  DigitalMaroonLibbey = 364
+  HollowAmberAllix3 = false
+  ImpressiveIndigoJessa = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

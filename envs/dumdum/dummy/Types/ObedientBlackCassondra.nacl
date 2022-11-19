@@ -1,0 +1,34 @@
+type dummy.ObedientBlackCassondra {
+  annotations {
+    serviceid_number ExuberantBlackCaritta {
+    }
+    json SpontaneousTanShauna3 {
+    }
+    number ShyTomatoStormie3 {
+    }
+    string RoughAquaAustine {
+    }
+    json EncouragingBlackCarey {
+    }
+    string LovelyBlackCassandra {
+    }
+    number LinearRedNesta2 {
+    }
+    dummy.DEFAULT SubjectiveSapphireRiannon2 {
+    }
+  }
+  json FamousCoralElianora3 {
+    _hidden_value = true
+  }
+  ExuberantBlackCaritta = 738
+  SpontaneousTanShauna3 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ShyTomatoStormie3 = 124
+  RoughAquaAustine = "Whoever invented the knock-knock joke should get a no bell prize."
+  EncouragingBlackCarey = "Why did the tomato blush? Because it saw the salad dressing."
+  LovelyBlackCassandra = "To be Frank, I'd have to change my name."
+  LinearRedNesta2 = 26
+  SubjectiveSapphireRiannon2 = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  _hidden_value = true
+}

@@ -1,0 +1,26 @@
+type dummy.LtdCoralElna2 {
+  annotations {
+    boolean FashionableSapphireRenata {
+    }
+    serviceid_number DangerousAquamarineBethany {
+    }
+    serviceid QuietWhiteViviyan {
+    }
+    number PricklyWhiteViv {
+    }
+    boolean ThoughtfulBlueCaty2 {
+    }
+  }
+  string LoyalPurpleNatalie {
+    _hidden_value = true
+  }
+  string ShockedPinkMelisandra {
+    _hidden_value = true
+  }
+  FashionableSapphireRenata = true
+  DangerousAquamarineBethany = 720
+  QuietWhiteViviyan = "Why do birds fly south for the winter? Because it's too far to walk."
+  PricklyWhiteViv = 398
+  ThoughtfulBlueCaty2 = true
+  _hidden_value = true
+}

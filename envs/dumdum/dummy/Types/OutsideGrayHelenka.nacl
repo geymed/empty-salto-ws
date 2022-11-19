@@ -1,0 +1,73 @@
+type dummy.OutsideGrayHelenka {
+  annotations {
+    json NarrowCyanFanny {
+    }
+    dummy.ResidentialIndigoJesse MainBlushCinda {
+    }
+    json AverageTomatoTabbi {
+    }
+    string PremierOrangeMaria {
+    }
+    json DistantIndigoJillian2 {
+    }
+  }
+  dummy.DEFAULT FriendlyVioletTrudy2 {
+    _hidden_value = true
+  }
+  serviceid GreenChocolateDeborah {
+    _hidden_value = true
+  }
+  boolean HappyBlackCarolan {
+    _hidden_value = true
+  }
+  serviceid InterimOrangeMalva2 {
+    _hidden_value = true
+  }
+  json ProudHarlequinJana {
+    _hidden_value = true
+  }
+  serviceid LittleBlushChiquita2 {
+    _hidden_value = true
+  }
+  serviceid IntenseLavenderKattie2 {
+    _hidden_value = true
+  }
+  serviceid_number ZanyYellowZulema {
+    _hidden_value = true
+  }
+  json AdditionalCopperDotti2 {
+    _hidden_value = true
+  }
+  boolean SilentGrayHarley {
+    _hidden_value = true
+  }
+  serviceid InjuredScarletRosalind3 {
+    _hidden_value = true
+  }
+  string HappyBrownDaisey2 {
+    _hidden_value = true
+  }
+  hidden_boolean IslamicRoseOlympie2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number RecentBronzeCornelle2 {
+    _hidden_value = true
+  }
+  boolean ExclusiveMagentaLatia {
+    _hidden_value = true
+  }
+  "List<serviceid>" RepresentativePinkMerola {
+    _hidden_value = true
+  }
+  boolean UnsightlyTurquoiseTiphanie {
+    _hidden_value = true
+  }
+  NarrowCyanFanny = "What do you call two barracuda fish?  A Pairacuda!"
+  MainBlushCinda = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  AverageTomatoTabbi = "Why did the kid cross the playground? To get to the other slide."
+  PremierOrangeMaria = "Why was it called the dark ages? Because of all the knights. "
+  DistantIndigoJillian2 = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

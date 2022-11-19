@@ -1,0 +1,115 @@
+type dummy.WickedScarletRoseanne {
+  annotations {
+    json KeyCopperDorothea {
+    }
+    json IndustrialBrownDanny2 {
+    }
+    hidden_boolean ChristianCoralElva2 {
+    }
+    boolean ExtremeHarlequinJacki2 {
+    }
+    boolean ImpossibleCopperDulce {
+    }
+    boolean PrimitiveOrangeMargalo2 {
+    }
+    number QuietWhiteVivien2 {
+    }
+  }
+  hidden_boolean SpanishGreenIormina {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid UnemployedIvoryJoline {
+    _hidden_value = true
+  }
+  number BlackBlushClarita {
+    _hidden_value = true
+  }
+  hidden_boolean AlternativeEmeraldFionnula {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean BoredAquamarineBert {
+    _hidden_value = true
+  }
+  boolean BizarreTanSean2 {
+    _hidden_value = true
+  }
+  boolean CheapCopperEdith {
+    _hidden_value = true
+  }
+  number CatholicHarlequinJamima {
+    _hidden_value = true
+  }
+  string HilariousBlackCarolyne {
+    _hidden_value = true
+  }
+  number EnglishBrownCrin2 {
+    _hidden_value = true
+  }
+  serviceid_number WealthyPeachMaryellen {
+    _hidden_value = true
+  }
+  json HandsomeVioletVal {
+    _hidden_value = true
+  }
+  json AccurateIndigoJillene {
+    _hidden_value = true
+  }
+  string BrainyTealSherye {
+    _hidden_value = true
+  }
+  json CapitalistMagentaLayney {
+    _hidden_value = true
+  }
+  serviceid BriefAmethystAmalita2 {
+    _hidden_value = true
+  }
+  "List<serviceid>" TeenageScarletRobinette3 {
+    _hidden_value = true
+  }
+  number MagneticPeachMavra {
+    _hidden_value = true
+  }
+  serviceid_number DefinitePeachMarthe2 {
+    _hidden_value = true
+  }
+  boolean ConstitutionalHarlequinJayne2 {
+    _hidden_value = true
+  }
+  hidden_boolean WetGrayHedi {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number KoreanSapphireRaquela {
+    _hidden_value = true
+  }
+  boolean GiantMoccasinLotte {
+    _hidden_value = true
+  }
+  serviceid TerribleBeigeBrinna {
+    _hidden_value = true
+  }
+  boolean HostileOrangeMarieann {
+    _hidden_value = true
+  }
+  string RedundantSalmonPhilis3 {
+    _hidden_value = true
+  }
+  number DevotedRosePauletta2 {
+    _hidden_value = true
+  }
+  string YellowYellowZora2 {
+    _hidden_value = true
+  }
+  KeyCopperDorothea = "To be Frank, I'd have to change my name."
+  IndustrialBrownDanny2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  ExtremeHarlequinJacki2 = false
+  ImpossibleCopperDulce = true
+  PrimitiveOrangeMargalo2 = false
+  QuietWhiteVivien2 = 543
+  _hidden_value = true
+}

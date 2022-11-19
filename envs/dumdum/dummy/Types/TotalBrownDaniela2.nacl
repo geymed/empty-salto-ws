@@ -1,0 +1,34 @@
+type dummy.TotalBrownDaniela2 {
+  annotations {
+    json SparklingTurquoiseTildi {
+    }
+    serviceid_number GreatVioletTybi3 {
+    }
+    dummy.GrubbyAquaAubrie PromisingRedNoni {
+    }
+    serviceid_number BeneficialPlumMonica {
+    }
+    boolean QuietApricotAnnissa2 {
+    }
+    hidden_boolean CorrectCrimsonErina {
+    }
+    boolean DirtyAmberAleta3 {
+    }
+  }
+  json GrimScarletRonna2 {
+    _hidden_value = true
+  }
+  number DrunkPeachMarlee3 {
+    _hidden_value = true
+  }
+  json LateBlushChristabella {
+    _hidden_value = true
+  }
+  SparklingTurquoiseTildi = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  GreatVioletTybi3 = 73
+  PromisingRedNoni = 641
+  BeneficialPlumMonica = 321
+  QuietApricotAnnissa2 = true
+  DirtyAmberAleta3 = false
+  _hidden_value = true
+}

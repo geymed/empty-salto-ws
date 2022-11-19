@@ -1,0 +1,64 @@
+type dummy.VulnerableJadeKarna {
+  annotations {
+    boolean OptimisticSalmonPeg {
+    }
+    string ReasonableCrimsonEmalia2 {
+    }
+    serviceid_number BroadAmberAlikee {
+    }
+    boolean GreatBlueCharis {
+    }
+    serviceid OnlyBlushClaretta {
+    }
+    serviceid_number ControversialLimeKrystyna2 {
+    }
+  }
+  serviceid HappyBrownDaisi2 {
+    _hidden_value = true
+  }
+  boolean FineBrownCourtenay {
+    _hidden_value = true
+  }
+  hidden_boolean SelectiveRedNorrie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean GayOrangeMariette2 {
+    _hidden_value = true
+  }
+  number LowBlushChristine {
+    _hidden_value = true
+  }
+  string RunningPlumMirabelle {
+    _hidden_value = true
+  }
+  number ComplexCopperDrucy2 {
+    _hidden_value = true
+  }
+  boolean AmazingMoccasinLizbeth {
+    _hidden_value = true
+  }
+  string SlimRoseOlwen2 {
+    _hidden_value = true
+  }
+  json InclinedRedNovelia3 {
+    _hidden_value = true
+  }
+  string TragicRosePauly3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UglyTurquoiseTine2 {
+    _hidden_value = true
+  }
+  json SpicyAquaArliene2 {
+    _hidden_value = true
+  }
+  OptimisticSalmonPeg = true
+  ReasonableCrimsonEmalia2 = "Why was it called the dark ages? Because of all the knights. "
+  BroadAmberAlikee = 809
+  GreatBlueCharis = false
+  OnlyBlushClaretta = "Slept like a log last night  woke up in the fireplace."
+  ControversialLimeKrystyna2 = 674
+  _hidden_value = true
+}

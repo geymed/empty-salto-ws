@@ -1,0 +1,49 @@
+type dummy.JoyousBlackCarry4 {
+  boolean HardAquaAudi {
+  }
+  string InjuredScarletRosalinda3 {
+  }
+  string DueCopperDosi3 {
+  }
+  hidden_boolean RollingSilverRubie5 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  boolean AdvancedHarlequinJacinta3 {
+  }
+  dummy.AwakeRedNola VisibleIndigoJillayne3 {
+    IrrelevantPurpleNani = false
+    RealBlushClarie = true
+    RapidGrayHildagarde = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ZanyYellowZorine = 224
+    CertainBronzeClemmie = 124
+    VivaciousBlueCecilla = false
+    ConservationPlumMoira = 154
+    GrossLavenderKetty = false
+    NetGoldGladys = 575
+    AccessibleOrangeMarika = false
+    BadAquamarineBernetta = true
+    InnovativeTanSheeree = "Slept like a log last night  woke up in the fireplace."
+    WillingGoldGusti = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ParallelMoccasinLuelle = 711
+    SadYellowWilletta = "Dad Im hungry  Hi hungry Im dad"
+    EligiblePurpleNeille = 676
+  }
+  serviceid TrickyYellowYolanthe4 {
+  }
+  string TastyAquaAshly {
+  }
+  string HeavyChocolateDavine4 {
+  }
+  number StickyAquamarineBeatrix2 {
+  }
+  serviceid RetailMagentaLeontyne3 {
+  }
+  boolean RoughGreenIdell3 {
+  }
+  number ContentPeachMatilde5 {
+  }
+  number ScrawnyYellowWilly3 {
+  }
+}

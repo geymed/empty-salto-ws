@@ -1,0 +1,26 @@
+type dummy.GothicSapphireRana2 {
+  annotations {
+    dummy.DEFAULT ProgressiveOliveMadelina2 {
+    }
+    string AloneCyanFaina3 {
+    }
+    json EasyBronzeCollen {
+    }
+    hidden_boolean MysteriousAzureBonnee3 {
+    }
+    serviceid_number HardAquaAudrey {
+    }
+  }
+  hidden_boolean SafeCopperDoretta3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  ProgressiveOliveMadelina2 = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  AloneCyanFaina3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  EasyBronzeCollen = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  HardAquaAudrey = 428
+  _hidden_value = true
+}

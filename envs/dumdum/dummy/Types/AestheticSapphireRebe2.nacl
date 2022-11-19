@@ -1,0 +1,63 @@
+type dummy.AestheticSapphireRebe2 {
+  annotations {
+    dummy.DEFAULT ConceptualTanShela3 {
+    }
+    hidden_boolean ExclusiveMagentaLatisha2 {
+    }
+    hidden_boolean OptimisticSalmonPeg5 {
+    }
+    serviceid ModernAmethystAmelita {
+    }
+    string DoubleCrimsonEthelyn2 {
+    }
+    boolean InfluentialMoccasinLorette3 {
+    }
+    json GenuineGreenIsis3 {
+    }
+  }
+  serviceid_number MentalCrimsonEsme {
+    _hidden_value = true
+  }
+  json PromisingRedNoni2 {
+    _hidden_value = true
+  }
+  serviceid_number LengthySapphireRani {
+    _hidden_value = true
+  }
+  hidden_boolean OkayOliveMaggy {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean EnergeticBlackCarilyn2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string DecentMoccasinLonnie2 {
+    _hidden_value = true
+  }
+  number LiberalCyanFarra {
+    _hidden_value = true
+  }
+  serviceid GenuineGreenIsidora4 {
+    _hidden_value = true
+  }
+  json ElectricGreenIngeborg {
+    _hidden_value = true
+  }
+  serviceid_number ValidLavenderKerstin5 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EncouragingBlackCaria {
+    _hidden_value = true
+  }
+  ConceptualTanShela3 = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  ModernAmethystAmelita = "I'll tell you what often gets over looked... garden fences."
+  DoubleCrimsonEthelyn2 = "What do you call two barracuda fish?  A Pairacuda!"
+  InfluentialMoccasinLorette3 = true
+  GenuineGreenIsis3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

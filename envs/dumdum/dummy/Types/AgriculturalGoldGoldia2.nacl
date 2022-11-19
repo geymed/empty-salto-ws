@@ -1,0 +1,36 @@
+type dummy.AgriculturalGoldGoldia2 {
+  annotations {
+    serviceid_number RightBlushCherish2 {
+    }
+    hidden_boolean SlimRoseOlva {
+    }
+    serviceid_number ApparentCyanFawne {
+    }
+    serviceid KeenGrayHanna {
+    }
+    json CorrespondingPlumMinny3 {
+    }
+    boolean ConstitutionalHarlequinJayme {
+    }
+  }
+  serviceid_number SlightGoldGwennie {
+    _hidden_value = true
+  }
+  hidden_boolean CapitalistMagentaLayne3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ChosenSilverSarette3 {
+    _hidden_value = true
+  }
+  serviceid ToughYellowYovonnda2 {
+    _hidden_value = true
+  }
+  RightBlushCherish2 = 504
+  ApparentCyanFawne = 171
+  KeenGrayHanna = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  CorrespondingPlumMinny3 = "Why didnt the skeleton cross the road? Because he had no guts."
+  ConstitutionalHarlequinJayme = true
+  _hidden_value = true
+}

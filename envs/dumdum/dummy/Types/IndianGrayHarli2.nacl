@@ -1,0 +1,71 @@
+type dummy.IndianGrayHarli2 {
+  annotations {
+    dummy.SpareMaroonLilli SpectacularMaroonLibbi {
+    }
+    number EnthusiasticBlackCarin {
+    }
+    boolean AnxiousAquamarineBeret2 {
+    }
+    dummy.DEFAULT AverageCrimsonElysia {
+    }
+    hidden_boolean BeautifulTomatoTabitha {
+    }
+    boolean StrongBronzeCollie2 {
+    }
+  }
+  serviceid_number AdvisoryOrangeMaridel2 {
+    _hidden_value = true
+  }
+  string AcademicEmeraldGabbey {
+    _hidden_value = true
+  }
+  hidden_boolean MysteriousPurpleNelie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean HorribleVioletValenka {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT FederalGrayHally {
+    _hidden_value = true
+  }
+  json NormalBrownDamaris2 {
+    _hidden_value = true
+  }
+  boolean WarmCopperDulsea {
+    _hidden_value = true
+  }
+  boolean ReligiousCoralEleen {
+    _hidden_value = true
+  }
+  boolean LtdCoralElnore2 {
+    _hidden_value = true
+  }
+  hidden_boolean ThirstyAquaAsia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string BraveBeigeCairistiona2 {
+    _hidden_value = true
+  }
+  hidden_boolean QuaintWhiteVivianna2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ModernBrownDacia {
+    _hidden_value = true
+  }
+  SpectacularMaroonLibbi = "Dad Im hungry  Hi hungry Im dad"
+  EnthusiasticBlackCarin = 797
+  AnxiousAquamarineBeret2 = true
+  AverageCrimsonElysia = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  StrongBronzeCollie2 = true
+  _hidden_value = true
+}

@@ -1,0 +1,12 @@
+type dummy.PotentialCoralElbertine4 {
+  hidden_boolean FragileTealSondra3 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  hidden_boolean GivenHarlequinJaney {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+}

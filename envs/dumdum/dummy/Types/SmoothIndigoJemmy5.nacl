@@ -1,0 +1,61 @@
+type dummy.SmoothIndigoJemmy5 {
+  annotations {
+    boolean ConvincingSalmonPeggi2 {
+    }
+    serviceid PlainIndigoJessy {
+    }
+    string BrightTomatoTamarah2 {
+    }
+    hidden_boolean IncreasingCyanEvonne {
+    }
+    serviceid_number ResidentSalmonRaeann {
+    }
+    json EagerBeigeCandra {
+    }
+  }
+  boolean BroadCoralElise {
+    _hidden_value = true
+  }
+  serviceid_number EntireEmeraldFrancoise {
+    _hidden_value = true
+  }
+  serviceid_number FierceOliveMaisie {
+    _hidden_value = true
+  }
+  boolean OuterJadeKarrie3 {
+    _hidden_value = true
+  }
+  number OptimisticRosePearline {
+    _hidden_value = true
+  }
+  string EventualTanSharon3 {
+    _hidden_value = true
+  }
+  string ClassicalHarlequinJacklin {
+    _hidden_value = true
+  }
+  json SuperTomatoSusann {
+    _hidden_value = true
+  }
+  dummy.MightyTanShandra EnergeticBlackCarie {
+    InterestingChocolateDelphinia = false
+    SuccessiveMoccasinLola = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    LoyalPurpleNatala = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ScaredSapphireRahel = "Did you know that protons have mass? I didn't even know they were catholic."
+    FiscalRedNiki = 385
+    DependentGrayHeath = "Why didnt the skeleton cross the road? Because he had no guts."
+    GoodBlueCelisse2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    NativeJadeKate = 800
+    PassingSalmonPippy = true
+    HelplessAzureBlanche = true
+    BurningRedNikkie = "How come the stadium got hot after the game? Because all of the fans left."
+    CatholicHarlequinJamie = false
+    _hidden_value = true
+  }
+  ConvincingSalmonPeggi2 = false
+  PlainIndigoJessy = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  BrightTomatoTamarah2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  ResidentSalmonRaeann = 679
+  EagerBeigeCandra = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

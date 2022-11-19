@@ -1,0 +1,61 @@
+type dummy.StupidGreenIvory {
+  annotations {
+    serviceid_number NastyWhiteVerna {
+    }
+    json EnthusiasticBlackCarin2 {
+    }
+    boolean StiffPeachMaryanne2 {
+    }
+    boolean UrbanCyanFaith {
+    }
+  }
+  serviceid DistinctTurquoiseTatiana {
+    _hidden_value = true
+  }
+  number WastefulYellowZenia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ScaryBeigeBria {
+    _hidden_value = true
+  }
+  boolean SubstantialCoralElsinore2 {
+    _hidden_value = true
+  }
+  serviceid_number SwiftAmethystAnastasie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WoodenGreenHoratia {
+    _hidden_value = true
+  }
+  serviceid StuckRoseOralee {
+    _hidden_value = true
+  }
+  boolean ShyScarletRosetta {
+    _hidden_value = true
+  }
+  hidden_boolean RegularCopperDorry {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number AccusedSilverSallyann2 {
+    _hidden_value = true
+  }
+  number ArtificialMagentaLenette {
+    _hidden_value = true
+  }
+  number CostlySapphireRegan {
+    _hidden_value = true
+  }
+  number EnglishBrownCourtney2 {
+    _hidden_value = true
+  }
+  serviceid_number OddFuchsiaGenevra {
+    _hidden_value = true
+  }
+  NastyWhiteVerna = 171
+  EnthusiasticBlackCarin2 = "Why did the tomato blush? Because it saw the salad dressing."
+  StiffPeachMaryanne2 = true
+  UrbanCyanFaith = true
+  _hidden_value = true
+}

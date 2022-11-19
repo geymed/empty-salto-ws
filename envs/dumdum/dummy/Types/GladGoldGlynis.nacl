@@ -1,0 +1,36 @@
+type dummy.GladGoldGlynis {
+  annotations {
+    hidden_boolean GrubbyAquaAudi2 {
+    }
+    boolean ModernAmethystAmelie2 {
+    }
+    hidden_boolean ShiveringAquaBabette2 {
+    }
+    serviceid_number MushyWhiteVerile2 {
+    }
+    number AlertTomatoTabatha4 {
+    }
+    boolean SatisfiedHarlequinJazmin {
+    }
+  }
+  boolean ThoughtfulBlueCaty4 {
+    _hidden_value = true
+  }
+  json HumanBronzeConstantina {
+    _hidden_value = true
+  }
+  string PalestinianTanShana {
+    _hidden_value = true
+  }
+  string ContinuedLimeLane {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SoreBeigeBrigida2 {
+    _hidden_value = true
+  }
+  ModernAmethystAmelie2 = false
+  MushyWhiteVerile2 = 33
+  AlertTomatoTabatha4 = 134
+  SatisfiedHarlequinJazmin = false
+  _hidden_value = true
+}

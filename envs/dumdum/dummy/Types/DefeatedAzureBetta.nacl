@@ -1,0 +1,36 @@
+type dummy.DefeatedAzureBetta {
+  annotations {
+    string SignificantBrownDanita {
+    }
+    json StraightHarlequinJami {
+    }
+    boolean SelectSalmonPhilipa {
+    }
+    number DeadBrownDara {
+    }
+  }
+  hidden_boolean AggressiveMaroonLilith2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<boolean>" PleasantIvoryJorry {
+    _hidden_value = true
+  }
+  hidden_boolean LittleBlushChiquita {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number ImaginativeTanSelinda3 {
+    _hidden_value = true
+  }
+  string HomelyTurquoiseTessa2 {
+    _hidden_value = true
+  }
+  SignificantBrownDanita = "Why did the kid cross the playground? To get to the other slide."
+  StraightHarlequinJami = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SelectSalmonPhilipa = false
+  DeadBrownDara = 808
+  _hidden_value = true
+}

@@ -1,0 +1,21 @@
+type dummy.BoredAquamarineBerry2 {
+  annotations {
+    boolean QuaintWhiteVivianne2 {
+    }
+    string SimpleBronzeCorly3 {
+    }
+    hidden_boolean ComprehensiveGreenHyacinthe2 {
+    }
+    serviceid ItchyVioletValentina5 {
+    }
+    hidden_boolean FineBlackCarlyn2 {
+    }
+  }
+  serviceid CulturalCoralElicia5 {
+    _hidden_value = true
+  }
+  QuaintWhiteVivianne2 = false
+  SimpleBronzeCorly3 = "What do you call two barracuda fish?  A Pairacuda!"
+  ItchyVioletValentina5 = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

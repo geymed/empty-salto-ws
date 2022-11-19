@@ -1,0 +1,61 @@
+type dummy.OutsideGrayHelene3 {
+  annotations {
+    string SuspiciousPurpleMyrle3 {
+    }
+    dummy.AfraidCrimsonEmogene OrangeWhiteViola {
+    }
+    hidden_boolean ImportantTealSophia3 {
+    }
+    string AttractiveCyanFey {
+    }
+    serviceid BizarreTanSeka3 {
+    }
+    string EmptyAmethystAndrea4 {
+    }
+    json CreativeJadeKania3 {
+    }
+  }
+  serviceid ExcitedBlackCarissa {
+    _hidden_value = true
+  }
+  number UninterestedTomatoSusie3 {
+    _hidden_value = true
+  }
+  serviceid_number RetiredSilverSaraann2 {
+    _hidden_value = true
+  }
+  "List<string>" LocalBlueCharmane2 {
+    _hidden_value = true
+  }
+  serviceid_number OverseasIvoryJuditha3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PleasantBlackCatharina3 {
+    _hidden_value = true
+  }
+  serviceid_number BrokenIndigoJoceline2 {
+    _hidden_value = true
+  }
+  "List<number>" OptimisticSalmonPeg4 {
+    _hidden_value = true
+  }
+  string OptimisticSalmonPegeen2 {
+    _hidden_value = true
+  }
+  string MagneticPeachMaurizia {
+    _hidden_value = true
+  }
+  serviceid_number DryAmberAlexandra2 {
+    _hidden_value = true
+  }
+  serviceid_number GivenHarlequinJaneva {
+    _hidden_value = true
+  }
+  SuspiciousPurpleMyrle3 = "Why did the kid cross the playground? To get to the other slide."
+  OrangeWhiteViola = "Whoever invented the knock-knock joke should get a no bell prize."
+  AttractiveCyanFey = "Why is Peter Pan always flying? Because he Neverlands."
+  BizarreTanSeka3 = "Why didnt the skeleton cross the road? Because he had no guts."
+  EmptyAmethystAndrea4 = "Why do birds fly south for the winter? Because it's too far to walk."
+  CreativeJadeKania3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

@@ -1,0 +1,47 @@
+type dummy.MistyTurquoiseTheadora {
+  annotations {
+    serviceid_number MaximumGreenIlyssa2 {
+    }
+    serviceid SaltyApricotArleen {
+    }
+    hidden_boolean ProbableSalmonPhyllida2 {
+    }
+    json AverageCoralElysha {
+    }
+    hidden_boolean AssociatedMaroonLindsy2 {
+    }
+  }
+  dummy.DEFAULT OldAmethystAmii {
+    _hidden_value = true
+  }
+  json MaturePeachMattie {
+    _hidden_value = true
+  }
+  serviceid InterimOrangeMalvina2 {
+    _hidden_value = true
+  }
+  json ZanyBlueCelie2 {
+    _hidden_value = true
+  }
+  boolean WildCyanEyde2 {
+    _hidden_value = true
+  }
+  serviceid_number PromisingRedNonie4 {
+    _hidden_value = true
+  }
+  hidden_boolean PeacefulOrangeMargot2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean BlushingTomatoTalya {
+    _hidden_value = true
+  }
+  json PracticalCopperDorisa2 {
+    _hidden_value = true
+  }
+  MaximumGreenIlyssa2 = 685
+  SaltyApricotArleen = "What do you call two barracuda fish?  A Pairacuda!"
+  AverageCoralElysha = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

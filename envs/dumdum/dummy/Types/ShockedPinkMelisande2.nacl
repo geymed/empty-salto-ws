@@ -1,0 +1,50 @@
+type dummy.ShockedPinkMelisande2 {
+  annotations {
+    hidden_boolean RelevantCoffeeDora6 {
+    }
+    hidden_boolean AcceptedTanSephira {
+    }
+    serviceid_number SlipperyAquamarineBarbaraanne {
+    }
+    json StickyAquaArlyn5 {
+    }
+    serviceid_number CalmBeigeCalley {
+    }
+    serviceid DefinitePeachMartelle3 {
+    }
+    hidden_boolean FineBlackCarly2 {
+    }
+  }
+  json WastefulYellowZita {
+    _hidden_value = true
+  }
+  boolean ExcitingGreenIssy3 {
+    _hidden_value = true
+  }
+  serviceid_number LightAmethystAnestassia3 {
+    _hidden_value = true
+  }
+  serviceid IntegratedOliveMaegan4 {
+    _hidden_value = true
+  }
+  json MammothAmaranthAdoree2 {
+    _hidden_value = true
+  }
+  serviceid_number ValuableGoldGwyneth3 {
+    _hidden_value = true
+  }
+  string ChronicOliveMalissia5 {
+    _hidden_value = true
+  }
+  string BadBlushCicily2 {
+    _hidden_value = true
+  }
+  serviceid NuttyWhiteVikki3 {
+    _hidden_value = true
+  }
+  SlipperyAquamarineBarbaraanne = 678
+  StickyAquaArlyn5 = "Dad Im hungry  Hi hungry Im dad"
+  CalmBeigeCalley = 55
+  DefinitePeachMartelle3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

@@ -1,0 +1,61 @@
+type dummy.UnconsciousSapphireRaye2 {
+  annotations {
+    serviceid CarefulTealShirline {
+    }
+    json DemocraticCrimsonEnid {
+    }
+    number DreadfulPinkMerrile {
+    }
+    hidden_boolean DeliberateRedNoelle3 {
+    }
+    hidden_boolean CheerfulSapphireRhody2 {
+    }
+  }
+  json CivicTanShelley2 {
+    _hidden_value = true
+  }
+  hidden_boolean FiscalRedNiki2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid SadYellowWillamina2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CivicTanShelley3 {
+    _hidden_value = true
+  }
+  json GratefulIvoryJorey2 {
+    _hidden_value = true
+  }
+  number EssentialCoffeeDion2 {
+    _hidden_value = true
+  }
+  hidden_boolean TenseBeigeBrigitta {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean InstitutionalMaroonLeshia {
+    _hidden_value = true
+  }
+  "List<boolean>" SecretGrayHilda {
+    _hidden_value = true
+  }
+  number MaturePeachMattie2 {
+    _hidden_value = true
+  }
+  serviceid_number ArabLimeKiri {
+    _hidden_value = true
+  }
+  serviceid_number StiffPeachMaryanna {
+    _hidden_value = true
+  }
+  boolean StructuralIvoryJosey {
+    _hidden_value = true
+  }
+  CarefulTealShirline = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  DemocraticCrimsonEnid = "Why did the kid cross the playground? To get to the other slide."
+  DreadfulPinkMerrile = 603
+  _hidden_value = true
+}

@@ -1,0 +1,99 @@
+type dummy.ManyAmethystAnge {
+  annotations {
+    hidden_boolean HotAquaAudrey {
+    }
+    boolean WidespreadHarlequinJacquie {
+    }
+    boolean UnfairMaroonLilas {
+    }
+    serviceid WhisperingApricotArdelle {
+    }
+    hidden_boolean DrabTurquoiseTaryn {
+    }
+  }
+  boolean ValuableGoldGwyneth {
+    _hidden_value = true
+  }
+  number MaximumGreenIlyssa {
+    _hidden_value = true
+  }
+  serviceid MassGreenIlka {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" FancyTurquoiseTeena {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid GrossLavenderKetty2 {
+    _hidden_value = true
+  }
+  boolean DifferentBlueCharlene {
+    _hidden_value = true
+  }
+  string PotentialCoralElayne {
+    _hidden_value = true
+  }
+  json SplendidOrangeMandie {
+    _hidden_value = true
+  }
+  boolean AnnualCoffeeDonny {
+    _hidden_value = true
+  }
+  json NervousAzureBrana {
+    _hidden_value = true
+  }
+  number AnxiousAquamarineBerenice {
+    _hidden_value = true
+  }
+  number OverseasIvoryJuditha {
+    _hidden_value = true
+  }
+  "List<string>" StillIndigoJo {
+    _hidden_value = true
+  }
+  number SystematicOrangeMarcella {
+    _hidden_value = true
+  }
+  boolean InherentRedNoami2 {
+    _hidden_value = true
+  }
+  hidden_boolean MarvellousMoccasinLorraine {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid PromisingRedNonie2 {
+    _hidden_value = true
+  }
+  string RelativeGoldGuglielma {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EventualTanSharon {
+    _hidden_value = true
+  }
+  number ProductivePlumMollie {
+    _hidden_value = true
+  }
+  boolean QuietCoralEkaterina {
+    _hidden_value = true
+  }
+  json NovelScarletRosie {
+    _hidden_value = true
+  }
+  number PainfulMaroonLilllie {
+    _hidden_value = true
+  }
+  serviceid_number TameTomatoSusanne {
+    _hidden_value = true
+  }
+  hidden_boolean NewWhiteVeronike {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  WidespreadHarlequinJacquie = true
+  UnfairMaroonLilas = false
+  WhisperingApricotArdelle = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

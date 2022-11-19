@@ -1,0 +1,57 @@
+type dummy.ShortYellowWilone {
+  annotations {
+    boolean MarvellousMoccasinLorne2 {
+    }
+    boolean MathematicalRoseOtha {
+    }
+    hidden_boolean CleanCyanFernanda {
+    }
+    hidden_boolean MinimumIndigoJerrie {
+    }
+    json NursingSalmonPhaedra {
+    }
+  }
+  hidden_boolean ColorfulTomatoTandy {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number LinguisticJadeKarilynn2 {
+    _hidden_value = true
+  }
+  string StillIndigoJinny {
+    _hidden_value = true
+  }
+  hidden_boolean DreadfulPinkMerrili {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ItalianGoldGrayce {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number DizzyVioletTricia {
+    _hidden_value = true
+  }
+  serviceid_number DryAmberAlexa {
+    _hidden_value = true
+  }
+  json ExclusiveMagentaLatashia {
+    _hidden_value = true
+  }
+  boolean UpsetBeigeBritte {
+    _hidden_value = true
+  }
+  json OutrageousAzureBrandise {
+    _hidden_value = true
+  }
+  number CriminalFuchsiaGeorgetta {
+    _hidden_value = true
+  }
+  MarvellousMoccasinLorne2 = false
+  MathematicalRoseOtha = true
+  NursingSalmonPhaedra = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

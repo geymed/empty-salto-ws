@@ -1,0 +1,26 @@
+type dummy.LooseAquaAugustina3 {
+  annotations {
+    boolean BrokenIndigoJoceline3 {
+    }
+    number DemocraticCrimsonEnid2 {
+    }
+    dummy.CommonBronzeConstantine ManyWhiteVeradis3 {
+    }
+    boolean FormalCoralElka2 {
+    }
+    json DualSapphireRhiamon4 {
+    }
+    boolean UnfairMaroonLilas5 {
+    }
+  }
+  serviceid DivineRoseOpal2 {
+    _hidden_value = true
+  }
+  BrokenIndigoJoceline3 = false
+  DemocraticCrimsonEnid2 = 292
+  ManyWhiteVeradis3 = 900
+  FormalCoralElka2 = true
+  DualSapphireRhiamon4 = "A steak pun is a rare medium well done."
+  UnfairMaroonLilas5 = true
+  _hidden_value = true
+}

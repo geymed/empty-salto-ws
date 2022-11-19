@@ -1,0 +1,19 @@
+type dummy.ClumsyVioletTracey {
+  annotations {
+    hidden_boolean ConfusedAquamarineBerty {
+    }
+    boolean FamousCoralElfrieda3 {
+    }
+    dummy.AfraidCrimsonEmogene AnxiousHarlequinJanna3 {
+    }
+    boolean CloudyTomatoTamqrah2 {
+    }
+  }
+  serviceid_number WanderingTomatoSuzanne5 {
+    _hidden_value = true
+  }
+  FamousCoralElfrieda3 = true
+  AnxiousHarlequinJanna3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  CloudyTomatoTamqrah2 = false
+  _hidden_value = true
+}

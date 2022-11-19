@@ -1,0 +1,92 @@
+type dummy.RulingLimeKippy {
+  annotations {
+    dummy.DEFAULT GloriousBlackCarmina {
+    }
+    dummy.ImmediateCrimsonEmelita AtomicScarletRorie {
+    }
+    dummy.ScreechingApricotAnthea PurpleWhiteVivian {
+    }
+    string OtherBlueCelinda {
+    }
+    serviceid ShyTomatoSue {
+    }
+  }
+  string ScaryBeigeBrenna {
+    _hidden_value = true
+  }
+  serviceid ProbableSalmonPhylys {
+    _hidden_value = true
+  }
+  number ProfitablePurpleNanon {
+    _hidden_value = true
+  }
+  boolean BusyTealShirleen {
+    _hidden_value = true
+  }
+  string FriendlyGoldGus {
+    _hidden_value = true
+  }
+  serviceid_number PhysicalCoffeeDenni {
+    _hidden_value = true
+  }
+  dummy.EfficientGoldGretna StickyAquaArly {
+    OppositeHarlequinJanel = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    StrangeCoralEdna = "A steak pun is a rare medium well done."
+    ExcitingGreenIvett = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    AdequateGrayHildy = true
+    RattyWhiteWaneta = 856
+    FastEmeraldFleur = 423
+    MiddleCopperDusty = 257
+    ParliamentaryFuchsiaGiacinta = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ExcitingGreenIssie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    MaturePeachMaud = "Why did the kid cross the playground? To get to the other slide."
+    StraightAmethystAlysia = true
+    _hidden_value = true
+  }
+  hidden_boolean FaintAmethystAnita {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number UnsightlyTurquoiseTiphany2 {
+    _hidden_value = true
+  }
+  serviceid FairBlackCarlene2 {
+    _hidden_value = true
+  }
+  dummy.FamousCoralElianora MagicOrangeManya {
+    ShinyTurquoiseTiff = 664
+    RelativeGoldGuillema = "Why did the tomato blush? Because it saw the salad dressing."
+    OkSapphireRhianna = 142
+    StupidTomatoSusan = "What do you call two barracuda fish?  A Pairacuda!"
+    EarlyAmethystAmanda = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    UncertainMagentaLela = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    UpsetOliveLyssa = "Why didnt the skeleton cross the road? Because he had no guts."
+    WorryingSilverRozamond2 = "How come the stadium got hot after the game? Because all of the fans left."
+    FatIvoryJoelle = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    PlasticAquaAuria = "What creature is smarter than a talking parrot? A spelling bee."
+    _hidden_value = true
+  }
+  serviceid DesperateIvoryJunia2 {
+    _hidden_value = true
+  }
+  number ConcreteOliveLynett {
+    _hidden_value = true
+  }
+  boolean ClumsyVioletTraci {
+    _hidden_value = true
+  }
+  string DelightfulBeigeCandace2 {
+    _hidden_value = true
+  }
+  GloriousBlackCarmina = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  AtomicScarletRorie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  PurpleWhiteVivian = "Why do birds fly south for the winter? Because it's too far to walk."
+  OtherBlueCelinda = "Whoever invented the knock-knock joke should get a no bell prize."
+  ShyTomatoSue = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

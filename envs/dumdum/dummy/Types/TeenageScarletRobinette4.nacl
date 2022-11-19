@@ -1,0 +1,72 @@
+type dummy.TeenageScarletRobinette4 {
+  annotations {
+    hidden_boolean RubberSilverSaree {
+    }
+    hidden_boolean IntelligentMaroonLinnell3 {
+    }
+    serviceid ColourfulScarletRosalia {
+    }
+    string DeepAmberAllegra3 {
+    }
+  }
+  boolean StormyTurquoiseTimmi {
+    _hidden_value = true
+  }
+  serviceid FierceOliveMaisey3 {
+    _hidden_value = true
+  }
+  json DominantIndigoJen4 {
+    _hidden_value = true
+  }
+  string VulnerableJadeKarol2 {
+    _hidden_value = true
+  }
+  serviceid_number DisappointedMagentaLaurice3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ExtraordinaryIndigoJessika2 {
+    _hidden_value = true
+  }
+  dummy.DeliciousApricotArdisj ShortBronzeColetta2 {
+    ResidentSalmonRachelle = 723
+    ShrillApricotAntonella = "A steak pun is a rare medium well done."
+    SpecifiedSalmonPortia = "Why did the tomato blush? Because it saw the salad dressing."
+    TerribleBeigeBrinn = 264
+    WeeklyLavenderKessia = 146
+    FoolishSapphireReine = 318
+    FutureCoffeeDolly = "Why did the tomato blush? Because it saw the salad dressing."
+    WittyBlueCeil = "What do you call two barracuda fish?  A Pairacuda!"
+    WellFuchsiaGisela = true
+    MadHarlequinJanessa = 655
+    SweetAquaAshlan = "A steak pun is a rare medium well done."
+    OrganisationalTanSharai = "Why do birds fly south for the winter? Because it's too far to walk."
+    ExcitedBlackCariotta = false
+    _hidden_value = true
+  }
+  serviceid OrdinaryWhiteVioletta2 {
+    _hidden_value = true
+  }
+  number TiredGoldGrete {
+    _hidden_value = true
+  }
+  boolean StatisticalMagentaLanie4 {
+    _hidden_value = true
+  }
+  hidden_boolean CulturalCoralElicia2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ModernAmethystAmelina {
+    _hidden_value = true
+  }
+  string NiceBrownCybil3 {
+    _hidden_value = true
+  }
+  json TerribleEmeraldFredra2 {
+    _hidden_value = true
+  }
+  ColourfulScarletRosalia = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  DeepAmberAllegra3 = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

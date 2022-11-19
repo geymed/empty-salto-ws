@@ -1,0 +1,21 @@
+type dummy.PopularChocolateDavina {
+  annotations {
+    serviceid_number StupidGreenIzabel {
+    }
+    hidden_boolean ArbitrarySilverRowena {
+    }
+    dummy.DEFAULT TraditionalChocolateDeidre {
+    }
+    string UnableCoralElora {
+    }
+  }
+  boolean BoldPlumMinette2 {
+    _hidden_value = true
+  }
+  StupidGreenIzabel = 726
+  TraditionalChocolateDeidre = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  UnableCoralElora = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

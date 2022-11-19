@@ -1,0 +1,69 @@
+type dummy.RealisticMoccasinLona {
+  annotations {
+    serviceid_number DelightfulBeigeCandace5 {
+    }
+    serviceid_number LoudApricotAnnadiane4 {
+    }
+    json DarkChocolateDeb {
+    }
+    hidden_boolean InstitutionalMaroonLesli {
+    }
+    string ValuableGoldGwyn5 {
+    }
+    boolean DoubtfulRosePandora3 {
+    }
+  }
+  number PrincipalGoldGreer {
+    _hidden_value = true
+  }
+  number FaintMaroonLiuka2 {
+    _hidden_value = true
+  }
+  json DeliciousScarletRochette {
+    _hidden_value = true
+  }
+  json SillyBlueCathrin3 {
+    _hidden_value = true
+  }
+  serviceid_number ComfortableGoldGrier {
+    _hidden_value = true
+  }
+  string EconomicBlushClare4 {
+    _hidden_value = true
+  }
+  boolean EagerPlumMillie {
+    _hidden_value = true
+  }
+  "List<number>" HardAquaAudie3 {
+    _hidden_value = true
+  }
+  serviceid_number SelectSalmonPhilippe {
+    _hidden_value = true
+  }
+  serviceid_number AddedPinkMelinde5 {
+    _hidden_value = true
+  }
+  hidden_boolean StrangeYellowWinnie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number LowBlushChristine4 {
+    _hidden_value = true
+  }
+  boolean SwissPlumMiguela4 {
+    _hidden_value = true
+  }
+  serviceid ColdChocolateDebee2 {
+    _hidden_value = true
+  }
+  json FortunateRoseOliy4 {
+    _hidden_value = true
+  }
+  DelightfulBeigeCandace5 = 818
+  LoudApricotAnnadiane4 = 963
+  DarkChocolateDeb = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ValuableGoldGwyn5 = "Why did the tomato blush? Because it saw the salad dressing."
+  DoubtfulRosePandora3 = false
+  _hidden_value = true
+}

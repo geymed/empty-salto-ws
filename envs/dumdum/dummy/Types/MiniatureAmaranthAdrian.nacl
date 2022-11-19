@@ -1,0 +1,23 @@
+type dummy.MiniatureAmaranthAdrian {
+  annotations {
+    number FairBlackCarlene {
+    }
+    dummy.EmpiricalPinkMeara LengthySapphireRania {
+    }
+    string RacialPlumMichelle {
+    }
+    number CreativeJadeKara {
+    }
+  }
+  string PrettyIndigoJennifer {
+    _hidden_value = true
+  }
+  boolean AccessibleOrangeMarilee {
+    _hidden_value = true
+  }
+  FairBlackCarlene = 658
+  LengthySapphireRania = true
+  RacialPlumMichelle = "A steak pun is a rare medium well done."
+  CreativeJadeKara = 233
+  _hidden_value = true
+}

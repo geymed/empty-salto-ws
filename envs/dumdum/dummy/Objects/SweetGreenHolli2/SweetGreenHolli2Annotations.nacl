@@ -1,0 +1,50 @@
+type dummy.SweetGreenHolli2 {
+  annotations {
+    string BrownFuchsiaGena2 {
+    }
+    dummy.ChosenSilverSarette PreviousBrownDanica3 {
+    }
+    string ManagerialRedNerta6 {
+    }
+    dummy.MeaningfulTanShelly HappyBlackCarolan4 {
+    }
+    boolean FuzzyAquaAtlanta3 {
+    }
+    serviceid RealTomatoStephine3 {
+    }
+    json MonetaryIvoryJohanna2 {
+    }
+    serviceid RottenApricotAriella3 {
+    }
+    hidden_boolean MusicalIndigoJoannes6 {
+    }
+    number RichCoffeeDorelia5 {
+    }
+    serviceid_number ImmenseAmaranthAdelaide2 {
+    }
+    dummy.NativeJadeKatalin FascinatingOrangeMargaretha4 {
+    }
+    string UselessRedNikolia3 {
+    }
+    number DramaticGoldHailee3 {
+    }
+    number LightCopperDulciana3 {
+    }
+    dummy.ProtestantScarletRobinet6 ParallelMoccasinLuella3 {
+    }
+    json DisgustedAzureBeulah5 {
+    }
+  }
+  BrownFuchsiaGena2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  ManagerialRedNerta6 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  FuzzyAquaAtlanta3 = false
+  RealTomatoStephine3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  MonetaryIvoryJohanna2 = "I'll tell you what often gets over looked... garden fences."
+  RottenApricotAriella3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  RichCoffeeDorelia5 = 679
+  ImmenseAmaranthAdelaide2 = 599
+  UselessRedNikolia3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  DramaticGoldHailee3 = 486
+  LightCopperDulciana3 = 759
+  DisgustedAzureBeulah5 = "What do you call two barracuda fish?  A Pairacuda!"
+}

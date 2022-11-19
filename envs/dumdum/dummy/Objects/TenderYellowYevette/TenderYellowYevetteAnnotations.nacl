@@ -1,0 +1,53 @@
+type dummy.TenderYellowYevette {
+  annotations {
+    serviceid_number ArchitecturalRosePatrica5 {
+    }
+    string TerritorialSalmonPris {
+    }
+    serviceid_number LiberalCyanFarah2 {
+    }
+    serviceid FunnyBlackCarmelina {
+    }
+    dummy.JudicialJadeKarita2 SuccessiveMoccasinLoise6 {
+    }
+    boolean DeepChocolateDelores3 {
+    }
+    string SensitiveGrayHenka4 {
+    }
+    dummy.ClumsyVioletTracie DisabledHarlequinJanifer2 {
+    }
+    serviceid VaryingPurpleNerissa {
+    }
+    boolean PrintedRedNeysa2 {
+    }
+    serviceid WrongTomatoSybil {
+    }
+    serviceid_number DirectChocolateDdene {
+    }
+    number SpecificChocolateDarcee3 {
+    }
+    serviceid GleamingTurquoiseTeressa {
+    }
+    hidden_boolean ImportantBlueChelsae2 {
+    }
+    serviceid RegularCopperDorthea3 {
+    }
+  }
+  ArchitecturalRosePatrica5 = 896
+  TerritorialSalmonPris = "Dad Im hungry  Hi hungry Im dad"
+  LiberalCyanFarah2 = 316
+  FunnyBlackCarmelina = "My first time using an elevator was an uplifting experience. The second time let me down."
+  DeepChocolateDelores3 = true
+  SensitiveGrayHenka4 = "Why didnt the skeleton cross the road? Because he had no guts."
+  VaryingPurpleNerissa = "Im only familiar with 25 letters in the English language. I dont know why."
+  PrintedRedNeysa2 = false
+  WrongTomatoSybil = '''
+Did you know that protons have mass? I didn't even know they were catholic.
+My first time using an elevator was an uplifting experience. The second time let me down.
+What do you do on a remote island? Try and find the TV island it belongs to.
+'''
+  DirectChocolateDdene = 23
+  SpecificChocolateDarcee3 = 805
+  GleamingTurquoiseTeressa = "Dad Im hungry  Hi hungry Im dad"
+  RegularCopperDorthea3 = "To be Frank, I'd have to change my name."
+}

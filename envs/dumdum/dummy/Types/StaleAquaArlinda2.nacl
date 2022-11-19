@@ -1,0 +1,56 @@
+type dummy.StaleAquaArlinda2 {
+  annotations {
+    dummy.PassingSalmonPippa NewWhiteVeronika {
+    }
+    serviceid_number IncCrimsonErma3 {
+    }
+    number FriendlyVioletTrudi {
+    }
+    dummy.DEFAULT ActiveCopperDredi2 {
+    }
+    number EthicalScarletRoberta2 {
+    }
+  }
+  "List<dummy.DEFAULT>" GrievingAzureBlanca2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WoodenAquamarineBellanca2 {
+    _hidden_value = true
+  }
+  hidden_boolean FlatAmberAllianora2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string CoherentScarletRoseline {
+    _hidden_value = true
+  }
+  boolean TenseBeigeBrigida {
+    _hidden_value = true
+  }
+  number AssistantOliveLynnelle2 {
+    _hidden_value = true
+  }
+  json FixedGreenHilliary2 {
+    _hidden_value = true
+  }
+  boolean NearFuchsiaGeri {
+    _hidden_value = true
+  }
+  hidden_boolean ExtraCoffeeDiane2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number SpicyAquaArlina2 {
+    _hidden_value = true
+  }
+  NewWhiteVeronika = 768
+  IncCrimsonErma3 = 627
+  FriendlyVioletTrudi = 651
+  ActiveCopperDredi2 = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  EthicalScarletRoberta2 = 413
+  _hidden_value = true
+}

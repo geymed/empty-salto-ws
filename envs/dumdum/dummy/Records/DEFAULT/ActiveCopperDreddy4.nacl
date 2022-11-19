@@ -1,0 +1,4 @@
+dummy.DEFAULT ActiveCopperDreddy4 {
+  legit = "Why did the kid cross the playground? To get to the other slide."
+  _parent = dummy.MassiveFuchsiaGerrie
+}

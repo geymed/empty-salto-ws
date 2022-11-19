@@ -1,0 +1,19 @@
+type dummy.SwissPlumMiguela {
+  annotations {
+    serviceid RidiculousMoccasinLiz {
+    }
+    string StillIndigoJo2 {
+    }
+    hidden_boolean FarBlushChristie {
+    }
+    number AggressiveMaroonLilla {
+    }
+  }
+  serviceid_number AlrightGoldGoldy {
+    _hidden_value = true
+  }
+  RidiculousMoccasinLiz = "How come the stadium got hot after the game? Because all of the fans left."
+  StillIndigoJo2 = "How come the stadium got hot after the game? Because all of the fans left."
+  AggressiveMaroonLilla = 110
+  _hidden_value = true
+}

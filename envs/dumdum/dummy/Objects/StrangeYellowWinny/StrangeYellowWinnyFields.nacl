@@ -1,0 +1,7 @@
+type dummy.StrangeYellowWinny {
+  hidden_boolean JollyBlackCaron5 {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+}

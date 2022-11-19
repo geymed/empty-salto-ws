@@ -1,0 +1,31 @@
+type dummy.ConventionalGoldGussi5 {
+  annotations {
+    boolean CruelAquamarineBessy2 {
+    }
+    string GracefulTurquoiseTerri2 {
+    }
+  }
+  serviceid_number CircularRoseOrsa3 {
+    _hidden_value = true
+  }
+  hidden_boolean HugeCoffeeDoralynn2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ParliamentaryFuchsiaGiacinta5 {
+    _hidden_value = true
+  }
+  string PurringApricotAnnie {
+    _hidden_value = true
+  }
+  string DisgustedAzureBev {
+    _hidden_value = true
+  }
+  string LonelyAzureBobine4 {
+    _hidden_value = true
+  }
+  CruelAquamarineBessy2 = true
+  GracefulTurquoiseTerri2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

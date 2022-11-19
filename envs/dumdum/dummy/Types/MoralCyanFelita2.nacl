@@ -1,0 +1,19 @@
+type dummy.MoralCyanFelita2 {
+  annotations {
+    string SurvivingSapphireRicky {
+    }
+    hidden_boolean PrimeBrownDanielle2 {
+    }
+    number ValuableGoldGwyn3 {
+    }
+  }
+  number InappropriateRoseOthilie {
+    _hidden_value = true
+  }
+  serviceid_number InherentRedNita {
+    _hidden_value = true
+  }
+  SurvivingSapphireRicky = "Why didnt the skeleton cross the road? Because he had no guts."
+  ValuableGoldGwyn3 = 281
+  _hidden_value = true
+}

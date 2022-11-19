@@ -1,0 +1,62 @@
+type dummy.ContentPeachMatilde4 {
+  annotations {
+    boolean DeadBrownDara5 {
+    }
+    number FaithfulBlackCarlie4 {
+    }
+    boolean TemporaryGrayHalimeda3 {
+    }
+    json OpenTealStarr4 {
+    }
+    serviceid DistinctHarlequinJanelle3 {
+    }
+  }
+  serviceid_number UnknownFuchsiaGilberta3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BusyCyanFayina2 {
+    _hidden_value = true
+  }
+  json EqualCrimsonEmilia {
+    _hidden_value = true
+  }
+  serviceid LittleBlushChlo3 {
+    _hidden_value = true
+  }
+  serviceid_number MereGreenIleana2 {
+    _hidden_value = true
+  }
+  string RobustYellowWilhelmina2 {
+    _hidden_value = true
+  }
+  boolean BoringPeachMarnia2 {
+    _hidden_value = true
+  }
+  number YellowYellowZonnya2 {
+    _hidden_value = true
+  }
+  string PremierOrangeMari6 {
+    _hidden_value = true
+  }
+  boolean EnchantingBlackCaren4 {
+    _hidden_value = true
+  }
+  number LoudLavenderKiersten3 {
+    _hidden_value = true
+  }
+  serviceid_number RequiredMaroonLeta3 {
+    _hidden_value = true
+  }
+  serviceid_number YummyYellowZorana2 {
+    _hidden_value = true
+  }
+  string EnthusiasticPinkMerrie3 {
+    _hidden_value = true
+  }
+  DeadBrownDara5 = false
+  FaithfulBlackCarlie4 = 809
+  TemporaryGrayHalimeda3 = false
+  OpenTealStarr4 = "Did you know that protons have mass? I didn't even know they were catholic."
+  DistinctHarlequinJanelle3 = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

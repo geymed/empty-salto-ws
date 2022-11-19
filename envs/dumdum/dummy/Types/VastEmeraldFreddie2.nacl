@@ -1,0 +1,29 @@
+type dummy.VastEmeraldFreddie2 {
+  annotations {
+    serviceid_number CriticalCrimsonEstell5 {
+    }
+    boolean VividTanShawnee4 {
+    }
+    string DelightfulSilverRosy3 {
+    }
+    boolean ConcernedBronzeCorrey2 {
+    }
+    serviceid_number BadBlushCiel2 {
+    }
+    number DualSapphireRhetta4 {
+    }
+    boolean FellowJadeJustinn2 {
+    }
+  }
+  boolean LatinLimeKoo {
+    _hidden_value = true
+  }
+  CriticalCrimsonEstell5 = 792
+  VividTanShawnee4 = true
+  DelightfulSilverRosy3 = "How come the stadium got hot after the game? Because all of the fans left."
+  ConcernedBronzeCorrey2 = false
+  BadBlushCiel2 = 47
+  DualSapphireRhetta4 = 368
+  FellowJadeJustinn2 = false
+  _hidden_value = true
+}

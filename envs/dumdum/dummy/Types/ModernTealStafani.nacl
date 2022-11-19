@@ -1,0 +1,68 @@
+type dummy.ModernTealStafani is boolean {
+  annotations {
+    serviceid ColonialPeachMaura {
+    }
+    json UnderlyingLimeKoressa {
+    }
+    hidden_boolean MysteriousAzureBobinette2 {
+    }
+    string NursingSalmonPetronille2 {
+    }
+    number AgreedTanSelie {
+    }
+    json ObnoxiousAzureBrandi {
+    }
+    boolean ComprehensiveGreenHyacinthia {
+    }
+    hidden_boolean SubstantialCoralElsinore {
+    }
+    serviceid DampMoccasinLorry {
+    }
+    hidden_boolean LongBlueChelsy {
+    }
+    string ClearBlushCinnamon {
+    }
+    dummy.DEFAULT WickedScarletRoselia {
+    }
+    string SpontaneousTanShauna {
+    }
+    boolean ShortAmethystAnabella2 {
+    }
+    number StraightforwardMaroonLeyla {
+    }
+    boolean SubsequentFuchsiaGilemette {
+    }
+    json RollingSilverRubina {
+    }
+    boolean FreeBronzeCodie {
+    }
+    string ShyTomatoStormie {
+    }
+    number AboveIvoryJoycelin {
+    }
+    string PromisingRedNonie {
+    }
+    hidden_boolean DisappointedMagentaLaurice {
+    }
+  }
+  ColonialPeachMaura = "To be Frank, I'd have to change my name."
+  UnderlyingLimeKoressa = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  NursingSalmonPetronille2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  AgreedTanSelie = 988
+  ObnoxiousAzureBrandi = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ComprehensiveGreenHyacinthia = true
+  DampMoccasinLorry = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ClearBlushCinnamon = "What creature is smarter than a talking parrot? A spelling bee."
+  WickedScarletRoselia = {
+    legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  SpontaneousTanShauna = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ShortAmethystAnabella2 = true
+  StraightforwardMaroonLeyla = 578
+  SubsequentFuchsiaGilemette = true
+  RollingSilverRubina = "Why didnt the skeleton cross the road? Because he had no guts."
+  FreeBronzeCodie = false
+  ShyTomatoStormie = "Why didnt the skeleton cross the road? Because he had no guts."
+  AboveIvoryJoycelin = 780
+  PromisingRedNonie = "To be Frank, I'd have to change my name."
+}

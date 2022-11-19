@@ -1,0 +1,22 @@
+type dummy.InteriorPurpleNathalie is boolean {
+  annotations {
+    number ShaggyAquaAviva {
+    }
+    serviceid_number ThenSalmonPhylis {
+    }
+    json PassingSalmonPolly {
+    }
+    serviceid_number DemocraticCrimsonEmyle {
+    }
+    string StrikingOliveMag {
+    }
+    serviceid_number ExcellentCoralEilis {
+    }
+  }
+  ShaggyAquaAviva = 518
+  ThenSalmonPhylis = 702
+  PassingSalmonPolly = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  DemocraticCrimsonEmyle = 874
+  StrikingOliveMag = "Why didnt the skeleton cross the road? Because he had no guts."
+  ExcellentCoralEilis = 27
+}

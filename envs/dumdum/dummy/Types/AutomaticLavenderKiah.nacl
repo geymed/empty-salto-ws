@@ -1,0 +1,88 @@
+type dummy.AutomaticLavenderKiah {
+  annotations {
+    string LightAmethystAnet {
+    }
+    dummy.DEFAULT SatisfactoryLimeKrista {
+    }
+    serviceid_number SocialBlueCharyl {
+    }
+    boolean AfraidCrimsonEmmye {
+    }
+    dummy.MightyTanShandra SubsequentFuchsiaGilda {
+    }
+  }
+  boolean HealthyBlackCarolee {
+    _hidden_value = true
+  }
+  hidden_boolean SeparateCopperDorotea {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid AdvancedHarlequinJacinthe {
+    _hidden_value = true
+  }
+  serviceid_number FirmGrayHeddi2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DeepAmberAlla {
+    _hidden_value = true
+  }
+  serviceid LiveIndigoJodee {
+    _hidden_value = true
+  }
+  hidden_boolean WeakAquamarineBelicia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number GermanChocolateDelcine {
+    _hidden_value = true
+  }
+  number ObnoxiousAzureBrandea {
+    _hidden_value = true
+  }
+  hidden_boolean HelpfulHarlequinJanette {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<number>" RelievedBlueCathie2 {
+    _hidden_value = true
+  }
+  serviceid_number FamousTealSofia {
+    _hidden_value = true
+  }
+  number VocationalTanShaina {
+    _hidden_value = true
+  }
+  hidden_boolean DependentGrayHeda {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string ImportantBlueChelsea {
+    _hidden_value = true
+  }
+  hidden_boolean CorrespondingPlumMiquela {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ClinicalIndigoJennine {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean AdditionalCopperDotty {
+    _hidden_value = true
+  }
+  LightAmethystAnet = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  SatisfactoryLimeKrista = {
+    legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  SocialBlueCharyl = 323
+  AfraidCrimsonEmmye = false
+  SubsequentFuchsiaGilda = false
+  _hidden_value = true
+}

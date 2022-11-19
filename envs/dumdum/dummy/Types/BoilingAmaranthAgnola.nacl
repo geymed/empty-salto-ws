@@ -1,0 +1,85 @@
+type dummy.BoilingAmaranthAgnola {
+  annotations {
+    number BewilderedAquamarineBernie3 {
+    }
+    serviceid_number BurningRedNikoletta5 {
+    }
+    dummy.DEFAULT SolidAquamarineBarrie2 {
+    }
+    json BroadCoralElisabetta3 {
+    }
+    boolean JapaneseCyanFidela {
+    }
+  }
+  json YoungBlueChere3 {
+    _hidden_value = true
+  }
+  string BraveMoccasinLucinda3 {
+    _hidden_value = true
+  }
+  dummy.FamousCoralElianora PleasantBlackCatharina2 {
+    ShinyTurquoiseTiff = 817
+    RelativeGoldGuillema = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    OkSapphireRhianna = 851
+    StupidTomatoSusan = "I'll tell you what often gets over looked... garden fences."
+    EarlyAmethystAmanda = "What creature is smarter than a talking parrot? A spelling bee."
+    UncertainMagentaLela = "Why did the kid cross the playground? To get to the other slide."
+    UpsetOliveLyssa = "Why did the kid cross the playground? To get to the other slide."
+    WorryingSilverRozamond2 = "I'll tell you what often gets over looked... garden fences."
+    FatIvoryJoelle = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    PlasticAquaAuria = "Im only familiar with 25 letters in the English language. I dont know why."
+    _hidden_value = true
+  }
+  serviceid_number MotionlessTurquoiseTheodora3 {
+    _hidden_value = true
+  }
+  serviceid NoisyApricotAnnelise5 {
+    _hidden_value = true
+  }
+  serviceid UnlikelyCrimsonEthelda2 {
+    _hidden_value = true
+  }
+  boolean MobilePurpleMorna5 {
+    _hidden_value = true
+  }
+  hidden_boolean MixedMaroonLesya {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.AfraidAquamarineBenedetta CircularRoseOrsa6 {
+    PrettyWhiteVirgina = true
+    WeeSapphireRevkah = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    ManualRosePaola = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    InjuredScarletRosalind = "Why is Peter Pan always flying? Because he Neverlands."
+    NosyWhiteVida2 = 900
+    FollowingBrownCynthea = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    CriminalFuchsiaGeorgette = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    WanderingTomatoSuzanne = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    UnexpectedMagentaLaurella = false
+    TurkishPurpleMozelle = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  number MultipleLimeKimmy2 {
+    _hidden_value = true
+  }
+  number CommonBronzeConsuelo2 {
+    _hidden_value = true
+  }
+  serviceid_number UncertainMagentaLelah {
+    _hidden_value = true
+  }
+  number ResonantApricotAnthe2 {
+    _hidden_value = true
+  }
+  BewilderedAquamarineBernie3 = 86
+  BurningRedNikoletta5 = 972
+  SolidAquamarineBarrie2 = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  BroadCoralElisabetta3 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  JapaneseCyanFidela = false
+  _hidden_value = true
+}

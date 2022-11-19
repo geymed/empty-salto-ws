@@ -1,0 +1,75 @@
+type dummy.DelightedIvoryJulianna4 {
+  json WhisperingApricotArdelle3 {
+  }
+  json NewWhiteVeronike5 {
+  }
+  serviceid_number CorrectCrimsonErinn5 {
+  }
+  serviceid_number TechnologicalOrangeMaribel3 {
+  }
+  hidden_boolean ReducedPinkMersey2 {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  json ElderlyEmeraldFlorella4 {
+  }
+  string TroubledBeigeBrittani4 {
+  }
+  serviceid CorrespondingPlumMinta5 {
+  }
+  string EnergeticBlackCaril4 {
+  }
+  dummy.TastelessAquaAshley2 HiddenRedOdelle4 {
+    AwkwardPeachMaryjo = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    NervousHarlequinJany = "Why was it called the dark ages? Because of all the knights. "
+    PrimaryCoffeeDoe = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    BottomMoccasinLouisette2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  boolean AboveIvoryJoyan {
+  }
+  hidden_boolean DrivingRoseOralia {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  string SeniorCoffeeDonia {
+  }
+  json RegionalCopperDorie {
+  }
+  hidden_boolean AdequateGrayHildegaard4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.SupposedCyanFarrah2 MolecularRedNertie2 {
+    DeafeningAmethystAngy2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    GreatAmaranthAddia2 = false
+    CapitalistMagentaLayney2 = 530
+    SourApricotArlene2 = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    FierceAzureBilli = 263
+    SuspiciousPurpleMyriam4 = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  dummy.GrubbyAquaAubrie OldAmethystAmie2 {
+    WearyBeigeBrooke = "Im only familiar with 25 letters in the English language. I dont know why."
+    SolidAquamarineBarrie = true
+    RivalPurpleNara = "What creature is smarter than a talking parrot? A spelling bee."
+    DifficultBronzeClementia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  serviceid OldAmethystAmi3 {
+  }
+  serviceid FairCoffeeDinah2 {
+  }
+  string ClearTomatoTammie5 {
+  }
+  serviceid_number CurlyAmberAlbina3 {
+  }
+  serviceid_number SquareJadeKacy2 {
+  }
+  "List<serviceid_number>" DangerousCrimsonEssy4 {
+  }
+  serviceid_number IdealEmeraldFrederique2 {
+  }
+}

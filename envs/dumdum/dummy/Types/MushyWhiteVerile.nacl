@@ -1,0 +1,61 @@
+type dummy.MushyWhiteVerile {
+  annotations {
+    serviceid_number FamiliarCrimsonEstrellita {
+    }
+    boolean IllAzureBobbe {
+    }
+    serviceid_number MotionlessTurquoiseThelma2 {
+    }
+    hidden_boolean RudeTanShaylah2 {
+    }
+    number SoleLimeKirstin {
+    }
+  }
+  serviceid CorrespondingPlumMiquela2 {
+    _hidden_value = true
+  }
+  serviceid_number IntensiveOliveLurleen2 {
+    _hidden_value = true
+  }
+  json CrookedAmberAlissa2 {
+    _hidden_value = true
+  }
+  serviceid ChillyAmaranthAilyn {
+    _hidden_value = true
+  }
+  serviceid AsleepJadeKarlyn {
+    _hidden_value = true
+  }
+  number EstablishedMagentaLeia3 {
+    _hidden_value = true
+  }
+  serviceid_number HistoricLavenderKellina {
+    _hidden_value = true
+  }
+  hidden_boolean WeeklyLavenderKessiah {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean PowerfulCopperDrucie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid FatAmaranthAbigail {
+    _hidden_value = true
+  }
+  serviceid_number BeautifulVioletToni {
+    _hidden_value = true
+  }
+  hidden_boolean SpottyYellowWrennie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  FamiliarCrimsonEstrellita = 48
+  IllAzureBobbe = true
+  MotionlessTurquoiseThelma2 = 557
+  SoleLimeKirstin = 534
+  _hidden_value = true
+}

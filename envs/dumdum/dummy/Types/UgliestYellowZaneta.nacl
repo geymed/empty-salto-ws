@@ -1,0 +1,27 @@
+type dummy.UgliestYellowZaneta {
+  annotations {
+    dummy.DEFAULT EnormousFuchsiaGiovanna {
+    }
+    serviceid AncientAmethystAmabelle {
+    }
+    dummy.ColonialPeachMaudie AccurateIndigoJilleen {
+    }
+    serviceid_number TinyCyanEulalie2 {
+    }
+    hidden_boolean DisastrousScarletRochelle {
+    }
+  }
+  serviceid AggregateScarletRobbyn {
+    _hidden_value = true
+  }
+  serviceid FierceAzureBilly {
+    _hidden_value = true
+  }
+  EnormousFuchsiaGiovanna = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  AncientAmethystAmabelle = "What do you call two barracuda fish?  A Pairacuda!"
+  AccurateIndigoJilleen = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  TinyCyanEulalie2 = 145
+  _hidden_value = true
+}

@@ -1,0 +1,25 @@
+type dummy.InterestedCoffeeDiena {
+  annotations {
+    boolean FriendlyBlackCarmel2 {
+    }
+    boolean ExpensiveCrimsonErnaline3 {
+    }
+    hidden_boolean BeautifulTomatoTabby {
+    }
+    serviceid_number LongAmethystAmelia2 {
+    }
+    number ParallelMoccasinLuisa3 {
+    }
+    serviceid_number VisibleIndigoJillane {
+    }
+  }
+  json ScreechingApricotAnthea4 {
+    _hidden_value = true
+  }
+  FriendlyBlackCarmel2 = true
+  ExpensiveCrimsonErnaline3 = true
+  LongAmethystAmelia2 = 625
+  ParallelMoccasinLuisa3 = 253
+  VisibleIndigoJillane = 516
+  _hidden_value = true
+}

@@ -1,0 +1,30 @@
+type dummy.InstantSapphireRanee {
+  annotations {
+    number RepulsiveBeigeBrena4 {
+    }
+    dummy.ColonialPeachMaudie SelectiveRedNorrie2 {
+    }
+    dummy.DEFAULT AbundantAmethystAndeee3 {
+    }
+    boolean HomelessAzureBliss4 {
+    }
+    json MidPinkMelisse {
+    }
+    boolean ScornfulBeigeBrianna {
+    }
+  }
+  hidden_boolean AncientEmeraldFlora {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  RepulsiveBeigeBrena4 = 189
+  SelectiveRedNorrie2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  AbundantAmethystAndeee3 = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  HomelessAzureBliss4 = false
+  MidPinkMelisse = "Why is Peter Pan always flying? Because he Neverlands."
+  ScornfulBeigeBrianna = true
+  _hidden_value = true
+}

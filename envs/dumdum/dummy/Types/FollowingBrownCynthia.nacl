@@ -1,0 +1,43 @@
+type dummy.FollowingBrownCynthia is number {
+  annotations {
+    serviceid SoftCoralElana {
+    }
+    dummy.DEFAULT InherentRedNoami {
+    }
+    dummy.DEFAULT PleasantBlueCathe {
+    }
+    serviceid PlasticAquaAurelia {
+    }
+    string BriefAmethystAmaleta {
+    }
+    serviceid RuralCoralElsa {
+    }
+    serviceid_number GoverningTanSena {
+    }
+    string GrievingAzureBlanca {
+    }
+    serviceid_number PricklyWhiteVittoria {
+    }
+    string ScatteredAquaAveryl {
+    }
+    dummy.DEFAULT ItchyVioletValentina {
+    }
+  }
+  SoftCoralElana = "What do you call two barracuda fish?  A Pairacuda!"
+  InherentRedNoami = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  PleasantBlueCathe = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  PlasticAquaAurelia = "Why was it called the dark ages? Because of all the knights. "
+  BriefAmethystAmaleta = "How come the stadium got hot after the game? Because all of the fans left."
+  RuralCoralElsa = "What creature is smarter than a talking parrot? A spelling bee."
+  GoverningTanSena = 841
+  GrievingAzureBlanca = "Why is Peter Pan always flying? Because he Neverlands."
+  PricklyWhiteVittoria = 526
+  ScatteredAquaAveryl = "To be Frank, I'd have to change my name."
+  ItchyVioletValentina = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+}

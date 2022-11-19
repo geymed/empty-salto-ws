@@ -1,0 +1,36 @@
+type dummy.PoorTealSteffie {
+  annotations {
+    hidden_boolean InjuredScarletRosalind2 {
+    }
+    boolean SocialistHarlequinJacquenetta {
+    }
+    boolean ExtensiveGoldGlory {
+    }
+    hidden_boolean VeryCoralElfreda {
+    }
+    serviceid SilentGrayHarli {
+    }
+    json HelpfulHarlequinJanette2 {
+    }
+  }
+  json SwissPlumMiguela2 {
+    _hidden_value = true
+  }
+  serviceid_number UnevenAquamarineBekki {
+    _hidden_value = true
+  }
+  serviceid_number VitalEmeraldFifine {
+    _hidden_value = true
+  }
+  dummy.DailyCyanEvelina FiscalRedNikaniki {
+    _hidden_value = true
+  }
+  boolean NovelScarletRosina2 {
+    _hidden_value = true
+  }
+  SocialistHarlequinJacquenetta = true
+  ExtensiveGoldGlory = true
+  SilentGrayHarli = "What did one nut say as he chased another nut?  I'm a cashew!"
+  HelpfulHarlequinJanette2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

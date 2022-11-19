@@ -1,0 +1,28 @@
+type dummy.DueCopperDory {
+  annotations {
+    dummy.DEFAULT PregnantLimeKlarika2 {
+    }
+    serviceid EnvironmentalCoffeeDomini3 {
+    }
+    serviceid_number SlimRoseOlwen3 {
+    }
+    boolean FrozenScarletRosa3 {
+    }
+    json WanderingTomatoSuzanna {
+    }
+    string NervousHarlequinJanot2 {
+    }
+  }
+  json ActualCopperEbonee {
+    _hidden_value = true
+  }
+  PregnantLimeKlarika2 = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  EnvironmentalCoffeeDomini3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SlimRoseOlwen3 = 673
+  FrozenScarletRosa3 = false
+  WanderingTomatoSuzanna = "What do you do on a remote island? Try and find the TV island it belongs to."
+  NervousHarlequinJanot2 = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

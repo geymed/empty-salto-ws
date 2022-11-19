@@ -1,0 +1,62 @@
+type dummy.ApplicablePlumMirelle2 {
+  annotations {
+    json ArrogantAquamarineBernadette {
+    }
+    serviceid_number MeaningfulTanShena6 {
+    }
+    number StraightHarlequinJaimie4 {
+    }
+    serviceid_number NiceBrownCybil6 {
+    }
+    number LiteraryGreenIris4 {
+    }
+    hidden_boolean BreakableTealShina {
+    }
+    string DepressedPinkMelantha5 {
+    }
+    boolean FaintMaroonLiva2 {
+    }
+    boolean LexicalSilverSadella {
+    }
+    hidden_boolean FellowJadeJustine {
+    }
+    dummy.ImmediateCrimsonEmelita TameTomatoSusanne4 {
+    }
+    serviceid_number LtdCoralElnore3 {
+    }
+    string UnableCoralEloise3 {
+    }
+    serviceid FlyingMoccasinLoree4 {
+    }
+    boolean LooseIvoryJulietta4 {
+    }
+    hidden_boolean SquareAmberAlvinia3 {
+    }
+    dummy.RelevantCoffeeDoralia2 CertainBronzeClemmy3 {
+    }
+    boolean HarshApricotAnjela4 {
+    }
+    number ConcreteOliveLynelle3 {
+    }
+    hidden_boolean UnchangedSilverRozina7 {
+    }
+    boolean SemanticRedNinnetta2 {
+    }
+  }
+  ArrogantAquamarineBernadette = "I'll tell you what often gets over looked... garden fences."
+  MeaningfulTanShena6 = 251
+  StraightHarlequinJaimie4 = 80
+  NiceBrownCybil6 = 466
+  LiteraryGreenIris4 = 178
+  DepressedPinkMelantha5 = "To be Frank, I'd have to change my name."
+  FaintMaroonLiva2 = true
+  LexicalSilverSadella = true
+  TameTomatoSusanne4 = file("SquareAmberAlverta3.txt")
+  LtdCoralElnore3 = 393
+  UnableCoralEloise3 = "To be Frank, I'd have to change my name."
+  FlyingMoccasinLoree4 = "Did you know that protons have mass? I didn't even know they were catholic."
+  LooseIvoryJulietta4 = false
+  HarshApricotAnjela4 = false
+  ConcreteOliveLynelle3 = 951
+  SemanticRedNinnetta2 = false
+}

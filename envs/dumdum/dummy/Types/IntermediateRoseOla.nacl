@@ -1,0 +1,60 @@
+type dummy.IntermediateRoseOla {
+  annotations {
+    string AnonymousSapphireRayshell {
+    }
+    number JitteryVioletValerie {
+    }
+    hidden_boolean BlueVioletTory {
+    }
+    boolean ProfitablePurpleNaoma2 {
+    }
+    serviceid_number ConsistentHarlequinJanka2 {
+    }
+    string FavourablePinkMercie {
+    }
+  }
+  json WorthyRedOdette2 {
+    _hidden_value = true
+  }
+  boolean OralLimeKylila {
+    _hidden_value = true
+  }
+  serviceid_number LateAmethystAmber {
+    _hidden_value = true
+  }
+  number IrishCrimsonErmina {
+    _hidden_value = true
+  }
+  string YummyYellowZorana {
+    _hidden_value = true
+  }
+  boolean PleasantIvoryJosee {
+    _hidden_value = true
+  }
+  serviceid_number ZanyYellowZsazsa {
+    _hidden_value = true
+  }
+  hidden_boolean LiveIndigoJodi2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<serviceid>" SocialBlueCharo {
+    _hidden_value = true
+  }
+  number IrishCrimsonErmina2 {
+    _hidden_value = true
+  }
+  boolean RivalPurpleNara2 {
+    _hidden_value = true
+  }
+  json ProbableSalmonPhyllys2 {
+    _hidden_value = true
+  }
+  AnonymousSapphireRayshell = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  JitteryVioletValerie = 87
+  ProfitablePurpleNaoma2 = false
+  ConsistentHarlequinJanka2 = 660
+  FavourablePinkMercie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

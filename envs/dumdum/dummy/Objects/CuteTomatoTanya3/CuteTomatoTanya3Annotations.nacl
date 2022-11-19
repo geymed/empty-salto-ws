@@ -1,0 +1,59 @@
+type dummy.CuteTomatoTanya3 {
+  annotations {
+    dummy.BrightTomatoTamara PlainTurquoiseTheresita3 {
+    }
+    serviceid_number RoughGreenIdell {
+    }
+    number RespectiveSalmonPerrine2 {
+    }
+    serviceid_number DoubleCrimsonEthyl2 {
+    }
+    json EasyBronzeCollete3 {
+    }
+    json EerieAzureBevvy2 {
+    }
+    number SolidGreenIdalina {
+    }
+    serviceid LegislativeMaroonLinet4 {
+    }
+    serviceid VocationalTanShaine2 {
+    }
+    string RudeTanShaylah3 {
+    }
+    string GiantAmaranthAdaline2 {
+    }
+    number CautiousScarletRivi2 {
+    }
+    json SimilarBronzeConstancia5 {
+    }
+    string FrightenedAzureBirgitta2 {
+    }
+    hidden_boolean MechanicalMagentaLeonora2 {
+    }
+    hidden_boolean SmoothIndigoJemmy8 {
+    }
+    number ThinCyanEvania5 {
+    }
+    serviceid_number JuniorIvoryJonis2 {
+    }
+    serviceid_number AnxiousHarlequinJannel2 {
+    }
+  }
+  PlainTurquoiseTheresita3 = 97
+  RoughGreenIdell = 573
+  RespectiveSalmonPerrine2 = 927
+  DoubleCrimsonEthyl2 = 967
+  EasyBronzeCollete3 = "Why do birds fly south for the winter? Because it's too far to walk."
+  EerieAzureBevvy2 = "What creature is smarter than a talking parrot? A spelling bee."
+  SolidGreenIdalina = 801
+  LegislativeMaroonLinet4 = "Did you know that protons have mass? I didn't even know they were catholic."
+  VocationalTanShaine2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  RudeTanShaylah3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  GiantAmaranthAdaline2 = "Why did the tomato blush? Because it saw the salad dressing."
+  CautiousScarletRivi2 = 212
+  SimilarBronzeConstancia5 = "Dad Im hungry  Hi hungry Im dad"
+  FrightenedAzureBirgitta2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  ThinCyanEvania5 = 184
+  JuniorIvoryJonis2 = 104
+  AnxiousHarlequinJannel2 = 500
+}

@@ -1,0 +1,94 @@
+type dummy.AdverseSapphireRanique {
+  annotations {
+    json CoherentScarletRosella {
+    }
+    number ExactLimeKoralle2 {
+    }
+    json SpecificChocolateDarby {
+    }
+    string UniformScarletRosalyn2 {
+    }
+    string SelectiveRedNorrie3 {
+    }
+  }
+  "List<hidden_boolean>" ExtraCoffeeDianemarie2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number RubberSilverSarene3 {
+    _hidden_value = true
+  }
+  number ProminentLavenderKelci2 {
+    _hidden_value = true
+  }
+  boolean LiteraryGreenIrene2 {
+    _hidden_value = true
+  }
+  boolean EmptyAmethystAndrea3 {
+    _hidden_value = true
+  }
+  boolean WhisperingApricotArdelis {
+    _hidden_value = true
+  }
+  number SignificantBrownDanna2 {
+    _hidden_value = true
+  }
+  json EffectiveChocolateDeena {
+    _hidden_value = true
+  }
+  hidden_boolean DampMoccasinLory {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json PositiveCoffeeDona4 {
+    _hidden_value = true
+  }
+  serviceid_number PassivePurpleMyra2 {
+    _hidden_value = true
+  }
+  boolean LiteraryGreenIrina2 {
+    _hidden_value = true
+  }
+  string UnknownFuchsiaGilbertina2 {
+    _hidden_value = true
+  }
+  hidden_boolean BrownFuchsiaGelya2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT JollyVioletValli2 {
+    _hidden_value = true
+  }
+  serviceid MolecularRedNerti2 {
+    _hidden_value = true
+  }
+  hidden_boolean PopularChocolateDavina2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid SpottyYellowWylma3 {
+    _hidden_value = true
+  }
+  dummy.DailyCyanEvelina ExpensiveCrimsonErna {
+    _hidden_value = true
+  }
+  serviceid ExcitedBlackCariotta5 {
+    _hidden_value = true
+  }
+  number SeniorCoffeeDonetta3 {
+    _hidden_value = true
+  }
+  json UrgentLimeKrysta2 {
+    _hidden_value = true
+  }
+  CoherentScarletRosella = "Dad Im hungry  Hi hungry Im dad"
+  ExactLimeKoralle2 = 327
+  SpecificChocolateDarby = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  UniformScarletRosalyn2 = "What creature is smarter than a talking parrot? A spelling bee."
+  SelectiveRedNorrie3 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

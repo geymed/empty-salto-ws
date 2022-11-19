@@ -1,0 +1,110 @@
+type dummy.MightyTanShandie2 {
+  annotations {
+    serviceid_number DangerousCrimsonEssie2 {
+    }
+    string ParliamentaryFuchsiaGiacinta4 {
+    }
+    hidden_boolean AverageAmaranthAbagael {
+    }
+    hidden_boolean AtomicScarletRori {
+    }
+    serviceid RegularCopperDorthy2 {
+    }
+    json ShortAmethystAnabal {
+    }
+  }
+  boolean AnxiousAquamarineBenny2 {
+    _hidden_value = true
+  }
+  serviceid_number ExtraordinaryIndigoJessica2 {
+    _hidden_value = true
+  }
+  serviceid LabourBrownDaffi2 {
+    _hidden_value = true
+  }
+  hidden_boolean SelectSalmonPhil {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number ComingSilverSammy2 {
+    _hidden_value = true
+  }
+  serviceid ElectronicGreenInga2 {
+    _hidden_value = true
+  }
+  boolean FaithfulTanShea2 {
+    _hidden_value = true
+  }
+  dummy.ShallowAmberAloysia BadAquamarineBernice2 {
+    NiceWhiteVi = "Why do birds fly south for the winter? Because it's too far to walk."
+    VisibleIndigoJillayne = false
+    PreparedCyanFelicia = "Why was it called the dark ages? Because of all the knights. "
+    BlushingTomatoTalyah = 889
+    RedundantSalmonPhilis = {
+      legit = "Im only familiar with 25 letters in the English language. I dont know why."
+    }
+    LivelyPeachMarylin = "Why did the tomato blush? Because it saw the salad dressing."
+    _hidden_value = true
+  }
+  serviceid_number CautiousTealSib {
+    _hidden_value = true
+  }
+  serviceid_number AlrightGoldGrace {
+    _hidden_value = true
+  }
+  "List<number>" IncredibleRosePattie3 {
+    _hidden_value = true
+  }
+  string EventualTanSharron {
+    _hidden_value = true
+  }
+  serviceid AbleBlushChrissy2 {
+    _hidden_value = true
+  }
+  dummy.FollowingBrownCynthia LovelyCoralEllie2 {
+    SoftCoralElana = "Dad Im hungry  Hi hungry Im dad"
+    InherentRedNoami = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    PleasantBlueCathe = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    PlasticAquaAurelia = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    BriefAmethystAmaleta = "Why was it called the dark ages? Because of all the knights. "
+    RuralCoralElsa = "Did you know that protons have mass? I didn't even know they were catholic."
+    GoverningTanSena = 334
+    GrievingAzureBlanca = "What do you call two barracuda fish?  A Pairacuda!"
+    PricklyWhiteVittoria = 19
+    ScatteredAquaAveryl = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ItchyVioletValentina = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    _hidden_value = true
+  }
+  hidden_boolean NearbyLimeKoral3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.WorryingSilverRozamond SweetAquaAshil4 {
+    StormyTurquoiseTim = 41
+    IntegratedOliveMady = "What did one nut say as he chased another nut?  I'm a cashew!"
+    UltimateJadeKamillah = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    QuickWhiteVivyan = 641
+    _hidden_value = true
+  }
+  string LesserMoccasinLucretia2 {
+    _hidden_value = true
+  }
+  hidden_boolean ElaborateRedNicolette3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  DangerousCrimsonEssie2 = 272
+  ParliamentaryFuchsiaGiacinta4 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  RegularCopperDorthy2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ShortAmethystAnabal = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

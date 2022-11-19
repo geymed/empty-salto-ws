@@ -1,0 +1,75 @@
+type dummy.AmericanBronzeCorri {
+  json MechanicalMagentaLeonie2 {
+  }
+  "List<hidden_boolean>" LiteraryGreenIris3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean StrangeYellowWinona2 {
+  }
+  number NaughtyAzureBonnie2 {
+  }
+  serviceid_number SelectSalmonPhil3 {
+  }
+  json UgliestYellowZaneta4 {
+  }
+  serviceid HorribleOrangeMarena {
+  }
+  number RareEmeraldFlorette {
+  }
+  boolean AvailableBlushChrystal2 {
+  }
+  string TenseBeigeBrigitte4 {
+  }
+  serviceid_number HugeCoffeeDoralyn2 {
+  }
+  number ConvincedJadeKarisa {
+  }
+  boolean SaltyApricotArlen7 {
+  }
+  number ExperimentalLavenderKatleen2 {
+  }
+  boolean WesternChocolateDeeyn4 {
+  }
+  json OkSapphireRhoda3 {
+  }
+  json TestyYellowYoko3 {
+  }
+  serviceid WrongTomatoSybilla5 {
+  }
+  dummy.CuriousLimeKirbie4 CuriousTealSidonnie3 {
+    PremierOrangeMari7 = false
+    EnthusiasticBlackCarina3 = 390
+    UnlikelyCrimsonEthelda3 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    JuicyApricotArdyth2 = 412
+    AppallingTanSelene2 = "Why did the kid cross the playground? To get to the other slide."
+    JoyousBlackCarry2 = true
+  }
+  serviceid KeenGrayHanna2 {
+  }
+  serviceid_number MetropolitanOrangeMargarita5 {
+  }
+  dummy.HonChocolateDatha2 IncreasingCyanEvita3 {
+    FineBrownCourtnay3 = "Why didnt the skeleton cross the road? Because he had no guts."
+    UglyTurquoiseTine4 = "Did you know that protons have mass? I didn't even know they were catholic."
+    ObedientBlackCassy = "To be Frank, I'd have to change my name."
+  }
+  serviceid_number ExactLimeKoralle3 {
+  }
+  boolean FlutteringAquaAthena {
+  }
+  hidden_boolean UglyTurquoiseTiphani {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number WickedScarletRoseann {
+  }
+  string HorizontalSalmonPrissie4 {
+  }
+  number VictorianJadeKalindi2 {
+  }
+  string ClosedMagentaLeila3 {
+  }
+}

@@ -1,0 +1,38 @@
+type dummy.ImperialLavenderKatey {
+  annotations {
+    boolean UnlikelyCrimsonEthelda {
+    }
+    serviceid_number LowBlushChristy {
+    }
+    serviceid_number GentleBlackCarmen {
+    }
+    string HushedApricotAnnabal {
+    }
+    json RobustYellowWilhelmina {
+    }
+  }
+  string RubberSilverSarena {
+    _hidden_value = true
+  }
+  string ContinentalOliveMagdalena {
+    _hidden_value = true
+  }
+  string FollowingBrownCyndie {
+    _hidden_value = true
+  }
+  serviceid_number BalancedSilverRoslyn {
+    _hidden_value = true
+  }
+  string PunyAmaranthAeriell {
+    _hidden_value = true
+  }
+  serviceid PositiveCoffeeDominica {
+    _hidden_value = true
+  }
+  UnlikelyCrimsonEthelda = true
+  LowBlushChristy = 627
+  GentleBlackCarmen = 497
+  HushedApricotAnnabal = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  RobustYellowWilhelmina = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

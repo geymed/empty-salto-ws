@@ -1,0 +1,66 @@
+type dummy.PerfectBlackCaterina4 {
+  boolean SleepyTomatoSula2 {
+  }
+  serviceid IntactRosePatsy2 {
+  }
+  boolean AfraidAquamarineBenedetta3 {
+  }
+  number MuddyTurquoiseTherese {
+  }
+  serviceid_number PrivateBronzeCordy3 {
+  }
+  serviceid_number UsefulChocolateDedie2 {
+  }
+  serviceid_number ZanyBlueCelia7 {
+  }
+  dummy.TenderYellowYnez2 PoorBronzeCoretta {
+    TemporaryGrayHalimeda = false
+    TeenageScarletRobinetta = true
+    MidPinkMelissa2 = 326
+    NeighbouringPurpleNana = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  "List<serviceid_number>" BeautifulVioletTommy4 {
+  }
+  boolean AttractiveCyanFey2 {
+  }
+  number ResidentSalmonRachelle2 {
+  }
+  hidden_boolean ContinuingGreenIsa5 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number OrganicLimeLadonna4 {
+  }
+  serviceid FitHarlequinJackqueline2 {
+  }
+  json LooseIvoryJulieta2 {
+  }
+  dummy.VisualGreenIngeberg2 InitialCoralElsi2 {
+    BeautifulVioletTommie3 = false
+    SecureMoccasinLouella = true
+    TameYellowYasmeen = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    RegionalCopperDorian = 354
+    DefinitePeachMartelle2 = true
+  }
+  serviceid BoredAquamarineBerrie {
+  }
+  string BalancedSilverRoslyn2 {
+  }
+  string CircularRoseOrsa10 {
+  }
+  string HistoricalCyanEvaleen4 {
+  }
+  hidden_boolean SteadyAquamarineBatsheva {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean InnerFuchsiaGenovera4 {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  serviceid GlobalGrayHerminia4 {
+  }
+}

@@ -1,0 +1,90 @@
+type dummy.FreshApricotArdyce3 {
+  annotations {
+    json PurpleScarletRisa {
+    }
+    json ItchyVioletValentine {
+    }
+    hidden_boolean SmoggyTurquoiseTiffany3 {
+    }
+    serviceid_number FollowingBrownCynthia4 {
+    }
+    boolean KeyCopperDorothy {
+    }
+    json LikelyBlushClarey2 {
+    }
+  }
+  serviceid HighAmberAllison2 {
+    _hidden_value = true
+  }
+  hidden_boolean ColonialPeachMaudie3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean HissingApricotAnnadiana2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean BusyTealShirley {
+    _hidden_value = true
+  }
+  number EncouragingBlackCari {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SpiritualLavenderKatrine3 {
+    _hidden_value = true
+  }
+  "List<json>" TameYellowYasmin {
+    _hidden_value = true
+  }
+  serviceid UncomfortablePlumModesty2 {
+    _hidden_value = true
+  }
+  serviceid_number EligiblePurpleNeille2 {
+    _hidden_value = true
+  }
+  number GorgeousVioletUrsa2 {
+    _hidden_value = true
+  }
+  json NumerousAmethystAngelia {
+    _hidden_value = true
+  }
+  hidden_boolean AnnoyedAquamarineBenni {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number DreadfulPinkMerrilee2 {
+    _hidden_value = true
+  }
+  serviceid ExistingCoffeeDesiree {
+    _hidden_value = true
+  }
+  serviceid_number OccasionalIvoryJuline2 {
+    _hidden_value = true
+  }
+  serviceid_number FashionableSapphireRena4 {
+    _hidden_value = true
+  }
+  serviceid ValidLavenderKerstin2 {
+    _hidden_value = true
+  }
+  string CleanCyanFernanda2 {
+    _hidden_value = true
+  }
+  json CleverTealSibby5 {
+    _hidden_value = true
+  }
+  hidden_boolean ExoticScarletRikki {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  PurpleScarletRisa = "What do you call two barracuda fish?  A Pairacuda!"
+  ItchyVioletValentine = "What creature is smarter than a talking parrot? A spelling bee."
+  FollowingBrownCynthia4 = 343
+  KeyCopperDorothy = false
+  LikelyBlushClarey2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

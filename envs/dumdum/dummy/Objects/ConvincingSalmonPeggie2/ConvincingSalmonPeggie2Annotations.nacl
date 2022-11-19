@@ -1,0 +1,60 @@
+type dummy.ConvincingSalmonPeggie2 {
+  annotations {
+    boolean AlertTomatoSylvia2 {
+    }
+    string AfraidCrimsonEmogene3 {
+    }
+    number BoredAquamarineBerri4 {
+    }
+    serviceid ObedientBlackCassie3 {
+    }
+    number AmericanBronzeCorrianne4 {
+    }
+    boolean SexualCopperEada7 {
+    }
+    boolean WillingGoldGustie2 {
+    }
+    hidden_boolean MereGreenIleana3 {
+    }
+    json AdjacentSilverRoxanne7 {
+    }
+    number IndividualBrownCyb2 {
+    }
+    hidden_boolean MarkedMagentaLauraine3 {
+    }
+    string MightyTanShandra2 {
+    }
+    string DisastrousScarletRochella {
+    }
+    boolean SwissPlumMignonne9 {
+    }
+    hidden_boolean StrongAquaAryn4 {
+    }
+    json VerticalOliveLynnette6 {
+    }
+    serviceid_number DifficultBronzeClementina3 {
+    }
+    dummy.UltimateJadeKamillah2 RemainingGoldGnni3 {
+    }
+    string RealBlushClarie5 {
+    }
+    boolean OutsideGrayHelenka4 {
+    }
+  }
+  AlertTomatoSylvia2 = false
+  AfraidCrimsonEmogene3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  BoredAquamarineBerri4 = 64
+  ObedientBlackCassie3 = "What do you call two barracuda fish?  A Pairacuda!"
+  AmericanBronzeCorrianne4 = 247
+  SexualCopperEada7 = false
+  WillingGoldGustie2 = false
+  AdjacentSilverRoxanne7 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  IndividualBrownCyb2 = 334
+  MightyTanShandra2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  DisastrousScarletRochella = "Im only familiar with 25 letters in the English language. I dont know why."
+  SwissPlumMignonne9 = false
+  VerticalOliveLynnette6 = "Why did the tomato blush? Because it saw the salad dressing."
+  DifficultBronzeClementina3 = 889
+  RealBlushClarie5 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  OutsideGrayHelenka4 = false
+}

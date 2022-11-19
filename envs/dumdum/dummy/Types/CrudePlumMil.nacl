@@ -1,0 +1,109 @@
+type dummy.CrudePlumMil {
+  annotations {
+    boolean NegativeFuchsiaGates2 {
+    }
+    serviceid_number EstimatedOrangeMargit2 {
+    }
+    string SquareAmberAlvira {
+    }
+    serviceid NaturalBrownCrysta {
+    }
+    number EuropeanBronzeCon {
+    }
+    string IncCrimsonErma2 {
+    }
+  }
+  serviceid_number AccessibleOrangeMarilee3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AlliedPlumMissie {
+    _hidden_value = true
+  }
+  number ScaredSapphireRahel3 {
+    _hidden_value = true
+  }
+  dummy.StrategicIndigoJehanna EvilAzureBili {
+    BrilliantGreenIlsa = "Whoever invented the knock-knock joke should get a no bell prize."
+    ImplicitSapphireRhea = 70
+    EmbarrassedAzureBibby = "What creature is smarter than a talking parrot? A spelling bee."
+    DarkTurquoiseTaryn = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ElectricalLavenderKerrie = 647
+    GorgeousVioletUrsola = 746
+    ContemporaryFuchsiaGeorgianna = 171
+    _hidden_value = true
+  }
+  json FatVioletTrix3 {
+    _hidden_value = true
+  }
+  json FederalGrayHally2 {
+    _hidden_value = true
+  }
+  json SemanticRedNinnette {
+    _hidden_value = true
+  }
+  boolean ConservativeCoralEllene {
+    _hidden_value = true
+  }
+  serviceid_number MagnificentWhiteVanya {
+    _hidden_value = true
+  }
+  hidden_boolean AmusedBeigeCacilie2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean TenderRedOdelia2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid YoungAmethystAndee {
+    _hidden_value = true
+  }
+  hidden_boolean GothicSapphireRamonda {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean RemarkableGreenHortensia3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number IndirectPeachMary2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT NotablePeachMartie {
+    _hidden_value = true
+  }
+  "List<boolean>" VisibleIndigoJill {
+    _hidden_value = true
+  }
+  serviceid HolyIndigoJelene2 {
+    _hidden_value = true
+  }
+  serviceid LonelyOliveLyn3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HealthyBlackCarolee3 {
+    _hidden_value = true
+  }
+  number CombinedOliveMaible2 {
+    _hidden_value = true
+  }
+  hidden_boolean SpecificChocolateDarcee {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ToxicSalmonPhedra {
+    _hidden_value = true
+  }
+  NegativeFuchsiaGates2 = true
+  EstimatedOrangeMargit2 = 257
+  SquareAmberAlvira = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  NaturalBrownCrysta = "Why didnt the skeleton cross the road? Because he had no guts."
+  EuropeanBronzeCon = 246
+  IncCrimsonErma2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

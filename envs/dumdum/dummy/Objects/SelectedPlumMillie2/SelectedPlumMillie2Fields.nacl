@@ -1,0 +1,35 @@
+type dummy.SelectedPlumMillie2 {
+  string AlternativeEmeraldFionna2 {
+  }
+  serviceid ConvenientMagentaLeena2 {
+  }
+  serviceid WeirdSilverRoze3 {
+  }
+  hidden_boolean GreekIndigoJoana2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean EndlessPeachMarji5 {
+  }
+  boolean OutrageousAzureBreanne4 {
+  }
+  serviceid_number ReluctantMagentaLeeann3 {
+  }
+  serviceid RealBlushClarine3 {
+  }
+  boolean StrongBronzeColline {
+  }
+  json SovietChocolateDari5 {
+  }
+  serviceid UnevenAquamarineBee2 {
+  }
+  number NumerousAmethystAngelia4 {
+  }
+  serviceid_number NervousHarlequinJaquelin4 {
+  }
+  string SoleLimeKirstyn3 {
+  }
+  string KoreanSapphireRasla5 {
+  }
+}

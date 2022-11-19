@@ -1,0 +1,73 @@
+type dummy.RapidGrayHildagarde2 {
+  annotations {
+    string CleverTealSibel {
+    }
+    serviceid_number DrabTurquoiseTasha2 {
+    }
+    string DisappointedMagentaLaurie {
+    }
+    dummy.ModernTealStafani TinyAmaranthAgnes2 {
+    }
+    json IntegratedOliveMaegan {
+    }
+  }
+  number LittleAmaranthAdelle {
+    _hidden_value = true
+  }
+  serviceid WrongTomatoSybille {
+    _hidden_value = true
+  }
+  boolean AmusedBeigeCacilia2 {
+    _hidden_value = true
+  }
+  string RisingScarletRoselle2 {
+    _hidden_value = true
+  }
+  number LongAmethystAme {
+    _hidden_value = true
+  }
+  boolean ExclusiveMagentaLatisha {
+    _hidden_value = true
+  }
+  serviceid_number IdenticalLimeKorry {
+    _hidden_value = true
+  }
+  string AtomicScarletRory {
+    _hidden_value = true
+  }
+  boolean ApparentCyanFawn2 {
+    _hidden_value = true
+  }
+  string ProvincialPeachMaritsa {
+    _hidden_value = true
+  }
+  string MaximumGreenIlyse {
+    _hidden_value = true
+  }
+  string OrdinaryCopperEdi {
+    _hidden_value = true
+  }
+  boolean CircularRoseOrsa {
+    _hidden_value = true
+  }
+  "List<number>" AccusedSilverSally2 {
+    _hidden_value = true
+  }
+  hidden_boolean DistinctHarlequinJanella2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string UninterestedTomatoSusie {
+    _hidden_value = true
+  }
+  number BlueVioletTori2 {
+    _hidden_value = true
+  }
+  CleverTealSibel = "Dad Im hungry  Hi hungry Im dad"
+  DrabTurquoiseTasha2 = 526
+  DisappointedMagentaLaurie = "Why is Peter Pan always flying? Because he Neverlands."
+  TinyAmaranthAgnes2 = false
+  IntegratedOliveMaegan = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

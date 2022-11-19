@@ -1,0 +1,25 @@
+type dummy.ChineseGoldGuglielma2 {
+  annotations {
+    boolean ClumsyVioletTraci3 {
+    }
+    serviceid ShrillApricotAntoinette2 {
+    }
+    hidden_boolean AncientAmethystAmabelle3 {
+    }
+    boolean IslamicRoseOlympe {
+    }
+    number CombativeAquamarineBerte2 {
+    }
+    boolean RetiredSilverSaraann {
+    }
+  }
+  "List<serviceid>" TrickyYellowYolanthe2 {
+    _hidden_value = true
+  }
+  ClumsyVioletTraci3 = false
+  ShrillApricotAntoinette2 = "Why is Peter Pan always flying? Because he Neverlands."
+  IslamicRoseOlympe = true
+  CombativeAquamarineBerte2 = 284
+  RetiredSilverSaraann = false
+  _hidden_value = true
+}

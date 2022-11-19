@@ -1,0 +1,99 @@
+type dummy.DarkTomatoTarah {
+  annotations {
+    hidden_boolean FlatGrayHannis {
+    }
+    json HelplessAzureBlanche2 {
+    }
+    hidden_boolean RoundAmberAlmeta {
+    }
+    serviceid_number AgreeableBeigeBunni3 {
+    }
+    hidden_boolean BoringPeachMarni {
+    }
+    serviceid_number UniversalJadeKacey {
+    }
+  }
+  "List<number>" CasualOliveLurline2 {
+    _hidden_value = true
+  }
+  boolean InclinedRedNovelia {
+    _hidden_value = true
+  }
+  hidden_boolean OtherBlueCeline {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid BitterJadeKasey {
+    _hidden_value = true
+  }
+  boolean ConservativeCoralEllen2 {
+    _hidden_value = true
+  }
+  serviceid WittyBlueCeil3 {
+    _hidden_value = true
+  }
+  hidden_boolean CourageousBeigeCamille2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json YellowGoldGiustina {
+    _hidden_value = true
+  }
+  hidden_boolean WealthyPeachMaryanne {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string BriefAmethystAmalita {
+    _hidden_value = true
+  }
+  serviceid PassingSalmonPolly2 {
+    _hidden_value = true
+  }
+  dummy.FamousCoralElianora GiganticAmaranthAdan {
+    ShinyTurquoiseTiff = 985
+    RelativeGoldGuillema = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    OkSapphireRhianna = 330
+    StupidTomatoSusan = "I'll tell you what often gets over looked... garden fences."
+    EarlyAmethystAmanda = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    UncertainMagentaLela = "Why did the tomato blush? Because it saw the salad dressing."
+    UpsetOliveLyssa = "Dad Im hungry  Hi hungry Im dad"
+    WorryingSilverRozamond2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    FatIvoryJoelle = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    PlasticAquaAuria = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    _hidden_value = true
+  }
+  hidden_boolean ZanyBlueCelia2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid HistoricalCyanEvangelia {
+    _hidden_value = true
+  }
+  json UnconsciousSapphireRay2 {
+    _hidden_value = true
+  }
+  string IcyAquaAugusta {
+    _hidden_value = true
+  }
+  hidden_boolean TameTomatoSusanne2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string KindBlackCaryn2 {
+    _hidden_value = true
+  }
+  boolean ShakyAquaBab2 {
+    _hidden_value = true
+  }
+  HelplessAzureBlanche2 = "Why was it called the dark ages? Because of all the knights. "
+  AgreeableBeigeBunni3 = 193
+  UniversalJadeKacey = 407
+  _hidden_value = true
+}

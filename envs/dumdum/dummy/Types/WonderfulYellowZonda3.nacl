@@ -1,0 +1,34 @@
+type dummy.WonderfulYellowZonda3 {
+  annotations {
+    json SquealingApricotAprilette2 {
+    }
+    serviceid ArtificialMagentaLena {
+    }
+    boolean ComplicatedIndigoJoanie {
+    }
+    serviceid MilitaryChocolateDarline4 {
+    }
+  }
+  hidden_boolean SocialBlueCharmion2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json ProvincialPeachMarita {
+    _hidden_value = true
+  }
+  string AbsoluteGreenImojean4 {
+    _hidden_value = true
+  }
+  string WrongBrownCristabel2 {
+    _hidden_value = true
+  }
+  json DepressedAzureBettina2 {
+    _hidden_value = true
+  }
+  SquealingApricotAprilette2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ArtificialMagentaLena = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ComplicatedIndigoJoanie = false
+  MilitaryChocolateDarline4 = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

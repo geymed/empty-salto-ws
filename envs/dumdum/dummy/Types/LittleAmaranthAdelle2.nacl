@@ -1,0 +1,59 @@
+type dummy.LittleAmaranthAdelle2 {
+  annotations {
+    boolean WesternChocolateDeerdre2 {
+    }
+    boolean EnthusiasticPinkMerrie {
+    }
+    serviceid AccusedSilverSallyanne {
+    }
+    string WeirdSilverRozele {
+    }
+    boolean VoluntaryGoldGwenni {
+    }
+  }
+  hidden_boolean SleepyTomatoSukey2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string LightCopperDulciana {
+    _hidden_value = true
+  }
+  number CharacteristicOliveMalinda {
+    _hidden_value = true
+  }
+  boolean UptightBeigeBrittne {
+    _hidden_value = true
+  }
+  serviceid_number MinimalPlumMorgen {
+    _hidden_value = true
+  }
+  json KindVioletValma {
+    _hidden_value = true
+  }
+  hidden_boolean DecisiveSalmonPepi {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number JollyBlackCarri {
+    _hidden_value = true
+  }
+  string LongAmaranthAdiana4 {
+    _hidden_value = true
+  }
+  hidden_boolean UncomfortablePlumModestine {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid SuperTomatoSusanetta2 {
+    _hidden_value = true
+  }
+  WesternChocolateDeerdre2 = false
+  EnthusiasticPinkMerrie = false
+  AccusedSilverSallyanne = "My first time using an elevator was an uplifting experience. The second time let me down."
+  WeirdSilverRozele = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  VoluntaryGoldGwenni = true
+  _hidden_value = true
+}

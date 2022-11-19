@@ -1,0 +1,42 @@
+type dummy.MightyTanShandra is boolean {
+  annotations {
+    boolean InterestingChocolateDelphinia {
+    }
+    json SuccessiveMoccasinLola {
+    }
+    serviceid LoyalPurpleNatala {
+    }
+    serviceid ScaredSapphireRahel {
+    }
+    number FiscalRedNiki {
+    }
+    json DependentGrayHeath {
+    }
+    serviceid GoodBlueCelisse2 {
+    }
+    number NativeJadeKate {
+    }
+    boolean PassingSalmonPippy {
+    }
+    hidden_boolean CombativeAquamarineBerta {
+    }
+    boolean HelplessAzureBlanche {
+    }
+    string BurningRedNikkie {
+    }
+    boolean CatholicHarlequinJamie {
+    }
+  }
+  InterestingChocolateDelphinia = true
+  SuccessiveMoccasinLola = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  LoyalPurpleNatala = "Why was it called the dark ages? Because of all the knights. "
+  ScaredSapphireRahel = "I'll tell you what often gets over looked... garden fences."
+  FiscalRedNiki = 713
+  DependentGrayHeath = "Whoever invented the knock-knock joke should get a no bell prize."
+  GoodBlueCelisse2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  NativeJadeKate = 896
+  PassingSalmonPippy = false
+  HelplessAzureBlanche = false
+  BurningRedNikkie = "Im only familiar with 25 letters in the English language. I dont know why."
+  CatholicHarlequinJamie = false
+}

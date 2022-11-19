@@ -1,0 +1,62 @@
+type dummy.LowAmberAllyn {
+  annotations {
+    serviceid_number SupremeGreenIsabelita2 {
+    }
+    serviceid OfficialCopperDorita3 {
+    }
+    serviceid_number DutchLavenderKendre2 {
+    }
+    string RaspyApricotAnnnora2 {
+    }
+    serviceid_number WeeSapphireRetha {
+    }
+  }
+  serviceid MightyTanShandeigh {
+    _hidden_value = true
+  }
+  boolean HappyBrownDaisey4 {
+    _hidden_value = true
+  }
+  json OpenTealStarr3 {
+    _hidden_value = true
+  }
+  boolean CheerfulBeigeCally2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FlakyAmberAlfy5 {
+    _hidden_value = true
+  }
+  number ProudHarlequinJanaya2 {
+    _hidden_value = true
+  }
+  json HandicappedTanShannon5 {
+    _hidden_value = true
+  }
+  boolean SeriousBrownDani3 {
+    _hidden_value = true
+  }
+  number WeakFuchsiaGayle2 {
+    _hidden_value = true
+  }
+  json ArmedGrayHelaina {
+    _hidden_value = true
+  }
+  number RelevantCoffeeDoralin3 {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" RainyAquaAurore {
+    _hidden_value = true
+  }
+  number PersistentRosePam2 {
+    _hidden_value = true
+  }
+  serviceid_number LargeAmaranthAdelina {
+    _hidden_value = true
+  }
+  SupremeGreenIsabelita2 = 2
+  OfficialCopperDorita3 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  DutchLavenderKendre2 = 866
+  RaspyApricotAnnnora2 = "Why did the tomato blush? Because it saw the salad dressing."
+  WeeSapphireRetha = 197
+  _hidden_value = true
+}

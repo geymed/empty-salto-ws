@@ -1,0 +1,98 @@
+type dummy.RollingSilverRubia {
+  annotations {
+    serviceid_number CapitalistMagentaLayne2 {
+    }
+    json SensitiveGrayHelyn {
+    }
+    string StickyAquaArlyn3 {
+    }
+    serviceid EstablishedMagentaLeigha {
+    }
+    hidden_boolean DeafIvoryJosy {
+    }
+    serviceid_number NecessaryBronzeCorabel {
+    }
+    serviceid WickedBeigeBryana {
+    }
+  }
+  number HungryAzureBlithe {
+    _hidden_value = true
+  }
+  serviceid_number SplendidOrangeMandi {
+    _hidden_value = true
+  }
+  hidden_boolean InnovativeTanSheelah2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number NiceWhiteVi2 {
+    _hidden_value = true
+  }
+  serviceid_number EuropeanBronzeConcordia {
+    _hidden_value = true
+  }
+  string DiplomaticMagentaLenore {
+    _hidden_value = true
+  }
+  serviceid_number ActualCopperEbony {
+    _hidden_value = true
+  }
+  hidden_boolean RuralCoralElsa2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SpiritualLavenderKatrine2 {
+    _hidden_value = true
+  }
+  serviceid_number GrimScarletRonnica3 {
+    _hidden_value = true
+  }
+  string LiberalCyanFarand2 {
+    _hidden_value = true
+  }
+  boolean MereGreenIlene {
+    _hidden_value = true
+  }
+  number ColourfulScarletRosaleen4 {
+    _hidden_value = true
+  }
+  serviceid ResidentSalmonRaeann2 {
+    _hidden_value = true
+  }
+  serviceid_number InquisitiveTealStacie {
+    _hidden_value = true
+  }
+  serviceid HorribleOrangeMaressa {
+    _hidden_value = true
+  }
+  number EmptyCyanFancy {
+    _hidden_value = true
+  }
+  number ThinCyanEvania2 {
+    _hidden_value = true
+  }
+  number StrictLavenderKatharine {
+    _hidden_value = true
+  }
+  string EasyBronzeCollette2 {
+    _hidden_value = true
+  }
+  serviceid_number ShinyTurquoiseTiffanie {
+    _hidden_value = true
+  }
+  string StructuralIvoryJosey2 {
+    _hidden_value = true
+  }
+  boolean BitterJadeKaryn2 {
+    _hidden_value = true
+  }
+  CapitalistMagentaLayne2 = 710
+  SensitiveGrayHelyn = "Whoever invented the knock-knock joke should get a no bell prize."
+  StickyAquaArlyn3 = "Why is Peter Pan always flying? Because he Neverlands."
+  EstablishedMagentaLeigha = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  NecessaryBronzeCorabel = 130
+  WickedBeigeBryana = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

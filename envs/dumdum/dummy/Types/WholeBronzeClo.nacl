@@ -1,0 +1,63 @@
+type dummy.WholeBronzeClo {
+  annotations {
+    serviceid_number UnpleasantRedNonnah3 {
+    }
+    string CompleteCoffeeDevon4 {
+    }
+    boolean FantasticSapphireRegine4 {
+    }
+    dummy.FamousCoralElianora BackMoccasinLoni3 {
+    }
+    string EnglishBrownCrissie2 {
+    }
+  }
+  serviceid OlympicRedNerty2 {
+    _hidden_value = true
+  }
+  number ContinuousIvoryJsandye2 {
+    _hidden_value = true
+  }
+  number CircularRoseOrsa7 {
+    _hidden_value = true
+  }
+  number LikelyBlushClari2 {
+    _hidden_value = true
+  }
+  json CorrespondingPlumMinny4 {
+    _hidden_value = true
+  }
+  boolean FatIvoryJoella2 {
+    _hidden_value = true
+  }
+  dummy.FollowingBrownCynthia WittyBlueCecily2 {
+    SoftCoralElana = "Whoever invented the knock-knock joke should get a no bell prize."
+    InherentRedNoami = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    PleasantBlueCathe = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    PlasticAquaAurelia = "Why did the tomato blush? Because it saw the salad dressing."
+    BriefAmethystAmaleta = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    RuralCoralElsa = "Dad Im hungry  Hi hungry Im dad"
+    GoverningTanSena = 409
+    GrievingAzureBlanca = "Did you know that protons have mass? I didn't even know they were catholic."
+    PricklyWhiteVittoria = 791
+    ScatteredAquaAveryl = "I'll tell you what often gets over looked... garden fences."
+    ItchyVioletValentina = {
+      legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    }
+    _hidden_value = true
+  }
+  hidden_boolean WetGrayHedvig {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  UnpleasantRedNonnah3 = 279
+  CompleteCoffeeDevon4 = "What creature is smarter than a talking parrot? A spelling bee."
+  FantasticSapphireRegine4 = true
+  BackMoccasinLoni3 = 383
+  EnglishBrownCrissie2 = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

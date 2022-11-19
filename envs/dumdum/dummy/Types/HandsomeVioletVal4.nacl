@@ -1,0 +1,42 @@
+type dummy.HandsomeVioletVal4 {
+  annotations {
+    serviceid_number ProfoundPinkMerlina4 {
+    }
+    json EvolutionarySilverRuth2 {
+    }
+    serviceid CooperativeBeigeCamile3 {
+    }
+    serviceid HugeCoffeeDoralynn3 {
+    }
+    hidden_boolean CentralBronzeConni4 {
+    }
+    serviceid_number AngryFuchsiaGillan {
+    }
+  }
+  serviceid_number ImperialLavenderKatey2 {
+    _hidden_value = true
+  }
+  json DevotedRosePauletta3 {
+    _hidden_value = true
+  }
+  json BoredPlumMora3 {
+    _hidden_value = true
+  }
+  hidden_boolean OriginalChocolateDarrelle {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean CircularRoseOrsa4 {
+    _hidden_value = true
+  }
+  number QualifiedPinkMellie3 {
+    _hidden_value = true
+  }
+  ProfoundPinkMerlina4 = 92
+  EvolutionarySilverRuth2 = "Why did the tomato blush? Because it saw the salad dressing."
+  CooperativeBeigeCamile3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  HugeCoffeeDoralynn3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  AngryFuchsiaGillan = 316
+  _hidden_value = true
+}

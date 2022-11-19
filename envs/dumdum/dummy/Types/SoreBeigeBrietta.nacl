@@ -1,0 +1,56 @@
+type dummy.SoreBeigeBrietta {
+  annotations {
+    hidden_boolean PreciseIndigoJoby2 {
+    }
+    hidden_boolean AttractiveCyanFianna {
+    }
+    serviceid UselessRedNinetta {
+    }
+    number RelevantCoffeeDora4 {
+    }
+    number HeavyAmethystAndromache2 {
+    }
+    boolean GlobalGrayHermina {
+    }
+  }
+  json DistantIndigoJillian3 {
+    _hidden_value = true
+  }
+  serviceid TotalBrownDanice {
+    _hidden_value = true
+  }
+  string QuietWhiteViviene {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" CrowdedTomatoTani {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SacredRedNorina {
+    _hidden_value = true
+  }
+  serviceid FuriousRedNicoline {
+    _hidden_value = true
+  }
+  json HelpfulHarlequinJanette3 {
+    _hidden_value = true
+  }
+  string OutstandingTealSteffane {
+    _hidden_value = true
+  }
+  string ProfitablePurpleNanon2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ObligedOrangeMarcelle2 {
+    _hidden_value = true
+  }
+  boolean PoorBronzeCorene {
+    _hidden_value = true
+  }
+  UselessRedNinetta = "What do you call two barracuda fish?  A Pairacuda!"
+  RelevantCoffeeDora4 = 768
+  HeavyAmethystAndromache2 = 868
+  GlobalGrayHermina = true
+  _hidden_value = true
+}

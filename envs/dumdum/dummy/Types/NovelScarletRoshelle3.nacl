@@ -1,0 +1,67 @@
+type dummy.NovelScarletRoshelle3 {
+  annotations {
+    dummy.DEFAULT IndependentChocolateDelly {
+    }
+    hidden_boolean EmbarrassedAzureBibby4 {
+    }
+    number FaithfulTanShayne {
+    }
+    serviceid_number ColdAmaranthAime2 {
+    }
+    boolean ThenSalmonPhoebe {
+    }
+    dummy.DEFAULT TightAquamarineBecki2 {
+    }
+  }
+  json DependentGrayHeather {
+    _hidden_value = true
+  }
+  serviceid UnfairMaroonLilia3 {
+    _hidden_value = true
+  }
+  boolean HighBlueCharisse2 {
+    _hidden_value = true
+  }
+  number DualSapphireRhetta3 {
+    _hidden_value = true
+  }
+  boolean ObligedOrangeMarcelline2 {
+    _hidden_value = true
+  }
+  string StatutoryGrayHatti4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT StormyTurquoiseTimmi2 {
+    _hidden_value = true
+  }
+  number AliveFuchsiaGillie4 {
+    _hidden_value = true
+  }
+  serviceid_number MultipleLimeKip2 {
+    _hidden_value = true
+  }
+  serviceid_number LevelJadeKamilah3 {
+    _hidden_value = true
+  }
+  boolean EducationalCrimsonEryn3 {
+    _hidden_value = true
+  }
+  hidden_boolean ExactLimeKorella {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean NiceBrownCybill2 {
+    _hidden_value = true
+  }
+  IndependentChocolateDelly = {
+    legit = "How come the stadium got hot after the game? Because all of the fans left."
+  }
+  FaithfulTanShayne = 348
+  ColdAmaranthAime2 = 907
+  ThenSalmonPhoebe = false
+  TightAquamarineBecki2 = {
+    legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  _hidden_value = true
+}

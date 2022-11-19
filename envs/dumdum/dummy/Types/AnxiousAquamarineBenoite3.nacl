@@ -1,0 +1,56 @@
+type dummy.AnxiousAquamarineBenoite3 {
+  annotations {
+    number AbstractMaroonLind2 {
+    }
+    serviceid_number SuccessfulBlueCatlin2 {
+    }
+    boolean ChronicOliveMallissa2 {
+    }
+    dummy.DEFAULT ChubbyAmberAlina2 {
+    }
+    hidden_boolean ArmedGrayHeidi2 {
+    }
+    boolean VastEmeraldFreddi2 {
+    }
+  }
+  serviceid ExistingCoffeeDeva {
+    _hidden_value = true
+  }
+  string SelfishBeigeBridgette3 {
+    _hidden_value = true
+  }
+  json PayableOrangeMarcia3 {
+    _hidden_value = true
+  }
+  serviceid GenuineGreenIsidora3 {
+    _hidden_value = true
+  }
+  boolean SurprisingGreenIanthe2 {
+    _hidden_value = true
+  }
+  json ColdChocolateDebby3 {
+    _hidden_value = true
+  }
+  string DoubleCrimsonEthelyn {
+    _hidden_value = true
+  }
+  boolean GracefulTurquoiseTerri3 {
+    _hidden_value = true
+  }
+  hidden_boolean TropicalOliveLydie2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid SpecificBrownDarb2 {
+    _hidden_value = true
+  }
+  AbstractMaroonLind2 = 498
+  SuccessfulBlueCatlin2 = 700
+  ChronicOliveMallissa2 = true
+  ChubbyAmberAlina2 = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  VastEmeraldFreddi2 = true
+  _hidden_value = true
+}

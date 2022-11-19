@@ -1,0 +1,74 @@
+type dummy.RespectableRosePearla5 {
+  annotations {
+    serviceid MeaningfulTanShena5 {
+    }
+    string FunOrangeMarcy3 {
+    }
+    boolean HotAquaAudrey2 {
+    }
+    boolean ScatteredAquaAveline {
+    }
+    hidden_boolean GeneralBlushChristen {
+    }
+    hidden_boolean WiseLavenderKatherina {
+    }
+  }
+  number ImpressedPeachMarissa2 {
+    _hidden_value = true
+  }
+  hidden_boolean ModeratePurpleNatalina3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ConfusedMaroonLil3 {
+    _hidden_value = true
+  }
+  number LowBlushChristy4 {
+    _hidden_value = true
+  }
+  serviceid_number RadicalGrayHelen2 {
+    _hidden_value = true
+  }
+  serviceid EvilAzureBili3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GreasyAquaAubrette3 {
+    _hidden_value = true
+  }
+  hidden_boolean WelshGrayHazel2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT GreatVioletTybie2 {
+    _hidden_value = true
+  }
+  "Map<number>" NecessaryBronzeCora2 {
+    _hidden_value = true
+  }
+  hidden_boolean WrongTomatoSybilla4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json VitalEmeraldFifine3 {
+    _hidden_value = true
+  }
+  string BriefAmethystAmalie {
+    _hidden_value = true
+  }
+  hidden_boolean AdverseSapphireRaquel3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string PleasantIvoryJoscelin3 {
+    _hidden_value = true
+  }
+  MeaningfulTanShena5 = "What do you call two barracuda fish?  A Pairacuda!"
+  FunOrangeMarcy3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  HotAquaAudrey2 = true
+  ScatteredAquaAveline = false
+  _hidden_value = true
+}

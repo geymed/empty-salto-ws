@@ -1,0 +1,77 @@
+type dummy.StingyYellowWinna3 {
+  annotations {
+    number RelatedIndigoJessalin3 {
+    }
+    string DeadBrownDarb {
+    }
+    dummy.DEFAULT RottenApricotArlana2 {
+    }
+    hidden_boolean LooseIvoryJulienne3 {
+    }
+    serviceid_number LiveIndigoJodie2 {
+    }
+  }
+  hidden_boolean ProvincialPeachMariya3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean DefensiveRoseOneida3 {
+    _hidden_value = true
+  }
+  boolean LowAmberAllyn3 {
+    _hidden_value = true
+  }
+  boolean ChineseGoldGuenna3 {
+    _hidden_value = true
+  }
+  serviceid_number HissingApricotAnnmarie5 {
+    _hidden_value = true
+  }
+  serviceid_number JudicialJadeKarissa2 {
+    _hidden_value = true
+  }
+  json RedBrownDaloris2 {
+    _hidden_value = true
+  }
+  number AgriculturalGoldGoldie {
+    _hidden_value = true
+  }
+  string LittleAmaranthAdella3 {
+    _hidden_value = true
+  }
+  serviceid KeyCopperDorothy4 {
+    _hidden_value = true
+  }
+  boolean ObnoxiousAzureBrandie {
+    _hidden_value = true
+  }
+  string MaximumGreenImogen2 {
+    _hidden_value = true
+  }
+  json TopChocolateDarell2 {
+    _hidden_value = true
+  }
+  number OldBlueChandra4 {
+    _hidden_value = true
+  }
+  json WorriedBeigeBrynna {
+    _hidden_value = true
+  }
+  number UncertainMagentaLelia2 {
+    _hidden_value = true
+  }
+  string ConceptualTanShelagh3 {
+    _hidden_value = true
+  }
+  json MarineMagentaLeone5 {
+    _hidden_value = true
+  }
+  RelatedIndigoJessalin3 = 859
+  DeadBrownDarb = "Slept like a log last night  woke up in the fireplace."
+  RottenApricotArlana2 = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  LiveIndigoJodie2 = 651
+  _hidden_value = true
+}

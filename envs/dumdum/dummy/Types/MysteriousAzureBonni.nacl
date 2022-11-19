@@ -1,0 +1,56 @@
+type dummy.MysteriousAzureBonni {
+  annotations {
+    boolean ReliableLavenderKimberlee {
+    }
+    hidden_boolean AssistantOliveLynnelle {
+    }
+    number OkSapphireRhoda2 {
+    }
+    serviceid_number InterestedCoffeeDierdre {
+    }
+    json FriendlyGoldGunilla {
+    }
+  }
+  dummy.DEFAULT AddedPinkMelinde2 {
+    _hidden_value = true
+  }
+  hidden_boolean EligiblePurpleNeile {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid PlasticAquaAurelie {
+    _hidden_value = true
+  }
+  serviceid FashionableSapphireRenae {
+    _hidden_value = true
+  }
+  dummy.ShallowAmberAloysia SquareAmberAlverta {
+    NiceWhiteVi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    VisibleIndigoJillayne = true
+    PreparedCyanFelicia = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    BlushingTomatoTalyah = 118
+    RedundantSalmonPhilis = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    LivelyPeachMarylin = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    _hidden_value = true
+  }
+  number FancyTurquoiseTedra {
+    _hidden_value = true
+  }
+  json ExceptionalOliveMadlen {
+    _hidden_value = true
+  }
+  dummy.BrightTomatoTamara TechnologicalOrangeMaribel {
+    UsedFuchsiaGeorgena = 507
+    MolecularRedNerte2 = 991
+    LongVioletVanessa = 367
+    _hidden_value = true
+  }
+  ReliableLavenderKimberlee = true
+  OkSapphireRhoda2 = 356
+  InterestedCoffeeDierdre = 284
+  FriendlyGoldGunilla = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

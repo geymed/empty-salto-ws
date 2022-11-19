@@ -1,0 +1,35 @@
+type dummy.EldestTanSharline {
+  annotations {
+    json SensitiveGrayHendrika {
+    }
+    boolean ElectronicGreenIngaberg {
+    }
+    string ManyWhiteVera {
+    }
+    json UninterestedTomatoSusie2 {
+    }
+    number HugeAmaranthAdel2 {
+    }
+  }
+  json CombinedOliveMaiga2 {
+    _hidden_value = true
+  }
+  json PleasantBlackCatha {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" LiableLimeKimbra2 {
+    _hidden_value = true
+  }
+  json AlrightGoldGoldina2 {
+    _hidden_value = true
+  }
+  string SevereEmeraldGabrielle {
+    _hidden_value = true
+  }
+  SensitiveGrayHendrika = "Why didnt the skeleton cross the road? Because he had no guts."
+  ElectronicGreenIngaberg = true
+  ManyWhiteVera = "Why didnt the skeleton cross the road? Because he had no guts."
+  UninterestedTomatoSusie2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  HugeAmaranthAdel2 = 385
+  _hidden_value = true
+}

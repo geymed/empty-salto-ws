@@ -1,0 +1,67 @@
+type dummy.WelcomeIvoryJosy {
+  "List<hidden_boolean>" SickFuchsiaGeraldine {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  "List<boolean>" DomesticCopperEartha {
+  }
+  boolean OrdinaryCopperEdie2 {
+  }
+  hidden_boolean ShaggyAquaAvivah4 {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  boolean FreeBronzeColeen4 {
+  }
+  dummy.MightyTanShandy DullVioletTrix {
+    FrequentLavenderKati4 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    LivelyPeachMarylinda2 = "Whoever invented the knock-knock joke should get a no bell prize."
+    MightyWhiteVerena4 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    EvilPeachMaurita3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    EnchantingBlackCarena3 = {
+      legit = "Why did the tomato blush? Because it saw the salad dressing."
+    }
+    AtomicScarletRorie3 = true
+  }
+  number SocialistHarlequinJacquenette3 {
+  }
+  boolean ExpectedLimeLanette3 {
+  }
+  serviceid_number FriendlyBlackCarma4 {
+  }
+  boolean ArtisticPeachMatelda2 {
+  }
+  json ApparentCyanFawn3 {
+  }
+  dummy.RequiredMaroonLeticia2 PsychologicalIvoryJolee7 {
+    DoubtfulTealSimonne = true
+    AshamedAquamarineBernardina = 824
+    JapaneseCyanFianna3 = true
+    NeutralPeachMarysa = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  serviceid_number StrongBronzeCollie3 {
+  }
+  number DisabledHarlequinJanifer3 {
+  }
+  dummy.FollowingBrownCynthia SubjectiveSapphireRiannon5 {
+    SoftCoralElana = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    InherentRedNoami = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    PleasantBlueCathe = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    PlasticAquaAurelia = "Did you know that protons have mass? I didn't even know they were catholic."
+    BriefAmethystAmaleta = "Why was it called the dark ages? Because of all the knights. "
+    RuralCoralElsa = "Why was it called the dark ages? Because of all the knights. "
+    GoverningTanSena = 396
+    GrievingAzureBlanca = "Why didnt the skeleton cross the road? Because he had no guts."
+    PricklyWhiteVittoria = 155
+    ScatteredAquaAveryl = "How come the stadium got hot after the game? Because all of the fans left."
+    ItchyVioletValentina = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+  }
+}

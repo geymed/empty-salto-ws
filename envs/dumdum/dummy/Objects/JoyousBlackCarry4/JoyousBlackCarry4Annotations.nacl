@@ -1,0 +1,60 @@
+type dummy.JoyousBlackCarry4 {
+  annotations {
+    dummy.MinisterialTanSheelagh HelplessAzureBlancha2 {
+    }
+    boolean ExoticScarletRina4 {
+    }
+    serviceid_number DangerousAzureBethina3 {
+    }
+    serviceid_number EvolutionarySilverRuth3 {
+    }
+    boolean WarmCopperDulcy {
+    }
+    hidden_boolean ParallelMoccasinLuisa4 {
+    }
+    serviceid OrthodoxSapphireRebeca {
+    }
+    dummy.UnchangedSilverRubetta3 MedievalJadeKaree6 {
+    }
+    number RuralCoralElsbeth {
+    }
+    boolean SweetGreenHollie3 {
+    }
+    number KnownMaroonLettie4 {
+    }
+    json MiniatureAmaranthAdriane2 {
+    }
+    string BrightTomatoTamera3 {
+    }
+    json PatientPurpleNani3 {
+    }
+    dummy.StaleAquaArlina FormalCoralElka5 {
+    }
+    serviceid_number HeadPinkMegan2 {
+    }
+    boolean KindBlackCarry {
+    }
+    serviceid BreakableTealShirl3 {
+    }
+    boolean SlightGoldGwenore4 {
+    }
+    hidden_boolean PhilosophicalRedNoell2 {
+    }
+  }
+  ExoticScarletRina4 = true
+  DangerousAzureBethina3 = 829
+  EvolutionarySilverRuth3 = 177
+  WarmCopperDulcy = true
+  OrthodoxSapphireRebeca = "Im only familiar with 25 letters in the English language. I dont know why."
+  RuralCoralElsbeth = 603
+  SweetGreenHollie3 = true
+  KnownMaroonLettie4 = 43
+  MiniatureAmaranthAdriane2 = "What do you call two barracuda fish?  A Pairacuda!"
+  BrightTomatoTamera3 = "A steak pun is a rare medium well done."
+  PatientPurpleNani3 = "What do you call two barracuda fish?  A Pairacuda!"
+  FormalCoralElka5 = false
+  HeadPinkMegan2 = 711
+  KindBlackCarry = false
+  BreakableTealShirl3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SlightGoldGwenore4 = true
+}

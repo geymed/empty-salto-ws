@@ -1,0 +1,127 @@
+type dummy.ExcitedOrangeMarion {
+  annotations {
+    json GrubbyAquaAubry {
+    }
+    string AdverseSapphireRanna {
+    }
+    serviceid MobilePurpleMorissa {
+    }
+    string PastCoffeeDianna2 {
+    }
+    serviceid_number RisingScarletRosemarie2 {
+    }
+  }
+  dummy.BoilingAmaranthAgneta AnnualCoffeeDonni4 {
+    PuzzledTanShandy = 891
+    ConservationPlumMoira2 = "Why is Peter Pan always flying? Because he Neverlands."
+    CuriousLimeKirby = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    EmbarrassedAzureBianka = "Whoever invented the knock-knock joke should get a no bell prize."
+    TiredGoldGretal = 545
+    DemocraticCrimsonEngracia = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    AcceptedTanShae = "Im only familiar with 25 letters in the English language. I dont know why."
+    ExistingCoffeeDesirae = "Whoever invented the knock-knock joke should get a no bell prize."
+    SunnyTanSharl = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    UnconsciousSapphireRaven = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    FellowIvoryJustina = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    MereGreenIdette = 530
+    ColossalAmaranthAbby = true
+    CuddlyAmberAlanna = 175
+    UnnecessaryMoccasinLoraine = false
+    SpatialSalmonPerri = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    _hidden_value = true
+  }
+  number StraightHarlequinJami2 {
+    _hidden_value = true
+  }
+  serviceid AdditionalCopperDotty2 {
+    _hidden_value = true
+  }
+  json ComplexCopperDrucy3 {
+    _hidden_value = true
+  }
+  number GentleBlackCarmen2 {
+    _hidden_value = true
+  }
+  json ImprovedMagentaLaryssa3 {
+    _hidden_value = true
+  }
+  boolean ClumsyVioletTracey2 {
+    _hidden_value = true
+  }
+  "List<json>" VeryCoralElfreda2 {
+    _hidden_value = true
+  }
+  serviceid_number ClearTomatoTammi {
+    _hidden_value = true
+  }
+  hidden_boolean CompleteCoffeeDevina2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.AfraidAquamarineBenedetta NeatMoccasinLorine {
+    PrettyWhiteVirgina = false
+    WeeSapphireRevkah = "Whoever invented the knock-knock joke should get a no bell prize."
+    ManualRosePaola = "How come the stadium got hot after the game? Because all of the fans left."
+    InjuredScarletRosalind = "Why didnt the skeleton cross the road? Because he had no guts."
+    NosyWhiteVida2 = 467
+    FollowingBrownCynthea = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    CriminalFuchsiaGeorgette = "Why did the tomato blush? Because it saw the salad dressing."
+    WanderingTomatoSuzanne = "Whoever invented the knock-knock joke should get a no bell prize."
+    UnexpectedMagentaLaurella = true
+    TurkishPurpleMozelle = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    _hidden_value = true
+  }
+  serviceid_number ConfidentialScarletRodie {
+    _hidden_value = true
+  }
+  json MadHarlequinJanenna {
+    _hidden_value = true
+  }
+  dummy.AverageTomatoTabbitha GoverningTanSena2 {
+    LonelyAzureBobine = "Why did the tomato blush? Because it saw the salad dressing."
+    ComplexCopperDrucy = 458
+    DangerousCrimsonEssie = 805
+    FreshCopperDyanne = "I'll tell you what often gets over looked... garden fences."
+    DepressedAzureBetty = true
+    HiddenRedOdessa = 810
+    ProminentLavenderKelci = 656
+    ImmensePlumMirna = 439
+    NavalPinkMelamie = true
+    MysteriousAzureBobinette = 525
+    RenewedSilverSandy = true
+    PriorRosePauli = 683
+    EagerBeigeCandis = 157
+    _hidden_value = true
+  }
+  hidden_boolean DistantIndigoJillie2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean JollyVioletValina {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT EarlyBlushCherry {
+    _hidden_value = true
+  }
+  string ComparativePlumMitzi2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DryAmberAlexandrina2 {
+    _hidden_value = true
+  }
+  serviceid PsychologicalIvoryJojo {
+    _hidden_value = true
+  }
+  GrubbyAquaAubry = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  AdverseSapphireRanna = "Why is Peter Pan always flying? Because he Neverlands."
+  MobilePurpleMorissa = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  PastCoffeeDianna2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  RisingScarletRosemarie2 = 580
+  _hidden_value = true
+}

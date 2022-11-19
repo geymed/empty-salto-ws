@@ -1,0 +1,21 @@
+type dummy.WellFuchsiaGiralda {
+  annotations {
+    serviceid SafeCopperDoretta2 {
+    }
+    json ColonialPeachMaudie5 {
+    }
+    json DisastrousScarletRochelle2 {
+    }
+    hidden_boolean AnxiousHarlequinJanna2 {
+    }
+  }
+  hidden_boolean WetGrayHedi2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  SafeCopperDoretta2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ColonialPeachMaudie5 = "Im only familiar with 25 letters in the English language. I dont know why."
+  DisastrousScarletRochelle2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

@@ -1,0 +1,78 @@
+type dummy.NativeJadeKatalin {
+  annotations {
+    number BusyTealShirley2 {
+    }
+    number FashionableSapphireRena5 {
+    }
+    json ReasonableCrimsonEmelia2 {
+    }
+    serviceid RapidGrayHilda2 {
+    }
+    boolean PowerfulCopperDrona {
+    }
+    serviceid BrightVioletTracee {
+    }
+  }
+  string CoastalPlumMichaeline {
+    _hidden_value = true
+  }
+  string NegativeEmeraldGarnette {
+    _hidden_value = true
+  }
+  hidden_boolean RoundIvoryJohnath {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number NormalBrownDamara {
+    _hidden_value = true
+  }
+  hidden_boolean ActiveCopperDredi4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json DifficultTealSimona4 {
+    _hidden_value = true
+  }
+  hidden_boolean SilkyAquaBambi2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number DisabledHarlequinJanie3 {
+    _hidden_value = true
+  }
+  serviceid FreeBronzeCodie4 {
+    _hidden_value = true
+  }
+  serviceid_number DisturbedAzureBeverley {
+    _hidden_value = true
+  }
+  number EstimatedOrangeMargit3 {
+    _hidden_value = true
+  }
+  string DeterminedBeigeCandice3 {
+    _hidden_value = true
+  }
+  boolean ThinCyanEvania3 {
+    _hidden_value = true
+  }
+  hidden_boolean VictorianJadeKalinda2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean EasyTealSisely2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  BusyTealShirley2 = 690
+  FashionableSapphireRena5 = 970
+  ReasonableCrimsonEmelia2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  RapidGrayHilda2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  PowerfulCopperDrona = true
+  BrightVioletTracee = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

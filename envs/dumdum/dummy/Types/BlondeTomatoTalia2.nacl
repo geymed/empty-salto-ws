@@ -1,0 +1,28 @@
+type dummy.BlondeTomatoTalia2 {
+  annotations {
+    boolean RulingLimeKippie2 {
+    }
+    serviceid_number CrazyMoccasinLorrin {
+    }
+    number PreciousOrangeMarielle {
+    }
+    boolean LargeBlueCharlotte {
+    }
+    string RelativeGoldGui {
+    }
+    hidden_boolean AcceptableGrayHeloise {
+    }
+    serviceid_number InnerFuchsiaGenovera3 {
+    }
+  }
+  dummy.DEFAULT MonthlyMaroonLinette2 {
+    _hidden_value = true
+  }
+  RulingLimeKippie2 = false
+  CrazyMoccasinLorrin = 8
+  PreciousOrangeMarielle = 763
+  LargeBlueCharlotte = false
+  RelativeGoldGui = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  InnerFuchsiaGenovera3 = 280
+  _hidden_value = true
+}

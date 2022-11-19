@@ -1,0 +1,60 @@
+type dummy.WeakAquamarineBel {
+  annotations {
+    json BreakableTealShirl2 {
+    }
+    boolean CapableEmeraldFloris {
+    }
+    number UnawareSapphireRee {
+    }
+    json ParliamentaryFuchsiaGertrude {
+    }
+    json ConceptualTanShelagh2 {
+    }
+    dummy.DEFAULT WetAquamarineBella2 {
+    }
+  }
+  number FreshApricotArdyce2 {
+    _hidden_value = true
+  }
+  serviceid JoyousBlackCarrissa2 {
+    _hidden_value = true
+  }
+  hidden_boolean PalestinianTanShandee {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<json>" NorthernCoralEleanora {
+    _hidden_value = true
+  }
+  string WellFuchsiaGipsy2 {
+    _hidden_value = true
+  }
+  boolean SecondaryFuchsiaGertruda {
+    _hidden_value = true
+  }
+  string DefeatedAzureBetsy {
+    _hidden_value = true
+  }
+  serviceid TenderRedOdella {
+    _hidden_value = true
+  }
+  number OccupationalOliveMadel {
+    _hidden_value = true
+  }
+  boolean JointCoralElisha2 {
+    _hidden_value = true
+  }
+  serviceid SmilingBlueCathyleen {
+    _hidden_value = true
+  }
+  BreakableTealShirl2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  CapableEmeraldFloris = true
+  UnawareSapphireRee = 164
+  ParliamentaryFuchsiaGertrude = "What do you call two barracuda fish?  A Pairacuda!"
+  ConceptualTanShelagh2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  WetAquamarineBella2 = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  _hidden_value = true
+}

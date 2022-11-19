@@ -1,0 +1,47 @@
+type dummy.FlyingMoccasinLoree3 {
+  boolean ResonantApricotAnsley {
+  }
+  hidden_boolean MadHarlequinJanene2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number GoodBlueCelka {
+  }
+  hidden_boolean NewWhiteVevay3 {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  dummy.VariedRedNorah SatisfiedHarlequinJeana3 {
+    SweetAquaAshil2 = file("LonelyAzureBobine5.txt")
+    HollowAmberAllx2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    HappyVioletValencia = "What do you call two barracuda fish?  A Pairacuda!"
+    LevelJadeKameko = 778
+    IllEmeraldGae = "Why did the kid cross the playground? To get to the other slide."
+    VastYellowZarla = true
+  }
+  hidden_boolean InformalLavenderKathie3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid YummyYellowZorana4 {
+  }
+  string MechanicalMagentaLeonora {
+  }
+  boolean UsefulChocolateDede2 {
+  }
+  serviceid AestheticSapphireReba2 {
+  }
+  json PuzzledTanShani {
+  }
+  number ScatteredAquaAvie4 {
+  }
+  boolean AnnoyedAquamarineBenita4 {
+  }
+  serviceid_number VaryingPurpleNellie3 {
+  }
+  string StatisticalMagentaLanie5 {
+  }
+}

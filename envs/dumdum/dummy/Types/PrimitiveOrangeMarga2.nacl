@@ -1,0 +1,43 @@
+type dummy.PrimitiveOrangeMarga2 {
+  annotations {
+    serviceid LongBlueChelsy3 {
+    }
+    serviceid_number SwiftAmethystAnastasia {
+    }
+  }
+  json EmpiricalPinkMeaghan2 {
+    _hidden_value = true
+  }
+  serviceid BigVioletToni {
+    _hidden_value = true
+  }
+  boolean SharedPinkMelesa {
+    _hidden_value = true
+  }
+  serviceid_number FlatAmberAlli4 {
+    _hidden_value = true
+  }
+  serviceid ProtestantScarletRobinett {
+    _hidden_value = true
+  }
+  serviceid_number VitalEmeraldFifi6 {
+    _hidden_value = true
+  }
+  dummy.FamousCoralElfrieda MeanIvoryJulee {
+    ChristianCoralElvera = 68
+    NoblePurpleNatty = "Why did the kid cross the playground? To get to the other slide."
+    PassivePurpleMyra = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    GeographicalPeachMarlene = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    AwakeRedNola2 = {
+      legit = "Why did the tomato blush? Because it saw the salad dressing."
+    }
+    DeepAmberAllegra = 884
+    OrangePurpleMufinella = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    FascinatingOrangeMargareta = "Why did the tomato blush? Because it saw the salad dressing."
+    IntellectualJadeKalina = 127
+    _hidden_value = true
+  }
+  LongBlueChelsy3 = "Dad Im hungry  Hi hungry Im dad"
+  SwiftAmethystAnastasia = 430
+  _hidden_value = true
+}

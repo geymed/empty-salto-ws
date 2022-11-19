@@ -1,0 +1,61 @@
+type dummy.SmoothIndigoJemmie3 {
+  annotations {
+    number MuteApricotAnnelise3 {
+    }
+    number CompulsoryOrangeMallory4 {
+    }
+    serviceid_number PowerfulCopperDruci3 {
+    }
+    string LongAmethystAme2 {
+    }
+    json CharmingPlumMorena4 {
+    }
+    serviceid MainBlushCindelyn2 {
+    }
+    boolean HorizontalSalmonPrissie3 {
+    }
+    dummy.MetropolitanOrangeMargarita2 UrbanCyanFaith3 {
+    }
+    json CuteTomatoTara2 {
+    }
+    string ExtraordinaryIndigoJessica3 {
+    }
+    serviceid_number OuterJadeKarrah2 {
+    }
+    boolean ElectronicGreenInez2 {
+    }
+    number EducationalCrimsonEryn4 {
+    }
+    string AdorableTomatoSydelle {
+    }
+    boolean RelievedSalmonPetronilla2 {
+    }
+    hidden_boolean BriefAmethystAmalia5 {
+    }
+    serviceid ExtendedPlumMilka {
+    }
+    boolean HurtAzureBlondy3 {
+    }
+    boolean BreakableTealShir4 {
+    }
+    dummy.CalmPurpleNanci ExperimentalLavenderKatlin2 {
+    }
+  }
+  MuteApricotAnnelise3 = 21
+  CompulsoryOrangeMallory4 = 289
+  PowerfulCopperDruci3 = 244
+  LongAmethystAme2 = "Why did the tomato blush? Because it saw the salad dressing."
+  CharmingPlumMorena4 = "What do you call two barracuda fish?  A Pairacuda!"
+  MainBlushCindelyn2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  HorizontalSalmonPrissie3 = false
+  CuteTomatoTara2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ExtraordinaryIndigoJessica3 = "Why is Peter Pan always flying? Because he Neverlands."
+  OuterJadeKarrah2 = 633
+  ElectronicGreenInez2 = true
+  EducationalCrimsonEryn4 = 754
+  AdorableTomatoSydelle = "How come the stadium got hot after the game? Because all of the fans left."
+  RelievedSalmonPetronilla2 = true
+  ExtendedPlumMilka = "Why do birds fly south for the winter? Because it's too far to walk."
+  HurtAzureBlondy3 = false
+  BreakableTealShir4 = false
+}

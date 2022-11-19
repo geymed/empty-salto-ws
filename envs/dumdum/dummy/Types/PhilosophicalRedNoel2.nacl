@@ -1,0 +1,129 @@
+type dummy.PhilosophicalRedNoel2 {
+  annotations {
+    json IcyAquaAudrye {
+    }
+    serviceid_number RadicalGrayHelenelizabeth4 {
+    }
+    serviceid TestyYellowYolande2 {
+    }
+    serviceid BusyCyanFayre {
+    }
+  }
+  dummy.StrategicIndigoJehanna ChemicalGreenIsahella2 {
+    BrilliantGreenIlsa = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ImplicitSapphireRhea = 562
+    EmbarrassedAzureBibby = "Slept like a log last night  woke up in the fireplace."
+    DarkTurquoiseTaryn = "Why didnt the skeleton cross the road? Because he had no guts."
+    ElectricalLavenderKerrie = 932
+    GorgeousVioletUrsola = 867
+    ContemporaryFuchsiaGeorgianna = 710
+    _hidden_value = true
+  }
+  dummy.ColonialPeachMaudie AlternativeEmeraldFionnula2 {
+    FrequentLavenderKatie2 = 100
+    VoicelessApricotArdeen = false
+    InnerFuchsiaGenvieve = "Dad Im hungry  Hi hungry Im dad"
+    FlakyAmberAlfy = "Why is Peter Pan always flying? Because he Neverlands."
+    CentralBronzeConnie = "What did one nut say as he chased another nut?  I'm a cashew!"
+    StingyYellowWinnah = "Slept like a log last night  woke up in the fireplace."
+    AnnoyedAquamarineBenita = 360
+    DullVioletTrish = "Why didnt the skeleton cross the road? Because he had no guts."
+    WeeklyLavenderKessia2 = "What do you call two barracuda fish?  A Pairacuda!"
+    RawJadeKarlee = 438
+    WeirdSilverRozella = 677
+    ShaggyAquaAvis = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    _hidden_value = true
+  }
+  string LongVioletVanda3 {
+    _hidden_value = true
+  }
+  dummy.EfficientGoldGretna DelightedIvoryJulie {
+    OppositeHarlequinJanel = "Did you know that protons have mass? I didn't even know they were catholic."
+    StrangeCoralEdna = "Slept like a log last night  woke up in the fireplace."
+    ExcitingGreenIvett = "What did one nut say as he chased another nut?  I'm a cashew!"
+    AdequateGrayHildy = false
+    RattyWhiteWaneta = 858
+    FastEmeraldFleur = 997
+    MiddleCopperDusty = 996
+    ParliamentaryFuchsiaGiacinta = "Why did the tomato blush? Because it saw the salad dressing."
+    ExcitingGreenIssie = "Why is Peter Pan always flying? Because he Neverlands."
+    MaturePeachMaud = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    StraightAmethystAlysia = true
+    _hidden_value = true
+  }
+  boolean AwareChocolateDasha2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ConventionalGoldGussie3 {
+    _hidden_value = true
+  }
+  number TypicalEmeraldFrancine4 {
+    _hidden_value = true
+  }
+  number LateAmethystAmberly {
+    _hidden_value = true
+  }
+  boolean NotablePeachMartie3 {
+    _hidden_value = true
+  }
+  hidden_boolean FarBlushChristie2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number CausalSapphireRenee4 {
+    _hidden_value = true
+  }
+  boolean AbsentPinkMelonie2 {
+    _hidden_value = true
+  }
+  string DamagedAmberAleece2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AustralianJadeKat2 {
+    _hidden_value = true
+  }
+  number PeculiarPlumMichelina2 {
+    _hidden_value = true
+  }
+  json ChineseGoldGuendolen {
+    _hidden_value = true
+  }
+  boolean ExoticSapphireRiki2 {
+    _hidden_value = true
+  }
+  hidden_boolean ShiveringAquaBabette3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number MedicalCoffeeDevonna3 {
+    _hidden_value = true
+  }
+  serviceid FrightenedAzureBlair3 {
+    _hidden_value = true
+  }
+  serviceid_number SorryBrownDanyelle {
+    _hidden_value = true
+  }
+  dummy.MightyTanShandra DeafeningAmethystAngy3 {
+    InterestingChocolateDelphinia = true
+    SuccessiveMoccasinLola = "What do you do on a remote island? Try and find the TV island it belongs to."
+    LoyalPurpleNatala = "Did you know that protons have mass? I didn't even know they were catholic."
+    ScaredSapphireRahel = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    FiscalRedNiki = 913
+    DependentGrayHeath = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    GoodBlueCelisse2 = "Dad Im hungry  Hi hungry Im dad"
+    NativeJadeKate = 848
+    PassingSalmonPippy = false
+    HelplessAzureBlanche = true
+    BurningRedNikkie = "How come the stadium got hot after the game? Because all of the fans left."
+    CatholicHarlequinJamie = true
+    _hidden_value = true
+  }
+  IcyAquaAudrye = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  RadicalGrayHelenelizabeth4 = 723
+  TestyYellowYolande2 = "How come the stadium got hot after the game? Because all of the fans left."
+  BusyCyanFayre = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

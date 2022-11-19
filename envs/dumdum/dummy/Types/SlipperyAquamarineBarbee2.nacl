@@ -1,0 +1,25 @@
+type dummy.SlipperyAquamarineBarbee2 {
+  annotations {
+    number OldBlueChandra2 {
+    }
+    serviceid ColdChocolateDebby {
+    }
+    serviceid DefinitePeachMartelle {
+    }
+    json SilentGrayHarlene {
+    }
+    serviceid AncientAmethystAmabelle2 {
+    }
+  }
+  hidden_boolean AdequateGrayHildegaard2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  OldBlueChandra2 = 485
+  ColdChocolateDebby = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  DefinitePeachMartelle = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SilentGrayHarlene = "I'll tell you what often gets over looked... garden fences."
+  AncientAmethystAmabelle2 = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

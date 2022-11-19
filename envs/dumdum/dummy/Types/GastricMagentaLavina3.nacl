@@ -1,0 +1,49 @@
+type dummy.GastricMagentaLavina3 {
+  annotations {
+    number UselessRedNinette2 {
+    }
+    serviceid WrongTomatoSybilla3 {
+    }
+    hidden_boolean SensibleIvoryJordain3 {
+    }
+    boolean PleasantBlackCatha2 {
+    }
+    hidden_boolean UpperCyanFaustine3 {
+    }
+    string OutstandingIndigoJenna {
+    }
+  }
+  json PlasticAquaAurelie3 {
+    _hidden_value = true
+  }
+  json SatisfiedHarlequinJaynell {
+    _hidden_value = true
+  }
+  hidden_boolean AccurateIndigoJillayne4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean CalmBeigeCalla4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json TenderRedOdella2 {
+    _hidden_value = true
+  }
+  serviceid ConventionalGoldGussie2 {
+    _hidden_value = true
+  }
+  string QuietWhiteVivien3 {
+    _hidden_value = true
+  }
+  serviceid BadTurquoiseToby {
+    _hidden_value = true
+  }
+  UselessRedNinette2 = 253
+  WrongTomatoSybilla3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  PleasantBlackCatha2 = true
+  OutstandingIndigoJenna = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

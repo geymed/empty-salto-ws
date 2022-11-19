@@ -1,0 +1,72 @@
+type dummy.QuickestWhiteVonny4 {
+  annotations {
+    serviceid IntensiveMoccasinLulu4 {
+    }
+    serviceid FreeBronzeColeen3 {
+    }
+    serviceid ConventionalGoldGussie4 {
+    }
+    dummy.FamousCoralElfrieda ShinyTurquoiseTiffani3 {
+    }
+    serviceid_number CivicTanShellie3 {
+    }
+    json StripedYellowWinona2 {
+    }
+    serviceid RecentBronzeCornelle4 {
+    }
+    serviceid BlueVioletTorie2 {
+    }
+    json ComprehensiveGreenHyacinthie {
+    }
+    number RulingLimeKippy2 {
+    }
+    json LegalBrownDagmar3 {
+    }
+    serviceid DreadfulPinkMerrile5 {
+    }
+    number MedievalJadeKare {
+    }
+    serviceid ConceptualTanShelbi3 {
+    }
+    json HappyVioletValencia2 {
+    }
+    boolean SevereEmeraldGabrila3 {
+    }
+    json DepressedPinkMelantha3 {
+    }
+    serviceid BlueVioletTorie3 {
+    }
+    dummy.LoudLavenderKiele4 UnwillingTanShell {
+    }
+    json SurroundingOrangeMarget3 {
+    }
+    string ShyScarletRosene3 {
+    }
+    dummy.RedWhiteWendeline RapidAmethystAmye3 {
+    }
+    serviceid NervousAzureBrande2 {
+    }
+  }
+  IntensiveMoccasinLulu4 = "Whoever invented the knock-knock joke should get a no bell prize."
+  FreeBronzeColeen3 = "Why is Peter Pan always flying? Because he Neverlands."
+  ConventionalGoldGussie4 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ShinyTurquoiseTiffani3 = 256
+  CivicTanShellie3 = 840
+  StripedYellowWinona2 = "What do you call two barracuda fish?  A Pairacuda!"
+  RecentBronzeCornelle4 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  BlueVioletTorie2 = "Why was it called the dark ages? Because of all the knights. "
+  ComprehensiveGreenHyacinthie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  RulingLimeKippy2 = 452
+  LegalBrownDagmar3 = "Im only familiar with 25 letters in the English language. I dont know why."
+  DreadfulPinkMerrile5 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  MedievalJadeKare = 570
+  ConceptualTanShelbi3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  HappyVioletValencia2 = "Why did the tomato blush? Because it saw the salad dressing."
+  SevereEmeraldGabrila3 = true
+  DepressedPinkMelantha3 = "Why didnt the skeleton cross the road? Because he had no guts."
+  BlueVioletTorie3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SurroundingOrangeMarget3 = "Im only familiar with 25 letters in the English language. I dont know why."
+  ShyScarletRosene3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  RapidAmethystAmye3 = file("EmotionalGrayHester.txt")
+  NervousAzureBrande2 = "Why didnt the skeleton cross the road? Because he had no guts."
+}

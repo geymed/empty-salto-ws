@@ -1,0 +1,76 @@
+type dummy.SteadyAquamarineBea {
+  annotations {
+    json OrganicLimeLadonna {
+    }
+    serviceid_number HolyIndigoJelene {
+    }
+    serviceid_number SmallAmaranthAgatha {
+    }
+    serviceid_number BigBlushChickie {
+    }
+  }
+  serviceid_number LuckyBlackCassaundra {
+    _hidden_value = true
+  }
+  serviceid_number FavourablePinkMercy {
+    _hidden_value = true
+  }
+  hidden_boolean CarefulTealShoshana {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string NarrowAmberAlma {
+    _hidden_value = true
+  }
+  json WidespreadHarlequinJacquetta {
+    _hidden_value = true
+  }
+  hidden_boolean RottenApricotArielle {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean SoftCoralElane {
+    _hidden_value = true
+  }
+  boolean GastricMagentaLavina {
+    _hidden_value = true
+  }
+  hidden_boolean EndlessPeachMarjorie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" FancyTurquoiseTeena3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean AdequateGrayHildy2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.CommonBronzeConstantine InevitableIvoryJolynn {
+    CrazyTealSibyl = 581
+    _hidden_value = true
+  }
+  "List<json>" PetiteAmaranthAdrianna {
+    _hidden_value = true
+  }
+  serviceid EssentialCoffeeDion {
+    _hidden_value = true
+  }
+  string RemoteIndigoJeniece {
+    _hidden_value = true
+  }
+  number DeadTealSigrid {
+    _hidden_value = true
+  }
+  OrganicLimeLadonna = "Why is Peter Pan always flying? Because he Neverlands."
+  HolyIndigoJelene = 177
+  SmallAmaranthAgatha = 262
+  BigBlushChickie = 907
+  _hidden_value = true
+}

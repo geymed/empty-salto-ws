@@ -1,0 +1,43 @@
+type dummy.ShyScarletRosette3 {
+  annotations {
+    serviceid PrintedRedNevsa {
+    }
+    string PricklyWhiteVittoria2 {
+    }
+    serviceid ScreechingApricotAnthea5 {
+    }
+    number BurningRedNikoletta4 {
+    }
+    json InvolvedCoffeeDenice4 {
+    }
+  }
+  dummy.ModernTealStafani DyingScarletRoby3 {
+    ColonialPeachMaura = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    UnderlyingLimeKoressa = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    NursingSalmonPetronille2 = "Whoever invented the knock-knock joke should get a no bell prize."
+    AgreedTanSelie = 821
+    ObnoxiousAzureBrandi = "What creature is smarter than a talking parrot? A spelling bee."
+    ComprehensiveGreenHyacinthia = true
+    DampMoccasinLorry = "What do you call two barracuda fish?  A Pairacuda!"
+    ClearBlushCinnamon = "Whoever invented the knock-knock joke should get a no bell prize."
+    WickedScarletRoselia = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    SpontaneousTanShauna = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ShortAmethystAnabella2 = true
+    StraightforwardMaroonLeyla = 741
+    SubsequentFuchsiaGilemette = true
+    RollingSilverRubina = "Why was it called the dark ages? Because of all the knights. "
+    FreeBronzeCodie = false
+    ShyTomatoStormie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    AboveIvoryJoycelin = 50
+    PromisingRedNonie = "What do you do on a remote island? Try and find the TV island it belongs to."
+    _hidden_value = true
+  }
+  PrintedRedNevsa = "What do you do on a remote island? Try and find the TV island it belongs to."
+  PricklyWhiteVittoria2 = "Dad Im hungry  Hi hungry Im dad"
+  ScreechingApricotAnthea5 = "A steak pun is a rare medium well done."
+  BurningRedNikoletta4 = 311
+  InvolvedCoffeeDenice4 = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

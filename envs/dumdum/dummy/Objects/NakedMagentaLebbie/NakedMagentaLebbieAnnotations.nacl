@@ -1,0 +1,53 @@
+type dummy.NakedMagentaLebbie {
+  annotations {
+    serviceid PricklyWhiteVittoria3 {
+    }
+    serviceid_number SuddenGoldGwen6 {
+    }
+    hidden_boolean PositiveCoffeeDominica3 {
+    }
+    serviceid_number FluffyAmberAlia2 {
+    }
+    serviceid MadHarlequinJanene3 {
+    }
+    string HumanBronzeConstantia2 {
+    }
+    serviceid_number InstantSapphireRandy3 {
+    }
+    dummy.BigAmaranthAbbe3 RepulsiveBeigeBrena6 {
+    }
+    json BizarreTanSeka4 {
+    }
+    boolean EuropeanBronzeConcettina3 {
+    }
+    dummy.FeministPlumMin FlyingMoccasinLoree5 {
+    }
+    serviceid_number BraveBeigeCaitrin4 {
+    }
+    json HushedApricotAnnabel {
+    }
+    json VariousBrownCorry4 {
+    }
+    boolean GiganticVioletUmeko4 {
+    }
+    boolean HotAquaAudrie {
+    }
+    number PresidentialLimeKrystle4 {
+    }
+  }
+  PricklyWhiteVittoria3 = "What do you call two barracuda fish?  A Pairacuda!"
+  SuddenGoldGwen6 = 5
+  FluffyAmberAlia2 = 469
+  MadHarlequinJanene3 = "Why was it called the dark ages? Because of all the knights. "
+  HumanBronzeConstantia2 = "I'll tell you what often gets over looked... garden fences."
+  InstantSapphireRandy3 = 529
+  BizarreTanSeka4 = "Why did the kid cross the playground? To get to the other slide."
+  EuropeanBronzeConcettina3 = false
+  FlyingMoccasinLoree5 = false
+  BraveBeigeCaitrin4 = 449
+  HushedApricotAnnabel = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  VariousBrownCorry4 = "Dad Im hungry  Hi hungry Im dad"
+  GiganticVioletUmeko4 = true
+  HotAquaAudrie = false
+  PresidentialLimeKrystle4 = 937
+}

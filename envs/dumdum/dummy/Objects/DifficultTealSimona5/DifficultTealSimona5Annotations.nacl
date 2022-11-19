@@ -1,0 +1,72 @@
+type dummy.DifficultTealSimona5 {
+  annotations {
+    boolean CreepyAmberAinslie {
+    }
+    hidden_boolean InternalCoralEffie2 {
+    }
+    string NormalBrownDamita2 {
+    }
+    hidden_boolean GeneralBlushChristan5 {
+    }
+    number OppositeHarlequinJaneczka {
+    }
+    json MagnificentWhiteVannie2 {
+    }
+    hidden_boolean VariedRedNorean2 {
+    }
+    number RationalLavenderKay {
+    }
+    dummy.SpareMaroonLilli BrokenAmaranthAilee4 {
+    }
+    serviceid ComparativePlumMisty2 {
+    }
+    dummy.RomanticMagentaLeandra CleanTomatoTamma {
+    }
+    string RemainingGoldGoldarina2 {
+    }
+    serviceid_number GreatBlueCharin7 {
+    }
+    dummy.ContentPeachMatti HomelessSilverSalomi {
+    }
+    dummy.VocationalTanShaine CleverTealSibby8 {
+    }
+    dummy.AverageTomatoTabbitha IndirectPeachMarty3 {
+    }
+    boolean CommercialCopperDorelle2 {
+    }
+    hidden_boolean SolidGreenIda {
+    }
+    dummy.UnhappyMaroonLibby StrategicIndigoJeannine4 {
+    }
+    serviceid CivicTanShellie2 {
+    }
+    serviceid_number PrintedRedNichol2 {
+    }
+    serviceid IntegralSalmonPhilly2 {
+    }
+    boolean DrunkPeachMarlee4 {
+    }
+    json DyingScarletRobyn {
+    }
+    json SpontaneousTanSharyl5 {
+    }
+  }
+  CreepyAmberAinslie = true
+  NormalBrownDamita2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  OppositeHarlequinJaneczka = 977
+  MagnificentWhiteVannie2 = "To be Frank, I'd have to change my name."
+  RationalLavenderKay = 140
+  BrokenAmaranthAilee4 = file("SuspiciousPurpleMyrilla2.txt")
+  ComparativePlumMisty2 = "To be Frank, I'd have to change my name."
+  RemainingGoldGoldarina2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  GreatBlueCharin7 = 26
+  IndirectPeachMarty3 = false
+  CommercialCopperDorelle2 = true
+  StrategicIndigoJeannine4 = true
+  CivicTanShellie2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  PrintedRedNichol2 = 532
+  IntegralSalmonPhilly2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  DrunkPeachMarlee4 = true
+  DyingScarletRobyn = "Did you know that protons have mass? I didn't even know they were catholic."
+  SpontaneousTanSharyl5 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+}

@@ -1,0 +1,20 @@
+type dummy.GrubbyAquaAubrie is number {
+  annotations {
+    json WearyBeigeBrooke {
+    }
+    boolean SolidAquamarineBarrie {
+    }
+    string RivalPurpleNara {
+    }
+    hidden_boolean BlushingTomatoTamar {
+    }
+    hidden_boolean InitialCoralElsie {
+    }
+    serviceid DifficultBronzeClementia {
+    }
+  }
+  WearyBeigeBrooke = "Im only familiar with 25 letters in the English language. I dont know why."
+  SolidAquamarineBarrie = false
+  RivalPurpleNara = "A steak pun is a rare medium well done."
+  DifficultBronzeClementia = "What do you do on a remote island? Try and find the TV island it belongs to."
+}

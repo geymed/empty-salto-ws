@@ -1,0 +1,45 @@
+type dummy.ConcreteOliveLynette {
+  annotations {
+    number UnknownFuchsiaGigi {
+    }
+    hidden_boolean FatIvoryJoelle2 {
+    }
+    string FastEmeraldFleur3 {
+    }
+    number NovelScarletRosette5 {
+    }
+    dummy.EldestTanSharline PainfulMaroonLily2 {
+    }
+    number PurpleScarletRivalee3 {
+    }
+    serviceid_number FarBlushChristiane6 {
+    }
+    hidden_boolean StraightAmethystAlysia2 {
+    }
+    hidden_boolean ManagerialRedNerta5 {
+    }
+    number ArmedGrayHeidi3 {
+    }
+    string AgreedTanSelina {
+    }
+    json NeatMoccasinLorinda2 {
+    }
+    serviceid_number RelatedIndigoJessalyn2 {
+    }
+    dummy.RedWhiteWendeline PeacefulOrangeMargot3 {
+    }
+    string InfluentialMoccasinLoretta {
+    }
+  }
+  UnknownFuchsiaGigi = 163
+  FastEmeraldFleur3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  NovelScarletRosette5 = 462
+  PurpleScarletRivalee3 = 586
+  FarBlushChristiane6 = 992
+  ArmedGrayHeidi3 = 263
+  AgreedTanSelina = "Slept like a log last night  woke up in the fireplace."
+  NeatMoccasinLorinda2 = "Dad Im hungry  Hi hungry Im dad"
+  RelatedIndigoJessalyn2 = 735
+  PeacefulOrangeMargot3 = file("UpsetOliveLyssa2.txt")
+  InfluentialMoccasinLoretta = "Why was it called the dark ages? Because of all the knights. "
+}

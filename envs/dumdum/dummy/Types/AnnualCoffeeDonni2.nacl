@@ -1,0 +1,92 @@
+type dummy.AnnualCoffeeDonni2 {
+  annotations {
+    json DryAmberAlexa2 {
+    }
+    json ManagerialPurpleNerissa {
+    }
+    serviceid_number SuperPeachMartica {
+    }
+    dummy.DailyCyanEvelina BloodyCyanFaythe {
+    }
+    boolean WidespreadHarlequinJacquetta3 {
+    }
+  }
+  json DiplomaticMagentaLenna {
+    _hidden_value = true
+  }
+  string NiceWhiteVicki2 {
+    _hidden_value = true
+  }
+  hidden_boolean ValuableGoldGwyn {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string ProbableSalmonPhyllida {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AbsentPinkMelonie {
+    _hidden_value = true
+  }
+  hidden_boolean ModernTealStarlene2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean EstimatedOrangeMargi {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ShiveringAquaBabbie {
+    _hidden_value = true
+  }
+  json LovelyCoralEllie {
+    _hidden_value = true
+  }
+  hidden_boolean InternalCoralEdyth2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string SoftAquamarineBarby {
+    _hidden_value = true
+  }
+  serviceid_number SoftApricotApril2 {
+    _hidden_value = true
+  }
+  string AmateurSalmonPierette {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WorkingCrimsonEmlynne {
+    _hidden_value = true
+  }
+  dummy.CommonBronzeConstantine LivelyBlackCasi {
+    CrazyTealSibyl = 608
+    _hidden_value = true
+  }
+  dummy.DEFAULT ParallelMoccasinLuisa {
+    _hidden_value = true
+  }
+  boolean HelpfulBlackCaroline3 {
+    _hidden_value = true
+  }
+  boolean CompleteCoffeeDevinne {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LiableLimeKimmie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BraveMoccasinLucinda {
+    _hidden_value = true
+  }
+  boolean DeliciousApricotArdine2 {
+    _hidden_value = true
+  }
+  DryAmberAlexa2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  ManagerialPurpleNerissa = "Why do birds fly south for the winter? Because it's too far to walk."
+  SuperPeachMartica = 498
+  BloodyCyanFaythe = "Why was it called the dark ages? Because of all the knights. "
+  WidespreadHarlequinJacquetta3 = false
+  _hidden_value = true
+}

@@ -1,0 +1,46 @@
+type dummy.CreepyAmberAjay2 {
+  annotations {
+    string PanickyAzureBren2 {
+    }
+    json SteadyAquamarineBathsheba2 {
+    }
+    serviceid_number ToxicSalmonPhelia {
+    }
+    boolean AllegedOliveLynne {
+    }
+  }
+  serviceid UpperCyanFaustina2 {
+    _hidden_value = true
+  }
+  serviceid ExternalEmeraldFlorina {
+    _hidden_value = true
+  }
+  dummy.FeministPlumMin MelodicApricotAnnalee {
+    GreenVioletUlrica = false
+    SovietChocolateDaria = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    CuriousTealSidoney = false
+    ColdChocolateDebbie = 762
+    IrishCrimsonErminia = false
+    ShakyAquaBab = 885
+    ScientificCrimsonErda = 659
+    LatinLimeKonstanze = 309
+    IsraeliPinkMeriel = "Why did the kid cross the playground? To get to the other slide."
+    _hidden_value = true
+  }
+  json DeafIvoryJoyan {
+    _hidden_value = true
+  }
+  hidden_boolean EventualTanSharona {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string FixedGreenHolli {
+    _hidden_value = true
+  }
+  PanickyAzureBren2 = "Why is Peter Pan always flying? Because he Neverlands."
+  SteadyAquamarineBathsheba2 = "What do you call two barracuda fish?  A Pairacuda!"
+  ToxicSalmonPhelia = 204
+  AllegedOliveLynne = false
+  _hidden_value = true
+}

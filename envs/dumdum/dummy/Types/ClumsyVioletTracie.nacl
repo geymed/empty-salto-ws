@@ -1,0 +1,67 @@
+type dummy.ClumsyVioletTracie {
+  annotations {
+    serviceid_number ExcitedOrangeMariquilla3 {
+    }
+    number RecentBronzeCornie {
+    }
+    serviceid BriefAmethystAmalia3 {
+    }
+    dummy.WanderingTomatoSuzann2 RidiculousMoccasinLivvyy2 {
+    }
+    hidden_boolean BlackVioletTorey3 {
+    }
+  }
+  json ForthcomingPeachMarrilee {
+    _hidden_value = true
+  }
+  serviceid SolarRosePammy {
+    _hidden_value = true
+  }
+  string EthnicLavenderKaycee2 {
+    _hidden_value = true
+  }
+  string FilthyAmberAlexis {
+    _hidden_value = true
+  }
+  hidden_boolean TastyAquaAshli {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid SpectacularMaroonLibby {
+    _hidden_value = true
+  }
+  serviceid ComingSilverSandi {
+    _hidden_value = true
+  }
+  serviceid_number RespectiveSalmonPerry {
+    _hidden_value = true
+  }
+  string TanYellowYetty2 {
+    _hidden_value = true
+  }
+  dummy.StiffPeachMarya PricklyAquaAuroora {
+    BritishBlushCherin = {
+      legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+    }
+    InnerFuchsiaGenovera = "Dad Im hungry  Hi hungry Im dad"
+    CurlyAmberAlecia = 470
+    ArtisticPeachMathilda = "Why didnt the skeleton cross the road? Because he had no guts."
+    OpenBronzeClio = false
+    LinguisticJadeKarilynn = 686
+    MonthlyMaroonLinnea = false
+    FantasticBlackCarlota = 880
+    ThinCyanEvangeline = 524
+    _hidden_value = true
+  }
+  hidden_boolean ParliamentaryFuchsiaGertrude2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  ExcitedOrangeMariquilla3 = 331
+  RecentBronzeCornie = 934
+  BriefAmethystAmalia3 = "How come the stadium got hot after the game? Because all of the fans left."
+  RidiculousMoccasinLivvyy2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

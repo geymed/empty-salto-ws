@@ -1,0 +1,87 @@
+type dummy.GratefulIvoryJordanna {
+  annotations {
+    string ColossalAmaranthAbby2 {
+    }
+    hidden_boolean SouthernCyanEvelyn2 {
+    }
+    serviceid_number ControlledTanSheilakathryn {
+    }
+    number WillingGoldGusta {
+    }
+    serviceid MaleCoffeeDidi2 {
+    }
+    boolean DullTurquoiseTedda3 {
+    }
+  }
+  boolean ContinuedLimeLainey3 {
+    _hidden_value = true
+  }
+  hidden_boolean ClosedMagentaLeilah2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean CoolGreenIona2 {
+    _hidden_value = true
+  }
+  serviceid VivaciousBlueCeciley2 {
+    _hidden_value = true
+  }
+  dummy.FamousCoralElfrieda PotentialCoralElberta2 {
+    ChristianCoralElvera = 315
+    NoblePurpleNatty = "What do you call two barracuda fish?  A Pairacuda!"
+    PassivePurpleMyra = "Why was it called the dark ages? Because of all the knights. "
+    GeographicalPeachMarlene = "Why didnt the skeleton cross the road? Because he had no guts."
+    AwakeRedNola2 = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    DeepAmberAllegra = 158
+    OrangePurpleMufinella = "What did one nut say as he chased another nut?  I'm a cashew!"
+    FascinatingOrangeMargareta = "I'll tell you what often gets over looked... garden fences."
+    IntellectualJadeKalina = 56
+    _hidden_value = true
+  }
+  boolean MagicOrangeMara2 {
+    _hidden_value = true
+  }
+  serviceid StupidTomatoSunny5 {
+    _hidden_value = true
+  }
+  string RecentBronzeCornelle3 {
+    _hidden_value = true
+  }
+  serviceid HardBronzeCordey {
+    _hidden_value = true
+  }
+  number StiffPeachMaryanne7 {
+    _hidden_value = true
+  }
+  hidden_boolean FascinatingOrangeMargaretha2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number StaleAquaArline {
+    _hidden_value = true
+  }
+  string OriginalChocolateDarsey {
+    _hidden_value = true
+  }
+  json WidespreadHarlequinJacquetta6 {
+    _hidden_value = true
+  }
+  hidden_boolean DeterminedOrangeMarillin5 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number DefiantAzureBetteann5 {
+    _hidden_value = true
+  }
+  ColossalAmaranthAbby2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  ControlledTanSheilakathryn = 857
+  WillingGoldGusta = 868
+  MaleCoffeeDidi2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  DullTurquoiseTedda3 = true
+  _hidden_value = true
+}

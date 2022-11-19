@@ -1,0 +1,88 @@
+type dummy.ImpressiveIndigoJessalin {
+  annotations {
+    json ShaggyAquaAvis3 {
+    }
+    boolean FaithfulBlackCarlina3 {
+    }
+    string AliveTealSherilyn {
+    }
+    string MagneticPeachMavra3 {
+    }
+    serviceid_number RunningPlumMirabel3 {
+    }
+    json WiseLavenderKathe3 {
+    }
+  }
+  boolean WellFuchsiaGipsy3 {
+    _hidden_value = true
+  }
+  dummy.SpareMaroonLilli ModeratePurpleNatalie2 {
+    ShortAmethystAnabella = 917
+    DeliberateRedNoella = false
+    IslamicRoseOlympie = "Why did the tomato blush? Because it saw the salad dressing."
+    WorthyRedOdette = "Dad Im hungry  Hi hungry Im dad"
+    BlackVioletTorey2 = "Why do birds fly south for the winter? Because it's too far to walk."
+    SelectedPlumMilli = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    SubjectiveSapphireRiane = 700
+    ExuberantBlackCarlee = {
+      legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    }
+    TenderRedOdelia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    FormalCoralElka = "A steak pun is a rare medium well done."
+    _hidden_value = true
+  }
+  dummy.ScreechingApricotAnthea ImpressedOrangeMaris2 {
+    OpenTealStarr = 628
+    EntitledIvoryJulia = 581
+    PassivePurpleMurielle = "What do you do on a remote island? Try and find the TV island it belongs to."
+    NearFuchsiaGerianne = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    ConfidentialScarletRomola = 708
+    HistoricLavenderKellie = 701
+    HelpfulBlackCaroline = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  string YummyYellowZorina {
+    _hidden_value = true
+  }
+  serviceid HistoricalCyanEvaleen2 {
+    _hidden_value = true
+  }
+  serviceid_number JuniorIvoryJonie3 {
+    _hidden_value = true
+  }
+  number AboveIvoryJoyann {
+    _hidden_value = true
+  }
+  number ImpossibleTealSophronia {
+    _hidden_value = true
+  }
+  number PerfectBlackCatarina2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GreatVioletTyne2 {
+    _hidden_value = true
+  }
+  serviceid_number GlobalGrayHerminia2 {
+    _hidden_value = true
+  }
+  hidden_boolean SurroundingOrangeMarget2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean EvilAzureBili2 {
+    _hidden_value = true
+  }
+  ShaggyAquaAvis3 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  FaithfulBlackCarlina3 = true
+  AliveTealSherilyn = "Why did the kid cross the playground? To get to the other slide."
+  MagneticPeachMavra3 = '''
+What did one nut say as he chased another nut?  I'm a cashew!
+Why did the tomato blush? Because it saw the salad dressing.
+'''
+  RunningPlumMirabel3 = 927
+  WiseLavenderKathe3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

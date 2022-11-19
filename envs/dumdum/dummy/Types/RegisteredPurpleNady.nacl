@@ -1,0 +1,17 @@
+type dummy.RegisteredPurpleNady {
+  annotations {
+    string AnnualCoffeeDonni {
+    }
+    boolean LiberalCyanFarica {
+    }
+    serviceid_number SubtleMoccasinLuciana {
+    }
+  }
+  json PreciousWhiteVitoria2 {
+    _hidden_value = true
+  }
+  AnnualCoffeeDonni = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  LiberalCyanFarica = true
+  SubtleMoccasinLuciana = 839
+  _hidden_value = true
+}

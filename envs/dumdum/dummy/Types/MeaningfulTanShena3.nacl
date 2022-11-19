@@ -1,0 +1,30 @@
+type dummy.MeaningfulTanShena3 {
+  annotations {
+    number IdeologicalOrangeMargaretha3 {
+    }
+    hidden_boolean VastEmeraldFreda {
+    }
+    json TenseBeigeBrigitta2 {
+    }
+    boolean UpsetBeigeBritteny3 {
+    }
+    serviceid_number ElectricGreenInger {
+    }
+  }
+  serviceid_number BeautifulCoffeeDita {
+    _hidden_value = true
+  }
+  hidden_boolean ClumsyVioletTracee {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string AverageCoralElysee {
+    _hidden_value = true
+  }
+  IdeologicalOrangeMargaretha3 = 21
+  TenseBeigeBrigitta2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  UpsetBeigeBritteny3 = false
+  ElectricGreenInger = 934
+  _hidden_value = true
+}

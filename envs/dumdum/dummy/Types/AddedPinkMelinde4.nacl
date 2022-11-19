@@ -1,0 +1,35 @@
+type dummy.AddedPinkMelinde4 {
+  annotations {
+    json StrangeTurquoiseTimmi {
+    }
+    serviceid_number VocationalTanShalne {
+    }
+    serviceid_number SlowAmethystAnabelle3 {
+    }
+    number PleasantIvoryJorrie {
+    }
+    number LikePeachMarlie {
+    }
+    json NumerousHarlequinJane2 {
+    }
+  }
+  serviceid SuperTomatoSusanna2 {
+    _hidden_value = true
+  }
+  number PreliminaryOliveLyndsie {
+    _hidden_value = true
+  }
+  number AloneCyanFaina2 {
+    _hidden_value = true
+  }
+  serviceid_number DeafIvoryJoy {
+    _hidden_value = true
+  }
+  StrangeTurquoiseTimmi = "What creature is smarter than a talking parrot? A spelling bee."
+  VocationalTanShalne = 455
+  SlowAmethystAnabelle3 = 912
+  PleasantIvoryJorrie = 289
+  LikePeachMarlie = 387
+  NumerousHarlequinJane2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

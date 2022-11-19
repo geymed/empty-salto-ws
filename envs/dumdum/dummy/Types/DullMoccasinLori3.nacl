@@ -1,0 +1,75 @@
+type dummy.DullMoccasinLori3 {
+  annotations {
+    dummy.DEFAULT ModeratePurpleNatalina {
+    }
+    string InnocentMagentaLarina3 {
+    }
+    dummy.DailyCyanEvelina SuddenGoldGustie {
+    }
+    hidden_boolean PowerfulTomatoStephannie {
+    }
+  }
+  json DecisiveSalmonPenni {
+    _hidden_value = true
+  }
+  dummy.InteriorPurpleNathalie HiddenRedOdelle {
+    ShaggyAquaAviva = 742
+    ThenSalmonPhylis = 705
+    PassingSalmonPolly = "Why is Peter Pan always flying? Because he Neverlands."
+    DemocraticCrimsonEmyle = 346
+    StrikingOliveMag = "Why didnt the skeleton cross the road? Because he had no guts."
+    ExcellentCoralEilis = 525
+    _hidden_value = true
+  }
+  json GenuineGreenIsidora2 {
+    _hidden_value = true
+  }
+  serviceid_number FantasticSapphireReggie {
+    _hidden_value = true
+  }
+  boolean ClassicalHarlequinJacklin2 {
+    _hidden_value = true
+  }
+  boolean StraightAmethystAlysa {
+    _hidden_value = true
+  }
+  string SpecifiedSalmonPooh {
+    _hidden_value = true
+  }
+  serviceid FascinatingOrangeMargaret2 {
+    _hidden_value = true
+  }
+  string OrganisationalTanSharai4 {
+    _hidden_value = true
+  }
+  string IncreasingCyanEvvy2 {
+    _hidden_value = true
+  }
+  serviceid_number BoredPlumMoreen {
+    _hidden_value = true
+  }
+  serviceid SparklingTurquoiseTilda2 {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" SilentGrayHarley2 {
+    _hidden_value = true
+  }
+  number ElderlyEmeraldFlorence {
+    _hidden_value = true
+  }
+  number EntireEmeraldFrancyne {
+    _hidden_value = true
+  }
+  json CompleteCoffeeDevina {
+    _hidden_value = true
+  }
+  serviceid CalmPurpleNanci2 {
+    _hidden_value = true
+  }
+  ModeratePurpleNatalina = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  InnocentMagentaLarina3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  SuddenGoldGustie = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

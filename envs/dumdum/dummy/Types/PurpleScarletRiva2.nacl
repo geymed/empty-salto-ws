@@ -1,0 +1,96 @@
+type dummy.PurpleScarletRiva2 {
+  annotations {
+    hidden_boolean TartYellowXena2 {
+    }
+    dummy.DeliciousApricotArdisj AlternativeEmeraldFiona {
+    }
+    string BrightCoralElyn3 {
+    }
+    hidden_boolean BraveMoccasinLucine4 {
+    }
+    serviceid AnxiousAquamarineBerenice2 {
+    }
+    serviceid OccupationalOliveMadel3 {
+    }
+  }
+  boolean GiganticVioletUlrike2 {
+    _hidden_value = true
+  }
+  serviceid SurprisingGreenIanthe {
+    _hidden_value = true
+  }
+  string RespectiveSalmonPerrine {
+    _hidden_value = true
+  }
+  boolean TragicRosePavia2 {
+    _hidden_value = true
+  }
+  json ExcitedOrangeMarion2 {
+    _hidden_value = true
+  }
+  boolean ContinuedLimeLainey4 {
+    _hidden_value = true
+  }
+  number DeterminedBeigeCandida {
+    _hidden_value = true
+  }
+  dummy.SpareMaroonLilli BetterVioletTomasina {
+    ShortAmethystAnabella = 174
+    DeliberateRedNoella = true
+    IslamicRoseOlympie = "Why do birds fly south for the winter? Because it's too far to walk."
+    WorthyRedOdette = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    BlackVioletTorey2 = "Did you know that protons have mass? I didn't even know they were catholic."
+    SelectedPlumMilli = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    SubjectiveSapphireRiane = 534
+    ExuberantBlackCarlee = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    TenderRedOdelia = "What creature is smarter than a talking parrot? A spelling bee."
+    FormalCoralElka = "My first time using an elevator was an uplifting experience. The second time let me down."
+    _hidden_value = true
+  }
+  serviceid_number LateAmethystAmata3 {
+    _hidden_value = true
+  }
+  serviceid ScaryBeigeBrenna4 {
+    _hidden_value = true
+  }
+  string AcceptableGrayHeloise3 {
+    _hidden_value = true
+  }
+  string MilitaryChocolateDarline3 {
+    _hidden_value = true
+  }
+  "List<dummy.GrubbyAquaAubrie>" ExcitedOrangeMarinna {
+    WearyBeigeBrooke = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SolidAquamarineBarrie = true
+    RivalPurpleNara = "Why do birds fly south for the winter? Because it's too far to walk."
+    DifficultBronzeClementia = "I'll tell you what often gets over looked... garden fences."
+    _hidden_value = true
+  }
+  hidden_boolean EnormousFuchsiaGiorgia3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number VariableRedNona2 {
+    _hidden_value = true
+  }
+  json DizzyVioletTressa2 {
+    _hidden_value = true
+  }
+  string ToughYellowYovonnda3 {
+    _hidden_value = true
+  }
+  boolean SplendidOrangeMandy3 {
+    _hidden_value = true
+  }
+  boolean CriticalCrimsonEstele4 {
+    _hidden_value = true
+  }
+  AlternativeEmeraldFiona = "I'll tell you what often gets over looked... garden fences."
+  BrightCoralElyn3 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  AnxiousAquamarineBerenice2 = "What creature is smarter than a talking parrot? A spelling bee."
+  OccupationalOliveMadel3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

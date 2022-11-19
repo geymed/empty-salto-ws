@@ -1,0 +1,62 @@
+type dummy.SoftCoralElayne {
+  annotations {
+    serviceid_number UrbanCyanFanchette2 {
+    }
+    dummy.MoralCyanFelita2 AdvancedHarlequinJacintha3 {
+    }
+    boolean ExceptionalOliveMadlen4 {
+    }
+    serviceid HorizontalSalmonPrissie6 {
+    }
+    dummy.AwakeRedNola ShaggyAquaAvis4 {
+    }
+    number ToughYellowYvette5 {
+    }
+    hidden_boolean PublicBlushChrysa3 {
+    }
+    serviceid BeautifulCoffeeDix2 {
+    }
+    number SmoothAquamarineBarbi3 {
+    }
+    dummy.JointCoralElissa3 MagnificentWhiteVeda5 {
+    }
+    number FavourablePinkMercie4 {
+    }
+    string AwfulHarlequinJaquenette {
+    }
+    json FunctionalMaroonLexi3 {
+    }
+    serviceid_number WorryingSilverRozanna3 {
+    }
+    serviceid DecentMoccasinLora2 {
+    }
+    serviceid_number ComplexCopperDrucill2 {
+    }
+    boolean InnovativeTanSheena4 {
+    }
+    hidden_boolean UnfortunatePeachMarta4 {
+    }
+    serviceid ImmenseAmaranthAdele2 {
+    }
+    number CoolAmaranthAinsley2 {
+    }
+    hidden_boolean SoftApricotAppolonia {
+    }
+  }
+  UrbanCyanFanchette2 = 295
+  ExceptionalOliveMadlen4 = false
+  HorizontalSalmonPrissie6 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ShaggyAquaAvis4 = file("ReligiousCoralElena5.txt")
+  ToughYellowYvette5 = 515
+  BeautifulCoffeeDix2 = "Why did the tomato blush? Because it saw the salad dressing."
+  SmoothAquamarineBarbi3 = 305
+  FavourablePinkMercie4 = 100
+  AwfulHarlequinJaquenette = "Slept like a log last night  woke up in the fireplace."
+  FunctionalMaroonLexi3 = "Why was it called the dark ages? Because of all the knights. "
+  WorryingSilverRozanna3 = 816
+  DecentMoccasinLora2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  ComplexCopperDrucill2 = 193
+  InnovativeTanSheena4 = true
+  ImmenseAmaranthAdele2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CoolAmaranthAinsley2 = 618
+}

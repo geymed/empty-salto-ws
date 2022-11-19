@@ -1,0 +1,28 @@
+type dummy.ProtestantScarletRobinet6 {
+  annotations {
+    hidden_boolean PalestinianTanShana2 {
+    }
+    serviceid_number PresidentialLimeKrystalle {
+    }
+    boolean ItchyVioletValentina4 {
+    }
+    string WearyBeigeBrooke2 {
+    }
+    serviceid AloneCyanFaina5 {
+    }
+    number ForthcomingPeachMarrilee2 {
+    }
+    boolean UnexpectedMagentaLaurel2 {
+    }
+  }
+  json ShinyTurquoiseTiff3 {
+    _hidden_value = true
+  }
+  PresidentialLimeKrystalle = 997
+  ItchyVioletValentina4 = true
+  WearyBeigeBrooke2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  AloneCyanFaina5 = "Why did the tomato blush? Because it saw the salad dressing."
+  ForthcomingPeachMarrilee2 = 792
+  UnexpectedMagentaLaurel2 = false
+  _hidden_value = true
+}

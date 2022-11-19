@@ -1,0 +1,21 @@
+type dummy.RelativeGoldGuillema2 {
+  annotations {
+    number LiableLimeKimmi4 {
+    }
+    hidden_boolean BusyTealShirlene5 {
+    }
+    serviceid_number DisciplinarySilverSabina {
+    }
+    string PsychologicalIvoryJoice3 {
+    }
+  }
+  hidden_boolean PositiveCoffeeDona3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  LiableLimeKimmi4 = 658
+  DisciplinarySilverSabina = 376
+  PsychologicalIvoryJoice3 = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

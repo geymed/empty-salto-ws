@@ -1,0 +1,86 @@
+type dummy.NaughtyAzureBonni {
+  annotations {
+    
+    
+    
+    
+    
+    
+    
+    serviceid_number OppositeHarlequinJanel2 {
+    }
+    hidden_boolean DutchLavenderKendre {
+    }
+    serviceid_number RisingScarletRosemaria {
+    }
+    boolean UndergroundScarletRomonda {
+    }
+    boolean RipeApricotAridatha {
+    }
+    number RapidGrayHilde {
+    }
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  _hidden_value = true
+  OppositeHarlequinJanel2 = 640
+  RisingScarletRosemaria = 720
+  UndergroundScarletRomonda = true
+  RipeApricotAridatha = true
+  RapidGrayHilde = 279
+  hidden_boolean CleverTealSibby2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT StaleAquaArluene {
+    _hidden_value = true
+  }
+  "List<json>" FreeBronzeCody {
+    _hidden_value = true
+  }
+  number PreparedCyanFelicdad {
+    _hidden_value = true
+  }
+  boolean ForeignBronzeCorinne {
+    _hidden_value = true
+  }
+  serviceid MilitaryChocolateDarline {
+    _hidden_value = true
+  }
+  boolean AgriculturalGoldGoldi {
+    _hidden_value = true
+  }
+  json ConfidentialScarletRois {
+    _hidden_value = true
+  }
+  serviceid_number GorgeousVioletUrsala {
+    _hidden_value = true
+  }
+  serviceid FunnyVioletTuesday2 {
+    _hidden_value = true
+  }
+  string BoldPlumMinette {
+    _hidden_value = true
+  }
+  serviceid LatinLimeKlarika {
+    _hidden_value = true
+  }
+}

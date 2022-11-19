@@ -1,0 +1,110 @@
+type dummy.InteriorPurpleNatividad {
+  annotations {
+    dummy.DEFAULT CulturalCoralElie3 {
+    }
+    hidden_boolean ComprehensiveGreenHyacintha {
+    }
+    string PartialOliveLyndell2 {
+    }
+    serviceid ParentalRedNicki3 {
+    }
+    boolean UniversalJadeKacey2 {
+    }
+    string DefeatedAzureBetta3 {
+    }
+    number AlrightGoldGrace2 {
+    }
+    json ObviousCoffeeDolley2 {
+    }
+  }
+  hidden_boolean AgriculturalGoldGoldia3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string EnormousFuchsiaGiorgia2 {
+    _hidden_value = true
+  }
+  json BeautifulTomatoTabina {
+    _hidden_value = true
+  }
+  serviceid InsufficientPurpleNedi5 {
+    _hidden_value = true
+  }
+  hidden_boolean ConsciousHarlequinJeane2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean LateAmethystAmata2 {
+    _hidden_value = true
+  }
+  string ShockedPinkMelisa2 {
+    _hidden_value = true
+  }
+  json JitteryVioletValeria {
+    _hidden_value = true
+  }
+  dummy.DeliciousApricotArdisj DefiantAzureBetteann4 {
+    ResidentSalmonRachelle = 475
+    ShrillApricotAntonella = "What creature is smarter than a talking parrot? A spelling bee."
+    SpecifiedSalmonPortia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    TerribleBeigeBrinn = 302
+    WeeklyLavenderKessia = 616
+    FoolishSapphireReine = 413
+    FutureCoffeeDolly = "I'll tell you what often gets over looked... garden fences."
+    WittyBlueCeil = "Slept like a log last night  woke up in the fireplace."
+    WellFuchsiaGisela = true
+    MadHarlequinJanessa = 925
+    SweetAquaAshlan = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    OrganisationalTanSharai = "Why was it called the dark ages? Because of all the knights. "
+    ExcitedBlackCariotta = false
+    _hidden_value = true
+  }
+  serviceid_number UnfairMaroonLilia2 {
+    _hidden_value = true
+  }
+  boolean ChristianCoralElvina2 {
+    _hidden_value = true
+  }
+  json PastCoffeeDianemarie4 {
+    _hidden_value = true
+  }
+  boolean NuttyWhiteVikky {
+    _hidden_value = true
+  }
+  json InterestingChocolateDelphine {
+    _hidden_value = true
+  }
+  dummy.ShallowAmberAloysia SpicyAquaArliene3 {
+    NiceWhiteVi = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    VisibleIndigoJillayne = false
+    PreparedCyanFelicia = "To be Frank, I'd have to change my name."
+    BlushingTomatoTalyah = 332
+    RedundantSalmonPhilis = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    LivelyPeachMarylin = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    _hidden_value = true
+  }
+  json ProfoundPinkMerlina3 {
+    _hidden_value = true
+  }
+  boolean NarrowCyanFanya {
+    _hidden_value = true
+  }
+  CulturalCoralElie3 = {
+    legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  PartialOliveLyndell2 = "To be Frank, I'd have to change my name."
+  ParentalRedNicki3 = '''
+What do you do on a remote island? Try and find the TV island it belongs to.
+Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+My first time using an elevator was an uplifting experience. The second time let me down.
+'''
+  UniversalJadeKacey2 = true
+  DefeatedAzureBetta3 = "Why is Peter Pan always flying? Because he Neverlands."
+  AlrightGoldGrace2 = 898
+  ObviousCoffeeDolley2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

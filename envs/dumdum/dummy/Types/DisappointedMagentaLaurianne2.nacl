@@ -1,0 +1,85 @@
+type dummy.DisappointedMagentaLaurianne2 {
+  annotations {
+    boolean PotentialCoralElayne2 {
+    }
+    json TanYellowYetta {
+    }
+    serviceid WildTomatoSuzi {
+    }
+    number DistinguishedPurpleNatasha2 {
+    }
+    number SparklingTurquoiseTiffy2 {
+    }
+    serviceid GiganticAmaranthAddi2 {
+    }
+    hidden_boolean SupportingSilverSamantha4 {
+    }
+  }
+  hidden_boolean PainfulMaroonLilly {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT DeliciousApricotArdis3 {
+    _hidden_value = true
+  }
+  json NeatMoccasinLorine2 {
+    _hidden_value = true
+  }
+  serviceid_number VisualGreenIngaborg4 {
+    _hidden_value = true
+  }
+  json ShrillApricotAntonetta3 {
+    _hidden_value = true
+  }
+  boolean UrbanCyanFan5 {
+    _hidden_value = true
+  }
+  serviceid ExuberantBlackCarlee5 {
+    _hidden_value = true
+  }
+  json DeadTealSigrid2 {
+    _hidden_value = true
+  }
+  serviceid CalmPurpleNanci3 {
+    _hidden_value = true
+  }
+  hidden_boolean MushyWhiteVerina2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number PreferredTanScarlett {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PreciseIndigoJoby3 {
+    _hidden_value = true
+  }
+  number RealisticMoccasinLona2 {
+    _hidden_value = true
+  }
+  boolean PrimeBrownDanit2 {
+    _hidden_value = true
+  }
+  json InfluentialMoccasinLorene {
+    _hidden_value = true
+  }
+  json IdeologicalOrangeMargarette3 {
+    _hidden_value = true
+  }
+  "Map<hidden_boolean>" BigBlushChiarra {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number HealthyGoldGrata {
+    _hidden_value = true
+  }
+  PotentialCoralElayne2 = false
+  TanYellowYetta = "How come the stadium got hot after the game? Because all of the fans left."
+  WildTomatoSuzi = "Why was it called the dark ages? Because of all the knights. "
+  DistinguishedPurpleNatasha2 = 346
+  SparklingTurquoiseTiffy2 = 649
+  GiganticAmaranthAddi2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

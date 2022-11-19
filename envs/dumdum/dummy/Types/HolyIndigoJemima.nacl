@@ -1,0 +1,53 @@
+type dummy.HolyIndigoJemima {
+  annotations {
+    number OverseasIvoryJudy {
+    }
+    hidden_boolean AloneCyanFaina {
+    }
+    hidden_boolean FilthyAmberAlexine {
+    }
+    number LeadingCrimsonElyssa {
+    }
+    json FierceOliveMaisey {
+    }
+    boolean OverseasIvoryJudye {
+    }
+  }
+  serviceid InfluentialMoccasinLorenza {
+    _hidden_value = true
+  }
+  serviceid_number ReluctantMagentaLeda {
+    _hidden_value = true
+  }
+  json HighBlueCharisse {
+    _hidden_value = true
+  }
+  hidden_boolean HelplessTealSonnnie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number BigBlushChiquia {
+    _hidden_value = true
+  }
+  serviceid_number ManualRosePaola2 {
+    _hidden_value = true
+  }
+  number CriticalCrimsonEstella2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PsychologicalIvoryJoice {
+    _hidden_value = true
+  }
+  number DetailedCrimsonEmily {
+    _hidden_value = true
+  }
+  serviceid_number VastYellowZea2 {
+    _hidden_value = true
+  }
+  OverseasIvoryJudy = 146
+  LeadingCrimsonElyssa = 830
+  FierceOliveMaisey = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  OverseasIvoryJudye = false
+  _hidden_value = true
+}

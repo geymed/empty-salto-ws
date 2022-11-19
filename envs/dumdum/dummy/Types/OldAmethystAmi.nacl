@@ -1,0 +1,31 @@
+type dummy.OldAmethystAmi {
+  annotations {
+    serviceid_number UnfairMaroonLilas3 {
+    }
+    boolean TroubledBeigeBrittani {
+    }
+    dummy.GrubbyAquaAubrie HissingApricotAnn {
+    }
+    json UsualCoralEllyn2 {
+    }
+    boolean HonChocolateDaune2 {
+    }
+    dummy.DEFAULT GothicSapphireRalina {
+    }
+    serviceid StripedYellowWrennie {
+    }
+  }
+  json CurlyAmberAlbertine {
+    _hidden_value = true
+  }
+  UnfairMaroonLilas3 = 701
+  TroubledBeigeBrittani = false
+  HissingApricotAnn = 884
+  UsualCoralEllyn2 = "What do you call two barracuda fish?  A Pairacuda!"
+  HonChocolateDaune2 = true
+  GothicSapphireRalina = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  StripedYellowWrennie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

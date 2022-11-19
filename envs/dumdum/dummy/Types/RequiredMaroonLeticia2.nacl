@@ -1,0 +1,64 @@
+type dummy.RequiredMaroonLeticia2 {
+  annotations {
+    boolean DoubtfulTealSimonne {
+    }
+    number AshamedAquamarineBernardina {
+    }
+    boolean JapaneseCyanFianna3 {
+    }
+    hidden_boolean StupidTomatoSunshine2 {
+    }
+    json NeutralPeachMarysa {
+    }
+  }
+  string RareWhiteWanda {
+    _hidden_value = true
+  }
+  serviceid MiserableSalmonQuintina2 {
+    _hidden_value = true
+  }
+  serviceid HotCoffeeDeonne {
+    _hidden_value = true
+  }
+  hidden_boolean ApplicablePlumMireille {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean FavourablePinkMercedes3 {
+    _hidden_value = true
+  }
+  boolean RattyWhiteWaneta3 {
+    _hidden_value = true
+  }
+  string FascinatingOrangeMargaret4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ScreechingApricotAnthiathia {
+    _hidden_value = true
+  }
+  json CloseBrownCory5 {
+    _hidden_value = true
+  }
+  json EasyBronzeCollen3 {
+    _hidden_value = true
+  }
+  hidden_boolean DisappointedMagentaLaurice4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ProtectiveRoseOlivette {
+    _hidden_value = true
+  }
+  hidden_boolean BusyTealShirleen3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  DoubtfulTealSimonne = false
+  AshamedAquamarineBernardina = 761
+  JapaneseCyanFianna3 = true
+  NeutralPeachMarysa = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

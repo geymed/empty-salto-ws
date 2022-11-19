@@ -1,0 +1,123 @@
+type dummy.BraveBeigeCaitrin2 {
+  annotations {
+    string IdenticalLimeKorry2 {
+    }
+    serviceid AdvancedHarlequinJacintha {
+    }
+    serviceid CentralBronzeConnie3 {
+    }
+    boolean InsufficientPurpleNedi2 {
+    }
+  }
+  json QuietApricotAnnissa {
+    _hidden_value = true
+  }
+  hidden_boolean HuskyApricotAnnabell3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string IncreasingCyanEvonne2 {
+    _hidden_value = true
+  }
+  string VerticalOliveLynnette4 {
+    _hidden_value = true
+  }
+  string MissingPinkMelloney2 {
+    _hidden_value = true
+  }
+  dummy.AverageTomatoTabbitha SeparateCopperDorotea3 {
+    LonelyAzureBobine = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ComplexCopperDrucy = 318
+    DangerousCrimsonEssie = 331
+    FreshCopperDyanne = "Whoever invented the knock-knock joke should get a no bell prize."
+    DepressedAzureBetty = true
+    HiddenRedOdessa = 198
+    ProminentLavenderKelci = 49
+    ImmensePlumMirna = 467
+    NavalPinkMelamie = false
+    MysteriousAzureBobinette = 56
+    RenewedSilverSandy = false
+    PriorRosePauli = 886
+    EagerBeigeCandis = 336
+    _hidden_value = true
+  }
+  number WelshGrayHattie6 {
+    _hidden_value = true
+  }
+  string RawJadeKarlen2 {
+    _hidden_value = true
+  }
+  json PositiveCoffeeDona2 {
+    _hidden_value = true
+  }
+  dummy.SpareMaroonLilli OutstandingIndigoJenine {
+    ShortAmethystAnabella = 17
+    DeliberateRedNoella = true
+    IslamicRoseOlympie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    WorthyRedOdette = "Why did the kid cross the playground? To get to the other slide."
+    BlackVioletTorey2 = "Why was it called the dark ages? Because of all the knights. "
+    SelectedPlumMilli = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    SubjectiveSapphireRiane = 569
+    ExuberantBlackCarlee = {
+      legit = "Im only familiar with 25 letters in the English language. I dont know why."
+    }
+    TenderRedOdelia = "Did you know that protons have mass? I didn't even know they were catholic."
+    FormalCoralElka = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    _hidden_value = true
+  }
+  json InsufficientPurpleNedi3 {
+    _hidden_value = true
+  }
+  serviceid IntegratedOliveMady3 {
+    _hidden_value = true
+  }
+  serviceid GentleIndigoJocelin3 {
+    _hidden_value = true
+  }
+  hidden_boolean TopChocolateDarda3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string DeafeningAmethystAngy {
+    _hidden_value = true
+  }
+  serviceid ExtraordinaryIndigoJessica {
+    _hidden_value = true
+  }
+  boolean BlackBlushClary2 {
+    _hidden_value = true
+  }
+  string HorribleOrangeMaren3 {
+    _hidden_value = true
+  }
+  hidden_boolean HandsomeVioletVal2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string HealthyGoldGratia {
+    _hidden_value = true
+  }
+  serviceid_number LoudLavenderKiersten {
+    _hidden_value = true
+  }
+  number SkinnyAmberAlvera {
+    _hidden_value = true
+  }
+  serviceid MiserableSalmonQuintina {
+    _hidden_value = true
+  }
+  serviceid_number VariousBrownCorry {
+    _hidden_value = true
+  }
+  string RollingSilverRubina3 {
+    _hidden_value = true
+  }
+  IdenticalLimeKorry2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  AdvancedHarlequinJacintha = "How come the stadium got hot after the game? Because all of the fans left."
+  CentralBronzeConnie3 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  InsufficientPurpleNedi2 = false
+  _hidden_value = true
+}

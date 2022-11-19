@@ -1,0 +1,74 @@
+type dummy.CalmPurpleNanci {
+  annotations {
+    boolean HarshApricotAnjela {
+    }
+    dummy.EfficientGoldGretna FrozenScarletRosa2 {
+    }
+    dummy.DEFAULT PrimaryCoffeeDodie {
+    }
+    number WholeBronzeClotilda {
+    }
+    hidden_boolean ComfortableBeigeCamel {
+    }
+    serviceid_number ImmensePlumMirna2 {
+    }
+    boolean PrintedRedNetty {
+    }
+  }
+  number GenuineGreenIsidora {
+    _hidden_value = true
+  }
+  serviceid PunyAmaranthAeriel {
+    _hidden_value = true
+  }
+  boolean GrandEmeraldFrancene {
+    _hidden_value = true
+  }
+  serviceid LimitedCoralElla {
+    _hidden_value = true
+  }
+  hidden_boolean SmartPeachMarje {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT HeadPinkMeggi {
+    _hidden_value = true
+  }
+  string ProvincialPeachMariya {
+    _hidden_value = true
+  }
+  serviceid_number PhilosophicalRedNoella {
+    _hidden_value = true
+  }
+  number EarlyBlushCherrita4 {
+    _hidden_value = true
+  }
+  json FutureCoffeeDolorita {
+    _hidden_value = true
+  }
+  serviceid_number SufficientCrimsonEran {
+    _hidden_value = true
+  }
+  serviceid FascinatingOrangeMargaretha {
+    _hidden_value = true
+  }
+  number NativeJadeKata {
+    _hidden_value = true
+  }
+  boolean LargeAmaranthAdelind2 {
+    _hidden_value = true
+  }
+  serviceid NervousHarlequinJanot {
+    _hidden_value = true
+  }
+  HarshApricotAnjela = false
+  FrozenScarletRosa2 = false
+  PrimaryCoffeeDodie = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  WholeBronzeClotilda = 428
+  ImmensePlumMirna2 = 517
+  PrintedRedNetty = true
+  _hidden_value = true
+}

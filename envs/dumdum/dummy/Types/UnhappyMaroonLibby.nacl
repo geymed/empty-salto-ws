@@ -1,0 +1,45 @@
+type dummy.UnhappyMaroonLibby is boolean {
+  annotations {
+    json EmptyAmethystAndra {
+    }
+    string GlamorousTurquoiseTerese {
+    }
+    json TiredGoldGretchen {
+    }
+    string NumerousHarlequinJanean {
+    }
+    number WiseLavenderKatherine {
+    }
+    serviceid ExclusiveMagentaLatrena {
+    }
+    serviceid_number DisastrousScarletRochell {
+    }
+    serviceid HistoricalCyanEvangelin {
+    }
+    hidden_boolean UnconsciousSapphireRaye {
+    }
+    hidden_boolean CheerfulBeigeCalypso {
+    }
+    hidden_boolean LargeAmaranthAdelind {
+    }
+    number ThickEmeraldFina {
+    }
+    string SorryBrownDaphene {
+    }
+    boolean DullMoccasinLori {
+    }
+    hidden_boolean MarvellousMoccasinLorne {
+    }
+  }
+  EmptyAmethystAndra = "Why was it called the dark ages? Because of all the knights. "
+  GlamorousTurquoiseTerese = "My first time using an elevator was an uplifting experience. The second time let me down."
+  TiredGoldGretchen = "I'll tell you what often gets over looked... garden fences."
+  NumerousHarlequinJanean = "Whoever invented the knock-knock joke should get a no bell prize."
+  WiseLavenderKatherine = 827
+  ExclusiveMagentaLatrena = "Why do birds fly south for the winter? Because it's too far to walk."
+  DisastrousScarletRochell = 850
+  HistoricalCyanEvangelin = "I'll tell you what often gets over looked... garden fences."
+  ThickEmeraldFina = 391
+  SorryBrownDaphene = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  DullMoccasinLori = false
+}

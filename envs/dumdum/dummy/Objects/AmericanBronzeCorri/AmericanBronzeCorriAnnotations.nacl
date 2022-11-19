@@ -1,0 +1,51 @@
+type dummy.AmericanBronzeCorri {
+  annotations {
+    boolean UselessRedNinette4 {
+    }
+    number FlatAmberAllianora5 {
+    }
+    json StraightHarlequinJami3 {
+    }
+    serviceid_number HonChocolateDaveen2 {
+    }
+    serviceid CheerfulSapphireRhodie6 {
+    }
+    string InvolvedCoffeeDeni2 {
+    }
+    string HistoricLavenderKellie2 {
+    }
+    serviceid_number TurkishPurpleMozelle2 {
+    }
+    number SelfishBeigeBridget2 {
+    }
+    number UglyYellowZahara4 {
+    }
+    dummy.UnhappyMaroonLibby AmusedBeigeCacilia3 {
+    }
+    serviceid_number ThoughtlessBeigeBrinna {
+    }
+    number UselessRedNina2 {
+    }
+    string BreezyAmaranthAida4 {
+    }
+    number EmptyAmethystAndreana {
+    }
+    dummy.ComparableMoccasinLizzie ExcitingGreenIssie5 {
+    }
+  }
+  UselessRedNinette4 = true
+  FlatAmberAllianora5 = 228
+  StraightHarlequinJami3 = "Why is Peter Pan always flying? Because he Neverlands."
+  HonChocolateDaveen2 = 234
+  CheerfulSapphireRhodie6 = "Did you know that protons have mass? I didn't even know they were catholic."
+  InvolvedCoffeeDeni2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  HistoricLavenderKellie2 = "I'll tell you what often gets over looked... garden fences."
+  TurkishPurpleMozelle2 = 282
+  SelfishBeigeBridget2 = 159
+  UglyYellowZahara4 = 475
+  AmusedBeigeCacilia3 = false
+  ThoughtlessBeigeBrinna = 722
+  UselessRedNina2 = 83
+  BreezyAmaranthAida4 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  EmptyAmethystAndreana = 417
+}

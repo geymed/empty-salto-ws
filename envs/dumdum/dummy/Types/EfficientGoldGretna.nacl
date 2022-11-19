@@ -1,0 +1,39 @@
+type dummy.EfficientGoldGretna is boolean {
+  annotations {
+    string OppositeHarlequinJanel {
+    }
+    serviceid StrangeCoralEdna {
+    }
+    json ExcitingGreenIvett {
+    }
+    boolean AdequateGrayHildy {
+    }
+    number RattyWhiteWaneta {
+    }
+    number FastEmeraldFleur {
+    }
+    number MiddleCopperDusty {
+    }
+    serviceid ParliamentaryFuchsiaGiacinta {
+    }
+    string ExcitingGreenIssie {
+    }
+    string MaturePeachMaud {
+    }
+    hidden_boolean ShortYellowWilona {
+    }
+    boolean StraightAmethystAlysia {
+    }
+  }
+  OppositeHarlequinJanel = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  StrangeCoralEdna = "A steak pun is a rare medium well done."
+  ExcitingGreenIvett = "Slept like a log last night  woke up in the fireplace."
+  AdequateGrayHildy = true
+  RattyWhiteWaneta = 329
+  FastEmeraldFleur = 0
+  MiddleCopperDusty = 169
+  ParliamentaryFuchsiaGiacinta = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ExcitingGreenIssie = "How come the stadium got hot after the game? Because all of the fans left."
+  MaturePeachMaud = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  StraightAmethystAlysia = false
+}

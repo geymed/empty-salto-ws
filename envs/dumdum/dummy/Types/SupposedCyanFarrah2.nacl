@@ -1,0 +1,30 @@
+type dummy.SupposedCyanFarrah2 {
+  annotations {
+    json DeafeningAmethystAngy2 {
+    }
+    dummy.EfficientGoldGretna GreatAmaranthAddia2 {
+    }
+    serviceid_number CapitalistMagentaLayney2 {
+    }
+    dummy.DEFAULT SourApricotArlene2 {
+    }
+    hidden_boolean WetAmberAlicia3 {
+    }
+    serviceid_number FierceAzureBilli {
+    }
+    string SuspiciousPurpleMyriam4 {
+    }
+  }
+  boolean AdministrativeGreenHonor4 {
+    _hidden_value = true
+  }
+  DeafeningAmethystAngy2 = "To be Frank, I'd have to change my name."
+  GreatAmaranthAddia2 = true
+  CapitalistMagentaLayney2 = 543
+  SourApricotArlene2 = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  FierceAzureBilli = 463
+  SuspiciousPurpleMyriam4 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

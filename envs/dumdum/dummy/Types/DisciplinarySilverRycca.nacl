@@ -1,0 +1,122 @@
+type dummy.DisciplinarySilverRycca {
+  annotations {
+    boolean ScaryBeigeBrenna2 {
+    }
+    hidden_boolean LightCopperDulcine {
+    }
+    json FaithfulBlackCarlina2 {
+    }
+    serviceid SourAquaArlette {
+    }
+    serviceid GentleIndigoJobyna {
+    }
+    boolean ManagerialRedNerta3 {
+    }
+  }
+  json ArrogantAquamarineBernadene {
+    _hidden_value = true
+  }
+  boolean BraveBeigeCaitlin2 {
+    _hidden_value = true
+  }
+  hidden_boolean StingyYellowWinna {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json TechnicalCopperEden {
+    _hidden_value = true
+  }
+  number NuclearCoffeeDonielle {
+    _hidden_value = true
+  }
+  serviceid_number TragicRosePavia {
+    _hidden_value = true
+  }
+  number UglyYellowZabrina2 {
+    _hidden_value = true
+  }
+  dummy.AfraidCrimsonEmogene RelievedBlueCatherine2 {
+    TameTomatoSusette = 52
+    DeliberateRedNoellyn = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    PainfulMaroonLily = "Why do birds fly south for the winter? Because it's too far to walk."
+    GrowingCrimsonEnrichetta = 676
+    VisualGreenIngaborg = 421
+    HilariousBlackCaroljean = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    UglyYellowZabrina = 23
+    ParticularBlushClaudelle = true
+    DefinitePeachMartha = 652
+    PleasedEmeraldGabriela = "Dad Im hungry  Hi hungry Im dad"
+    _hidden_value = true
+  }
+  json CarefulCyanFerdinande {
+    _hidden_value = true
+  }
+  dummy.FamousCoralElfrieda SoreBeigeBrier {
+    ChristianCoralElvera = 95
+    NoblePurpleNatty = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    PassivePurpleMyra = "Why did the tomato blush? Because it saw the salad dressing."
+    GeographicalPeachMarlene = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    AwakeRedNola2 = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    DeepAmberAllegra = 819
+    OrangePurpleMufinella = "Why didnt the skeleton cross the road? Because he had no guts."
+    FascinatingOrangeMargareta = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    IntellectualJadeKalina = 716
+    _hidden_value = true
+  }
+  serviceid_number FavourablePinkMercie3 {
+    _hidden_value = true
+  }
+  string ScornfulBeigeBride {
+    _hidden_value = true
+  }
+  boolean ThoughtlessBeigeBriny {
+    _hidden_value = true
+  }
+  boolean FuzzyAquaAtlante2 {
+    _hidden_value = true
+  }
+  hidden_boolean LuckyFuchsiaGinnie2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number UnemployedIvoryJoli {
+    _hidden_value = true
+  }
+  number EssentialCoffeeDione2 {
+    _hidden_value = true
+  }
+  serviceid MarriedCyanFanechka2 {
+    _hidden_value = true
+  }
+  serviceid DamagedAmberAlejandra {
+    _hidden_value = true
+  }
+  json SelfishBeigeBridie2 {
+    _hidden_value = true
+  }
+  number OccupationalOliveMadelaine {
+    _hidden_value = true
+  }
+  "List<serviceid>" ComfortableGoldGrissel5 {
+    _hidden_value = true
+  }
+  number AliveFuchsiaGillie3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HilariousBlackCarolyne2 {
+    _hidden_value = true
+  }
+  serviceid DeadBrownDaphne3 {
+    _hidden_value = true
+  }
+  ScaryBeigeBrenna2 = false
+  FaithfulBlackCarlina2 = "How come the stadium got hot after the game? Because all of the fans left."
+  SourAquaArlette = "How come the stadium got hot after the game? Because all of the fans left."
+  GentleIndigoJobyna = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ManagerialRedNerta3 = false
+  _hidden_value = true
+}

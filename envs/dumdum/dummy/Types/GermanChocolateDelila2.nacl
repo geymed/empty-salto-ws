@@ -1,0 +1,17 @@
+type dummy.GermanChocolateDelila2 {
+  annotations {
+    serviceid_number CivilCoffeeDode3 {
+    }
+    serviceid BrightTomatoTamara3 {
+    }
+    json GracefulTurquoiseTerrie {
+    }
+  }
+  serviceid AliveTealSherilyn2 {
+    _hidden_value = true
+  }
+  CivilCoffeeDode3 = 540
+  BrightTomatoTamara3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  GracefulTurquoiseTerrie = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

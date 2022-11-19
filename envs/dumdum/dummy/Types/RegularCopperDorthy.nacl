@@ -1,0 +1,50 @@
+type dummy.RegularCopperDorthy {
+  annotations {
+    serviceid_number VictoriousBlueCecile {
+    }
+    hidden_boolean SunnyTanSharl2 {
+    }
+    string ValuableGoldGwynne2 {
+    }
+    number VaryingPurpleNelli2 {
+    }
+    string SignificantBrownDanni {
+    }
+    serviceid_number ArtificialMagentaLenette2 {
+    }
+  }
+  number VisitingScarletRobbi {
+    _hidden_value = true
+  }
+  number QuickWhiteVivyanne2 {
+    _hidden_value = true
+  }
+  boolean DeepAmberAllegra2 {
+    _hidden_value = true
+  }
+  serviceid_number AwareChocolateDasi {
+    _hidden_value = true
+  }
+  serviceid BlondeTomatoTallia {
+    _hidden_value = true
+  }
+  json GentleBlackCarmelle {
+    _hidden_value = true
+  }
+  hidden_boolean ElderlyEmeraldFlorella {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean NosyWhiteVictoria3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  VictoriousBlueCecile = 197
+  ValuableGoldGwynne2 = "Dad Im hungry  Hi hungry Im dad"
+  VaryingPurpleNelli2 = 896
+  SignificantBrownDanni = "How come the stadium got hot after the game? Because all of the fans left."
+  ArtificialMagentaLenette2 = 162
+  _hidden_value = true
+}

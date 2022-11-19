@@ -1,0 +1,64 @@
+type dummy.MidPinkMelissa4 {
+  annotations {
+    json WellFuchsiaGisela2 {
+    }
+    dummy.SpareMaroonLilli FriendlyBlackCarlynn2 {
+    }
+    json OldBlueChantalle2 {
+    }
+    json SafeCopperDorey3 {
+    }
+    json EnchantingBlackCaren3 {
+    }
+    serviceid_number EligiblePurpleNeille3 {
+    }
+    string PartialOliveLyndsay2 {
+    }
+  }
+  serviceid InternationalBlushClaudia {
+    _hidden_value = true
+  }
+  "Map<json>" AppallingTanSelene {
+    _hidden_value = true
+  }
+  serviceid_number CoastalPlumMichal2 {
+    _hidden_value = true
+  }
+  json IllEmeraldGale {
+    _hidden_value = true
+  }
+  string NakedMagentaLeanor5 {
+    _hidden_value = true
+  }
+  json WideBronzeCorilla {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RichCoffeeDoreen2 {
+    _hidden_value = true
+  }
+  number ReasonableCrimsonEmelia4 {
+    _hidden_value = true
+  }
+  serviceid_number SurprisedEmeraldFrederica2 {
+    _hidden_value = true
+  }
+  string OralLimeKylie3 {
+    _hidden_value = true
+  }
+  hidden_boolean SlimyAquamarineBarbaraanne {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean UnusualGoldGlad2 {
+    _hidden_value = true
+  }
+  WellFuchsiaGisela2 = "How come the stadium got hot after the game? Because all of the fans left."
+  FriendlyBlackCarlynn2 = "Why was it called the dark ages? Because of all the knights. "
+  OldBlueChantalle2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SafeCopperDorey3 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  EnchantingBlackCaren3 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  EligiblePurpleNeille3 = 136
+  PartialOliveLyndsay2 = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

@@ -1,0 +1,43 @@
+type dummy.DiverseRedNicky {
+  annotations {
+    boolean FixedGreenHilliary {
+    }
+    serviceid_number CompulsoryOrangeMallory2 {
+    }
+    serviceid_number SignificantBrownDanna {
+    }
+    string FederalGrayHalli {
+    }
+    hidden_boolean RemarkableGreenHortensia {
+    }
+  }
+  string AverageAmaranthAarika2 {
+    _hidden_value = true
+  }
+  json ArtisticPeachMatelda {
+    _hidden_value = true
+  }
+  json NiceBrownCybill {
+    _hidden_value = true
+  }
+  number OrganicLimeLadonna2 {
+    _hidden_value = true
+  }
+  serviceid_number IdeologicalOrangeMargaretha2 {
+    _hidden_value = true
+  }
+  json IncreasingCyanEvita2 {
+    _hidden_value = true
+  }
+  serviceid FuzzyAquaAtlanta {
+    _hidden_value = true
+  }
+  json MagnificentWhiteVanny {
+    _hidden_value = true
+  }
+  FixedGreenHilliary = true
+  CompulsoryOrangeMallory2 = 517
+  SignificantBrownDanna = 936
+  FederalGrayHalli = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+}

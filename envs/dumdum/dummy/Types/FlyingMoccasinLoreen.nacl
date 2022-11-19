@@ -1,0 +1,56 @@
+type dummy.FlyingMoccasinLoreen {
+  annotations {
+    string DampAmberAlejandrina2 {
+    }
+    hidden_boolean SquealingApricotArabel2 {
+    }
+    dummy.DEFAULT OpenBronzeClerissa2 {
+    }
+    serviceid SubstantialCoralElspeth2 {
+    }
+  }
+  serviceid TotalBrownDaniella2 {
+    _hidden_value = true
+  }
+  string AccusedSilverSallyann4 {
+    _hidden_value = true
+  }
+  json RigidPinkMerry {
+    _hidden_value = true
+  }
+  string DailyCyanEve2 {
+    _hidden_value = true
+  }
+  string PreciousWhiteVita2 {
+    _hidden_value = true
+  }
+  string FortunateRoseOliy3 {
+    _hidden_value = true
+  }
+  serviceid_number SeniorCoffeeDonetta2 {
+    _hidden_value = true
+  }
+  string HandsomeVioletUrsuline {
+    _hidden_value = true
+  }
+  serviceid BrokenIndigoJodee {
+    _hidden_value = true
+  }
+  hidden_boolean FamiliarCrimsonEthel2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid BoredAquamarineBerry {
+    _hidden_value = true
+  }
+  number BackMoccasinLoni2 {
+    _hidden_value = true
+  }
+  DampAmberAlejandrina2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  OpenBronzeClerissa2 = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  SubstantialCoralElspeth2 = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

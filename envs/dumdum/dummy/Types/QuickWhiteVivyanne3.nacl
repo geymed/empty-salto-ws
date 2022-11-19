@@ -1,0 +1,67 @@
+type dummy.QuickWhiteVivyanne3 {
+  annotations {
+    number AwfulHarlequinJaquith2 {
+    }
+    dummy.WanderingTomatoSuzann2 VitalEmeraldFifi4 {
+    }
+    dummy.BoilingAmaranthAgneta StaticSapphireRebekah5 {
+    }
+    boolean GreatBlueCharin4 {
+    }
+  }
+  "List<boolean>" SpecialBronzeClem {
+    _hidden_value = true
+  }
+  serviceid_number FollowingBrownCyndie3 {
+    _hidden_value = true
+  }
+  "List<json>" FriendlyBlackCarma2 {
+    _hidden_value = true
+  }
+  serviceid BareLavenderKelli4 {
+    _hidden_value = true
+  }
+  string PrimeBrownDanit {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SuitableCrimsonEmera2 {
+    _hidden_value = true
+  }
+  string FinalBrownDalenna2 {
+    _hidden_value = true
+  }
+  serviceid LongAmethystAmbur2 {
+    _hidden_value = true
+  }
+  serviceid_number NumerousHarlequinJanean2 {
+    _hidden_value = true
+  }
+  boolean IndividualBrownCyb {
+    _hidden_value = true
+  }
+  json PracticalCopperDorisa3 {
+    _hidden_value = true
+  }
+  hidden_boolean UnknownFuchsiaGilbertina3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean DoubtfulRosePansy2 {
+    _hidden_value = true
+  }
+  serviceid AlertTomatoSylvia {
+    _hidden_value = true
+  }
+  string BeautifulVioletToni2 {
+    _hidden_value = true
+  }
+  serviceid SkilledMoccasinLuci3 {
+    _hidden_value = true
+  }
+  AwfulHarlequinJaquith2 = 494
+  VitalEmeraldFifi4 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  StaticSapphireRebekah5 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  GreatBlueCharin4 = true
+  _hidden_value = true
+}

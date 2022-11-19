@@ -1,0 +1,50 @@
+type dummy.OutstandingTealStefanie3 {
+  annotations {
+    json AccessibleOrangeMarilin {
+    }
+    hidden_boolean LightTurquoiseTessie {
+    }
+    string ProfitablePurpleNaoma4 {
+    }
+    hidden_boolean CasualOliveLurline3 {
+    }
+    boolean ProtestantScarletRobina {
+    }
+    string InterimOrangeMalory {
+    }
+    number GracefulTurquoiseTerry {
+    }
+  }
+  serviceid_number RigidPinkMerrill2 {
+    _hidden_value = true
+  }
+  boolean VictorianJadeKalindi {
+    _hidden_value = true
+  }
+  serviceid PlasticAquaAuria4 {
+    _hidden_value = true
+  }
+  hidden_boolean GeographicalPeachMarleen2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number UnpleasantRedNonnah2 {
+    _hidden_value = true
+  }
+  number PregnantLimeKizzie2 {
+    _hidden_value = true
+  }
+  json LittleBlushChiquia {
+    _hidden_value = true
+  }
+  string DisturbingTealSheri {
+    _hidden_value = true
+  }
+  AccessibleOrangeMarilin = "Why was it called the dark ages? Because of all the knights. "
+  ProfitablePurpleNaoma4 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ProtestantScarletRobina = true
+  InterimOrangeMalory = "Why did the kid cross the playground? To get to the other slide."
+  GracefulTurquoiseTerry = 931
+  _hidden_value = true
+}

@@ -1,0 +1,70 @@
+type dummy.DeliciousApricotArdis2 {
+  annotations {
+    serviceid_number FrailVioletTrude3 {
+    }
+    string EntireEmeraldFranciska2 {
+    }
+    serviceid_number FineBrownCourtnay {
+    }
+    serviceid_number DistantIndigoJilly3 {
+    }
+    hidden_boolean MinisterialTanSheela2 {
+    }
+    string ShortBronzeColetta {
+    }
+  }
+  dummy.CommonBronzeConstantine ShaggyAquaAviva3 {
+    CrazyTealSibyl = 232
+    _hidden_value = true
+  }
+  hidden_boolean ForeignBronzeCorinne4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number BlackBlushClary {
+    _hidden_value = true
+  }
+  serviceid_number ShortAmethystAnabel2 {
+    _hidden_value = true
+  }
+  dummy.WorryingSilverRozamond ElegantTurquoiseTeddy3 {
+    StormyTurquoiseTim = 17
+    IntegratedOliveMady = "Why did the tomato blush? Because it saw the salad dressing."
+    UltimateJadeKamillah = "Why did the kid cross the playground? To get to the other slide."
+    QuickWhiteVivyan = 942
+    _hidden_value = true
+  }
+  serviceid_number HugeAmaranthAdelaida3 {
+    _hidden_value = true
+  }
+  hidden_boolean ManagingLimeKitty2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number CleverJadeKarie {
+    _hidden_value = true
+  }
+  serviceid_number FirmGrayHeddie2 {
+    _hidden_value = true
+  }
+  boolean CentralBronzeConni3 {
+    _hidden_value = true
+  }
+  serviceid_number ParentalRedNicki2 {
+    _hidden_value = true
+  }
+  serviceid_number SteepMoccasinLuise3 {
+    _hidden_value = true
+  }
+  boolean ResonantApricotAnthe {
+    _hidden_value = true
+  }
+  FrailVioletTrude3 = 122
+  EntireEmeraldFranciska2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  FineBrownCourtnay = 465
+  DistantIndigoJilly3 = 995
+  ShortBronzeColetta = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

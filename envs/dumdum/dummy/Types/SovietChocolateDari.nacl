@@ -1,0 +1,119 @@
+type dummy.SovietChocolateDari {
+  annotations {
+    
+    
+    
+    
+    
+    json GeneticMoccasinLorianne {
+    }
+    json BoringPeachMarnie {
+    }
+    json SoftCoralElaine {
+    }
+    boolean ScrawnyYellowWilmette {
+    }
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  _hidden_value = true
+  GeneticMoccasinLorianne = "Why did the kid cross the playground? To get to the other slide."
+  BoringPeachMarnie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SoftCoralElaine = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ScrawnyYellowWilmette = true
+  json ShortAmethystAnabel {
+    _hidden_value = true
+  }
+  number TestyYellowYolanda {
+    _hidden_value = true
+  }
+  boolean LazyWhiteVanni {
+    _hidden_value = true
+  }
+  hidden_boolean OrganicLimeLaetitia2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT ImpressiveIndigoJess {
+    _hidden_value = true
+  }
+  dummy.LoudLavenderKial WealthyPeachMarybeth {
+    SurroundingOrangeMargery = 468
+    WhisperingApricotArdelia = 523
+    HorribleOrangeMaren = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  json LiableLimeKimberlyn {
+    _hidden_value = true
+  }
+  serviceid MeanIvoryJuli {
+    _hidden_value = true
+  }
+  boolean SolarRosePammie {
+    _hidden_value = true
+  }
+  number CentralBronzeConny2 {
+    _hidden_value = true
+  }
+  serviceid ShrillApricotAntoinette {
+    _hidden_value = true
+  }
+  number OlympicRedNessa {
+    _hidden_value = true
+  }
+  json WiseLavenderKatharyn {
+    _hidden_value = true
+  }
+  serviceid NoisyApricotAnnelise {
+    _hidden_value = true
+  }
+  hidden_boolean LonelyOliveLyn {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "Map<number>" ElaborateRedNicolette {
+    _hidden_value = true
+  }
+  boolean StraightforwardMaroonLezlie {
+    _hidden_value = true
+  }
+  serviceid ResponsibleCoffeeDevan {
+    _hidden_value = true
+  }
+  dummy.LoudLavenderKial CivilCoffeeDodi {
+    SurroundingOrangeMargery = 923
+    WhisperingApricotArdelia = 733
+    HorribleOrangeMaren = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    _hidden_value = true
+  }
+  hidden_boolean CharmingPlumMoreen {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number RegulatorySalmonQuintina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MetropolitanOrangeMarge {
+    _hidden_value = true
+  }
+  json AverageAmaranthAarika {
+    _hidden_value = true
+  }
+  string LengthySapphireRania2 {
+    _hidden_value = true
+  }
+  number LonelyOliveLydie {
+    _hidden_value = true
+  }
+}

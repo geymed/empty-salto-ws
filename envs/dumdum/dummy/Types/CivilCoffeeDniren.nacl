@@ -1,0 +1,24 @@
+type dummy.CivilCoffeeDniren {
+  annotations {
+    serviceid LonelyOliveLyn4 {
+    }
+    json TameYellowYasmin2 {
+    }
+    string UnchangedSilverRozina4 {
+    }
+    hidden_boolean TenseBeigeBrigitte2 {
+    }
+    dummy.DailyCyanEvelina SurprisedEmeraldFredelia {
+    }
+    hidden_boolean GrandEmeraldFran {
+    }
+  }
+  string SlowAmethystAnabelle2 {
+    _hidden_value = true
+  }
+  LonelyOliveLyn4 = "Why didnt the skeleton cross the road? Because he had no guts."
+  TameYellowYasmin2 = "Why did the tomato blush? Because it saw the salad dressing."
+  UnchangedSilverRozina4 = "Dad Im hungry  Hi hungry Im dad"
+  SurprisedEmeraldFredelia = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

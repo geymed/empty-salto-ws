@@ -1,0 +1,54 @@
+type dummy.InterestingChocolateDelphine3 {
+  annotations {
+    serviceid_number VerticalOliveLyssa2 {
+    }
+    number EvilAzureBidget3 {
+    }
+    serviceid UnknownFuchsiaGilberta5 {
+    }
+    string BrainyTealSherry5 {
+    }
+    string AestheticSapphireRebbecca3 {
+    }
+    number SelectedPlumMilli3 {
+    }
+    hidden_boolean LegislativeMaroonLinea3 {
+    }
+    dummy.TurkishPurpleMoyra3 OrdinaryCopperEdi2 {
+    }
+    boolean InfluentialMoccasinLorene2 {
+    }
+    hidden_boolean OrangeWhiteViole {
+    }
+    boolean LeadingCrimsonEm5 {
+    }
+    json FutureCoffeeDolorita4 {
+    }
+    serviceid WastefulYellowZia3 {
+    }
+    boolean BrokenIndigoJocelyn3 {
+    }
+    serviceid_number InstantSapphireRandie3 {
+    }
+    dummy.DistinctHarlequinJanella StrongAquaAshely3 {
+    }
+    hidden_boolean SquareJadeKai3 {
+    }
+    dummy.AwakeRedNola HandsomeVioletUrsuline2 {
+    }
+  }
+  VerticalOliveLyssa2 = 321
+  EvilAzureBidget3 = 446
+  UnknownFuchsiaGilberta5 = "Why is Peter Pan always flying? Because he Neverlands."
+  BrainyTealSherry5 = "I'll tell you what often gets over looked... garden fences."
+  AestheticSapphireRebbecca3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SelectedPlumMilli3 = 341
+  InfluentialMoccasinLorene2 = false
+  LeadingCrimsonEm5 = true
+  FutureCoffeeDolorita4 = "Why was it called the dark ages? Because of all the knights. "
+  WastefulYellowZia3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  BrokenIndigoJocelyn3 = true
+  InstantSapphireRandie3 = 384
+  StrongAquaAshely3 = false
+  HandsomeVioletUrsuline2 = file("IsraeliPinkMerilee.txt")
+}

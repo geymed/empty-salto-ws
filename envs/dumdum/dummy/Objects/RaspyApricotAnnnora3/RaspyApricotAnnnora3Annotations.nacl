@@ -1,0 +1,54 @@
+type dummy.RaspyApricotAnnnora3 {
+  annotations {
+    string IncCrimsonErmentrude3 {
+    }
+    json EnvironmentalCoffeeDomini4 {
+    }
+    number FunOrangeMarcy5 {
+    }
+    hidden_boolean DustyAmberAlexi3 {
+    }
+    json InstitutionalMaroonLesli5 {
+    }
+    dummy.ColouredMaroonLivia SharpAquaBabbette3 {
+    }
+    string ProudBlueCathe {
+    }
+    number HarshOliveMahala3 {
+    }
+    serviceid_number SaltyApricotArlen6 {
+    }
+    hidden_boolean GrumpyVioletUrsuline3 {
+    }
+    dummy.SatisfiedHarlequinJeana2 LongVioletVanessa3 {
+    }
+    dummy.ImmediateCrimsonEmelita CrudePlumMildrid2 {
+    }
+    number DisciplinarySilverSabina4 {
+    }
+    json DevelopedPinkMerilyn3 {
+    }
+    serviceid_number CatholicHarlequinJamie3 {
+    }
+    serviceid TightAquamarineBeckie2 {
+    }
+    json BlackBlushClarita7 {
+    }
+    serviceid_number UrgentLimeKristy4 {
+    }
+  }
+  IncCrimsonErmentrude3 = "Slept like a log last night  woke up in the fireplace."
+  EnvironmentalCoffeeDomini4 = "Why did the kid cross the playground? To get to the other slide."
+  FunOrangeMarcy5 = 125
+  InstitutionalMaroonLesli5 = "Did you know that protons have mass? I didn't even know they were catholic."
+  ProudBlueCathe = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  HarshOliveMahala3 = 395
+  SaltyApricotArlen6 = 687
+  CrudePlumMildrid2 = file("ElaborateRedNicolette6.txt")
+  DisciplinarySilverSabina4 = 712
+  DevelopedPinkMerilyn3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  CatholicHarlequinJamie3 = 612
+  TightAquamarineBeckie2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  BlackBlushClarita7 = "To be Frank, I'd have to change my name."
+  UrgentLimeKristy4 = 821
+}

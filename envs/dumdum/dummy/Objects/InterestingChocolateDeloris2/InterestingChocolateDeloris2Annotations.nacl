@@ -1,0 +1,55 @@
+type dummy.InterestingChocolateDeloris2 {
+  annotations {
+    number SolidGreenIdalina2 {
+    }
+    dummy.ColonialPeachMaudie IrrelevantPurpleNanette3 {
+    }
+    serviceid AbsentPinkMelosa2 {
+    }
+    serviceid_number PsychologicalIvoryJoice5 {
+    }
+    json HonChocolateDatha3 {
+    }
+    number RainyAquaAustin {
+    }
+    json InherentRedNissy2 {
+    }
+    number GlamorousTurquoiseTeresina2 {
+    }
+    dummy.ManyAmethystAnge GreasyAquaAubrette5 {
+    }
+    serviceid PrincipalGoldGrazia2 {
+    }
+    string VisibleIndigoJewelle2 {
+    }
+    hidden_boolean ObligedOrangeMarcelline4 {
+    }
+    serviceid_number UpperCyanFaustine5 {
+    }
+    serviceid DelightfulBeigeCandi3 {
+    }
+    json ActiveCopperDreddy3 {
+    }
+    string OrganicLimeLadonna5 {
+    }
+    string ClearBlushCindra {
+    }
+    hidden_boolean HissingApricotAnnmarie6 {
+    }
+  }
+  SolidGreenIdalina2 = 173
+  IrrelevantPurpleNanette3 = file("RisingScarletRoselle3.txt")
+  AbsentPinkMelosa2 = "What creature is smarter than a talking parrot? A spelling bee."
+  PsychologicalIvoryJoice5 = 759
+  HonChocolateDatha3 = "Why did the tomato blush? Because it saw the salad dressing."
+  RainyAquaAustin = 738
+  InherentRedNissy2 = "Why did the tomato blush? Because it saw the salad dressing."
+  GlamorousTurquoiseTeresina2 = 586
+  PrincipalGoldGrazia2 = "To be Frank, I'd have to change my name."
+  VisibleIndigoJewelle2 = "A steak pun is a rare medium well done."
+  UpperCyanFaustine5 = 979
+  DelightfulBeigeCandi3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ActiveCopperDreddy3 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  OrganicLimeLadonna5 = "Im only familiar with 25 letters in the English language. I dont know why."
+  ClearBlushCindra = "What did one nut say as he chased another nut?  I'm a cashew!"
+}

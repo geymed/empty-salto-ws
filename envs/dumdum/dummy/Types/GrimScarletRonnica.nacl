@@ -1,0 +1,40 @@
+type dummy.GrimScarletRonnica {
+  annotations {
+    boolean HistoricalCyanEvangelin2 {
+    }
+    serviceid_number FreshApricotArdra {
+    }
+    serviceid_number UnfairMaroonLilas2 {
+    }
+    boolean UnsightlyTurquoiseTish {
+    }
+  }
+  serviceid_number RegionalCopperDorice {
+    _hidden_value = true
+  }
+  hidden_boolean WidespreadHarlequinJacquetta4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT AwfulAquamarineBernete {
+    _hidden_value = true
+  }
+  number GrubbyAquaAudi {
+    _hidden_value = true
+  }
+  dummy.DEFAULT JustMaroonLissa {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" BasicChocolateDarice {
+    _hidden_value = true
+  }
+  boolean AdorableTomatoSybyl {
+    _hidden_value = true
+  }
+  HistoricalCyanEvangelin2 = true
+  FreshApricotArdra = 841
+  UnfairMaroonLilas2 = 821
+  UnsightlyTurquoiseTish = false
+  _hidden_value = true
+}

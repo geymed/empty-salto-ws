@@ -1,0 +1,120 @@
+type dummy.DamagedAmberAleece {
+  annotations {
+    string DeepChocolateDelores2 {
+    }
+    string DecentMoccasinLorain {
+    }
+    hidden_boolean UnwillingTanShelbi {
+    }
+    number SafeCopperDori {
+    }
+    string HealthyBlackCarolan2 {
+    }
+    serviceid_number PuzzledTomatoStephie2 {
+    }
+  }
+  serviceid_number ResultingPurpleMyrtle {
+    _hidden_value = true
+  }
+  dummy.EfficientGoldGretna CoolGreenIona {
+    OppositeHarlequinJanel = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    StrangeCoralEdna = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ExcitingGreenIvett = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    AdequateGrayHildy = true
+    RattyWhiteWaneta = 535
+    FastEmeraldFleur = 823
+    MiddleCopperDusty = 748
+    ParliamentaryFuchsiaGiacinta = "Why didnt the skeleton cross the road? Because he had no guts."
+    ExcitingGreenIssie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    MaturePeachMaud = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    StraightAmethystAlysia = false
+    _hidden_value = true
+  }
+  hidden_boolean UnwillingTanShelby {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json ChiefCopperDorree2 {
+    _hidden_value = true
+  }
+  dummy.FamousCoralElfrieda DevelopedPinkMerl {
+    ChristianCoralElvera = 409
+    NoblePurpleNatty = "What creature is smarter than a talking parrot? A spelling bee."
+    PassivePurpleMyra = "Why didnt the skeleton cross the road? Because he had no guts."
+    GeographicalPeachMarlene = "My first time using an elevator was an uplifting experience. The second time let me down."
+    AwakeRedNola2 = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    DeepAmberAllegra = 731
+    OrangePurpleMufinella = "Slept like a log last night  woke up in the fireplace."
+    FascinatingOrangeMargareta = "How come the stadium got hot after the game? Because all of the fans left."
+    IntellectualJadeKalina = 786
+    _hidden_value = true
+  }
+  json LuckyFuchsiaGinnifer {
+    _hidden_value = true
+  }
+  boolean PlasticAquaAurie2 {
+    _hidden_value = true
+  }
+  serviceid DeadTealSileas {
+    _hidden_value = true
+  }
+  boolean RemoteIndigoJenica2 {
+    _hidden_value = true
+  }
+  hidden_boolean HorribleVioletValene2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ExperimentalLavenderKatinka4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number CapableEmeraldFlorri {
+    _hidden_value = true
+  }
+  dummy.AfraidCrimsonEmogene BrokenAmaranthAila {
+    TameTomatoSusette = 383
+    DeliberateRedNoellyn = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    PainfulMaroonLily = "To be Frank, I'd have to change my name."
+    GrowingCrimsonEnrichetta = 553
+    VisualGreenIngaborg = 31
+    HilariousBlackCaroljean = "How come the stadium got hot after the game? Because all of the fans left."
+    UglyYellowZabrina = 910
+    ParticularBlushClaudelle = false
+    DefinitePeachMartha = 986
+    PleasedEmeraldGabriela = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  boolean DesperateIvoryJunina {
+    _hidden_value = true
+  }
+  string MilitaryChocolateDarline2 {
+    _hidden_value = true
+  }
+  dummy.SpareMaroonLilli PricklyAquaAurlie {
+    ShortAmethystAnabella = 631
+    DeliberateRedNoella = false
+    IslamicRoseOlympie = "Im only familiar with 25 letters in the English language. I dont know why."
+    WorthyRedOdette = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    BlackVioletTorey2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    SelectedPlumMilli = "Whoever invented the knock-knock joke should get a no bell prize."
+    SubjectiveSapphireRiane = 534
+    ExuberantBlackCarlee = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    TenderRedOdelia = "Why didnt the skeleton cross the road? Because he had no guts."
+    FormalCoralElka = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    _hidden_value = true
+  }
+  DeepChocolateDelores2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  DecentMoccasinLorain = "To be Frank, I'd have to change my name."
+  SafeCopperDori = 66
+  HealthyBlackCarolan2 = "What do you call two barracuda fish?  A Pairacuda!"
+  PuzzledTomatoStephie2 = 637
+  _hidden_value = true
+}

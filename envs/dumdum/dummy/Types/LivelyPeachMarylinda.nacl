@@ -1,0 +1,24 @@
+type dummy.LivelyPeachMarylinda {
+  annotations {
+    boolean UpperCyanFaunie {
+    }
+    string InjuredScarletRosalinda2 {
+    }
+    string FineBlackCarlye3 {
+    }
+    hidden_boolean AggressiveMaroonLilian {
+    }
+    serviceid EvilPeachMaurine3 {
+    }
+  }
+  hidden_boolean OralLimeKylynn3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  UpperCyanFaunie = false
+  InjuredScarletRosalinda2 = "I'll tell you what often gets over looked... garden fences."
+  FineBlackCarlye3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  EvilPeachMaurine3 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

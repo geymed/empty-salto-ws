@@ -1,0 +1,36 @@
+type dummy.MilitaryChocolateDarlene {
+  annotations {
+    number SuperPeachMartica2 {
+    }
+    serviceid_number PrivateBronzeCordula {
+    }
+    hidden_boolean InstantSapphireRandi {
+    }
+    hidden_boolean UsedFuchsiaGeorgeanne2 {
+    }
+    dummy.DEFAULT UndergroundScarletRomonda2 {
+    }
+    dummy.DEFAULT FrozenScarletRosabel {
+    }
+  }
+  boolean PlasticAquaAurelia2 {
+    _hidden_value = true
+  }
+  string SoftCoralElane3 {
+    _hidden_value = true
+  }
+  hidden_boolean FitHarlequinJaclyn {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  SuperPeachMartica2 = 5
+  PrivateBronzeCordula = 48
+  UndergroundScarletRomonda2 = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  FrozenScarletRosabel = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  _hidden_value = true
+}

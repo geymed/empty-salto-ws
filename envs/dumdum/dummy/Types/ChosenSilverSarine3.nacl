@@ -1,0 +1,80 @@
+type dummy.ChosenSilverSarine3 {
+  annotations {
+    number SufficientCrimsonEnriqueta {
+    }
+    string MobilePurpleMorna4 {
+    }
+    string RidiculousMoccasinLivvyy4 {
+    }
+    serviceid_number MinimumIndigoJeri {
+    }
+    string WildTomatoSuzie2 {
+    }
+  }
+  boolean PlainIndigoJessy2 {
+    _hidden_value = true
+  }
+  serviceid_number GreenVioletUlla {
+    _hidden_value = true
+  }
+  dummy.ColonialPeachMaudie HostileOrangeMarieann2 {
+    FrequentLavenderKatie2 = 923
+    VoicelessApricotArdeen = false
+    InnerFuchsiaGenvieve = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    FlakyAmberAlfy = "I'll tell you what often gets over looked... garden fences."
+    CentralBronzeConnie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    StingyYellowWinnah = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    AnnoyedAquamarineBenita = 403
+    DullVioletTrish = "How come the stadium got hot after the game? Because all of the fans left."
+    WeeklyLavenderKessia2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+    RawJadeKarlee = 796
+    WeirdSilverRozella = 989
+    ShaggyAquaAvis = "My first time using an elevator was an uplifting experience. The second time let me down."
+    _hidden_value = true
+  }
+  hidden_boolean ComparativePlumModesta2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean UnknownFuchsiaGilberta2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string NoisyApricotAnnelise4 {
+    _hidden_value = true
+  }
+  boolean MadHarlequinJanet {
+    _hidden_value = true
+  }
+  boolean AdvancedHarlequinJacinda3 {
+    _hidden_value = true
+  }
+  serviceid_number WickedScarletRoseanne4 {
+    _hidden_value = true
+  }
+  hidden_boolean GleamingTurquoiseTerra2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid TrickyYellowYoshiko {
+    _hidden_value = true
+  }
+  serviceid CrudePlumMildred {
+    _hidden_value = true
+  }
+  serviceid_number GorgeousVioletUna2 {
+    _hidden_value = true
+  }
+  json FantasticSapphireRegina2 {
+    _hidden_value = true
+  }
+  SufficientCrimsonEnriqueta = 270
+  MobilePurpleMorna4 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  RidiculousMoccasinLivvyy4 = "Why did the tomato blush? Because it saw the salad dressing."
+  MinimumIndigoJeri = 942
+  WildTomatoSuzie2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

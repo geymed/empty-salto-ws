@@ -1,0 +1,20 @@
+type dummy.ColorfulTomatoTandie2 {
+  annotations {
+    boolean ReadyChocolateDebi2 {
+    }
+    boolean PoorBronzeCorene3 {
+    }
+    serviceid_number WorthwhilePinkMelli {
+    }
+    string GreenVioletUlrica2 {
+    }
+  }
+  "List<serviceid_number>" PolishPinkMeridel2 {
+    _hidden_value = true
+  }
+  ReadyChocolateDebi2 = false
+  PoorBronzeCorene3 = true
+  WorthwhilePinkMelli = 816
+  GreenVioletUlrica2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

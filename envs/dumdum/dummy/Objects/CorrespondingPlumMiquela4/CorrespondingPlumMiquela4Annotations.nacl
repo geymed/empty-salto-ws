@@ -1,0 +1,46 @@
+type dummy.CorrespondingPlumMiquela4 {
+  annotations {
+    number PotentialCoralElbertina2 {
+    }
+    number PsychologicalIvoryJolee6 {
+    }
+    hidden_boolean AllegedOliveLynne2 {
+    }
+    boolean ImmediateCrimsonEmelina {
+    }
+    json ShrillApricotAntoinette8 {
+    }
+    hidden_boolean IndirectPeachMarty2 {
+    }
+    number NosyWhiteVicky2 {
+    }
+    number OnlyBlushClareta6 {
+    }
+    string HorribleOrangeMaren6 {
+    }
+    boolean DizzyVioletTrescha {
+    }
+    serviceid_number SwissPlumMignonne6 {
+    }
+    string GeneralBlushChristan4 {
+    }
+    serviceid_number CulturalCoralElianore6 {
+    }
+    hidden_boolean StructuralIvoryJosey4 {
+    }
+    string HomelessSilverSalome2 {
+    }
+  }
+  PotentialCoralElbertina2 = 692
+  PsychologicalIvoryJolee6 = 269
+  ImmediateCrimsonEmelina = false
+  ShrillApricotAntoinette8 = "Why didnt the skeleton cross the road? Because he had no guts."
+  NosyWhiteVicky2 = 420
+  OnlyBlushClareta6 = 888
+  HorribleOrangeMaren6 = "How come the stadium got hot after the game? Because all of the fans left."
+  DizzyVioletTrescha = false
+  SwissPlumMignonne6 = 301
+  GeneralBlushChristan4 = "How come the stadium got hot after the game? Because all of the fans left."
+  CulturalCoralElianore6 = 663
+  HomelessSilverSalome2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+}

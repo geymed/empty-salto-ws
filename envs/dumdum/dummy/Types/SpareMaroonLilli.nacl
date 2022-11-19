@@ -1,0 +1,44 @@
+type dummy.SpareMaroonLilli is string {
+  annotations {
+    number ShortAmethystAnabella {
+    }
+    hidden_boolean NastyWhiteVeronica {
+    }
+    boolean DeliberateRedNoella {
+    }
+    json IslamicRoseOlympie {
+    }
+    serviceid WorthyRedOdette {
+    }
+    string BlackVioletTorey2 {
+    }
+    json SelectedPlumMilli {
+    }
+    hidden_boolean GivenHarlequinJanice {
+    }
+    hidden_boolean ShakyAquaAvrit {
+    }
+    number SubjectiveSapphireRiane {
+    }
+    dummy.DEFAULT ExuberantBlackCarlee {
+    }
+    serviceid TenderRedOdelia {
+    }
+    json FormalCoralElka {
+    }
+    hidden_boolean ItalianGoldGratiana {
+    }
+  }
+  ShortAmethystAnabella = 246
+  DeliberateRedNoella = false
+  IslamicRoseOlympie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  WorthyRedOdette = "Why was it called the dark ages? Because of all the knights. "
+  BlackVioletTorey2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SelectedPlumMilli = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SubjectiveSapphireRiane = 744
+  ExuberantBlackCarlee = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  TenderRedOdelia = "Dad Im hungry  Hi hungry Im dad"
+  FormalCoralElka = "What do you do on a remote island? Try and find the TV island it belongs to."
+}

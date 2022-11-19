@@ -1,0 +1,47 @@
+type dummy.LongAmaranthAdiana6 {
+  serviceid_number DevotedRosePaulette2 {
+  }
+  dummy.MarxistSapphireRaina GrimScarletRonnica5 {
+    ImpressiveIndigoJess2 = 19
+    MassGreenIlla = 736
+    LonelyOliveLynda2 = 910
+    SpontaneousTanSharyl2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    OutstandingTealStefanie2 = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    PayableOrangeMarcie2 = false
+  }
+  number TemporaryGrayHalley3 {
+  }
+  hidden_boolean ChiefCopperDorree5 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean MagneticPeachMavis3 {
+  }
+  json IllegalJadeKaroline2 {
+  }
+  boolean YummyYellowZorine3 {
+  }
+  serviceid LargeAmaranthAdelina3 {
+  }
+  json PleasedEmeraldGabriella3 {
+  }
+  boolean CooperativeBeigeCamile6 {
+  }
+  hidden_boolean UptightBeigeBrittni5 {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  boolean FluffyAmberAlice2 {
+  }
+  serviceid RawJadeKarlee5 {
+  }
+  hidden_boolean LuckyBlackCassandry3 {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+}

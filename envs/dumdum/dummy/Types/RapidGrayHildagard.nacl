@@ -1,0 +1,147 @@
+type dummy.RapidGrayHildagard {
+  annotations {
+    string InternalCoralEdyth {
+    }
+    dummy.InteriorPurpleNathalie InnerFuchsiaGeorge2 {
+    }
+    string ElaborateRedNicola {
+    }
+    boolean FantasticSapphireRegina {
+    }
+    json DeliciousApricotArdine {
+    }
+    string BottomMoccasinLouisette {
+    }
+    json HarshAmethystAnitra {
+    }
+  }
+  "List<json>" UnfortunatePeachMarrissa {
+    _hidden_value = true
+  }
+  serviceid EvidentIvoryJune {
+    _hidden_value = true
+  }
+  serviceid_number EstimatedOrangeMargie2 {
+    _hidden_value = true
+  }
+  serviceid ClearTomatoTammie {
+    _hidden_value = true
+  }
+  number SteadyAquamarineBathsheba {
+    _hidden_value = true
+  }
+  string AbsoluteGreenImojean {
+    _hidden_value = true
+  }
+  number DarkTurquoiseTaryn2 {
+    _hidden_value = true
+  }
+  serviceid_number HappyBrownDaisey {
+    _hidden_value = true
+  }
+  boolean RoundAmberAlmira {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CrookedAmberAlanah {
+    _hidden_value = true
+  }
+  hidden_boolean MuddyTurquoiseTheodosia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json EducationalCrimsonErtha {
+    _hidden_value = true
+  }
+  number DirtyAmberAleta {
+    _hidden_value = true
+  }
+  boolean UglyYellowZandra {
+    _hidden_value = true
+  }
+  number ExtraCoffeeDiane {
+    _hidden_value = true
+  }
+  boolean FinancialBronzeCori {
+    _hidden_value = true
+  }
+  serviceid_number InterimOrangeMalva {
+    _hidden_value = true
+  }
+  serviceid SlightGoldGwenora {
+    _hidden_value = true
+  }
+  hidden_boolean VastYellowZea {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number LeadingCrimsonEm {
+    _hidden_value = true
+  }
+  hidden_boolean OldBlueChandra {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean BottomMoccasinLouise {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PresidentialLimeKrystal {
+    _hidden_value = true
+  }
+  json UnacceptableSalmonPenelope {
+    _hidden_value = true
+  }
+  "List<serviceid>" ExcitedOrangeMariquilla {
+    _hidden_value = true
+  }
+  number SuitableCrimsonEmera {
+    _hidden_value = true
+  }
+  serviceid_number UglyTurquoiseTine {
+    _hidden_value = true
+  }
+  number FamousTealSiusan {
+    _hidden_value = true
+  }
+  string CurrentBrownCynthia {
+    _hidden_value = true
+  }
+  number HushedApricotAnnadiane {
+    _hidden_value = true
+  }
+  "List<json>" DoubtfulRosePandora {
+    _hidden_value = true
+  }
+  serviceid_number BizarreTanSean {
+    _hidden_value = true
+  }
+  hidden_boolean LegitimatePinkMay {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean RainyWhiteWalliw {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number SureBlushCindie {
+    _hidden_value = true
+  }
+  serviceid_number ItchyVioletValeria {
+    _hidden_value = true
+  }
+  string IntenseLavenderKatti {
+    _hidden_value = true
+  }
+  InternalCoralEdyth = "What do you call two barracuda fish?  A Pairacuda!"
+  InnerFuchsiaGeorge2 = false
+  ElaborateRedNicola = "I'll tell you what often gets over looked... garden fences."
+  FantasticSapphireRegina = true
+  DeliciousApricotArdine = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  BottomMoccasinLouisette = "Why did the tomato blush? Because it saw the salad dressing."
+  HarshAmethystAnitra = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

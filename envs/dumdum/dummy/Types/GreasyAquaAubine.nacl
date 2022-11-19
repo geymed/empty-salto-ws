@@ -1,0 +1,27 @@
+type dummy.GreasyAquaAubine {
+  annotations {
+    serviceid BackMoccasinLonee {
+    }
+    serviceid ResonantApricotAnselma2 {
+    }
+    hidden_boolean TrickyYellowYolanthe {
+    }
+    string BoredPlumMora2 {
+    }
+    dummy.DEFAULT GratefulIvoryJori {
+    }
+    json MiserableSalmonRachele {
+    }
+  }
+  number ComplicatedIndigoJoann {
+    _hidden_value = true
+  }
+  BackMoccasinLonee = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ResonantApricotAnselma2 = "A steak pun is a rare medium well done."
+  BoredPlumMora2 = "Dad Im hungry  Hi hungry Im dad"
+  GratefulIvoryJori = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  MiserableSalmonRachele = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

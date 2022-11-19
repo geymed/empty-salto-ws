@@ -1,0 +1,45 @@
+type dummy.PsychiatricSilverRoxy4 {
+  annotations {
+    hidden_boolean SuccessfulChocolateDarya2 {
+    }
+    boolean OverwhelmingPurpleMyrle {
+    }
+    boolean ZanyYellowZuzana2 {
+    }
+    json MarriedCyanFanni {
+    }
+    number RichCoffeeDorelia2 {
+    }
+    json CreativeJadeKania2 {
+    }
+  }
+  dummy.DEFAULT UnitedCopperEddi {
+    _hidden_value = true
+  }
+  serviceid HelpfulHarlequinJanetta2 {
+    _hidden_value = true
+  }
+  boolean TallYellowXenia {
+    _hidden_value = true
+  }
+  string ArchitecturalRosePat {
+    _hidden_value = true
+  }
+  hidden_boolean SatisfactoryLimeKrissie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number FirmGrayHedi2 {
+    _hidden_value = true
+  }
+  serviceid_number RealBlushClarie2 {
+    _hidden_value = true
+  }
+  OverwhelmingPurpleMyrle = false
+  ZanyYellowZuzana2 = false
+  MarriedCyanFanni = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  RichCoffeeDorelia2 = 45
+  CreativeJadeKania2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

@@ -1,0 +1,90 @@
+type dummy.CompetentSalmonPeri4 {
+  annotations {
+    json DangerousCrimsonEssie3 {
+    }
+    hidden_boolean FascinatingOrangeMargaret5 {
+    }
+    dummy.DEFAULT AlertTomatoSydney5 {
+    }
+    hidden_boolean RacialPlumMicki {
+    }
+    number KeyCopperDorothy3 {
+    }
+    dummy.DEFAULT StillIndigoJo5 {
+    }
+  }
+  number LocalBlueCharmain {
+    _hidden_value = true
+  }
+  serviceid NastyMaroonLisha {
+    _hidden_value = true
+  }
+  string LongAmethystAmelia3 {
+    _hidden_value = true
+  }
+  json PrettyWhiteVirgina5 {
+    _hidden_value = true
+  }
+  serviceid_number OralLimeKylen2 {
+    _hidden_value = true
+  }
+  serviceid BeautifulTomatoTabbitha {
+    _hidden_value = true
+  }
+  serviceid_number PlasticAquaAuria5 {
+    _hidden_value = true
+  }
+  boolean InappropriateRoseOthilie4 {
+    _hidden_value = true
+  }
+  number GreatVioletTybie3 {
+    _hidden_value = true
+  }
+  json LooseIvoryJulieta {
+    _hidden_value = true
+  }
+  serviceid FriendlyGoldGunilla2 {
+    _hidden_value = true
+  }
+  json StrategicHarlequinJeannette3 {
+    _hidden_value = true
+  }
+  boolean ScornfulBeigeBride2 {
+    _hidden_value = true
+  }
+  json DeterminedBeigeCandide2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DepressedAzureBetty4 {
+    _hidden_value = true
+  }
+  string MiserableSalmonRachele4 {
+    _hidden_value = true
+  }
+  string MechanicalMagentaLeonie {
+    _hidden_value = true
+  }
+  number LocalBlueCharmane3 {
+    _hidden_value = true
+  }
+  hidden_boolean CoolAmaranthAinslee2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json UnsightlyTurquoiseTish3 {
+    _hidden_value = true
+  }
+  string ClumsyVioletTracey3 {
+    _hidden_value = true
+  }
+  DangerousCrimsonEssie3 = "Why did the kid cross the playground? To get to the other slide."
+  AlertTomatoSydney5 = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  KeyCopperDorothy3 = 227
+  StillIndigoJo5 = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  _hidden_value = true
+}

@@ -1,0 +1,54 @@
+type dummy.TurkishPurpleMoyra3 {
+  annotations {
+    json CombinedOliveMaighdiln {
+    }
+    json VulnerableJadeKarna2 {
+    }
+    boolean ToughYellowYovonnda {
+    }
+    serviceid_number LowBlushChristye {
+    }
+    boolean RedBrownDalila3 {
+    }
+    hidden_boolean RequiredMaroonLeta2 {
+    }
+    hidden_boolean RoundYellowWilhelmine2 {
+    }
+  }
+  json NoisyApricotAnnette {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ChristianCoralElva4 {
+    _hidden_value = true
+  }
+  string PlainIndigoJewell2 {
+    _hidden_value = true
+  }
+  string NearFuchsiaGerianne3 {
+    _hidden_value = true
+  }
+  json NewBlueChandal3 {
+    _hidden_value = true
+  }
+  serviceid DarkTomatoTarra3 {
+    _hidden_value = true
+  }
+  number GoodBlackCarmita {
+    _hidden_value = true
+  }
+  serviceid_number TinyCyanEulalie3 {
+    _hidden_value = true
+  }
+  string NeutralPeachMarylynne2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DelightedIvoryJulianna2 {
+    _hidden_value = true
+  }
+  CombinedOliveMaighdiln = "Did you know that protons have mass? I didn't even know they were catholic."
+  VulnerableJadeKarna2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ToughYellowYovonnda = true
+  LowBlushChristye = 924
+  RedBrownDalila3 = false
+  _hidden_value = true
+}

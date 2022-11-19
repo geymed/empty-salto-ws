@@ -1,0 +1,41 @@
+type dummy.AshamedScarletRosamond2 {
+  annotations {
+    boolean NoisyApricotAnnelise3 {
+    }
+    boolean AdvisoryOrangeMarieann {
+    }
+    json CooperativeBeigeCamile2 {
+    }
+    number UnexpectedMagentaLaurel {
+    }
+    dummy.AfraidCrimsonEmogene WonderfulYellowZoe {
+    }
+  }
+  string FlatAmberAllie {
+    _hidden_value = true
+  }
+  serviceid MagicOrangeMarabel {
+    _hidden_value = true
+  }
+  serviceid_number CorporateEmeraldGale {
+    _hidden_value = true
+  }
+  string CriminalFuchsiaGeorgeta {
+    _hidden_value = true
+  }
+  serviceid NewBlueChandal2 {
+    _hidden_value = true
+  }
+  string GoldenGrayHaley {
+    _hidden_value = true
+  }
+  string SillyYellowWinna {
+    _hidden_value = true
+  }
+  NoisyApricotAnnelise3 = true
+  AdvisoryOrangeMarieann = false
+  CooperativeBeigeCamile2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  UnexpectedMagentaLaurel = 188
+  WonderfulYellowZoe = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

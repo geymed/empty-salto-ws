@@ -1,0 +1,71 @@
+type dummy.ScrawnyYellowWilma4 {
+  serviceid AppropriateChocolateDarcey4 {
+  }
+  json TenderRedOdelia6 {
+  }
+  boolean WearyBeigeBrooke4 {
+  }
+  boolean YellowGoldGiulia2 {
+  }
+  dummy.GrubbyAquaAubrie FatIvoryJoellen2 {
+    WearyBeigeBrooke = "Why did the tomato blush? Because it saw the salad dressing."
+    SolidAquamarineBarrie = false
+    RivalPurpleNara = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    DifficultBronzeClementia = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  number OpenBronzeClerissa4 {
+  }
+  json FaintMaroonLiuka3 {
+  }
+  hidden_boolean ImprovedMagentaLark2 {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  number AncientAmethystAmabelle5 {
+  }
+  boolean CertainBronzeClemmy4 {
+  }
+  string PricklyAquaAurlie4 {
+  }
+  boolean StingyYellowWinne3 {
+  }
+  string CoolAmaranthAinsley3 {
+  }
+  hidden_boolean StrictLavenderKatha2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid AdjacentSilverRoxanne4 {
+  }
+  string AddedPinkMelina {
+  }
+  hidden_boolean WeirdSilverRozele2 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  json OrganicLimeLaetitia4 {
+  }
+  boolean AdvancedHarlequinJacinda4 {
+  }
+  "List<boolean>" ChristianCoralElvina3 {
+  }
+  hidden_boolean MissingPinkMelloney5 {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  serviceid_number HeadPinkMegan {
+  }
+  serviceid_number AfraidCrimsonEmmye5 {
+  }
+  hidden_boolean TerribleEmeraldFredrika2 {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  boolean IntegralSalmonPhilly3 {
+  }
+}

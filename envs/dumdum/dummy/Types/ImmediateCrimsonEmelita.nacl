@@ -1,0 +1,13 @@
+type dummy.ImmediateCrimsonEmelita is string {
+  annotations {
+    string HandsomeOliveMaitilde {
+    }
+    number KindBlackCaryl {
+    }
+    number FeministPlumMinda {
+    }
+  }
+  HandsomeOliveMaitilde = "Did you know that protons have mass? I didn't even know they were catholic."
+  KindBlackCaryl = 847
+  FeministPlumMinda = 481
+}

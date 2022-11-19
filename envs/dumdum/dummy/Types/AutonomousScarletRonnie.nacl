@@ -1,0 +1,43 @@
+type dummy.AutonomousScarletRonnie {
+  annotations {
+    string PaleGrayHarrietta {
+    }
+    dummy.LoudLavenderKial DirtyAmberAleta2 {
+    }
+    json HeavyChocolateDawn {
+    }
+    string GeographicalPeachMarlene2 {
+    }
+  }
+  boolean AllegedOliveLynna {
+    _hidden_value = true
+  }
+  serviceid_number WideAmethystAmabel {
+    _hidden_value = true
+  }
+  serviceid SystematicOrangeMarcella2 {
+    _hidden_value = true
+  }
+  serviceid_number CreepyAmberAlaine {
+    _hidden_value = true
+  }
+  serviceid SolidAquamarineBasia {
+    _hidden_value = true
+  }
+  serviceid PreciousWhiteVitoria {
+    _hidden_value = true
+  }
+  hidden_boolean LesserMoccasinLucretia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean UglyYellowZahara2 {
+    _hidden_value = true
+  }
+  PaleGrayHarrietta = "Why didnt the skeleton cross the road? Because he had no guts."
+  DirtyAmberAleta2 = 706
+  HeavyChocolateDawn = "Why did the kid cross the playground? To get to the other slide."
+  GeographicalPeachMarlene2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

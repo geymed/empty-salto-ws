@@ -1,0 +1,45 @@
+type dummy.DangerousAzureBetsey {
+  annotations {
+    serviceid LiquidRosePaloma {
+    }
+    json EvidentIvoryJune2 {
+    }
+    hidden_boolean MiddleCopperDusty3 {
+    }
+    hidden_boolean CuriousTealSidoney2 {
+    }
+    hidden_boolean ModernAmethystAmelie {
+    }
+    number EarlyAmethystAmandi {
+    }
+    hidden_boolean PreciousOrangeMarielle2 {
+    }
+    string SympatheticPinkMead2 {
+    }
+    dummy.DEFAULT ManualRosePat {
+    }
+  }
+  dummy.DEFAULT OutstandingTealStefania2 {
+    _hidden_value = true
+  }
+  serviceid NoisySilverSal {
+    _hidden_value = true
+  }
+  serviceid_number ProfitablePurpleNanon3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ToryGreenInes2 {
+    _hidden_value = true
+  }
+  serviceid_number FlyingMoccasinLoralyn {
+    _hidden_value = true
+  }
+  LiquidRosePaloma = "What do you call two barracuda fish?  A Pairacuda!"
+  EvidentIvoryJune2 = "A steak pun is a rare medium well done."
+  EarlyAmethystAmandi = 506
+  SympatheticPinkMead2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  ManualRosePat = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  _hidden_value = true
+}

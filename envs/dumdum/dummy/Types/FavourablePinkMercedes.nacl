@@ -1,0 +1,44 @@
+type dummy.FavourablePinkMercedes {
+  annotations {
+    hidden_boolean CurlyAmberAlbina {
+    }
+    string TenderYellowYnes {
+    }
+    hidden_boolean YellowGoldGiulietta {
+    }
+    boolean SaltyApricotArlen3 {
+    }
+    number AgriculturalGoldGoldarina2 {
+    }
+    serviceid IrishCrimsonErminie2 {
+    }
+  }
+  serviceid_number BraveBeigeCaitlin {
+    _hidden_value = true
+  }
+  string InclinedRedOctavia {
+    _hidden_value = true
+  }
+  hidden_boolean SelectedPlumMillie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json CivilCoffeeDode {
+    _hidden_value = true
+  }
+  serviceid_number DecisiveSalmonPepi2 {
+    _hidden_value = true
+  }
+  boolean PoorTomatoStepha2 {
+    _hidden_value = true
+  }
+  number YummyYellowZorah {
+    _hidden_value = true
+  }
+  TenderYellowYnes = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SaltyApricotArlen3 = true
+  AgriculturalGoldGoldarina2 = 613
+  IrishCrimsonErminie2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+}

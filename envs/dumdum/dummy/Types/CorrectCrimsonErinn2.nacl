@@ -1,0 +1,38 @@
+type dummy.CorrectCrimsonErinn2 {
+  annotations {
+    json FriendlyBlackCarlynn {
+    }
+    boolean SoftCoralElane5 {
+    }
+    serviceid_number WetAmberAlida {
+    }
+    serviceid_number LegitimatePinkMaybelle3 {
+    }
+    hidden_boolean DeterminedOrangeMarillin4 {
+    }
+    number HappyVioletVale3 {
+    }
+    hidden_boolean ComfortableBeigeCamala {
+    }
+  }
+  serviceid DullTurquoiseTed {
+    _hidden_value = true
+  }
+  boolean StiffPeachMaryanne4 {
+    _hidden_value = true
+  }
+  serviceid_number SpiritualLavenderKatrine4 {
+    _hidden_value = true
+  }
+  hidden_boolean AloneCyanFaith {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  FriendlyBlackCarlynn = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SoftCoralElane5 = false
+  WetAmberAlida = 317
+  LegitimatePinkMaybelle3 = 554
+  HappyVioletVale3 = 363
+  _hidden_value = true
+}

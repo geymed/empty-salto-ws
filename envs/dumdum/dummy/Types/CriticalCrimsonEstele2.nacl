@@ -1,0 +1,22 @@
+type dummy.CriticalCrimsonEstele2 {
+  annotations {
+    serviceid HelpfulTealSonni2 {
+    }
+    serviceid_number CuddlyAmberAlayne {
+    }
+    string CrucialFuchsiaGennifer {
+    }
+    string ProposedGoldGwenette2 {
+    }
+  }
+  hidden_boolean SteadyJadeKailey4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  HelpfulTealSonni2 = "I'll tell you what often gets over looked... garden fences."
+  CuddlyAmberAlayne = 284
+  CrucialFuchsiaGennifer = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ProposedGoldGwenette2 = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

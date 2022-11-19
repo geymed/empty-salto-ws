@@ -1,0 +1,74 @@
+type dummy.NorthernCoralEleanore3 {
+  annotations {
+    serviceid OutdoorSilverSascha {
+    }
+    string HappyBrownDaisey3 {
+    }
+    dummy.DEFAULT NewWhiteVeronike2 {
+    }
+    serviceid_number HissingApricotAnnmarie2 {
+    }
+    serviceid SelfishBeigeBridie {
+    }
+  }
+  string ElegantMoccasinLucila {
+    _hidden_value = true
+  }
+  serviceid YellowYellowZonnya {
+    _hidden_value = true
+  }
+  serviceid_number BackMoccasinLonni {
+    _hidden_value = true
+  }
+  string ToryGreenInesita {
+    _hidden_value = true
+  }
+  number SoleLimeKirstyn {
+    _hidden_value = true
+  }
+  json GoodBlueCelisse3 {
+    _hidden_value = true
+  }
+  json StraightforwardMaroonLezlie2 {
+    _hidden_value = true
+  }
+  hidden_boolean AppropriateChocolateDarci {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number RipeApricotAriel {
+    _hidden_value = true
+  }
+  string UpperCyanFaustine2 {
+    _hidden_value = true
+  }
+  string OrangeWhiteViolante {
+    _hidden_value = true
+  }
+  json RedundantSalmonPhilis2 {
+    _hidden_value = true
+  }
+  hidden_boolean SuddenGoldGusty {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string FinancialBronzeCorey {
+    _hidden_value = true
+  }
+  serviceid TightIvoryJoellyn2 {
+    _hidden_value = true
+  }
+  serviceid CommunistGoldGiuditta {
+    _hidden_value = true
+  }
+  OutdoorSilverSascha = "My first time using an elevator was an uplifting experience. The second time let me down."
+  HappyBrownDaisey3 = "Dad Im hungry  Hi hungry Im dad"
+  NewWhiteVeronike2 = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  HissingApricotAnnmarie2 = 431
+  SelfishBeigeBridie = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

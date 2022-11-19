@@ -1,0 +1,55 @@
+type dummy.SureBlushCindra2 {
+  annotations {
+    number LostJadeKare2 {
+    }
+    string ResultingPurpleNadean5 {
+    }
+    string YoungAmethystAndeee2 {
+    }
+    boolean MeltedAquaAurel {
+    }
+    string ImpressedPeachMariska3 {
+    }
+  }
+  string EstablishedMagentaLeigha2 {
+    _hidden_value = true
+  }
+  hidden_boolean ClassicalHarlequinJacklyn2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<number>" HomelyTurquoiseTessa4 {
+    _hidden_value = true
+  }
+  string BeautifulVioletToni3 {
+    _hidden_value = true
+  }
+  serviceid_number CheapCopperEdita {
+    _hidden_value = true
+  }
+  serviceid CriticalCrimsonEstell4 {
+    _hidden_value = true
+  }
+  boolean IndustrialBrownDanny3 {
+    _hidden_value = true
+  }
+  string IllegalJadeKaroline {
+    _hidden_value = true
+  }
+  number SpotlessTurquoiseTildy2 {
+    _hidden_value = true
+  }
+  string PlainTurquoiseTheresita2 {
+    _hidden_value = true
+  }
+  json RipeApricotAridatha2 {
+    _hidden_value = true
+  }
+  LostJadeKare2 = 767
+  ResultingPurpleNadean5 = "Why do birds fly south for the winter? Because it's too far to walk."
+  YoungAmethystAndeee2 = "Why did the kid cross the playground? To get to the other slide."
+  MeltedAquaAurel = false
+  ImpressedPeachMariska3 = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

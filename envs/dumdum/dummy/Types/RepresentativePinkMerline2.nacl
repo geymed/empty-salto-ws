@@ -1,0 +1,40 @@
+type dummy.RepresentativePinkMerline2 {
+  annotations {
+    boolean SillyBlueCathrine {
+    }
+    dummy.DEFAULT GrumpyVioletUrsulina {
+    }
+    serviceid RoyalBrownCristin2 {
+    }
+    boolean FilthyTurquoiseTeresa {
+    }
+    serviceid_number KindBlackCary {
+    }
+  }
+  "List<number>" LongAmaranthAdiana3 {
+    _hidden_value = true
+  }
+  number FormalCoralElizabeth2 {
+    _hidden_value = true
+  }
+  number NastyWhiteVernice {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ShortAmaranthAg {
+    _hidden_value = true
+  }
+  json HarshOliveMahalia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EthicalScarletRobena2 {
+    _hidden_value = true
+  }
+  SillyBlueCathrine = false
+  GrumpyVioletUrsulina = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  RoyalBrownCristin2 = "To be Frank, I'd have to change my name."
+  FilthyTurquoiseTeresa = true
+  KindBlackCary = 22
+  _hidden_value = true
+}

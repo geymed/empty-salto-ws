@@ -1,0 +1,89 @@
+type dummy.ExperimentalLavenderKatinka2 {
+  annotations {
+    hidden_boolean WholeBronzeCloe {
+    }
+    number BusyTealShirlene {
+    }
+    boolean FormidableSilverSabrina {
+    }
+    string GloriousBlackCarmencita {
+    }
+    dummy.DEFAULT LexicalSilverSada {
+    }
+    boolean WhisperingApricotArdella {
+    }
+  }
+  number LateAmethystAmber2 {
+    _hidden_value = true
+  }
+  serviceid_number TanYellowYetty {
+    _hidden_value = true
+  }
+  hidden_boolean CondemnedAquamarineBerthe2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid InformalLavenderKathie {
+    _hidden_value = true
+  }
+  number DarkTomatoTarra {
+    _hidden_value = true
+  }
+  hidden_boolean ProtestantScarletRobin3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json CombativeAquamarineBerta2 {
+    _hidden_value = true
+  }
+  serviceid FlatAmberAlli {
+    _hidden_value = true
+  }
+  boolean OddWhiteVinnie2 {
+    _hidden_value = true
+  }
+  string OldBlueChantalle {
+    _hidden_value = true
+  }
+  hidden_boolean KeenGrayHana3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT FatalPurpleMyrtia2 {
+    _hidden_value = true
+  }
+  serviceid ComfortableGoldGrissel3 {
+    _hidden_value = true
+  }
+  boolean NosyWhiteVida3 {
+    _hidden_value = true
+  }
+  string AdvisoryOrangeMaridel3 {
+    _hidden_value = true
+  }
+  json JuicyApricotAriadne {
+    _hidden_value = true
+  }
+  number MightyWhiteVeriee {
+    _hidden_value = true
+  }
+  serviceid IntellectualJadeKalina2 {
+    _hidden_value = true
+  }
+  hidden_boolean EthicalScarletRobenia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  BusyTealShirlene = 298
+  FormidableSilverSabrina = false
+  GloriousBlackCarmencita = "What do you do on a remote island? Try and find the TV island it belongs to."
+  LexicalSilverSada = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  WhisperingApricotArdella = false
+  _hidden_value = true
+}

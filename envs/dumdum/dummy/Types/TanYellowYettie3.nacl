@@ -1,0 +1,55 @@
+type dummy.TanYellowYettie3 {
+  annotations {
+    string GloriousScarletRose3 {
+    }
+    boolean UnacceptableSalmonPenelopa5 {
+    }
+    json ExoticScarletRina3 {
+    }
+    number NetGoldGlenda2 {
+    }
+    serviceid_number MisleadingRoseOrelie2 {
+    }
+    dummy.ScreechingApricotAnthea DeterminedOrangeMarilyn3 {
+    }
+  }
+  serviceid_number ElderlyEmeraldFlorella2 {
+    _hidden_value = true
+  }
+  serviceid_number CuriousTealSidonia2 {
+    _hidden_value = true
+  }
+  serviceid YummyYellowZorah2 {
+    _hidden_value = true
+  }
+  hidden_boolean QuietWhiteVivien4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean OddFuchsiaGenia2 {
+    _hidden_value = true
+  }
+  number UnusualGoldGladi3 {
+    _hidden_value = true
+  }
+  serviceid_number ApparentCyanFawnia6 {
+    _hidden_value = true
+  }
+  boolean IndustrialBrownDanya {
+    _hidden_value = true
+  }
+  string DrivingRoseOralla3 {
+    _hidden_value = true
+  }
+  boolean CurrentBrownCynthie {
+    _hidden_value = true
+  }
+  GloriousScarletRose3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  UnacceptableSalmonPenelopa5 = true
+  ExoticScarletRina3 = "A steak pun is a rare medium well done."
+  NetGoldGlenda2 = 332
+  MisleadingRoseOrelie2 = 556
+  DeterminedOrangeMarilyn3 = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

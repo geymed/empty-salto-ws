@@ -1,0 +1,92 @@
+type dummy.RapidGrayHilde2 {
+  annotations {
+    number SuperPeachMarthe {
+    }
+    serviceid NearFuchsiaGerianne4 {
+    }
+    hidden_boolean FamousTealSissie2 {
+    }
+    serviceid ComplexCopperDrusi3 {
+    }
+    hidden_boolean ProtestantScarletRobinet7 {
+    }
+  }
+  dummy.UnknownFuchsiaGilberte ConcernedTealSibilla3 {
+    UnexpectedMagentaLauree = false
+    InternationalBlushClaudette = 711
+    BoldPlumMinna = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT QualifiedPinkMellisa {
+    _hidden_value = true
+  }
+  serviceid_number WickedBeigeBryna2 {
+    _hidden_value = true
+  }
+  serviceid_number IrishCrimsonErminie3 {
+    _hidden_value = true
+  }
+  number NavalPinkMela {
+    _hidden_value = true
+  }
+  boolean PanickyAzureBrear {
+    _hidden_value = true
+  }
+  number AustralianJadeKata {
+    _hidden_value = true
+  }
+  string SecureMoccasinLou {
+    _hidden_value = true
+  }
+  hidden_boolean ComparableMoccasinLizzie2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number FuzzyAquaAtlanta2 {
+    _hidden_value = true
+  }
+  serviceid_number FamiliarCrimsonEstrellita3 {
+    _hidden_value = true
+  }
+  number NursingSalmonPetronille3 {
+    _hidden_value = true
+  }
+  dummy.DeliciousApricotArdisj DeliberateRedNoelle4 {
+    ResidentSalmonRachelle = 635
+    ShrillApricotAntonella = "Dad Im hungry  Hi hungry Im dad"
+    SpecifiedSalmonPortia = "Did you know that protons have mass? I didn't even know they were catholic."
+    TerribleBeigeBrinn = 90
+    WeeklyLavenderKessia = 845
+    FoolishSapphireReine = 298
+    FutureCoffeeDolly = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    WittyBlueCeil = "Why did the tomato blush? Because it saw the salad dressing."
+    WellFuchsiaGisela = true
+    MadHarlequinJanessa = 718
+    SweetAquaAshlan = "What do you do on a remote island? Try and find the TV island it belongs to."
+    OrganisationalTanSharai = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ExcitedBlackCariotta = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT RealBlushClarine2 {
+    _hidden_value = true
+  }
+  serviceid VariousBrownCorry2 {
+    _hidden_value = true
+  }
+  string StickyAquaArly3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GiganticAmaranthAdan2 {
+    _hidden_value = true
+  }
+  hidden_boolean HappyBrownDaisey5 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  SuperPeachMarthe = 5
+  NearFuchsiaGerianne4 = "Slept like a log last night  woke up in the fireplace."
+  ComplexCopperDrusi3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

@@ -1,0 +1,49 @@
+type dummy.MagnificentWhiteVeda {
+  annotations {
+    hidden_boolean ScottishChocolateDel {
+    }
+    dummy.WanderingTomatoSuzann UglyTurquoiseTina {
+    }
+    string DrivingRoseOralla2 {
+    }
+    json ColonialPeachMaudie4 {
+    }
+    boolean ArbitrarySilverRoxana3 {
+    }
+  }
+  serviceid ChosenSilverSarine2 {
+    _hidden_value = true
+  }
+  number CrucialFuchsiaGennie {
+    _hidden_value = true
+  }
+  serviceid_number EnglishBrownCris2 {
+    _hidden_value = true
+  }
+  number GladGoldGlyn {
+    _hidden_value = true
+  }
+  serviceid_number TestyYellowYolande {
+    _hidden_value = true
+  }
+  serviceid HistoricLavenderKellina2 {
+    _hidden_value = true
+  }
+  json FairBlackCarlene3 {
+    _hidden_value = true
+  }
+  boolean WorryingSilverRozanna {
+    _hidden_value = true
+  }
+  serviceid RegisteredPurpleNalani {
+    _hidden_value = true
+  }
+  string JuicyApricotAriana {
+    _hidden_value = true
+  }
+  UglyTurquoiseTina = "Why did the kid cross the playground? To get to the other slide."
+  DrivingRoseOralla2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ColonialPeachMaudie4 = "Why did the kid cross the playground? To get to the other slide."
+  ArbitrarySilverRoxana3 = true
+  _hidden_value = true
+}

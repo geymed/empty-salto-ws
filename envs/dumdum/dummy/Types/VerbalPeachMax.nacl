@@ -1,0 +1,89 @@
+type dummy.VerbalPeachMax {
+  annotations {
+    json DeliberateRedNoellyn4 {
+    }
+    boolean PassingSalmonPollyanna {
+    }
+    boolean ImportantBlueCharyl {
+    }
+    serviceid StrategicHarlequinJeanne {
+    }
+    json GreekIndigoJoanne {
+    }
+  }
+  serviceid_number HighAmberAllis2 {
+    _hidden_value = true
+  }
+  boolean FranticAzureBird5 {
+    _hidden_value = true
+  }
+  serviceid_number QualifiedPinkMellie2 {
+    _hidden_value = true
+  }
+  boolean LonelyOliveLynde {
+    _hidden_value = true
+  }
+  number GlobalGrayHermine {
+    _hidden_value = true
+  }
+  number BiologicalMaroonLetizia3 {
+    _hidden_value = true
+  }
+  number CentralBronzeConnie4 {
+    _hidden_value = true
+  }
+  serviceid_number SelectiveRedNorri {
+    _hidden_value = true
+  }
+  string PracticalCopperDoris2 {
+    _hidden_value = true
+  }
+  number HungryMaroonLisa2 {
+    _hidden_value = true
+  }
+  hidden_boolean EntireEmeraldFrancyne3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string ApparentCyanFawnia5 {
+    _hidden_value = true
+  }
+  serviceid_number WeakAquamarineBel2 {
+    _hidden_value = true
+  }
+  string HomelessSilverSaloma3 {
+    _hidden_value = true
+  }
+  hidden_boolean NakedMagentaLeanor4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean DelightfulBeigeCandace4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean DifficultBronzeClementia2 {
+    _hidden_value = true
+  }
+  "List<serviceid>" NecessaryBronzeCorabel2 {
+    _hidden_value = true
+  }
+  serviceid EthnicLavenderKay2 {
+    _hidden_value = true
+  }
+  string ElaborateRedNicole2 {
+    _hidden_value = true
+  }
+  json RussianCyanFelicity {
+    _hidden_value = true
+  }
+  DeliberateRedNoellyn4 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  PassingSalmonPollyanna = false
+  ImportantBlueCharyl = false
+  StrategicHarlequinJeanne = "Why did the kid cross the playground? To get to the other slide."
+  GreekIndigoJoanne = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

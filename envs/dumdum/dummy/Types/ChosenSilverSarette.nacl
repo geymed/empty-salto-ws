@@ -1,0 +1,89 @@
+type dummy.ChosenSilverSarette {
+  annotations {
+    serviceid ConceptualTanShela {
+    }
+    serviceid_number FeministPlumMimi {
+    }
+    boolean RudeTanShaylyn {
+    }
+    dummy.GrubbyAquaAubrie ProgressiveOliveMadelina {
+    }
+    json LinguisticJadeKarie {
+    }
+    number StatisticalMagentaLanita {
+    }
+    serviceid RegionalCopperDoria2 {
+    }
+  }
+  serviceid_number PrettyIndigoJennie {
+    _hidden_value = true
+  }
+  string FlexibleLavenderKathlin {
+    _hidden_value = true
+  }
+  json CoolAmaranthAinslee {
+    _hidden_value = true
+  }
+  serviceid_number FullBlushChristian {
+    _hidden_value = true
+  }
+  serviceid CarefulTealShoshana2 {
+    _hidden_value = true
+  }
+  dummy.UnhappyMaroonLibby NewBlueChad {
+    EmptyAmethystAndra = "Why did the kid cross the playground? To get to the other slide."
+    GlamorousTurquoiseTerese = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    TiredGoldGretchen = "Why is Peter Pan always flying? Because he Neverlands."
+    NumerousHarlequinJanean = "Why is Peter Pan always flying? Because he Neverlands."
+    WiseLavenderKatherine = 278
+    ExclusiveMagentaLatrena = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    DisastrousScarletRochell = 876
+    HistoricalCyanEvangelin = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ThickEmeraldFina = 884
+    SorryBrownDaphene = "Dad Im hungry  Hi hungry Im dad"
+    DullMoccasinLori = true
+    _hidden_value = true
+  }
+  json BadAquamarineBernice {
+    _hidden_value = true
+  }
+  hidden_boolean UnconsciousSapphireRaven2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string DeafeningAmethystAngie {
+    _hidden_value = true
+  }
+  string PayableOrangeMarcia2 {
+    _hidden_value = true
+  }
+  number CommonBronzeConstantine2 {
+    _hidden_value = true
+  }
+  number UnchangedSilverRozina2 {
+    _hidden_value = true
+  }
+  serviceid AgreeableBeigeBunni2 {
+    _hidden_value = true
+  }
+  boolean EconomicBlushClare2 {
+    _hidden_value = true
+  }
+  serviceid_number InnocentMagentaLarine {
+    _hidden_value = true
+  }
+  hidden_boolean HollowAmberAllsun {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  ConceptualTanShela = "Why didnt the skeleton cross the road? Because he had no guts."
+  FeministPlumMimi = 273
+  RudeTanShaylyn = true
+  ProgressiveOliveMadelina = 972
+  LinguisticJadeKarie = "What creature is smarter than a talking parrot? A spelling bee."
+  StatisticalMagentaLanita = 255
+  RegionalCopperDoria2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

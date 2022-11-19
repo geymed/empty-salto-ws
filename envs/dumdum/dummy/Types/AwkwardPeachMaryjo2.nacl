@@ -1,0 +1,34 @@
+type dummy.AwkwardPeachMaryjo2 {
+  annotations {
+    number VaryingPurpleNelli {
+    }
+    hidden_boolean OrdinaryWhiteViolet {
+    }
+    boolean CombativeAquamarineBerta3 {
+    }
+    serviceid_number MedicalCoffeeDevondra {
+    }
+    string PhilosophicalRedNoel {
+    }
+    string NervousHarlequinJaquelin {
+    }
+  }
+  string DampMoccasinLorrin {
+    _hidden_value = true
+  }
+  number MetropolitanOrangeMargeaux {
+    _hidden_value = true
+  }
+  json FilthyTurquoiseTera {
+    _hidden_value = true
+  }
+  json IsolatedPeachMarla {
+    _hidden_value = true
+  }
+  VaryingPurpleNelli = 311
+  CombativeAquamarineBerta3 = true
+  MedicalCoffeeDevondra = 868
+  PhilosophicalRedNoel = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  NervousHarlequinJaquelin = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

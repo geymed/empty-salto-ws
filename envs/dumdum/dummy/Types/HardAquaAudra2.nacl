@@ -1,0 +1,49 @@
+type dummy.HardAquaAudra2 {
+  annotations {
+    dummy.DEFAULT EnviousAzureBiddie2 {
+    }
+    json ImprovedMagentaLaryssa2 {
+    }
+    json ExperimentalLavenderKatleen {
+    }
+    boolean LevelJadeKameko3 {
+    }
+    number NoisyApricotAnnetta {
+    }
+  }
+  string CuriousTealSidonia {
+    _hidden_value = true
+  }
+  number AdequateGrayHildegarde {
+    _hidden_value = true
+  }
+  json HandicappedTanShannon4 {
+    _hidden_value = true
+  }
+  boolean CoherentScarletRoselin2 {
+    _hidden_value = true
+  }
+  string DifficultTealSimone3 {
+    _hidden_value = true
+  }
+  json UglyTurquoiseTina2 {
+    _hidden_value = true
+  }
+  number HarshApricotAnn2 {
+    _hidden_value = true
+  }
+  serviceid IncCrimsonErmengarde {
+    _hidden_value = true
+  }
+  serviceid_number GreenVioletUla2 {
+    _hidden_value = true
+  }
+  EnviousAzureBiddie2 = {
+    legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  ImprovedMagentaLaryssa2 = "Why did the tomato blush? Because it saw the salad dressing."
+  ExperimentalLavenderKatleen = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  LevelJadeKameko3 = false
+  NoisyApricotAnnetta = 578
+  _hidden_value = true
+}

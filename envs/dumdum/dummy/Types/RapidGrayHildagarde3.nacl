@@ -1,0 +1,87 @@
+type dummy.RapidGrayHildagarde3 {
+  annotations {
+    serviceid GoodBlackCarmon4 {
+    }
+    json ScatteredAquaAvie2 {
+    }
+    serviceid_number SlightGoldGwenny {
+    }
+  }
+  number SafeCopperDori2 {
+    _hidden_value = true
+  }
+  json HonChocolateDaune3 {
+    _hidden_value = true
+  }
+  hidden_boolean ActiveCopperDre2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json FranticAzureBird3 {
+    _hidden_value = true
+  }
+  json SupposedCyanFarrah {
+    _hidden_value = true
+  }
+  serviceid_number ExcessiveOliveMadelene2 {
+    _hidden_value = true
+  }
+  dummy.LoudLavenderKial ConsciousHarlequinJeanette {
+    SurroundingOrangeMargery = 30
+    WhisperingApricotArdelia = 439
+    HorribleOrangeMaren = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    _hidden_value = true
+  }
+  dummy.DEFAULT AverageCoralElyse2 {
+    _hidden_value = true
+  }
+  dummy.DailyCyanEvelina HissingApricotAnnmarie4 {
+    _hidden_value = true
+  }
+  serviceid_number MathematicalRoseOtha2 {
+    _hidden_value = true
+  }
+  hidden_boolean CleverJadeKari {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json PureGrayHephzibah {
+    _hidden_value = true
+  }
+  string PuzzledTanShandy2 {
+    _hidden_value = true
+  }
+  serviceid_number SilkyAquaBabs {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RadicalGrayHelen {
+    _hidden_value = true
+  }
+  string IncredibleRosePaula {
+    _hidden_value = true
+  }
+  serviceid_number CertainBronzeClementine2 {
+    _hidden_value = true
+  }
+  number AppallingTanSelena2 {
+    _hidden_value = true
+  }
+  boolean CourageousBeigeCamille3 {
+    _hidden_value = true
+  }
+  string HighAmberAllison4 {
+    _hidden_value = true
+  }
+  serviceid GuiltyFuchsiaGilly {
+    _hidden_value = true
+  }
+  json CapitalistMagentaLea {
+    _hidden_value = true
+  }
+  GoodBlackCarmon4 = "I'll tell you what often gets over looked... garden fences."
+  ScatteredAquaAvie2 = "I'll tell you what often gets over looked... garden fences."
+  SlightGoldGwenny = 399
+  _hidden_value = true
+}

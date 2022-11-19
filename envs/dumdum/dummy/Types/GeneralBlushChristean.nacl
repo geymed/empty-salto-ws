@@ -1,0 +1,30 @@
+type dummy.GeneralBlushChristean {
+  annotations {
+    json TraditionalChocolateDeina3 {
+    }
+    number WrongTomatoSybila3 {
+    }
+    string ProbableSalmonPhyllida3 {
+    }
+    dummy.DEFAULT DarkChocolateDeanne2 {
+    }
+    dummy.DEFAULT CheerfulSapphireRhodie5 {
+    }
+    serviceid_number ThinCyanEvangeline2 {
+    }
+  }
+  json MedicalCoffeeDevora3 {
+    _hidden_value = true
+  }
+  TraditionalChocolateDeina3 = "Why is Peter Pan always flying? Because he Neverlands."
+  WrongTomatoSybila3 = 520
+  ProbableSalmonPhyllida3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  DarkChocolateDeanne2 = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  CheerfulSapphireRhodie5 = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  ThinCyanEvangeline2 = 284
+  _hidden_value = true
+}

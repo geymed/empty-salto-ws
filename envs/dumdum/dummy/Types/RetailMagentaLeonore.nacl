@@ -1,0 +1,54 @@
+type dummy.RetailMagentaLeonore {
+  annotations {
+    dummy.DEFAULT StrictLavenderKath {
+    }
+    number MassiveFuchsiaGerri {
+    }
+    json RepulsiveBeigeBrena3 {
+    }
+    boolean CruelAquamarineBeth {
+    }
+    boolean PreferredTanScarlet2 {
+    }
+    serviceid_number SacredRedNorma {
+    }
+  }
+  json FatVioletTrix2 {
+    _hidden_value = true
+  }
+  hidden_boolean RoundYellowWilla {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT DramaticGoldHailee {
+    _hidden_value = true
+  }
+  json RidiculousMoccasinLiz2 {
+    _hidden_value = true
+  }
+  serviceid_number ConsistentHarlequinJanith2 {
+    _hidden_value = true
+  }
+  json RoastedWhiteWenona2 {
+    _hidden_value = true
+  }
+  serviceid_number PrimaryCoffeeDody2 {
+    _hidden_value = true
+  }
+  string WetAmberAlicia {
+    _hidden_value = true
+  }
+  json MaleCoffeeDidi {
+    _hidden_value = true
+  }
+  StrictLavenderKath = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  MassiveFuchsiaGerri = 244
+  RepulsiveBeigeBrena3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  CruelAquamarineBeth = true
+  PreferredTanScarlet2 = true
+  SacredRedNorma = 570
+  _hidden_value = true
+}

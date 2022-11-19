@@ -1,0 +1,45 @@
+type dummy.SubtleMoccasinLucie2 {
+  annotations {
+    dummy.DEFAULT MagentaWhiteVenus {
+    }
+    serviceid FundamentalFuchsiaGene {
+    }
+    json UltimateJadeKandy {
+    }
+    number DifferentBlueCharlena {
+    }
+  }
+  string CondemnedAquamarineBerti3 {
+    _hidden_value = true
+  }
+  boolean TechnologicalOrangeMariann2 {
+    _hidden_value = true
+  }
+  string PartialOliveLyndel {
+    _hidden_value = true
+  }
+  serviceid_number CuddlyAmberAlbertina {
+    _hidden_value = true
+  }
+  json TiredBeigeBritt2 {
+    _hidden_value = true
+  }
+  json ManyWhiteVere2 {
+    _hidden_value = true
+  }
+  hidden_boolean FaithfulBlackCarlie3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number SevereEmeraldGabrila2 {
+    _hidden_value = true
+  }
+  MagentaWhiteVenus = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  FundamentalFuchsiaGene = "Why did the tomato blush? Because it saw the salad dressing."
+  UltimateJadeKandy = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  DifferentBlueCharlena = 367
+  _hidden_value = true
+}

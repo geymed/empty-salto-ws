@@ -1,0 +1,54 @@
+type dummy.RepresentativePinkMerline3 {
+  annotations {
+    boolean PurpleScarletRisa2 {
+    }
+    dummy.ProposedGoldGwendolen NegativeEmeraldGarnette4 {
+    }
+    boolean IcyAquaAudy {
+    }
+    string StripedYellowWrennie2 {
+    }
+    serviceid EasternCrimsonErika {
+    }
+    serviceid SolidGreenIbby2 {
+    }
+    dummy.SmoggyTurquoiseTiffie PreferredTanScarlet6 {
+    }
+    dummy.SmoggyTurquoiseTiffie PossibleBlushCheslie2 {
+    }
+    boolean EuropeanBronzeConcettina2 {
+    }
+    serviceid_number AbleBlushChrista2 {
+    }
+    dummy.VitalEmeraldFifi3 JollyBlackCarree3 {
+    }
+    json FrenchBrownCynde2 {
+    }
+    boolean FastAmethystAmandy {
+    }
+    serviceid YellowYellowZora3 {
+    }
+    dummy.WanderingTomatoSuzann2 BasicChocolateDarla4 {
+    }
+    hidden_boolean StatutoryGrayHarriot2 {
+    }
+    boolean MysteriousAzureBonnee4 {
+    }
+    serviceid RipeApricotAriel5 {
+    }
+  }
+  PurpleScarletRisa2 = true
+  NegativeEmeraldGarnette4 = file("RightBlushCherish3.txt")
+  IcyAquaAudy = true
+  StripedYellowWrennie2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  EasternCrimsonErika = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SolidGreenIbby2 = "Why did the kid cross the playground? To get to the other slide."
+  EuropeanBronzeConcettina2 = true
+  AbleBlushChrista2 = 344
+  FrenchBrownCynde2 = "Slept like a log last night  woke up in the fireplace."
+  FastAmethystAmandy = false
+  YellowYellowZora3 = "What creature is smarter than a talking parrot? A spelling bee."
+  BasicChocolateDarla4 = file("AnonymousSapphireRaynell3.txt")
+  MysteriousAzureBonnee4 = true
+  RipeApricotAriel5 = "I'll tell you what often gets over looked... garden fences."
+}

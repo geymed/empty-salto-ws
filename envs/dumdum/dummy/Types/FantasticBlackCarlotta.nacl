@@ -1,0 +1,16 @@
+type dummy.FantasticBlackCarlotta {
+  annotations {
+    hidden_boolean ExperimentalLavenderKatinka3 {
+    }
+    json MaturePeachMaud3 {
+    }
+    boolean DeafIvoryJourdan2 {
+    }
+  }
+  number SecondaryFuchsiaGertrud {
+    _hidden_value = true
+  }
+  MaturePeachMaud3 = "I'll tell you what often gets over looked... garden fences."
+  DeafIvoryJourdan2 = false
+  _hidden_value = true
+}

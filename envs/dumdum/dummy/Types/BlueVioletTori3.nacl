@@ -1,0 +1,32 @@
+type dummy.BlueVioletTori3 {
+  annotations {
+    hidden_boolean DeterminedBeigeCandide {
+    }
+    json FlatGrayHanny {
+    }
+    boolean ThickEmeraldFilippa {
+    }
+    dummy.InteriorPurpleNathalie FunnyVioletTrula {
+    }
+    hidden_boolean BlondeTomatoTaffy {
+    }
+    serviceid_number HonestIndigoJerrilee {
+    }
+    number FewAmethystAndria {
+    }
+  }
+  json VeryCoralElfrida {
+    _hidden_value = true
+  }
+  hidden_boolean EntireEmeraldFranciska {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  FlatGrayHanny = "Why did the kid cross the playground? To get to the other slide."
+  ThickEmeraldFilippa = false
+  FunnyVioletTrula = true
+  HonestIndigoJerrilee = 165
+  FewAmethystAndria = 379
+  _hidden_value = true
+}

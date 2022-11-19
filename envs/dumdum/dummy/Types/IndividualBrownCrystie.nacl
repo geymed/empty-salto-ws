@@ -1,0 +1,22 @@
+type dummy.IndividualBrownCrystie {
+  annotations {
+    hidden_boolean WelshGrayHazel {
+    }
+    json FranticAzureBird4 {
+    }
+    number OddFuchsiaGenia {
+    }
+    dummy.BoilingAmaranthAgneta SportingSilverRuthi {
+    }
+    dummy.BoilingAmaranthAgneta WesternChocolateDeeyn2 {
+    }
+  }
+  json BoilingAmaranthAgneta2 {
+    _hidden_value = true
+  }
+  FranticAzureBird4 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  OddFuchsiaGenia = 621
+  SportingSilverRuthi = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  WesternChocolateDeeyn2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

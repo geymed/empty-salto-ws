@@ -1,0 +1,61 @@
+type dummy.CautiousScarletRivy6 {
+  annotations {
+    serviceid DiverseRedNicol3 {
+    }
+    serviceid ExperiencedMagentaLauralee3 {
+    }
+    json KnownMaroonLetty2 {
+    }
+    serviceid SpanishGreenIra2 {
+    }
+    hidden_boolean FashionableSapphireRenae4 {
+    }
+    hidden_boolean RealisticMoccasinLoleta {
+    }
+    json PeculiarPlumMichel2 {
+    }
+    hidden_boolean NakedMagentaLeanor6 {
+    }
+    json OverallCrimsonEmmalynne2 {
+    }
+    serviceid RottenApricotAriella {
+    }
+    string BigAmaranthAbbey2 {
+    }
+    json KindOrangeMarice3 {
+    }
+    string DeliciousApricotArdis4 {
+    }
+    dummy.WorryingSilverRozamond RemarkableGreenHyacintha {
+    }
+    serviceid_number SpiritualLavenderKatrine6 {
+    }
+    serviceid GreatBlueCharin6 {
+    }
+    boolean HorizontalSalmonPrissie5 {
+    }
+    dummy.ModernTealStafani ChillyAmaranthAilsun2 {
+    }
+    boolean PresentBrownCristal4 {
+    }
+    serviceid_number ObviousCoffeeDolley3 {
+    }
+  }
+  DiverseRedNicol3 = "What creature is smarter than a talking parrot? A spelling bee."
+  ExperiencedMagentaLauralee3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  KnownMaroonLetty2 = "How come the stadium got hot after the game? Because all of the fans left."
+  SpanishGreenIra2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  PeculiarPlumMichel2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  OverallCrimsonEmmalynne2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  RottenApricotAriella = "Why was it called the dark ages? Because of all the knights. "
+  BigAmaranthAbbey2 = "Dad Im hungry  Hi hungry Im dad"
+  KindOrangeMarice3 = "What creature is smarter than a talking parrot? A spelling bee."
+  DeliciousApricotArdis4 = "I'll tell you what often gets over looked... garden fences."
+  RemarkableGreenHyacintha = 418
+  SpiritualLavenderKatrine6 = 316
+  GreatBlueCharin6 = "How come the stadium got hot after the game? Because all of the fans left."
+  HorizontalSalmonPrissie5 = true
+  ChillyAmaranthAilsun2 = false
+  PresentBrownCristal4 = true
+  ObviousCoffeeDolley3 = 25
+}

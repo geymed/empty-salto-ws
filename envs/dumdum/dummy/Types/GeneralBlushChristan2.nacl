@@ -1,0 +1,60 @@
+type dummy.GeneralBlushChristan2 {
+  annotations {
+    boolean ExoticScarletRikki2 {
+    }
+    string ModeratePurpleNataline {
+    }
+    serviceid_number PrimaryCoffeeDoe2 {
+    }
+    serviceid_number MaleCoffeeDianne2 {
+    }
+  }
+  hidden_boolean RedundantSalmonPhilis6 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json RelievedSalmonPetronella {
+    _hidden_value = true
+  }
+  serviceid_number AllegedOliveLynna4 {
+    _hidden_value = true
+  }
+  json WrongBrownCristabel {
+    _hidden_value = true
+  }
+  serviceid CondemnedAquamarineBerti2 {
+    _hidden_value = true
+  }
+  serviceid_number CleverTealSibel2 {
+    _hidden_value = true
+  }
+  serviceid_number RelativeGoldGuinevere {
+    _hidden_value = true
+  }
+  number ReluctantMagentaLeda3 {
+    _hidden_value = true
+  }
+  serviceid_number EmptyCyanFanchon2 {
+    _hidden_value = true
+  }
+  json SillyBlueCathrin2 {
+    _hidden_value = true
+  }
+  "List<number>" MaleCoffeeDianne3 {
+    _hidden_value = true
+  }
+  hidden_boolean FollowingBrownCynthea3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean CuriousTealSidoney4 {
+    _hidden_value = true
+  }
+  ExoticScarletRikki2 = false
+  ModeratePurpleNataline = "Im only familiar with 25 letters in the English language. I dont know why."
+  PrimaryCoffeeDoe2 = 333
+  MaleCoffeeDianne2 = 882
+  _hidden_value = true
+}

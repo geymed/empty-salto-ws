@@ -1,0 +1,36 @@
+type dummy.GoodBlackCarmon {
+  annotations {
+    number TerribleBeigeBrinn2 {
+    }
+    boolean SuperiorMaroonLiana {
+    }
+    dummy.StaleAquaArlina ProposedGoldGweneth2 {
+    }
+    boolean SatisfiedHarlequinJean {
+    }
+  }
+  number DeadBrownDaphne {
+    _hidden_value = true
+  }
+  hidden_boolean HugeAmaranthAdela {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT FlakyAmberAlfreda {
+    _hidden_value = true
+  }
+  json SadYellowWilletta2 {
+    _hidden_value = true
+  }
+  hidden_boolean VerticalOliveLynsey {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  TerribleBeigeBrinn2 = 635
+  SuperiorMaroonLiana = true
+  ProposedGoldGweneth2 = true
+  SatisfiedHarlequinJean = true
+  _hidden_value = true
+}

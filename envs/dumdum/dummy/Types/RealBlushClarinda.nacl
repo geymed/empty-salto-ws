@@ -1,0 +1,47 @@
+type dummy.RealBlushClarinda {
+  annotations {
+    number StrangeTurquoiseTimothea {
+    }
+    hidden_boolean YellowYellowZora {
+    }
+    hidden_boolean PatientPurpleNani {
+    }
+    dummy.DistinctHarlequinJanella CombinedOliveMaible {
+    }
+    hidden_boolean PreliminaryOliveLyndy {
+    }
+  }
+  string ConservationPlumMoira3 {
+    _hidden_value = true
+  }
+  serviceid_number ConceptualTanShelba {
+    _hidden_value = true
+  }
+  serviceid OfficialCopperDoro {
+    _hidden_value = true
+  }
+  number FundamentalFuchsiaGeneva {
+    _hidden_value = true
+  }
+  serviceid WelshGrayHattie2 {
+    _hidden_value = true
+  }
+  "Map<serviceid>" RelevantCoffeeDoralia {
+    _hidden_value = true
+  }
+  string EnthusiasticBlackCarina {
+    _hidden_value = true
+  }
+  json DepressedPinkMelany {
+    _hidden_value = true
+  }
+  serviceid AfricanFuchsiaGianna {
+    _hidden_value = true
+  }
+  number SheerMagentaLauretta {
+    _hidden_value = true
+  }
+  StrangeTurquoiseTimothea = 964
+  CombinedOliveMaible = true
+  _hidden_value = true
+}

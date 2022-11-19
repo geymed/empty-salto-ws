@@ -1,0 +1,27 @@
+type dummy.UnfortunatePeachMarta {
+  annotations {
+    json PlasticAquaAurie {
+    }
+    serviceid_number CulturalCoralElie2 {
+    }
+    boolean PerfectBlackCatarina {
+    }
+    hidden_boolean RemarkableGreenHortensia2 {
+    }
+    string FriendlyVioletTrudy3 {
+    }
+    hidden_boolean BrownFuchsiaGaynor {
+    }
+    number ProbableSalmonPhyllys4 {
+    }
+  }
+  json FranticAzureBird2 {
+    _hidden_value = true
+  }
+  PlasticAquaAurie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  CulturalCoralElie2 = 583
+  PerfectBlackCatarina = false
+  FriendlyVioletTrudy3 = "Slept like a log last night  woke up in the fireplace."
+  ProbableSalmonPhyllys4 = 997
+  _hidden_value = true
+}

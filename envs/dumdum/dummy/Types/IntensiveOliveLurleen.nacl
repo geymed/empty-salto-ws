@@ -1,0 +1,23 @@
+type dummy.IntensiveOliveLurleen {
+  annotations {
+    number ThirstyAquaAshly {
+    }
+    boolean QuietCoralEirena {
+    }
+    json AttractiveCyanFiann {
+    }
+    string EfficientGoldGretel {
+    }
+    serviceid ShockedPinkMelisa {
+    }
+  }
+  "List<serviceid>" GrievingAzureBlakeley {
+    _hidden_value = true
+  }
+  ThirstyAquaAshly = 617
+  QuietCoralEirena = true
+  AttractiveCyanFiann = "What creature is smarter than a talking parrot? A spelling bee."
+  EfficientGoldGretel = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ShockedPinkMelisa = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

@@ -1,0 +1,60 @@
+type dummy.ObligedOrangeMarcelline3 {
+  annotations {
+    dummy.StaleAquaArlina OrdinaryWhiteViolette2 {
+    }
+    number EndlessPeachMarjorie2 {
+    }
+    boolean ConcernedTealSibilla4 {
+    }
+    dummy.DEFAULT RealBlushClarie4 {
+    }
+  }
+  serviceid DueCopperDot3 {
+    _hidden_value = true
+  }
+  serviceid_number EndlessPeachMarjie4 {
+    _hidden_value = true
+  }
+  hidden_boolean ImaginativeTanSella2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT InitialCoralElsey2 {
+    _hidden_value = true
+  }
+  "List<json>" GleamingTurquoiseTeri3 {
+    _hidden_value = true
+  }
+  number LooseIvoryJulietta3 {
+    _hidden_value = true
+  }
+  json UniversalJadeJyoti2 {
+    _hidden_value = true
+  }
+  "List<json>" FairBlackCarlene4 {
+    _hidden_value = true
+  }
+  boolean ConcernedBronzeCorny2 {
+    _hidden_value = true
+  }
+  number BreezyAmaranthAidan {
+    _hidden_value = true
+  }
+  serviceid ImpossibleTealStace {
+    _hidden_value = true
+  }
+  serviceid SilentApricotAntonietta2 {
+    _hidden_value = true
+  }
+  serviceid EvilAzureBill {
+    _hidden_value = true
+  }
+  OrdinaryWhiteViolette2 = true
+  EndlessPeachMarjorie2 = 945
+  ConcernedTealSibilla4 = true
+  RealBlushClarie4 = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  _hidden_value = true
+}

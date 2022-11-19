@@ -1,0 +1,88 @@
+type dummy.TenderYellowYnez2 {
+  annotations {
+    boolean TemporaryGrayHalimeda {
+    }
+    boolean TeenageScarletRobinetta {
+    }
+    hidden_boolean CoastalPlumMichal {
+    }
+    hidden_boolean ToughGoldGlenine {
+    }
+    serviceid_number MidPinkMelissa2 {
+    }
+    string NeighbouringPurpleNana {
+    }
+  }
+  hidden_boolean DampAmberAlejandrina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number VerticalOliveLynnet {
+    _hidden_value = true
+  }
+  json WrongTomatoSybilla2 {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" ExtendedPlumMilicent2 {
+    _hidden_value = true
+  }
+  serviceid_number MoaningApricotAnne {
+    _hidden_value = true
+  }
+  serviceid_number OppositeHarlequinJanela {
+    _hidden_value = true
+  }
+  serviceid TeenageScarletRobinette2 {
+    _hidden_value = true
+  }
+  hidden_boolean NearbyLimeKoralle {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid CasualOliveLurline {
+    _hidden_value = true
+  }
+  json TinyCyanEulalie {
+    _hidden_value = true
+  }
+  "Map<serviceid_number>" GoverningTanSelma {
+    _hidden_value = true
+  }
+  serviceid_number AssociatedMaroonLindsey2 {
+    _hidden_value = true
+  }
+  boolean TechnologicalOrangeMarianna {
+    _hidden_value = true
+  }
+  serviceid_number LevelJadeKamilah2 {
+    _hidden_value = true
+  }
+  serviceid SteepAmberAlyda {
+    _hidden_value = true
+  }
+  serviceid_number SlightGoldGwenora2 {
+    _hidden_value = true
+  }
+  "List<boolean>" FatalPurpleMyrtice {
+    _hidden_value = true
+  }
+  serviceid_number MissingPinkMellisent2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT YummyYellowZorine {
+    _hidden_value = true
+  }
+  serviceid AmazingMoccasinLiza {
+    _hidden_value = true
+  }
+  string SteepMoccasinLulita {
+    _hidden_value = true
+  }
+  TemporaryGrayHalimeda = false
+  TeenageScarletRobinetta = true
+  MidPinkMelissa2 = 685
+  NeighbouringPurpleNana = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

@@ -1,0 +1,111 @@
+type dummy.ThickEmeraldFina7 {
+  annotations {
+    serviceid AfraidCrimsonEmmye4 {
+    }
+    hidden_boolean NiceWhiteVickie {
+    }
+    hidden_boolean IntensiveMoccasinLulu3 {
+    }
+    serviceid_number DarkTomatoTarra4 {
+    }
+    json PinkIndigoJennica2 {
+    }
+  }
+  boolean ConfusedAquamarineBertina5 {
+    _hidden_value = true
+  }
+  hidden_boolean AfraidAquamarineBenedetta2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json FinancialBronzeCori3 {
+    _hidden_value = true
+  }
+  string GreasyAquaAubrette2 {
+    _hidden_value = true
+  }
+  number StrangeTurquoiseTimothea2 {
+    _hidden_value = true
+  }
+  hidden_boolean SwissPlumMiguela5 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.InteriorPurpleNathalie LiberalCyanFarica2 {
+    ShaggyAquaAviva = 143
+    ThenSalmonPhylis = 421
+    PassingSalmonPolly = "To be Frank, I'd have to change my name."
+    DemocraticCrimsonEmyle = 527
+    StrikingOliveMag = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    ExcellentCoralEilis = 7
+    _hidden_value = true
+  }
+  json WeeSapphireRetha2 {
+    _hidden_value = true
+  }
+  serviceid_number ExactLimeKore2 {
+    _hidden_value = true
+  }
+  boolean SocialBlueCharmion {
+    _hidden_value = true
+  }
+  "List<serviceid>" SoftCoralElaine2 {
+    _hidden_value = true
+  }
+  number DistinguishedPurpleNatasha {
+    _hidden_value = true
+  }
+  hidden_boolean MeaningfulTanShena4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid TheoreticalIndigoJenifer {
+    _hidden_value = true
+  }
+  serviceid_number LengthySapphireRanique {
+    _hidden_value = true
+  }
+  serviceid_number ScottishChocolateDela {
+    _hidden_value = true
+  }
+  json LateAmethystAmargo {
+    _hidden_value = true
+  }
+  serviceid AddedPinkMelinde6 {
+    _hidden_value = true
+  }
+  serviceid AdverseSapphireRanique2 {
+    _hidden_value = true
+  }
+  string ReadyChocolateDebi5 {
+    _hidden_value = true
+  }
+  serviceid_number IndividualBrownCrystie2 {
+    _hidden_value = true
+  }
+  boolean ClosedMagentaLeila2 {
+    _hidden_value = true
+  }
+  string BasicChocolateDarleen2 {
+    _hidden_value = true
+  }
+  string SatisfiedHarlequinJazmin3 {
+    _hidden_value = true
+  }
+  boolean SubjectiveSapphireRiannon3 {
+    _hidden_value = true
+  }
+  number AnxiousHarlequinJannelle {
+    _hidden_value = true
+  }
+  string InvolvedCoffeeDenice3 {
+    _hidden_value = true
+  }
+  AfraidCrimsonEmmye4 = "Im only familiar with 25 letters in the English language. I dont know why."
+  DarkTomatoTarra4 = 714
+  PinkIndigoJennica2 = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

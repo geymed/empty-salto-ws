@@ -1,0 +1,45 @@
+type dummy.ShockedPinkMelinde {
+  number IntegralSalmonPhillis2 {
+  }
+  string StrongAquaAshely {
+  }
+  number AgreedTanSelia2 {
+  }
+  string GorgeousVioletUrsala2 {
+  }
+  hidden_boolean DevelopedPinkMeris {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number ConfusedMaroonLil4 {
+  }
+  boolean ExpectedLimeLani2 {
+  }
+  "List<number>" PainfulMaroonLilllie4 {
+  }
+  serviceid_number FineBlackCarlye4 {
+  }
+  dummy.CheapCopperEdita2 HorribleVioletValenka3 {
+    IsraeliPinkMeridel = false
+    SecondaryFuchsiaGertruda3 = 233
+    EvilAzureBidget2 = 501
+    FaithfulTanShayne2 = false
+    LivingGrayHenriette = "Why did the tomato blush? Because it saw the salad dressing."
+    GreatBlueCharis3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  boolean ChubbyAmberAlina3 {
+  }
+  hidden_boolean ExistingCoffeeDesirae3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid DeafeningAmethystAngil4 {
+  }
+  hidden_boolean DisgustedAzureBeulah4 {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+}

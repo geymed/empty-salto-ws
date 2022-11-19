@@ -1,0 +1,70 @@
+type dummy.DepressedAzureBetty5 {
+  string MidPinkMelisse2 {
+  }
+  "List<boolean>" SuperbMagentaLaurena3 {
+  }
+  number NastyMaroonLisette2 {
+  }
+  json DesirableMagentaLanny4 {
+  }
+  boolean FunnyBlackCarmelia2 {
+  }
+  serviceid DepressedPinkMelanie3 {
+  }
+  string ParallelMoccasinLuelle4 {
+  }
+  string OrganicLimeLacy {
+  }
+  serviceid ColouredMaroonLivia3 {
+  }
+  number BeneficialPlumMonica4 {
+  }
+  hidden_boolean ContinentalOliveMagdalen3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string AbundantAmethystAnderea {
+  }
+  json FreshApricotArdys2 {
+  }
+  boolean AnonymousSapphireRayshell6 {
+  }
+  dummy.LovelyCoralElli CoherentScarletRoselin4 {
+    CommunistGoldGiuditta3 = "Did you know that protons have mass? I didn't even know they were catholic."
+    StructuralIvoryJosephine3 = "I'll tell you what often gets over looked... garden fences."
+    ProgressiveOliveMadelin = 748
+    PregnantLimeKizzie3 = 570
+    UsedFuchsiaGeorgeanne4 = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    ChangingJadeKassi = 422
+  }
+  hidden_boolean HelpfulHarlequinJaneva {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  serviceid QuickAmethystAmity {
+  }
+  boolean JustMaroonLissy3 {
+  }
+  hidden_boolean DigitalMaroonLib4 {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  hidden_boolean IcyAquaAuguste3 {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  string MathematicalRoseOtha4 {
+  }
+  json NovelScarletRoshelle6 {
+  }
+  string AverageTomatoTabbie2 {
+  }
+  boolean ClassicJadeKaitlynn4 {
+  }
+}

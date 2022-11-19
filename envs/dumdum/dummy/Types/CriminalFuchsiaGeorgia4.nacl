@@ -1,0 +1,57 @@
+type dummy.CriminalFuchsiaGeorgia4 {
+  annotations {
+    serviceid TastelessAquaAshlee {
+    }
+    boolean RelativeGoldGui2 {
+    }
+    hidden_boolean SteadyAquamarineBea4 {
+    }
+    string BigAmaranthAbbe2 {
+    }
+  }
+  number OldBlueChantal2 {
+    _hidden_value = true
+  }
+  serviceid AccessibleOrangeMarilee5 {
+    _hidden_value = true
+  }
+  string SpanishGreenIormina2 {
+    _hidden_value = true
+  }
+  boolean BlindIvoryJudie {
+    _hidden_value = true
+  }
+  boolean UncertainMagentaLela2 {
+    _hidden_value = true
+  }
+  boolean BurningRedNikoletta3 {
+    _hidden_value = true
+  }
+  string GrowingCrimsonEnid2 {
+    _hidden_value = true
+  }
+  number OlympicRedNessi {
+    _hidden_value = true
+  }
+  string DigitalMaroonLianna {
+    _hidden_value = true
+  }
+  hidden_boolean ImpressiveIndigoJessa2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ContinuousIvoryJuana2 {
+    _hidden_value = true
+  }
+  json HeavyChocolateDavita2 {
+    _hidden_value = true
+  }
+  json SuperTomatoSusanetta3 {
+    _hidden_value = true
+  }
+  TastelessAquaAshlee = "What did one nut say as he chased another nut?  I'm a cashew!"
+  RelativeGoldGui2 = false
+  BigAmaranthAbbe2 = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

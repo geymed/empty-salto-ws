@@ -1,0 +1,52 @@
+type dummy.SelectSalmonPhil4 {
+  annotations {
+    boolean RetiredSilverSaraann4 {
+    }
+    serviceid_number SlipperyAquamarineBarbaraanne4 {
+    }
+    string ConsistentHarlequinJanith4 {
+    }
+    hidden_boolean SupremeGreenIsabelita4 {
+    }
+    boolean RottenApricotAriela2 {
+    }
+    hidden_boolean CompactPurpleNanny2 {
+    }
+    json VerticalOliveLynsey4 {
+    }
+    json SilentApricotAntonia2 {
+    }
+    serviceid_number PresentBrownCristal5 {
+    }
+    serviceid_number LateBlushChristabel {
+    }
+    json SystematicOrangeMarabel {
+    }
+    dummy.ColouredMaroonLivia WittyBlueCelene {
+    }
+    string RoastedWhiteWenona4 {
+    }
+    dummy.AnxiousAquamarineBenoite3 RadicalGrayHelenelizabeth6 {
+    }
+    string AgriculturalGoldGoldia6 {
+    }
+    string RegisteredPurpleNadya5 {
+    }
+    hidden_boolean TanYellowYetta2 {
+    }
+    hidden_boolean RoyalBrownCristin4 {
+    }
+  }
+  RetiredSilverSaraann4 = false
+  SlipperyAquamarineBarbaraanne4 = 433
+  ConsistentHarlequinJanith4 = "Why didnt the skeleton cross the road? Because he had no guts."
+  RottenApricotAriela2 = false
+  VerticalOliveLynsey4 = "Why didnt the skeleton cross the road? Because he had no guts."
+  SilentApricotAntonia2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  PresentBrownCristal5 = 619
+  LateBlushChristabel = 466
+  SystematicOrangeMarabel = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  RoastedWhiteWenona4 = "What do you call two barracuda fish?  A Pairacuda!"
+  AgriculturalGoldGoldia6 = "Why did the kid cross the playground? To get to the other slide."
+  RegisteredPurpleNadya5 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+}

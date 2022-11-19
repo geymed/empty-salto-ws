@@ -1,0 +1,64 @@
+type dummy.HealthyGoldGracia {
+  annotations {
+    string GreatBlueChantalle {
+    }
+    hidden_boolean PunyAmaranthAeriela {
+    }
+    serviceid_number DeterminedOrangeMarillin {
+    }
+    hidden_boolean MushyWhiteVerla {
+    }
+    dummy.DeliciousApricotArdisj StormyTurquoiseTim2 {
+    }
+    serviceid AdministrativeGreenHonoria {
+    }
+  }
+  hidden_boolean WrongTomatoSybilla {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT CriminalFuchsiaGeorgia {
+    _hidden_value = true
+  }
+  number ForeignBronzeCorinne2 {
+    _hidden_value = true
+  }
+  dummy.FeministPlumMin AbleBlushChrissie {
+    GreenVioletUlrica = false
+    SovietChocolateDaria = "Why didnt the skeleton cross the road? Because he had no guts."
+    CuriousTealSidoney = true
+    ColdChocolateDebbie = 233
+    IrishCrimsonErminia = false
+    ShakyAquaBab = 439
+    ScientificCrimsonErda = 754
+    LatinLimeKonstanze = 278
+    IsraeliPinkMeriel = "Why did the kid cross the playground? To get to the other slide."
+    _hidden_value = true
+  }
+  number GrumpyVioletUrsola {
+    _hidden_value = true
+  }
+  hidden_boolean GoldenGrayHali {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid SeparateCopperDorolice {
+    _hidden_value = true
+  }
+  serviceid_number ApparentCyanFawn {
+    _hidden_value = true
+  }
+  number StillIndigoJoanne {
+    _hidden_value = true
+  }
+  boolean EarlyBlushCherrita2 {
+    _hidden_value = true
+  }
+  GreatBlueChantalle = "Why did the tomato blush? Because it saw the salad dressing."
+  DeterminedOrangeMarillin = 351
+  StormyTurquoiseTim2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  AdministrativeGreenHonoria = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

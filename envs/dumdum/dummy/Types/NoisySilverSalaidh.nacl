@@ -1,0 +1,73 @@
+type dummy.NoisySilverSalaidh {
+  annotations {
+    serviceid AcceptedTanShae3 {
+    }
+    number NearFuchsiaGeri2 {
+    }
+    number MetropolitanOrangeMargarita4 {
+    }
+    serviceid_number GentleIndigoJoceline2 {
+    }
+  }
+  hidden_boolean DisappointedMagentaLaurice5 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean RealTomatoStephine2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean IntensiveMoccasinLura2 {
+    _hidden_value = true
+  }
+  serviceid_number RawJadeKarlen3 {
+    _hidden_value = true
+  }
+  serviceid_number HappyVioletVale4 {
+    _hidden_value = true
+  }
+  serviceid_number AngryFuchsiaGill {
+    _hidden_value = true
+  }
+  serviceid LonelyOliveLyn5 {
+    _hidden_value = true
+  }
+  hidden_boolean AbstractMaroonLina2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid PanickyAzureBreena {
+    _hidden_value = true
+  }
+  boolean ChillyAmaranthAilina {
+    _hidden_value = true
+  }
+  serviceid FirmGrayHedda4 {
+    _hidden_value = true
+  }
+  boolean OutstandingIndigoJenine2 {
+    _hidden_value = true
+  }
+  serviceid_number ExpectedLimeLani {
+    _hidden_value = true
+  }
+  hidden_boolean OnlyBlushClareta5 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number BigVioletTony2 {
+    _hidden_value = true
+  }
+  boolean TropicalOliveLydia2 {
+    _hidden_value = true
+  }
+  AcceptedTanShae3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  NearFuchsiaGeri2 = 90
+  MetropolitanOrangeMargarita4 = 296
+  GentleIndigoJoceline2 = 664
+  _hidden_value = true
+}

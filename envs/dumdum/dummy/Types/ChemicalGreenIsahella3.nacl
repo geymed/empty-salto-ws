@@ -1,0 +1,64 @@
+type dummy.ChemicalGreenIsahella3 {
+  annotations {
+    serviceid TightAquamarineBee {
+    }
+    string GreatAmaranthAddia3 {
+    }
+    string SourAquaArleta {
+    }
+    json MarineMagentaLeoline {
+    }
+    number HandicappedTanShantee {
+    }
+  }
+  serviceid_number WorkingCrimsonEmmaline {
+    _hidden_value = true
+  }
+  boolean TremendousMagentaLeodora2 {
+    _hidden_value = true
+  }
+  string FamiliarCrimsonEthel4 {
+    _hidden_value = true
+  }
+  json MarginalLimeKrista {
+    _hidden_value = true
+  }
+  boolean WeeklyLavenderKessia5 {
+    _hidden_value = true
+  }
+  boolean ExcellentCoralEffie2 {
+    _hidden_value = true
+  }
+  serviceid QuietApricotAnnmaria2 {
+    _hidden_value = true
+  }
+  dummy.ProposedGoldGwendolen RubberSilverSaree5 {
+    GrowingCrimsonEnrica = 240
+    DelicateOliveMable = 954
+    OkSapphireRhianon = 58
+    ClosedMagentaLeilah = {
+      legit = "Why is Peter Pan always flying? Because he Neverlands."
+    }
+    AlertTomatoTabatha = false
+    StrongBronzeColly = 367
+    NavalPinkMel = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    _hidden_value = true
+  }
+  json MiniatureAmaranthAdrian3 {
+    _hidden_value = true
+  }
+  serviceid BackMoccasinLonna3 {
+    _hidden_value = true
+  }
+  boolean RipeApricotAridatha3 {
+    _hidden_value = true
+  }
+  TightAquamarineBee = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  GreatAmaranthAddia3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  SourAquaArleta = "Why is Peter Pan always flying? Because he Neverlands."
+  MarineMagentaLeoline = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  HandicappedTanShantee = 943
+  _hidden_value = true
+}

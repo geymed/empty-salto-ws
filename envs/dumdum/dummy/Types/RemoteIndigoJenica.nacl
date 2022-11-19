@@ -1,0 +1,29 @@
+type dummy.RemoteIndigoJenica {
+  annotations {
+    number HolyIndigoJehanna2 {
+    }
+    string SoundRoseOlia5 {
+    }
+    serviceid_number SimilarBronzeConstancia3 {
+    }
+    json ParticularBlushClaude {
+    }
+    number PurpleScarletRivalee {
+    }
+    serviceid MassiveFuchsiaGerry {
+    }
+    serviceid_number UglyYellowZahara3 {
+    }
+  }
+  serviceid_number PinkIndigoJenni {
+    _hidden_value = true
+  }
+  HolyIndigoJehanna2 = 840
+  SoundRoseOlia5 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SimilarBronzeConstancia3 = 120
+  ParticularBlushClaude = "Why did the tomato blush? Because it saw the salad dressing."
+  PurpleScarletRivalee = 815
+  MassiveFuchsiaGerry = "Did you know that protons have mass? I didn't even know they were catholic."
+  UglyYellowZahara3 = 30
+  _hidden_value = true
+}

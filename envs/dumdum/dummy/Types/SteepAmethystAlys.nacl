@@ -1,0 +1,83 @@
+type dummy.SteepAmethystAlys {
+  annotations {
+    dummy.DEFAULT DevotedRosePaula {
+    }
+    string SwissPlumMiguela6 {
+    }
+    string MuddyTurquoiseTheresina2 {
+    }
+    serviceid_number ProudHarlequinJanaya3 {
+    }
+    json BeneficialPlumMonica2 {
+    }
+    number CompleteCoffeeDevinne3 {
+    }
+    boolean ControlledTanShel {
+    }
+  }
+  boolean ShrillApricotAntoinette5 {
+    _hidden_value = true
+  }
+  serviceid_number NecessaryBronzeCorabel3 {
+    _hidden_value = true
+  }
+  serviceid CorporateEmeraldGalina {
+    _hidden_value = true
+  }
+  dummy.UnhappyMaroonLibby EstimatedOrangeMargie4 {
+    EmptyAmethystAndra = "Slept like a log last night  woke up in the fireplace."
+    GlamorousTurquoiseTerese = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    TiredGoldGretchen = "Why didnt the skeleton cross the road? Because he had no guts."
+    NumerousHarlequinJanean = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    WiseLavenderKatherine = 918
+    ExclusiveMagentaLatrena = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    DisastrousScarletRochell = 483
+    HistoricalCyanEvangelin = "Why didnt the skeleton cross the road? Because he had no guts."
+    ThickEmeraldFina = 715
+    SorryBrownDaphene = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    DullMoccasinLori = false
+    _hidden_value = true
+  }
+  number UglyTurquoiseTine3 {
+    _hidden_value = true
+  }
+  boolean ReluctantMagentaLeda4 {
+    _hidden_value = true
+  }
+  serviceid_number ImpressiveIndigoJerrylee2 {
+    _hidden_value = true
+  }
+  boolean MaximumGreenIlyssa3 {
+    _hidden_value = true
+  }
+  hidden_boolean DoubtfulTealSioux2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json ContentPeachMatilde3 {
+    _hidden_value = true
+  }
+  boolean BigVioletTonie3 {
+    _hidden_value = true
+  }
+  number ReliableLavenderKikelia3 {
+    _hidden_value = true
+  }
+  serviceid_number OrganisationalTanShara4 {
+    _hidden_value = true
+  }
+  boolean ShallowAmberAloise {
+    _hidden_value = true
+  }
+  DevotedRosePaula = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  SwissPlumMiguela6 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  MuddyTurquoiseTheresina2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  ProudHarlequinJanaya3 = 541
+  BeneficialPlumMonica2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  CompleteCoffeeDevinne3 = 630
+  ControlledTanShel = false
+  _hidden_value = true
+}

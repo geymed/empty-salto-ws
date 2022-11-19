@@ -1,0 +1,25 @@
+type dummy.InstitutionalMaroonLesli4 {
+  annotations {
+    serviceid UncomfortablePlumMoina2 {
+    }
+    string OccasionalIvoryJuline4 {
+    }
+    number AnonymousSapphireRayshell4 {
+    }
+    hidden_boolean EvolutionarySilverRuperta2 {
+    }
+  }
+  serviceid RoundAmberAlmeta3 {
+    _hidden_value = true
+  }
+  string LiableLimeKimberlyn2 {
+    _hidden_value = true
+  }
+  boolean UniversalJadeJyoti {
+    _hidden_value = true
+  }
+  UncomfortablePlumMoina2 = "A steak pun is a rare medium well done."
+  OccasionalIvoryJuline4 = "Why do birds fly south for the winter? Because it's too far to walk."
+  AnonymousSapphireRayshell4 = 256
+  _hidden_value = true
+}

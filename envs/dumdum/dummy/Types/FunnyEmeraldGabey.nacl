@@ -1,0 +1,70 @@
+type dummy.FunnyEmeraldGabey {
+  annotations {
+    hidden_boolean RelatedIndigoJessamine3 {
+    }
+    json SpottyYellowWylma4 {
+    }
+    boolean RealBlushClarie3 {
+    }
+    serviceid IndividualBrownCrystal2 {
+    }
+    dummy.StrategicIndigoJehanna IraqiOliveMadelon2 {
+    }
+  }
+  dummy.DEFAULT FascinatingOrangeMargareta3 {
+    _hidden_value = true
+  }
+  serviceid ImprovedMagentaLarisa {
+    _hidden_value = true
+  }
+  serviceid NoisySilverSaidee4 {
+    _hidden_value = true
+  }
+  serviceid_number SportingSilverRuthie2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ElectoralLimeKristin {
+    _hidden_value = true
+  }
+  hidden_boolean NearFuchsiaGerianna3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT NationalBlueCherianne2 {
+    _hidden_value = true
+  }
+  number ConventionalGoldGussi6 {
+    _hidden_value = true
+  }
+  hidden_boolean FilthyAmberAlfi2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT InterestedCoffeeDierdre4 {
+    _hidden_value = true
+  }
+  hidden_boolean GlamorousTurquoiseTeresina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number FranticAzureBirgit2 {
+    _hidden_value = true
+  }
+  boolean AwareChocolateDasi4 {
+    _hidden_value = true
+  }
+  boolean WetAquamarineBell {
+    _hidden_value = true
+  }
+  string ModeratePurpleNataline2 {
+    _hidden_value = true
+  }
+  SpottyYellowWylma4 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  RealBlushClarie3 = true
+  IndividualBrownCrystal2 = "Why did the tomato blush? Because it saw the salad dressing."
+  IraqiOliveMadelon2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

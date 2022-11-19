@@ -1,0 +1,23 @@
+type dummy.StupidTomatoSula2 {
+  annotations {
+    boolean LargeBlueCharmain2 {
+    }
+    dummy.DistinctHarlequinJanella SophisticatedJadeKarlotta3 {
+    }
+    string SupremeGreenIsabelita3 {
+    }
+    boolean ParliamentaryFuchsiaGertrude3 {
+    }
+    json LateAmethystAmber7 {
+    }
+  }
+  dummy.DEFAULT SilentGrayHarlene2 {
+    _hidden_value = true
+  }
+  LargeBlueCharmain2 = false
+  SophisticatedJadeKarlotta3 = false
+  SupremeGreenIsabelita3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ParliamentaryFuchsiaGertrude3 = false
+  LateAmethystAmber7 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

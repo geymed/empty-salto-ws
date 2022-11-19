@@ -1,0 +1,83 @@
+type dummy.ScientificCrimsonErica {
+  annotations {
+    serviceid BraveBeigeCaitrin {
+    }
+    serviceid_number FaintMaroonLiuka {
+    }
+    number ParentalRedNichol {
+    }
+    hidden_boolean TiredBeigeBritni2 {
+    }
+    json MultipleLimeKinna {
+    }
+  }
+  dummy.DEFAULT SquareJadeKacy {
+    _hidden_value = true
+  }
+  serviceid SupportingSilverSamaria {
+    _hidden_value = true
+  }
+  json IntermediateRoseOfella2 {
+    _hidden_value = true
+  }
+  boolean ItalianGoldGratiana3 {
+    _hidden_value = true
+  }
+  json EnthusiasticBlackCarine {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" ReluctantMagentaLeda2 {
+    _hidden_value = true
+  }
+  number BalancedSilverRosy {
+    _hidden_value = true
+  }
+  number SuspiciousPurpleMyranda {
+    _hidden_value = true
+  }
+  hidden_boolean AwareChocolateDasha {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number IrishCrimsonErmina3 {
+    _hidden_value = true
+  }
+  json PsychiatricSilverRoxy2 {
+    _hidden_value = true
+  }
+  string RemainingGoldGolda {
+    _hidden_value = true
+  }
+  string ChineseGoldGuenevere {
+    _hidden_value = true
+  }
+  hidden_boolean PurpleScarletRita {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string LinearRedNessie {
+    _hidden_value = true
+  }
+  string SweetAquaAshil3 {
+    _hidden_value = true
+  }
+  string AwareChocolateDaryn {
+    _hidden_value = true
+  }
+  number TechnicalCopperEdeline {
+    _hidden_value = true
+  }
+  json EasyTealSisely {
+    _hidden_value = true
+  }
+  serviceid FlatGrayHannis2 {
+    _hidden_value = true
+  }
+  BraveBeigeCaitrin = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FaintMaroonLiuka = 216
+  ParentalRedNichol = 48
+  MultipleLimeKinna = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

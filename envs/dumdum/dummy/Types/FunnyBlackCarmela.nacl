@@ -1,0 +1,90 @@
+type dummy.FunnyBlackCarmela {
+  annotations {
+    hidden_boolean TameTomatoSusanne3 {
+    }
+    string WorriedBeigeBryna2 {
+    }
+    string EmptyAmethystAndra2 {
+    }
+    number PreliminaryOliveLyndy4 {
+    }
+    hidden_boolean ProtestantScarletRobin4 {
+    }
+  }
+  number StrangeCoralEdiva3 {
+    _hidden_value = true
+  }
+  json AdvisoryOrangeMarie4 {
+    _hidden_value = true
+  }
+  hidden_boolean AwkwardPeachMarylee4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean PurringApricotAnni {
+    _hidden_value = true
+  }
+  hidden_boolean ChineseGoldGuenna2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean RemoteIndigoJenelle {
+    _hidden_value = true
+  }
+  hidden_boolean BiologicalMaroonLetizia4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number SlowAmethystAnabelle5 {
+    _hidden_value = true
+  }
+  serviceid_number WidespreadHarlequinJacqui2 {
+    _hidden_value = true
+  }
+  number ReligiousCoralElene4 {
+    _hidden_value = true
+  }
+  number CooperativeBeigeCamila {
+    _hidden_value = true
+  }
+  serviceid GradualSilverSallee3 {
+    _hidden_value = true
+  }
+  boolean TastyAquaAshlie {
+    _hidden_value = true
+  }
+  string MoralCyanFeliza3 {
+    _hidden_value = true
+  }
+  string MechanicalMagentaLeonelle4 {
+    _hidden_value = true
+  }
+  number DeafeningAmethystAngil3 {
+    _hidden_value = true
+  }
+  serviceid SparklingTurquoiseTildi4 {
+    _hidden_value = true
+  }
+  serviceid DangerousCrimsonEssy2 {
+    _hidden_value = true
+  }
+  string ReligiousCoralElene5 {
+    _hidden_value = true
+  }
+  boolean DefiantAzureBetteanne2 {
+    _hidden_value = true
+  }
+  serviceid PayableOrangeMarcie3 {
+    _hidden_value = true
+  }
+  serviceid_number UgliestYellowZarah2 {
+    _hidden_value = true
+  }
+  WorriedBeigeBryna2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  EmptyAmethystAndra2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  PreliminaryOliveLyndy4 = 941
+  _hidden_value = true
+}

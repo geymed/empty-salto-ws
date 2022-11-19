@@ -1,0 +1,97 @@
+type dummy.MonthlyMaroonLinnea2 {
+  annotations {
+    serviceid MeaningfulTanSher3 {
+    }
+    string SilentApricotAntonia {
+    }
+    hidden_boolean PreviousBrownDanice {
+    }
+    hidden_boolean EverydayLimeKyrstin {
+    }
+    string PatientPurpleNanice {
+    }
+    dummy.BoilingAmaranthAgneta ModernBrownDacy {
+    }
+    json InadequateLavenderKeeley3 {
+    }
+  }
+  boolean LinearRedNesta4 {
+    _hidden_value = true
+  }
+  dummy.AfraidCrimsonEmogene AbsoluteGreenIna2 {
+    TameTomatoSusette = 696
+    DeliberateRedNoellyn = "I'll tell you what often gets over looked... garden fences."
+    PainfulMaroonLily = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    GrowingCrimsonEnrichetta = 145
+    VisualGreenIngaborg = 402
+    HilariousBlackCaroljean = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    UglyYellowZabrina = 735
+    ParticularBlushClaudelle = false
+    DefinitePeachMartha = 916
+    PleasedEmeraldGabriela = "Why is Peter Pan always flying? Because he Neverlands."
+    _hidden_value = true
+  }
+  string FrontCopperEartha {
+    _hidden_value = true
+  }
+  boolean MassiveAmaranthAdrea {
+    _hidden_value = true
+  }
+  hidden_boolean MedicalCoffeeDevonna2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number RisingScarletRosemary {
+    _hidden_value = true
+  }
+  json ClinicalIndigoJenny3 {
+    _hidden_value = true
+  }
+  dummy.DistinctHarlequinJanella GiganticVioletUlrika3 {
+    MinimumIndigoJermaine = "A steak pun is a rare medium well done."
+    ConceptualTanShelbi = true
+    IdenticalLimeKorie = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    RelievedBlueCathie = true
+    RegulatorySalmonQuintilla = false
+    GoodBlueCelisse = "Why did the tomato blush? Because it saw the salad dressing."
+    SoftApricotApril = 424
+    NursingSalmonPetronille = true
+    CriticalCrimsonEstele = "Why is Peter Pan always flying? Because he Neverlands."
+    _hidden_value = true
+  }
+  hidden_boolean RottenApricotArielle2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number MildOliveMaddi3 {
+    _hidden_value = true
+  }
+  serviceid_number DueCopperDot2 {
+    _hidden_value = true
+  }
+  dummy.ColonialPeachMaudie TroubledBeigeBrittan {
+    FrequentLavenderKatie2 = 882
+    VoicelessApricotArdeen = false
+    InnerFuchsiaGenvieve = "What do you do on a remote island? Try and find the TV island it belongs to."
+    FlakyAmberAlfy = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    CentralBronzeConnie = "Why was it called the dark ages? Because of all the knights. "
+    StingyYellowWinnah = "Why did the tomato blush? Because it saw the salad dressing."
+    AnnoyedAquamarineBenita = 906
+    DullVioletTrish = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    WeeklyLavenderKessia2 = "Why did the tomato blush? Because it saw the salad dressing."
+    RawJadeKarlee = 102
+    WeirdSilverRozella = 582
+    ShaggyAquaAvis = "How come the stadium got hot after the game? Because all of the fans left."
+    _hidden_value = true
+  }
+  MeaningfulTanSher3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  SilentApricotAntonia = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  PatientPurpleNanice = "Why is Peter Pan always flying? Because he Neverlands."
+  ModernBrownDacy = "What did one nut say as he chased another nut?  I'm a cashew!"
+  InadequateLavenderKeeley3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

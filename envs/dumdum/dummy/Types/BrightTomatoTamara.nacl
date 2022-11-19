@@ -1,0 +1,13 @@
+type dummy.BrightTomatoTamara is number {
+  annotations {
+    serviceid_number UsedFuchsiaGeorgena {
+    }
+    serviceid_number MolecularRedNerte2 {
+    }
+    number LongVioletVanessa {
+    }
+  }
+  UsedFuchsiaGeorgena = 861
+  MolecularRedNerte2 = 693
+  LongVioletVanessa = 179
+}

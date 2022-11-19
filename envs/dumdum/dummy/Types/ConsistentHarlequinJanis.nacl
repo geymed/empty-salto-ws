@@ -1,0 +1,68 @@
+type dummy.ConsistentHarlequinJanis {
+  annotations {
+    dummy.FollowingBrownCynthia RegulatorySalmonQuintina3 {
+    }
+    dummy.EmpiricalPinkMeara ResultingPurpleNadeen3 {
+    }
+    string UninterestedTomatoSuzann {
+    }
+    string SuitableCrimsonEmilee2 {
+    }
+    string LonelyOliveLynda {
+    }
+  }
+  dummy.DEFAULT DeterminedOrangeMarina {
+    _hidden_value = true
+  }
+  serviceid BitterJadeKass3 {
+    _hidden_value = true
+  }
+  boolean FaithfulBlackCarlie2 {
+    _hidden_value = true
+  }
+  string ElegantTurquoiseTeddy {
+    _hidden_value = true
+  }
+  hidden_boolean UndergroundScarletRomy {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number IntenseLavenderKattie3 {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" WesternChocolateDeerdre3 {
+    _hidden_value = true
+  }
+  boolean IntensiveOliveLurette {
+    _hidden_value = true
+  }
+  serviceid ItalianGoldGratiana2 {
+    _hidden_value = true
+  }
+  boolean AnxiousHarlequinJannel {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" PriorRosePaulina2 {
+    _hidden_value = true
+  }
+  json ScientificCrimsonErena2 {
+    _hidden_value = true
+  }
+  hidden_boolean FlakyAmberAlfreda2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean DeadBrownDara3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  RegulatorySalmonQuintina3 = 380
+  ResultingPurpleNadeen3 = false
+  UninterestedTomatoSuzann = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SuitableCrimsonEmilee2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  LonelyOliveLynda = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

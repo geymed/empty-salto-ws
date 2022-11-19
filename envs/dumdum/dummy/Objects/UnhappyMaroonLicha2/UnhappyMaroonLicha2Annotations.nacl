@@ -1,0 +1,72 @@
+type dummy.UnhappyMaroonLicha2 {
+  annotations {
+    boolean VoicelessApricotArdeen3 {
+    }
+    serviceid_number ResonantApricotAnsley2 {
+    }
+    string CivicTanShelly {
+    }
+    boolean YoungAmethystAnastassia2 {
+    }
+    serviceid_number DefensiveRoseOnida3 {
+    }
+    number JollyBlackCarri3 {
+    }
+    hidden_boolean DizzyVioletTricia3 {
+    }
+    dummy.ConsistentHarlequinJanis SteadyAquamarineBatsheva2 {
+    }
+    number MuddyTurquoiseTheresa2 {
+    }
+    boolean FilthyTurquoiseTeodora {
+    }
+    serviceid ExtraordinaryIndigoJessie2 {
+    }
+    string LegislativeMaroonLinet5 {
+    }
+    dummy.GladGoldGlynis AlliedPlumMisha2 {
+    }
+    number AggregateScarletRobbyn3 {
+    }
+    serviceid_number FiscalRedNike2 {
+    }
+    dummy.PrimitiveOrangeMarga2 ExtensiveGoldGloriane {
+    }
+    number HelplessTealSophey4 {
+    }
+    number GrotesqueTurquoiseTersina4 {
+    }
+    serviceid GreasyAquaAubrette4 {
+    }
+    dummy.StiffPeachMarya RedWhiteWendi2 {
+    }
+    dummy.RedWhiteWendeline WateryYellowZenia3 {
+    }
+    json SacredRedNorine2 {
+    }
+    json NativeJadeKate4 {
+    }
+    string IntelligentMaroonLinnie4 {
+    }
+  }
+  VoicelessApricotArdeen3 = false
+  ResonantApricotAnsley2 = 813
+  CivicTanShelly = "What creature is smarter than a talking parrot? A spelling bee."
+  YoungAmethystAnastassia2 = true
+  DefensiveRoseOnida3 = 921
+  JollyBlackCarri3 = 931
+  MuddyTurquoiseTheresa2 = 515
+  FilthyTurquoiseTeodora = false
+  ExtraordinaryIndigoJessie2 = "To be Frank, I'd have to change my name."
+  LegislativeMaroonLinet5 = "Why do birds fly south for the winter? Because it's too far to walk."
+  AggregateScarletRobbyn3 = 821
+  FiscalRedNike2 = 681
+  HelplessTealSophey4 = 603
+  GrotesqueTurquoiseTersina4 = 541
+  GreasyAquaAubrette4 = "How come the stadium got hot after the game? Because all of the fans left."
+  RedWhiteWendi2 = file("ImpressedPeachMarisa2.txt")
+  WateryYellowZenia3 = file("ScaryYellowWilli.txt")
+  SacredRedNorine2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  NativeJadeKate4 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  IntelligentMaroonLinnie4 = "Why is Peter Pan always flying? Because he Neverlands."
+}

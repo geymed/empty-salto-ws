@@ -1,0 +1,36 @@
+type dummy.AfraidAquamarineBenedetta is boolean {
+  annotations {
+    hidden_boolean BraveMoccasinLucina {
+    }
+    boolean PrettyWhiteVirgina {
+    }
+    serviceid WeeSapphireRevkah {
+    }
+    serviceid ManualRosePaola {
+    }
+    json InjuredScarletRosalind {
+    }
+    serviceid_number NosyWhiteVida2 {
+    }
+    serviceid FollowingBrownCynthea {
+    }
+    json CriminalFuchsiaGeorgette {
+    }
+    string WanderingTomatoSuzanne {
+    }
+    boolean UnexpectedMagentaLaurella {
+    }
+    serviceid TurkishPurpleMozelle {
+    }
+  }
+  PrettyWhiteVirgina = true
+  WeeSapphireRevkah = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ManualRosePaola = "How come the stadium got hot after the game? Because all of the fans left."
+  InjuredScarletRosalind = "Why didnt the skeleton cross the road? Because he had no guts."
+  NosyWhiteVida2 = 736
+  FollowingBrownCynthea = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  CriminalFuchsiaGeorgette = "How come the stadium got hot after the game? Because all of the fans left."
+  WanderingTomatoSuzanne = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  UnexpectedMagentaLaurella = false
+  TurkishPurpleMozelle = "Why didnt the skeleton cross the road? Because he had no guts."
+}

@@ -1,0 +1,38 @@
+type dummy.SlimRoseOlly2 {
+  annotations {
+    serviceid_number MusicalIndigoJobey2 {
+    }
+    string AestheticSapphireReba {
+    }
+    dummy.DEFAULT RareEmeraldFlorenza2 {
+    }
+    boolean DisciplinarySilverSabina3 {
+    }
+    json VastEmeraldFred4 {
+    }
+    serviceid AlertTomatoSydney4 {
+    }
+  }
+  hidden_boolean ShortAmaranthAfton2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean AbsoluteGreenIna4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number DeadBrownDaphna {
+    _hidden_value = true
+  }
+  MusicalIndigoJobey2 = 628
+  AestheticSapphireReba = "To be Frank, I'd have to change my name."
+  RareEmeraldFlorenza2 = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  DisciplinarySilverSabina3 = false
+  VastEmeraldFred4 = "Why did the kid cross the playground? To get to the other slide."
+  AlertTomatoSydney4 = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

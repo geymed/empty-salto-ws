@@ -1,0 +1,29 @@
+type dummy.ViolentIvoryJoleen {
+  annotations {
+    dummy.MightyTanShandra HurtAzureBlondy {
+    }
+    serviceid_number IrishCrimsonErna {
+    }
+    string StrangeYellowWinnifred {
+    }
+    dummy.DEFAULT PossibleBlushCheslie {
+    }
+    hidden_boolean ColdAmaranthAimee {
+    }
+    hidden_boolean KindOrangeMarice {
+    }
+    number ShinyTurquoiseTiertza2 {
+    }
+  }
+  json StripedYellowWinona {
+    _hidden_value = true
+  }
+  HurtAzureBlondy = false
+  IrishCrimsonErna = 971
+  StrangeYellowWinnifred = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  PossibleBlushCheslie = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  ShinyTurquoiseTiertza2 = 417
+  _hidden_value = true
+}

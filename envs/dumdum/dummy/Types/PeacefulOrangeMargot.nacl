@@ -1,0 +1,112 @@
+type dummy.PeacefulOrangeMargot {
+  annotations {
+    number DevelopedPinkMerilyn {
+    }
+    serviceid FunOrangeMarcile {
+    }
+    serviceid_number AestheticSapphireRebe {
+    }
+    serviceid HonChocolateDaune {
+    }
+    number IdealEmeraldFredi {
+    }
+  }
+  number ContentPeachMatilde2 {
+    _hidden_value = true
+  }
+  serviceid_number ExuberantBlackCarla {
+    _hidden_value = true
+  }
+  hidden_boolean AppallingTanSelena {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json ConfidentHarlequinJada {
+    _hidden_value = true
+  }
+  serviceid_number OlympicRedNessa2 {
+    _hidden_value = true
+  }
+  hidden_boolean StrongBronzeCollie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean VoicelessApricotArdeen2 {
+    _hidden_value = true
+  }
+  serviceid_number ShockedPinkMelisande {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RegulatorySalmonQuintina2 {
+    _hidden_value = true
+  }
+  serviceid DisturbedAzureBeverie {
+    _hidden_value = true
+  }
+  serviceid DesirableMagentaLara {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SlowAmethystAnabelle {
+    _hidden_value = true
+  }
+  number ObjectiveOrangeManda {
+    _hidden_value = true
+  }
+  hidden_boolean UpsetBeigeBritteny {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number AliveFuchsiaGillie {
+    _hidden_value = true
+  }
+  dummy.WanderingTomatoSuzann TopChocolateDarda {
+    MolecularRedNerta = 39
+    SureBlushCindi = 830
+    AdvisoryOrangeMaridel = "Dad Im hungry  Hi hungry Im dad"
+    MarxistSapphireRaine = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    CleanCyanFernandina = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    MathematicalRoseOthelia = 303
+    BrightVioletTove = 67
+    UniqueFuchsiaGert = 750
+    GiganticAmaranthAdda = true
+    RottenApricotArlana = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    MaturePeachMatty = 462
+    UnknownFuchsiaGilberta = true
+    SpicyAquaArlie = 68
+    HelplessTealSonny = "Dad Im hungry  Hi hungry Im dad"
+    WesternChocolateDeeyn = 506
+    _hidden_value = true
+  }
+  json WarmCopperDulcinea {
+    _hidden_value = true
+  }
+  serviceid_number DampMoccasinLotta2 {
+    _hidden_value = true
+  }
+  serviceid_number MonthlyMaroonLinette {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DryAmberAlexandrina {
+    _hidden_value = true
+  }
+  string PlasticAquaAuria3 {
+    _hidden_value = true
+  }
+  hidden_boolean PreferredTanScarlet {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number OverallCrimsonEmmalynne {
+    _hidden_value = true
+  }
+  DevelopedPinkMerilyn = 311
+  FunOrangeMarcile = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  AestheticSapphireRebe = 61
+  HonChocolateDaune = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  IdealEmeraldFredi = 260
+  _hidden_value = true
+}

@@ -1,0 +1,35 @@
+type dummy.DistinctHarlequinJanella is boolean {
+  annotations {
+    json MinimumIndigoJermaine {
+    }
+    boolean ConceptualTanShelbi {
+    }
+    dummy.DEFAULT IdenticalLimeKorie {
+    }
+    boolean RelievedBlueCathie {
+    }
+    boolean RegulatorySalmonQuintilla {
+    }
+    string GoodBlueCelisse {
+    }
+    hidden_boolean ImaginativeTanSelinda {
+    }
+    serviceid_number SoftApricotApril {
+    }
+    boolean NursingSalmonPetronille {
+    }
+    json CriticalCrimsonEstele {
+    }
+  }
+  MinimumIndigoJermaine = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ConceptualTanShelbi = false
+  IdenticalLimeKorie = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  RelievedBlueCathie = true
+  RegulatorySalmonQuintilla = true
+  GoodBlueCelisse = "Whoever invented the knock-knock joke should get a no bell prize."
+  SoftApricotApril = 541
+  NursingSalmonPetronille = true
+  CriticalCrimsonEstele = "My first time using an elevator was an uplifting experience. The second time let me down."
+}

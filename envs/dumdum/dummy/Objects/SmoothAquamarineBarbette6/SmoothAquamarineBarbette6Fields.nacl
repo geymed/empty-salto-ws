@@ -1,0 +1,82 @@
+type dummy.SmoothAquamarineBarbette6 {
+  string ManagingLimeKitty5 {
+  }
+  hidden_boolean MildOliveMadalyn5 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean EvilAzureBill4 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  string UptightBeigeBrook5 {
+  }
+  json JuniorIvoryJonie4 {
+  }
+  serviceid_number OralLimeKylie4 {
+  }
+  number KeenGrayHana6 {
+  }
+  serviceid TastyAquaAshly2 {
+  }
+  string AbsoluteGreenImogene3 {
+  }
+  number MentalCrimsonEsmaria2 {
+  }
+  serviceid AmusedBeigeCacilia4 {
+  }
+  serviceid FatVioletTrixie {
+  }
+  dummy.EnglishBrownCourtnay OpenTealStefa4 {
+  }
+  dummy.DistinctHarlequinJanela3 EarlyAmethystAmanda4 {
+    ColourfulScarletRosalia2 = 273
+    GreenVioletUlrica4 = 6
+    DramaticGoldHailee2 = false
+    BasicChocolateDaria = 258
+  }
+  dummy.EfficientGoldGretna ConfidentHarlequinJade3 {
+    OppositeHarlequinJanel = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    StrangeCoralEdna = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ExcitingGreenIvett = "I'll tell you what often gets over looked... garden fences."
+    AdequateGrayHildy = true
+    RattyWhiteWaneta = 228
+    FastEmeraldFleur = 249
+    MiddleCopperDusty = 869
+    ParliamentaryFuchsiaGiacinta = "What creature is smarter than a talking parrot? A spelling bee."
+    ExcitingGreenIssie = "Did you know that protons have mass? I didn't even know they were catholic."
+    MaturePeachMaud = "How come the stadium got hot after the game? Because all of the fans left."
+    StraightAmethystAlysia = false
+  }
+  json VerbalPinkMaxi3 {
+  }
+  serviceid_number ColdAmaranthAimee2 {
+  }
+  hidden_boolean SureBlushCindra4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string NiceBrownCybill4 {
+  }
+  json PsychiatricSilverRoxy5 {
+  }
+  serviceid DeterminedBeigeCandice4 {
+  }
+  serviceid_number ExclusiveMagentaLatisha4 {
+  }
+  json LovelyBlackCassandre6 {
+  }
+  number BloodyCyanFederica {
+  }
+  number SpecialBlushClaudine2 {
+  }
+  serviceid WelshGrayHatty5 {
+  }
+  number FierceOliveMaisie5 {
+  }
+  string PoisedTurquoiseThomasina3 {
+  }
+}

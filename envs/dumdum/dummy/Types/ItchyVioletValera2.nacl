@@ -1,0 +1,79 @@
+type dummy.ItchyVioletValera2 {
+  annotations {
+    dummy.BrightTomatoTamara LogicalLavenderKelcy {
+    }
+    json CriticalCrimsonEstell3 {
+    }
+    hidden_boolean NaughtyAzureBonni2 {
+    }
+    serviceid SoundRoseOlia {
+    }
+    serviceid SpottyYellowWynn {
+    }
+  }
+  json MarkedMagentaLatrina {
+    _hidden_value = true
+  }
+  boolean CheerfulSapphireRhodie {
+    _hidden_value = true
+  }
+  hidden_boolean QuietWhiteVivien {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid GrumpyVioletUrsuline {
+    _hidden_value = true
+  }
+  string ColossalAmaranthAbbie2 {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" AncientAmethystAmabel {
+    _hidden_value = true
+  }
+  json ConcernedTealSibelle2 {
+    _hidden_value = true
+  }
+  string HardBronzeCordi {
+    _hidden_value = true
+  }
+  string GenuineGreenIssi {
+    _hidden_value = true
+  }
+  hidden_boolean DifficultTealSimone {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number GayOrangeMariette {
+    _hidden_value = true
+  }
+  json SufficientCrimsonEolanda2 {
+    _hidden_value = true
+  }
+  number PreciousWhiteVita {
+    _hidden_value = true
+  }
+  json AdvisoryOrangeMariejeanne {
+    _hidden_value = true
+  }
+  serviceid_number OptimisticSalmonPegeen {
+    _hidden_value = true
+  }
+  "List<dummy.ShallowAmberAloysia>" IncreasingCyanEvita {
+    NiceWhiteVi = "What do you do on a remote island? Try and find the TV island it belongs to."
+    VisibleIndigoJillayne = false
+    PreparedCyanFelicia = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    BlushingTomatoTalyah = 691
+    RedundantSalmonPhilis = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    LivelyPeachMarylin = "A steak pun is a rare medium well done."
+    _hidden_value = true
+  }
+  LogicalLavenderKelcy = 322
+  CriticalCrimsonEstell3 = "Why was it called the dark ages? Because of all the knights. "
+  SoundRoseOlia = "What creature is smarter than a talking parrot? A spelling bee."
+  SpottyYellowWynn = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

@@ -1,0 +1,22 @@
+type dummy.SwissPlumMiguelita {
+  annotations {
+    serviceid_number ToughYellowYvonne {
+    }
+    dummy.ColonialPeachMaudie PopularChocolateDavida {
+    }
+    serviceid OccasionalIvoryJuline {
+    }
+    serviceid IrishCrimsonErminie {
+    }
+  }
+  hidden_boolean EmptyCyanFanchon {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  ToughYellowYvonne = 76
+  PopularChocolateDavida = "My first time using an elevator was an uplifting experience. The second time let me down."
+  OccasionalIvoryJuline = "Why did the tomato blush? Because it saw the salad dressing."
+  IrishCrimsonErminie = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

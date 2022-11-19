@@ -1,0 +1,67 @@
+type dummy.KindBlackCasandra2 {
+  annotations {
+    json GreatVioletTybie {
+    }
+    string TameTomatoSusette3 {
+    }
+    json OrangePurpleMufi {
+    }
+    serviceid_number ProudHarlequinJana3 {
+    }
+  }
+  serviceid GrievingAzureBlanca4 {
+    _hidden_value = true
+  }
+  json UglyYellowZandra2 {
+    _hidden_value = true
+  }
+  dummy.SpotlessTurquoiseTildy AbundantAmethystAndie2 {
+    ResonantApricotAnstice = false
+    LittleAmaranthAdella = 37
+    NegativeFuchsiaGavra = 870
+    LocalBlueCharmaine = "Why is Peter Pan always flying? Because he Neverlands."
+    CuriousLimeKira = "Why was it called the dark ages? Because of all the knights. "
+    MedicalCoffeeDevonne = true
+    InnocentMagentaLari = false
+    LoudLavenderKiele = 337
+    CleverTealSibby = 216
+    FunOrangeMarcy = 87
+    ChillyAmaranthAilis = 579
+    GentleIndigoJoceline = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    _hidden_value = true
+  }
+  string MushyWhiteVerina3 {
+    _hidden_value = true
+  }
+  json SpicyAquaArleyne3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DecisiveSalmonPennie {
+    _hidden_value = true
+  }
+  json QualifiedPinkMellicent {
+    _hidden_value = true
+  }
+  number StupidHarlequinJacenta3 {
+    _hidden_value = true
+  }
+  dummy.EmpiricalPinkMeara DelightfulSilverRow6 {
+    InfluentialMoccasinLorette = "Slept like a log last night  woke up in the fireplace."
+    RichCopperDorelle = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    TerribleEmeraldFredra = "Whoever invented the knock-knock joke should get a no bell prize."
+    LoudLavenderKiele2 = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  hidden_boolean DangerousAzureBethena3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  GreatVioletTybie = "Dad Im hungry  Hi hungry Im dad"
+  TameTomatoSusette3 = "What do you call two barracuda fish?  A Pairacuda!"
+  OrangePurpleMufi = "Why was it called the dark ages? Because of all the knights. "
+  ProudHarlequinJana3 = 861
+  _hidden_value = true
+}

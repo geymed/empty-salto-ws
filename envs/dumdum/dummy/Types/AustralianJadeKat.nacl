@@ -1,0 +1,22 @@
+type dummy.AustralianJadeKat {
+  annotations {
+    serviceid MaleCoffeeDiannne3 {
+    }
+    json PermanentFuchsiaGaye3 {
+    }
+    serviceid VitalEmeraldFifi5 {
+    }
+    boolean DepressedPinkMelba {
+    }
+  }
+  hidden_boolean InnerFuchsiaGeorge3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  MaleCoffeeDiannne3 = "Why did the tomato blush? Because it saw the salad dressing."
+  PermanentFuchsiaGaye3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  VitalEmeraldFifi5 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  DepressedPinkMelba = false
+  _hidden_value = true
+}

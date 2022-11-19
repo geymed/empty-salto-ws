@@ -1,0 +1,61 @@
+type dummy.MoralCyanFeliza2 {
+  annotations {
+    serviceid_number GeographicalPeachMarlene4 {
+    }
+    serviceid LightTurquoiseTessie2 {
+    }
+    serviceid_number UncomfortablePlumModesty5 {
+    }
+    serviceid ToxicSalmonPhedra2 {
+    }
+    number CrookedAmberAlissa4 {
+    }
+    serviceid NovelScarletRosina5 {
+    }
+    number CruelPlumMichaela5 {
+    }
+  }
+  number UpsetBeigeBrittne2 {
+    _hidden_value = true
+  }
+  serviceid RelatedIndigoJessamyn3 {
+    _hidden_value = true
+  }
+  json DefeatedAzureBette {
+    _hidden_value = true
+  }
+  json MaturePeachMattie3 {
+    _hidden_value = true
+  }
+  number CalmPurpleNanci4 {
+    _hidden_value = true
+  }
+  "List<string>" DelightfulBeigeCammie {
+    _hidden_value = true
+  }
+  boolean SadGrayHestia {
+    _hidden_value = true
+  }
+  hidden_boolean SexualCopperEada4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number UnhappyMaroonLida {
+    _hidden_value = true
+  }
+  "List<string>" FoolishSapphireRemy {
+    _hidden_value = true
+  }
+  number UnfortunatePeachMarsha2 {
+    _hidden_value = true
+  }
+  GeographicalPeachMarlene4 = 856
+  LightTurquoiseTessie2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  UncomfortablePlumModesty5 = 494
+  ToxicSalmonPhedra2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  CrookedAmberAlissa4 = 218
+  NovelScarletRosina5 = "Dad Im hungry  Hi hungry Im dad"
+  CruelPlumMichaela5 = 315
+  _hidden_value = true
+}

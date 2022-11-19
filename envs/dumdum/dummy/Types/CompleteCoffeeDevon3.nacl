@@ -1,0 +1,43 @@
+type dummy.CompleteCoffeeDevon3 {
+  annotations {
+    number FiscalRedNikaniki3 {
+    }
+    boolean InvolvedCoffeeDena2 {
+    }
+    boolean FrightenedAzureBlair2 {
+    }
+    number HungryMaroonLira2 {
+    }
+    hidden_boolean VisitingScarletRoana {
+    }
+    serviceid TechnologicalOrangeMarianne {
+    }
+    boolean CrucialFuchsiaGennifer2 {
+    }
+  }
+  serviceid_number VerticalOliveLyssa {
+    _hidden_value = true
+  }
+  hidden_boolean JuicyApricotArdyth {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.GrubbyAquaAubrie CurlyAmberAlecia3 {
+    WearyBeigeBrooke = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    SolidAquamarineBarrie = false
+    RivalPurpleNara = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    DifficultBronzeClementia = "What creature is smarter than a talking parrot? A spelling bee."
+    _hidden_value = true
+  }
+  boolean FriendlyBlackCarmel4 {
+    _hidden_value = true
+  }
+  FiscalRedNikaniki3 = 165
+  InvolvedCoffeeDena2 = false
+  FrightenedAzureBlair2 = false
+  HungryMaroonLira2 = 598
+  TechnologicalOrangeMarianne = "How come the stadium got hot after the game? Because all of the fans left."
+  CrucialFuchsiaGennifer2 = false
+  _hidden_value = true
+}

@@ -1,0 +1,101 @@
+type dummy.JollyBlackCarri2 {
+  annotations {
+    boolean PromisingRedNonah2 {
+    }
+    serviceid MonetaryIvoryJoey {
+    }
+    boolean HonChocolateDaveen {
+    }
+    boolean CircularRoseOrsola {
+    }
+  }
+  dummy.DEFAULT ViolentIvoryJoli {
+    _hidden_value = true
+  }
+  boolean BroadAmberAlidia {
+    _hidden_value = true
+  }
+  number CheapCopperEditha2 {
+    _hidden_value = true
+  }
+  boolean DiplomaticMagentaLenka {
+    _hidden_value = true
+  }
+  boolean DevelopingHarlequinJeanie {
+    _hidden_value = true
+  }
+  serviceid EasyTealSisile2 {
+    _hidden_value = true
+  }
+  number VariableRedNolie {
+    _hidden_value = true
+  }
+  serviceid_number AdvancedHarlequinJacintha2 {
+    _hidden_value = true
+  }
+  string MarginalLimeKristan3 {
+    _hidden_value = true
+  }
+  serviceid_number MightyWhiteVerena {
+    _hidden_value = true
+  }
+  boolean NovelScarletRoshelle2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ReluctantMagentaLeeann2 {
+    _hidden_value = true
+  }
+  hidden_boolean EncouragingLimeLacie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid BloodyTomatoTallou {
+    _hidden_value = true
+  }
+  hidden_boolean MolecularRedNerti {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean MassiveAmaranthAdria3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.ImmediateCrimsonEmelita FancyTurquoiseTeena4 {
+    HandsomeOliveMaitilde = "A steak pun is a rare medium well done."
+    KindBlackCaryl = 462
+    FeministPlumMinda = 56
+    _hidden_value = true
+  }
+  dummy.ImmediateCrimsonEmelita BasicChocolateDarla2 {
+    HandsomeOliveMaitilde = "Im only familiar with 25 letters in the English language. I dont know why."
+    KindBlackCaryl = 412
+    FeministPlumMinda = 150
+    _hidden_value = true
+  }
+  dummy.StaleAquaArlina DualSapphireRheta {
+    FatalPurpleMyrtle = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    NaughtyAzureBonnibelle = 671
+    ControlledTanSheila = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    EncouragingBlackCaresse = 566
+    FollowingBrownCynthia2 = "I'll tell you what often gets over looked... garden fences."
+    ProtectiveRoseOlive = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    NosyWhiteVicky = 619
+    UniqueFuchsiaGerta = true
+    PassivePurpleMyrah = 284
+    DistinguishedPurpleNatassia = "How come the stadium got hot after the game? Because all of the fans left."
+    CloudyTomatoTamqrah = 106
+    BrightVioletTova = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SquealingApricotArabel = "Why is Peter Pan always flying? Because he Neverlands."
+    RegisteredPurpleNan = "How come the stadium got hot after the game? Because all of the fans left."
+    QuickCoralEleni = "Did you know that protons have mass? I didn't even know they were catholic."
+    _hidden_value = true
+  }
+  PromisingRedNonah2 = true
+  MonetaryIvoryJoey = "Why didnt the skeleton cross the road? Because he had no guts."
+  HonChocolateDaveen = false
+  CircularRoseOrsola = false
+  _hidden_value = true
+}

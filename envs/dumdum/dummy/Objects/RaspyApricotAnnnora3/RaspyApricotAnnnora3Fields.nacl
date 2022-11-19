@@ -1,0 +1,90 @@
+type dummy.RaspyApricotAnnnora3 {
+  hidden_boolean PricklyAquaAuroora5 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json AverageTomatoTabbatha {
+  }
+  "List<number>" FragileTealSofia {
+  }
+  "List<serviceid>" EarlyAmethystAmalle {
+  }
+  json VastEmeraldFred5 {
+  }
+  serviceid PersonalBronzeCoraline3 {
+  }
+  serviceid_number CoolAmaranthAinsley {
+  }
+  boolean GrubbyAquaAubry2 {
+  }
+  hidden_boolean AwareChocolateDasie2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean BroadAmberAlikee3 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  boolean WittyBlueCecily3 {
+  }
+  number LargeBlueCharlotte2 {
+  }
+  serviceid SelfishBeigeBridgette4 {
+  }
+  number LightAmethystAnet2 {
+  }
+  number TenderYellowYnes2 {
+  }
+  number UnsightlyTurquoiseTisha2 {
+  }
+  number AppallingTanSelene3 {
+  }
+  number ReducedPinkMia {
+  }
+  number ElegantTurquoiseTedi {
+  }
+  boolean GreenChocolateDebra {
+  }
+  json UnderlyingLimeKoressa4 {
+  }
+  json RespectableRosePearle {
+  }
+  dummy.AwakeRedNola SkilledMoccasinLu2 {
+    IrrelevantPurpleNani = false
+    RealBlushClarie = true
+    RapidGrayHildagarde = "Whoever invented the knock-knock joke should get a no bell prize."
+    ZanyYellowZorine = 969
+    CertainBronzeClemmie = 306
+    VivaciousBlueCecilla = false
+    ConservationPlumMoira = 447
+    GrossLavenderKetty = false
+    NetGoldGladys = 573
+    AccessibleOrangeMarika = true
+    BadAquamarineBernetta = true
+    InnovativeTanSheeree = "Dad Im hungry  Hi hungry Im dad"
+    WillingGoldGusti = "Did you know that protons have mass? I didn't even know they were catholic."
+    ParallelMoccasinLuelle = 196
+    SadYellowWilletta = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    EligiblePurpleNeille = 85
+  }
+  number PinkIndigoJennette2 {
+  }
+  dummy.FamousCoralElfrieda FluffyAmberAlice {
+    ChristianCoralElvera = 494
+    NoblePurpleNatty = "Why do birds fly south for the winter? Because it's too far to walk."
+    PassivePurpleMyra = "How come the stadium got hot after the game? Because all of the fans left."
+    GeographicalPeachMarlene = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    AwakeRedNola2 = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    DeepAmberAllegra = 455
+    OrangePurpleMufinella = "My first time using an elevator was an uplifting experience. The second time let me down."
+    FascinatingOrangeMargareta = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    IntellectualJadeKalina = 652
+  }
+  dummy.EnglishBrownCourtnay FranticAzureBird6 {
+  }
+}

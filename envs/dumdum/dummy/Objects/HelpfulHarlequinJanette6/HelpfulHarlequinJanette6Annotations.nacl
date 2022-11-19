@@ -1,0 +1,53 @@
+type dummy.HelpfulHarlequinJanette6 {
+  annotations {
+    serviceid StrictLavenderKatha {
+    }
+    hidden_boolean ReligiousCoralElena4 {
+    }
+    serviceid UptightBeigeBrittni4 {
+    }
+    hidden_boolean VocationalTanShaina3 {
+    }
+    json ExuberantBlackCarlee6 {
+    }
+    hidden_boolean GrievingAzureBlanch {
+    }
+    boolean GoodBlueCelle2 {
+    }
+    serviceid ExpensiveCrimsonErnesta3 {
+    }
+    dummy.RoundIvoryJohnette4 StrategicHarlequinJeannie {
+    }
+    serviceid_number LuckyBlackCassaundra4 {
+    }
+    json ParentalRedNichole2 {
+    }
+    serviceid QuickWhiteVonni2 {
+    }
+    serviceid_number MadHarlequinJanenna3 {
+    }
+    dummy.PassivePurpleMyranda OtherBlueCeline3 {
+    }
+    json MelodicApricotAnnalise {
+    }
+    dummy.StupidTomatoSula2 ExistingCoffeeDesiri3 {
+    }
+    serviceid_number DualSapphireRhiamon5 {
+    }
+    json BigVioletTonia3 {
+    }
+  }
+  StrictLavenderKatha = "Dad Im hungry  Hi hungry Im dad"
+  UptightBeigeBrittni4 = "Why didnt the skeleton cross the road? Because he had no guts."
+  ExuberantBlackCarlee6 = "Why do birds fly south for the winter? Because it's too far to walk."
+  GoodBlueCelle2 = false
+  ExpensiveCrimsonErnesta3 = "Why do birds fly south for the winter? Because it's too far to walk."
+  LuckyBlackCassaundra4 = 687
+  ParentalRedNichole2 = "How come the stadium got hot after the game? Because all of the fans left."
+  QuickWhiteVonni2 = "A steak pun is a rare medium well done."
+  MadHarlequinJanenna3 = 517
+  OtherBlueCeline3 = true
+  MelodicApricotAnnalise = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  DualSapphireRhiamon5 = 96
+  BigVioletTonia3 = "To be Frank, I'd have to change my name."
+}

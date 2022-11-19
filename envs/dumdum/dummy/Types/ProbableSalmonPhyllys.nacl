@@ -1,0 +1,48 @@
+type dummy.ProbableSalmonPhyllys {
+  annotations {
+    hidden_boolean EvolutionarySilverRubina {
+    }
+    number LiquidRosePage {
+    }
+    serviceid_number PsychologicalIvoryJolee {
+    }
+    json ClinicalIndigoJenny {
+    }
+    string DefensiveRoseOnida {
+    }
+    string ProtestantScarletRobin2 {
+    }
+    hidden_boolean GeneticMoccasinLorilyn {
+    }
+  }
+  json MushyWhiteVerla3 {
+    _hidden_value = true
+  }
+  number SpottyYellowWylma {
+    _hidden_value = true
+  }
+  json DesirableMagentaLanny {
+    _hidden_value = true
+  }
+  number MysteriousAzureBonnee {
+    _hidden_value = true
+  }
+  json DustyAmberAlexia {
+    _hidden_value = true
+  }
+  number SolarRosePammie2 {
+    _hidden_value = true
+  }
+  number GleamingTurquoiseTerra {
+    _hidden_value = true
+  }
+  json UrbanCyanFan2 {
+    _hidden_value = true
+  }
+  LiquidRosePage = 867
+  PsychologicalIvoryJolee = 357
+  ClinicalIndigoJenny = "What do you call two barracuda fish?  A Pairacuda!"
+  DefensiveRoseOnida = "A steak pun is a rare medium well done."
+  ProtestantScarletRobin2 = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

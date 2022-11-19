@@ -1,0 +1,22 @@
+type dummy.ProductivePlumMolly {
+  annotations {
+    boolean EerieAzureBianca {
+    }
+    json ForeignBronzeCorinne3 {
+    }
+    json CuriousTealSidonnie {
+    }
+    serviceid_number RobustYellowWhitney2 {
+    }
+    hidden_boolean FoolishAzureBinni {
+    }
+  }
+  serviceid AggressiveMaroonLilias {
+    _hidden_value = true
+  }
+  EerieAzureBianca = false
+  ForeignBronzeCorinne3 = "Dad Im hungry  Hi hungry Im dad"
+  CuriousTealSidonnie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  RobustYellowWhitney2 = 753
+  _hidden_value = true
+}

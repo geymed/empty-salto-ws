@@ -1,0 +1,38 @@
+type dummy.LongAmethystAme3 {
+  dummy.FamousCoralElianora ActiveCopperDredi6 {
+    ShinyTurquoiseTiff = 121
+    RelativeGoldGuillema = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    OkSapphireRhianna = 916
+    StupidTomatoSusan = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    EarlyAmethystAmanda = "Why is Peter Pan always flying? Because he Neverlands."
+    UncertainMagentaLela = "Why was it called the dark ages? Because of all the knights. "
+    UpsetOliveLyssa = "To be Frank, I'd have to change my name."
+    WorryingSilverRozamond2 = "Slept like a log last night  woke up in the fireplace."
+    FatIvoryJoelle = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    PlasticAquaAuria = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  json DeafeningAmethystAngie2 {
+  }
+  boolean ImpressedOrangeMaris3 {
+  }
+  number GracefulTurquoiseTerrie2 {
+  }
+  serviceid_number BlackBlushClarissa {
+  }
+  hidden_boolean InnocentMagentaLari3 {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  serviceid_number InnocentMagentaLarina4 {
+  }
+  string SurprisedEmeraldFredericka {
+  }
+  hidden_boolean SimilarBronzeConstancia4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+}

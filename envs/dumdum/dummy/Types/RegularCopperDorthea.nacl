@@ -1,0 +1,102 @@
+type dummy.RegularCopperDorthea {
+  annotations {
+    json DisabledHarlequinJanifer {
+    }
+    boolean OfficialCopperDorise2 {
+    }
+    serviceid SoundRoseOlia2 {
+    }
+    json SunnyTanSharl3 {
+    }
+    boolean OddWhiteVinnie3 {
+    }
+    serviceid ClinicalIndigoJeralee2 {
+    }
+  }
+  hidden_boolean NearbyLimeKoral {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number VaryingPurpleNelli3 {
+    _hidden_value = true
+  }
+  number SatisfiedHarlequinJean2 {
+    _hidden_value = true
+  }
+  boolean LooseIvoryJulietta {
+    _hidden_value = true
+  }
+  number IncredibleRosePattie {
+    _hidden_value = true
+  }
+  hidden_boolean EmbarrassedRedNissie2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ZealousBlueCelestina {
+    _hidden_value = true
+  }
+  "List<string>" AssistantOliveLynnell {
+    _hidden_value = true
+  }
+  hidden_boolean DelightfulBeigeCandi {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string RedBrownDallas2 {
+    _hidden_value = true
+  }
+  number FriendlyBlackCarlynne {
+    _hidden_value = true
+  }
+  serviceid_number EquivalentJadeKakalina {
+    _hidden_value = true
+  }
+  hidden_boolean SteadyJadeKaila {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean UnknownFuchsiaGilbertina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string LiteraryGreenIrene {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LonelyAzureBobette {
+    _hidden_value = true
+  }
+  dummy.DailyCyanEvelina MiniatureAmaranthAdriana3 {
+    _hidden_value = true
+  }
+  json CasualOliveLurleen {
+    _hidden_value = true
+  }
+  json SensibleIvoryJordan2 {
+    _hidden_value = true
+  }
+  serviceid_number WildTomatoSuzie {
+    _hidden_value = true
+  }
+  string CivicTanShelli2 {
+    _hidden_value = true
+  }
+  string RomanFuchsiaGermain2 {
+    _hidden_value = true
+  }
+  serviceid MeanIvoryJudye {
+    _hidden_value = true
+  }
+  DisabledHarlequinJanifer = "My first time using an elevator was an uplifting experience. The second time let me down."
+  OfficialCopperDorise2 = true
+  SoundRoseOlia2 = "How come the stadium got hot after the game? Because all of the fans left."
+  SunnyTanSharl3 = "Im only familiar with 25 letters in the English language. I dont know why."
+  OddWhiteVinnie3 = false
+  ClinicalIndigoJeralee2 = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

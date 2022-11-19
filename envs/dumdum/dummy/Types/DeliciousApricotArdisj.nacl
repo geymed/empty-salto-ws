@@ -1,0 +1,47 @@
+type dummy.DeliciousApricotArdisj is string {
+  annotations {
+    number ResidentSalmonRachelle {
+    }
+    string ShrillApricotAntonella {
+    }
+    string SpecifiedSalmonPortia {
+    }
+    number TerribleBeigeBrinn {
+    }
+    hidden_boolean UnevenAquamarineBeilul {
+    }
+    serviceid_number WeeklyLavenderKessia {
+    }
+    number FoolishSapphireReine {
+    }
+    string FutureCoffeeDolly {
+    }
+    hidden_boolean BiologicalMaroonLetitia {
+    }
+    serviceid WittyBlueCeil {
+    }
+    boolean WellFuchsiaGisela {
+    }
+    serviceid_number MadHarlequinJanessa {
+    }
+    json SweetAquaAshlan {
+    }
+    string OrganisationalTanSharai {
+    }
+    boolean ExcitedBlackCariotta {
+    }
+  }
+  ResidentSalmonRachelle = 172
+  ShrillApricotAntonella = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  SpecifiedSalmonPortia = "Slept like a log last night  woke up in the fireplace."
+  TerribleBeigeBrinn = 268
+  WeeklyLavenderKessia = 587
+  FoolishSapphireReine = 935
+  FutureCoffeeDolly = "Why did the kid cross the playground? To get to the other slide."
+  WittyBlueCeil = "Im only familiar with 25 letters in the English language. I dont know why."
+  WellFuchsiaGisela = true
+  MadHarlequinJanessa = 263
+  SweetAquaAshlan = "Slept like a log last night  woke up in the fireplace."
+  OrganisationalTanSharai = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ExcitedBlackCariotta = false
+}

@@ -1,0 +1,90 @@
+type dummy.InvisibleRoseOrelia2 {
+  annotations {
+    hidden_boolean InlandSalmonPrudi3 {
+    }
+    boolean SillyBlueCathrine3 {
+    }
+    serviceid_number DisgustedAzureBev2 {
+    }
+    boolean SeriousBrownDana {
+    }
+  }
+  string ExplicitMaroonLisetta {
+    _hidden_value = true
+  }
+  hidden_boolean ConvenientMagentaLeena {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number InherentRedNissy {
+    _hidden_value = true
+  }
+  json NastyMaroonLisette {
+    _hidden_value = true
+  }
+  boolean SoundAmethystAngeline2 {
+    _hidden_value = true
+  }
+  serviceid_number OppositeHarlequinJanela2 {
+    _hidden_value = true
+  }
+  string ModernBrownDacy2 {
+    _hidden_value = true
+  }
+  string CleanCyanFernanda3 {
+    _hidden_value = true
+  }
+  number RetailMagentaLeontyne {
+    _hidden_value = true
+  }
+  string AmazingMoccasinLizbeth2 {
+    _hidden_value = true
+  }
+  "Map<serviceid>" LeftCoffeeDenys2 {
+    _hidden_value = true
+  }
+  boolean ElectricalLavenderKerrie4 {
+    _hidden_value = true
+  }
+  string CleanCyanFernandina3 {
+    _hidden_value = true
+  }
+  json SpecialBlushClaudina {
+    _hidden_value = true
+  }
+  number WorthyRedOdette4 {
+    _hidden_value = true
+  }
+  json MedievalJadeKaren {
+    _hidden_value = true
+  }
+  string KindVioletVally {
+    _hidden_value = true
+  }
+  string FullBlushChristen {
+    _hidden_value = true
+  }
+  boolean NewBlueChandal6 {
+    _hidden_value = true
+  }
+  serviceid CooperativeBeigeCami {
+    _hidden_value = true
+  }
+  serviceid_number AcademicEmeraldFulvia {
+    _hidden_value = true
+  }
+  string SkilledMoccasinLuci2 {
+    _hidden_value = true
+  }
+  json GiantAmaranthAbra {
+    _hidden_value = true
+  }
+  string KindVioletVallie2 {
+    _hidden_value = true
+  }
+  SillyBlueCathrine3 = false
+  DisgustedAzureBev2 = 411
+  SeriousBrownDana = true
+  _hidden_value = true
+}

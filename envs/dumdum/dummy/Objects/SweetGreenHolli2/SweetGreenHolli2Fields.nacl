@@ -1,0 +1,29 @@
+type dummy.SweetGreenHolli2 {
+  json InquisitiveTealStacy2 {
+  }
+  boolean SolidAquamarineBasia3 {
+  }
+  boolean JustMaroonLissie3 {
+  }
+  json LovelyCoralEllie6 {
+  }
+  string NarrowCyanFara {
+  }
+  hidden_boolean FullBlushChristi2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number SillyYellowWini9 {
+  }
+  "List<string>" RareWhiteWandie3 {
+  }
+  dummy.ImpressiveIndigoJessalin PsychologicalIvoryJolee8 {
+    ShaggyAquaAvis3 = "A steak pun is a rare medium well done."
+    FaithfulBlackCarlina3 = true
+    AliveTealSherilyn = "Why was it called the dark ages? Because of all the knights. "
+    MagneticPeachMavra3 = "A steak pun is a rare medium well done."
+    RunningPlumMirabel3 = 750
+    WiseLavenderKathe3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+}

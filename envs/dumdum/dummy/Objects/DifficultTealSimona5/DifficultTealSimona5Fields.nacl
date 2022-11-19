@@ -1,0 +1,7 @@
+type dummy.DifficultTealSimona5 {
+  hidden_boolean StrikingOliveMagda2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+}

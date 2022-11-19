@@ -1,0 +1,68 @@
+type dummy.FondSalmonPierrette3 {
+  annotations {
+    number TurkishPurpleMoselle {
+    }
+    boolean ExtraCoffeeDiana {
+    }
+    boolean VaryingPurpleNelly2 {
+    }
+    number FlutteringAquaAthena2 {
+    }
+    string RearPurpleMuriel4 {
+    }
+    number MonthlyMaroonLinette3 {
+    }
+    number SpectacularMaroonLibbey {
+    }
+    boolean PolishPinkMeredith {
+    }
+    boolean ActiveCopperDredi7 {
+    }
+    boolean HuskyApricotAnnabela2 {
+    }
+    string ArmedGrayHeidi4 {
+    }
+    number RunningPlumMirabel4 {
+    }
+    hidden_boolean SpicyAquaArlie3 {
+    }
+    serviceid_number PoliteSalmonRafa2 {
+    }
+    serviceid CrowdedTomatoTanitansy4 {
+    }
+    serviceid FineBrownCostanza2 {
+    }
+    serviceid GermanChocolateDelilah4 {
+    }
+    number UnknownFuchsiaGigi3 {
+    }
+    serviceid_number UrgentLimeKrysta5 {
+    }
+    hidden_boolean CondemnedAquamarineBertie2 {
+    }
+    boolean TraditionalChocolateDeidre3 {
+    }
+    json PoorTealSteffi2 {
+    }
+  }
+  TurkishPurpleMoselle = 749
+  ExtraCoffeeDiana = false
+  VaryingPurpleNelly2 = false
+  FlutteringAquaAthena2 = 168
+  RearPurpleMuriel4 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  MonthlyMaroonLinette3 = 213
+  SpectacularMaroonLibbey = 259
+  PolishPinkMeredith = true
+  ActiveCopperDredi7 = false
+  HuskyApricotAnnabela2 = false
+  ArmedGrayHeidi4 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  RunningPlumMirabel4 = 873
+  PoliteSalmonRafa2 = 501
+  CrowdedTomatoTanitansy4 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  FineBrownCostanza2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  GermanChocolateDelilah4 = "To be Frank, I'd have to change my name."
+  UnknownFuchsiaGigi3 = 78
+  UrgentLimeKrysta5 = 700
+  TraditionalChocolateDeidre3 = false
+  PoorTealSteffi2 = "I'll tell you what often gets over looked... garden fences."
+}

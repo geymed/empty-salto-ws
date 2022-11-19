@@ -1,0 +1,25 @@
+type dummy.RainyAquaAurora {
+  annotations {
+    hidden_boolean UsedFuchsiaGeorgeanne {
+    }
+    json TotalBrownDaniella {
+    }
+    serviceid PregnantLimeKizzie {
+    }
+    string FreeBronzeColeen {
+    }
+    json FrozenScarletRos {
+    }
+    serviceid_number YoungBlueCherey {
+    }
+  }
+  number PremierOrangeMari2 {
+    _hidden_value = true
+  }
+  TotalBrownDaniella = "Why is Peter Pan always flying? Because he Neverlands."
+  PregnantLimeKizzie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  FreeBronzeColeen = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  FrozenScarletRos = "What do you call two barracuda fish?  A Pairacuda!"
+  YoungBlueCherey = 282
+  _hidden_value = true
+}

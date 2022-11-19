@@ -1,0 +1,81 @@
+type dummy.ExceptionalOliveMadlen3 {
+  annotations {
+    json CompulsoryOliveMallorie {
+    }
+    number LuckyBlackCassey2 {
+    }
+    hidden_boolean AfricanFuchsiaGiana2 {
+    }
+    boolean KoreanSapphireRasla2 {
+    }
+    number CommercialCopperDorene {
+    }
+  }
+  number StupidGreenIvy {
+    _hidden_value = true
+  }
+  string StupidTomatoSusan4 {
+    _hidden_value = true
+  }
+  json InquisitiveTealStacia {
+    _hidden_value = true
+  }
+  serviceid_number BalancedSilverRosmunda3 {
+    _hidden_value = true
+  }
+  hidden_boolean SurprisedEmeraldFrederica {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string DelightfulSilverRow4 {
+    _hidden_value = true
+  }
+  dummy.AfraidAquamarineBenedetta BusyCyanFaythe {
+    PrettyWhiteVirgina = true
+    WeeSapphireRevkah = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    ManualRosePaola = "Why was it called the dark ages? Because of all the knights. "
+    InjuredScarletRosalind = "What do you call two barracuda fish?  A Pairacuda!"
+    NosyWhiteVida2 = 862
+    FollowingBrownCynthea = "Why do birds fly south for the winter? Because it's too far to walk."
+    CriminalFuchsiaGeorgette = "What creature is smarter than a talking parrot? A spelling bee."
+    WanderingTomatoSuzanne = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    UnexpectedMagentaLaurella = false
+    TurkishPurpleMozelle = "What do you do on a remote island? Try and find the TV island it belongs to."
+    _hidden_value = true
+  }
+  json OnlyBlushClareta2 {
+    _hidden_value = true
+  }
+  number ThickEmeraldFilippa2 {
+    _hidden_value = true
+  }
+  hidden_boolean PsychologicalIvoryJoice2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number ExuberantBlackCarlee4 {
+    _hidden_value = true
+  }
+  boolean QuickestWhiteVonny {
+    _hidden_value = true
+  }
+  string WonderfulBlueCelesta {
+    _hidden_value = true
+  }
+  boolean UncomfortablePlumModesty3 {
+    _hidden_value = true
+  }
+  serviceid_number LittleAmaranthAdelle3 {
+    _hidden_value = true
+  }
+  boolean HistoricalCyanEvangelia3 {
+    _hidden_value = true
+  }
+  CompulsoryOliveMallorie = "Why didnt the skeleton cross the road? Because he had no guts."
+  LuckyBlackCassey2 = 331
+  KoreanSapphireRasla2 = false
+  CommercialCopperDorene = 265
+  _hidden_value = true
+}

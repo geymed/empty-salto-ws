@@ -1,0 +1,92 @@
+type dummy.BusyTealShirlee2 {
+  annotations {
+    number BoilingAmaranthAgneta3 {
+    }
+    serviceid SpotlessTurquoiseTilly {
+    }
+    number SymbolicPurpleNadia {
+    }
+    json VastEmeraldFreda3 {
+    }
+    json OnlyBlushClarette2 {
+    }
+    hidden_boolean RapidAmethystAmye {
+    }
+  }
+  json PsychiatricSilverRoz2 {
+    _hidden_value = true
+  }
+  hidden_boolean SoreBeigeBrietta2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ViolentIvoryJoletta2 {
+    _hidden_value = true
+  }
+  json VictoriousBlueCecil3 {
+    _hidden_value = true
+  }
+  boolean UnsightlyTurquoiseTish2 {
+    _hidden_value = true
+  }
+  serviceid ValuableGoldGwynne3 {
+    _hidden_value = true
+  }
+  boolean SovietChocolateDari2 {
+    _hidden_value = true
+  }
+  json IncreasedCrimsonEstelle {
+    _hidden_value = true
+  }
+  string CivilianSapphireRanda {
+    _hidden_value = true
+  }
+  dummy.PassivePurpleMyranda FederalGrayHallie3 {
+    RepulsiveBeigeBrena = false
+    DiverseRedNicol = 882
+    LegitimatePinkMaxine = "Why is Peter Pan always flying? Because he Neverlands."
+    ObligedOrangeMarcelline = 679
+    FluffyAmberAlia = true
+    FunnyVioletTuesday = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    RelaxedPlumMinnie = true
+    AwfulAquamarineBernelle = "Why did the kid cross the playground? To get to the other slide."
+    DomesticCopperEba = 651
+    FuzzyAquaAtlante = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    _hidden_value = true
+  }
+  serviceid CorrespondingPlumMiquela3 {
+    _hidden_value = true
+  }
+  boolean RoundIvoryJohnette2 {
+    _hidden_value = true
+  }
+  string StupidGreenIvy2 {
+    _hidden_value = true
+  }
+  string CharmingBeigeCalli2 {
+    _hidden_value = true
+  }
+  json TinyCyanEula {
+    _hidden_value = true
+  }
+  serviceid IncreasingCyanEvvy3 {
+    _hidden_value = true
+  }
+  hidden_boolean AccurateIndigoJillene2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean CheerfulSapphireRhodia2 {
+    _hidden_value = true
+  }
+  BoilingAmaranthAgneta3 = 406
+  SpotlessTurquoiseTilly = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SymbolicPurpleNadia = 629
+  VastEmeraldFreda3 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  OnlyBlushClarette2 = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

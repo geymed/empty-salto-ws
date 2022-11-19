@@ -1,0 +1,119 @@
+type dummy.ResidentialIndigoJesselyn {
+  annotations {
+    hidden_boolean FirmGrayHeddi3 {
+    }
+    dummy.BrightTomatoTamara ChiefCopperDorrie {
+    }
+    serviceid_number SocialBlueCharmine {
+    }
+    string FinalBrownDalenna {
+    }
+    serviceid ElegantMoccasinLucila2 {
+    }
+  }
+  dummy.StrategicIndigoJehanna WickedBeigeBryna {
+    BrilliantGreenIlsa = "How come the stadium got hot after the game? Because all of the fans left."
+    ImplicitSapphireRhea = 750
+    EmbarrassedAzureBibby = "Why did the tomato blush? Because it saw the salad dressing."
+    DarkTurquoiseTaryn = "Why is Peter Pan always flying? Because he Neverlands."
+    ElectricalLavenderKerrie = 299
+    GorgeousVioletUrsola = 631
+    ContemporaryFuchsiaGeorgianna = 535
+    _hidden_value = true
+  }
+  hidden_boolean BloodyCyanFedora2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json BusyTealShirlene2 {
+    _hidden_value = true
+  }
+  hidden_boolean PermanentFuchsiaGaye {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json SlowAmethystAnaliese {
+    _hidden_value = true
+  }
+  dummy.WanderingTomatoSuzann SpicyAquaArlina {
+    MolecularRedNerta = 542
+    SureBlushCindi = 939
+    AdvisoryOrangeMaridel = "Why didnt the skeleton cross the road? Because he had no guts."
+    MarxistSapphireRaine = "Slept like a log last night  woke up in the fireplace."
+    CleanCyanFernandina = "I'll tell you what often gets over looked... garden fences."
+    MathematicalRoseOthelia = 568
+    BrightVioletTove = 727
+    UniqueFuchsiaGert = 571
+    GiganticAmaranthAdda = true
+    RottenApricotArlana = "What creature is smarter than a talking parrot? A spelling bee."
+    MaturePeachMatty = 497
+    UnknownFuchsiaGilberta = true
+    SpicyAquaArlie = 761
+    HelplessTealSonny = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    WesternChocolateDeeyn = 677
+    _hidden_value = true
+  }
+  json LikelyBlushClaribel2 {
+    _hidden_value = true
+  }
+  serviceid_number InnerFuchsiaGenovera2 {
+    _hidden_value = true
+  }
+  string PreciousWhiteVitoria3 {
+    _hidden_value = true
+  }
+  serviceid_number ChosenSilverSarine {
+    _hidden_value = true
+  }
+  hidden_boolean AwkwardPeachMarylee {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number ConservationPlumMoll {
+    _hidden_value = true
+  }
+  serviceid_number FewAmethystAndriana {
+    _hidden_value = true
+  }
+  json ItalianGoldGrayce4 {
+    _hidden_value = true
+  }
+  string JointCoralElissa {
+    _hidden_value = true
+  }
+  number IsolatedPeachMarjy {
+    _hidden_value = true
+  }
+  string DisappointedMagentaLaurianne {
+    _hidden_value = true
+  }
+  boolean TenseBeigeBrigitte {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AssociatedMaroonLindy {
+    _hidden_value = true
+  }
+  serviceid BackMoccasinLoni {
+    _hidden_value = true
+  }
+  "List<serviceid>" SeparateCopperDorolisa3 {
+    _hidden_value = true
+  }
+  string ConventionalGoldGussi2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT OralLimeKylie2 {
+    _hidden_value = true
+  }
+  string EmbarrassedRedNisse2 {
+    _hidden_value = true
+  }
+  ChiefCopperDorrie = 537
+  SocialBlueCharmine = 113
+  FinalBrownDalenna = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ElegantMoccasinLucila2 = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

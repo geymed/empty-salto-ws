@@ -1,0 +1,27 @@
+type dummy.NovelScarletRosette {
+  annotations {
+    string BreakableTealShirl {
+    }
+    string ProtectiveRoseOlimpia {
+    }
+    hidden_boolean MajorBlushCissy {
+    }
+    string PreparedCyanFelice {
+    }
+    serviceid OverallCrimsonEmmalynn {
+    }
+    hidden_boolean VerticalOliveLynnette2 {
+    }
+    boolean UnexpectedMagentaLaureen2 {
+    }
+  }
+  number EstablishedMagentaLeia {
+    _hidden_value = true
+  }
+  BreakableTealShirl = "A steak pun is a rare medium well done."
+  ProtectiveRoseOlimpia = "Why didnt the skeleton cross the road? Because he had no guts."
+  PreparedCyanFelice = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  OverallCrimsonEmmalynn = "A steak pun is a rare medium well done."
+  UnexpectedMagentaLaureen2 = false
+  _hidden_value = true
+}

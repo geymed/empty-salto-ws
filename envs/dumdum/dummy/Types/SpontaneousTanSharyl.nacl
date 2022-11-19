@@ -1,0 +1,21 @@
+type dummy.SpontaneousTanSharyl {
+  annotations {
+    hidden_boolean EmbarrassedRedNissa {
+    }
+    serviceid RespectableRosePearl {
+    }
+    serviceid SoundAmethystAngelina2 {
+    }
+    serviceid DesirableMagentaLanny2 {
+    }
+    hidden_boolean SimpleBronzeCorly2 {
+    }
+  }
+  number RisingScarletRoselle {
+    _hidden_value = true
+  }
+  RespectableRosePearl = "Slept like a log last night  woke up in the fireplace."
+  SoundAmethystAngelina2 = "Why is Peter Pan always flying? Because he Neverlands."
+  DesirableMagentaLanny2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

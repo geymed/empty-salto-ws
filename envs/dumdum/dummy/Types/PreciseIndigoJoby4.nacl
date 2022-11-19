@@ -1,0 +1,73 @@
+type dummy.PreciseIndigoJoby4 {
+  annotations {
+    string HelpfulHarlequinJaneta {
+    }
+    string ShyTomatoStormie5 {
+    }
+    dummy.DEFAULT SweetGreenHollie {
+    }
+    serviceid PlainIndigoJewell4 {
+    }
+    serviceid PetiteAmaranthAdriena {
+    }
+  }
+  number SickFuchsiaGerda3 {
+    _hidden_value = true
+  }
+  boolean EthicalScarletRobena4 {
+    _hidden_value = true
+  }
+  dummy.AfraidAquamarineBenedetta LowAmberAllyce4 {
+    PrettyWhiteVirgina = true
+    WeeSapphireRevkah = "What do you call two barracuda fish?  A Pairacuda!"
+    ManualRosePaola = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    InjuredScarletRosalind = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    NosyWhiteVida2 = 330
+    FollowingBrownCynthea = "What do you call two barracuda fish?  A Pairacuda!"
+    CriminalFuchsiaGeorgette = "Why do birds fly south for the winter? Because it's too far to walk."
+    WanderingTomatoSuzanne = "What do you do on a remote island? Try and find the TV island it belongs to."
+    UnexpectedMagentaLaurella = false
+    TurkishPurpleMozelle = "What did one nut say as he chased another nut?  I'm a cashew!"
+    _hidden_value = true
+  }
+  number InteriorPurpleNathalie4 {
+    _hidden_value = true
+  }
+  number BitterJadeKasey2 {
+    _hidden_value = true
+  }
+  json StrikingOliveMagdaia3 {
+    _hidden_value = true
+  }
+  boolean NeatMoccasinLorita4 {
+    _hidden_value = true
+  }
+  json CatholicHarlequinJammie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RubberSilverSaree3 {
+    _hidden_value = true
+  }
+  serviceid MonthlyMaroonLinn3 {
+    _hidden_value = true
+  }
+  hidden_boolean NastyWhiteVeronica2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string SeniorCoffeeDonelle2 {
+    _hidden_value = true
+  }
+  number AwkwardPeachMarylee3 {
+    _hidden_value = true
+  }
+  HelpfulHarlequinJaneta = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ShyTomatoStormie5 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SweetGreenHollie = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  PlainIndigoJewell4 = "Slept like a log last night  woke up in the fireplace."
+  PetiteAmaranthAdriena = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

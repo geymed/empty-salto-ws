@@ -1,0 +1,83 @@
+type dummy.EmotionalGrayHertha2 {
+  annotations {
+    hidden_boolean PotentialCoralElbertina {
+    }
+    serviceid_number OnlyBlushClarette {
+    }
+    hidden_boolean IndependentChocolateDell {
+    }
+    number QuickCoralEleni2 {
+    }
+  }
+  json IntimateSilverRuthann {
+    _hidden_value = true
+  }
+  serviceid_number FirmGrayHedda3 {
+    _hidden_value = true
+  }
+  json QuietApricotAnnmaria {
+    _hidden_value = true
+  }
+  serviceid TightIvoryJoelynn {
+    _hidden_value = true
+  }
+  string CleverJadeKaria {
+    _hidden_value = true
+  }
+  json OrdinaryWhiteViolet2 {
+    _hidden_value = true
+  }
+  string NursingSalmonPetunia2 {
+    _hidden_value = true
+  }
+  string DirtyIvoryJosee2 {
+    _hidden_value = true
+  }
+  serviceid BeautifulVioletTommy2 {
+    _hidden_value = true
+  }
+  boolean ImpossibleTealSorcha {
+    _hidden_value = true
+  }
+  dummy.PassivePurpleMyranda ParliamentaryFuchsiaGerty4 {
+    RepulsiveBeigeBrena = true
+    DiverseRedNicol = 927
+    LegitimatePinkMaxine = "What creature is smarter than a talking parrot? A spelling bee."
+    ObligedOrangeMarcelline = 843
+    FluffyAmberAlia = true
+    FunnyVioletTuesday = "Why was it called the dark ages? Because of all the knights. "
+    RelaxedPlumMinnie = true
+    AwfulAquamarineBernelle = "Why is Peter Pan always flying? Because he Neverlands."
+    DomesticCopperEba = 74
+    FuzzyAquaAtlante = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    _hidden_value = true
+  }
+  serviceid_number BritishBlushCherin2 {
+    _hidden_value = true
+  }
+  json HelpfulTealSonnnie {
+    _hidden_value = true
+  }
+  serviceid LargeBlueCharlotta2 {
+    _hidden_value = true
+  }
+  boolean ComplicatedIndigoJoane {
+    _hidden_value = true
+  }
+  serviceid NewBlueChanda {
+    _hidden_value = true
+  }
+  boolean NosyWhiteVickie {
+    _hidden_value = true
+  }
+  hidden_boolean IntimateSilverRuthann2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  OnlyBlushClarette = 966
+  QuickCoralEleni2 = 467
+  _hidden_value = true
+}

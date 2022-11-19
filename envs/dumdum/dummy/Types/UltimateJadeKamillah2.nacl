@@ -1,0 +1,63 @@
+type dummy.UltimateJadeKamillah2 {
+  annotations {
+    
+    
+    number FrightenedAzureBlake {
+    }
+    dummy.EfficientGoldGretna PossibleBlushCherye3 {
+    }
+    json UltimateJadeKamillah3 {
+    }
+    hidden_boolean PhysicalCoffeeDenni3 {
+    }
+    number DreadfulPinkMerrile3 {
+    }
+    hidden_boolean LocalBlueCharmaine3 {
+    }
+  }
+  
+  
+  
+  
+  
+  _hidden_value = true
+  FrightenedAzureBlake = 543
+  PossibleBlushCherye3 = false
+  UltimateJadeKamillah3 = "Slept like a log last night  woke up in the fireplace."
+  DreadfulPinkMerrile3 = 900
+  serviceid TemporaryGrayHalimeda2 {
+    _hidden_value = true
+  }
+  boolean AnonymousSapphireRayna {
+    _hidden_value = true
+  }
+  string EarlyAmethystAmandi2 {
+    _hidden_value = true
+  }
+  string BlackBlushClarita2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WorldwideTanShannah {
+    _hidden_value = true
+  }
+  serviceid UrgentLimeKristy3 {
+    _hidden_value = true
+  }
+  boolean HurtAzureBlondie {
+    _hidden_value = true
+  }
+  hidden_boolean WorryingSilverRozalie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json WrittenGreenIvette {
+    _hidden_value = true
+  }
+  json FewAmethystAndria2 {
+    _hidden_value = true
+  }
+  serviceid_number MaturePeachMatti {
+    _hidden_value = true
+  }
+}

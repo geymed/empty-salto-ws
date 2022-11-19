@@ -1,0 +1,61 @@
+type dummy.WanderingTomatoSuzann2 is string {
+  annotations {
+    dummy.DEFAULT VariableRedNona {
+    }
+    json ComfortableGoldGrissel {
+    }
+    string ElectronicGreenInez {
+    }
+    string ExperimentalLavenderKatinka {
+    }
+    boolean SilkyAquaBambi {
+    }
+    dummy.DEFAULT MysteriousPurpleNell {
+    }
+    boolean CruelPlumMichaela {
+    }
+    hidden_boolean IntegralSalmonPhillis {
+    }
+    boolean IncCrimsonErinna {
+    }
+    serviceid RadicalGrayHelenelizabeth {
+    }
+    string ProfoundPinkMerlina {
+    }
+    json CanadianPlumMinda {
+    }
+    serviceid RightBlushCherise {
+    }
+    number LooseAquaAura {
+    }
+    string LongVioletVan {
+    }
+    json NormalBrownDamaris {
+    }
+    serviceid PlainTurquoiseTherine {
+    }
+    string OuterJadeKarrie {
+    }
+  }
+  VariableRedNona = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  ComfortableGoldGrissel = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ElectronicGreenInez = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ExperimentalLavenderKatinka = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SilkyAquaBambi = false
+  MysteriousPurpleNell = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  CruelPlumMichaela = true
+  IncCrimsonErinna = false
+  RadicalGrayHelenelizabeth = "A steak pun is a rare medium well done."
+  ProfoundPinkMerlina = "Whoever invented the knock-knock joke should get a no bell prize."
+  CanadianPlumMinda = "What do you do on a remote island? Try and find the TV island it belongs to."
+  RightBlushCherise = "Why didnt the skeleton cross the road? Because he had no guts."
+  LooseAquaAura = 820
+  LongVioletVan = "Why was it called the dark ages? Because of all the knights. "
+  NormalBrownDamaris = "Im only familiar with 25 letters in the English language. I dont know why."
+  PlainTurquoiseTherine = "What did one nut say as he chased another nut?  I'm a cashew!"
+  OuterJadeKarrie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+}

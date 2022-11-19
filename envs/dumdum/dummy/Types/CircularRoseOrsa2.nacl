@@ -1,0 +1,98 @@
+type dummy.CircularRoseOrsa2 {
+  annotations {
+    serviceid_number NaturalBrownCristine2 {
+    }
+    json GracefulTurquoiseTerrijo {
+    }
+    string OrthodoxSapphireRebecka {
+    }
+    dummy.UnknownFuchsiaGilberte FierceAzureBillye {
+    }
+    number SystematicOrangeMarcelia2 {
+    }
+    hidden_boolean ItalianGoldGray {
+    }
+  }
+  number NiceBrownCymbre {
+    _hidden_value = true
+  }
+  string AdditionalCopperDotti3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SaltyApricotArlee3 {
+    _hidden_value = true
+  }
+  dummy.EmpiricalPinkMeara SaltyApricotArlen2 {
+    InfluentialMoccasinLorette = "Im only familiar with 25 letters in the English language. I dont know why."
+    RichCopperDorelle = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    TerribleEmeraldFredra = "Dad Im hungry  Hi hungry Im dad"
+    LoudLavenderKiele2 = "Why was it called the dark ages? Because of all the knights. "
+    _hidden_value = true
+  }
+  serviceid_number SlightGoldGwenore {
+    _hidden_value = true
+  }
+  number RegularCopperDorris {
+    _hidden_value = true
+  }
+  string HomelyTurquoiseTessa3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AshamedScarletRosamond {
+    _hidden_value = true
+  }
+  serviceid MobilePurpleMorna {
+    _hidden_value = true
+  }
+  json ScaryBeigeBriana3 {
+    _hidden_value = true
+  }
+  json ClassicalHarlequinJacklyn {
+    _hidden_value = true
+  }
+  serviceid_number HuskyApricotAnnabell {
+    _hidden_value = true
+  }
+  dummy.BrightTomatoTamara BrightTomatoTamarah {
+    UsedFuchsiaGeorgena = 10
+    MolecularRedNerte2 = 383
+    LongVioletVanessa = 829
+    _hidden_value = true
+  }
+  hidden_boolean FreeBronzeCody2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json SoftAquamarineBarby2 {
+    _hidden_value = true
+  }
+  number HighBlueCharita2 {
+    _hidden_value = true
+  }
+  boolean ResultingPurpleNadeen2 {
+    _hidden_value = true
+  }
+  string EmbarrassedRedNissie {
+    _hidden_value = true
+  }
+  string BoldPlumMinette3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SquareJadeKaela2 {
+    _hidden_value = true
+  }
+  hidden_boolean InadequateLavenderKeeley {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  NaturalBrownCristine2 = 467
+  GracefulTurquoiseTerrijo = "What did one nut say as he chased another nut?  I'm a cashew!"
+  OrthodoxSapphireRebecka = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  FierceAzureBillye = false
+  SystematicOrangeMarcelia2 = 675
+  _hidden_value = true
+}

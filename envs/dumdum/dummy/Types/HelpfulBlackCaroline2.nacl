@@ -1,0 +1,50 @@
+type dummy.HelpfulBlackCaroline2 {
+  annotations {
+    serviceid PositiveCoffeeDona {
+    }
+    serviceid ClosedMagentaLeila {
+    }
+    dummy.DEFAULT LuckyFuchsiaGinnie {
+    }
+    boolean ConsistentHarlequinJanka {
+    }
+    hidden_boolean LiableLimeKimbra {
+    }
+  }
+  serviceid_number IncreasingCyanEvvie {
+    _hidden_value = true
+  }
+  serviceid_number ArchitecturalRosePatrica {
+    _hidden_value = true
+  }
+  json SunnyTanSharity {
+    _hidden_value = true
+  }
+  boolean CulturalCoralElianore2 {
+    _hidden_value = true
+  }
+  serviceid_number AcceptableGrayHelge {
+    _hidden_value = true
+  }
+  number DemocraticCrimsonEngracia2 {
+    _hidden_value = true
+  }
+  hidden_boolean RelevantCoffeeDoralin {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json RulingLimeKippie {
+    _hidden_value = true
+  }
+  json GreatBlueCharissa {
+    _hidden_value = true
+  }
+  PositiveCoffeeDona = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ClosedMagentaLeila = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  LuckyFuchsiaGinnie = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  ConsistentHarlequinJanka = true
+  _hidden_value = true
+}

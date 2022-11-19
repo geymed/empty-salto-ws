@@ -1,0 +1,31 @@
+type dummy.ProposedGoldGwendolen is string {
+  annotations {
+    number GrowingCrimsonEnrica {
+    }
+    serviceid_number DelicateOliveMable {
+    }
+    number OkSapphireRhianon {
+    }
+    dummy.DEFAULT ClosedMagentaLeilah {
+    }
+    boolean AlertTomatoTabatha {
+    }
+    serviceid_number StrongBronzeColly {
+    }
+    hidden_boolean MarginalLimeKriste {
+    }
+    dummy.DEFAULT NavalPinkMel {
+    }
+  }
+  GrowingCrimsonEnrica = 11
+  DelicateOliveMable = 80
+  OkSapphireRhianon = 309
+  ClosedMagentaLeilah = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  AlertTomatoTabatha = true
+  StrongBronzeColly = 966
+  NavalPinkMel = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+}

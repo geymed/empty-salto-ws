@@ -1,0 +1,23 @@
+type dummy.SuperiorMaroonLiana2 {
+  annotations {
+    serviceid_number NakedMagentaLeanora {
+    }
+    serviceid_number FastAmethystAmandie {
+    }
+    serviceid DiplomaticMagentaLenora {
+    }
+    serviceid_number AwfulAquamarineBernete2 {
+    }
+    number RightBlushCherise2 {
+    }
+  }
+  serviceid_number UndergroundScarletRomy2 {
+    _hidden_value = true
+  }
+  NakedMagentaLeanora = 550
+  FastAmethystAmandie = 696
+  DiplomaticMagentaLenora = "I'll tell you what often gets over looked... garden fences."
+  AwfulAquamarineBernete2 = 199
+  RightBlushCherise2 = 549
+  _hidden_value = true
+}

@@ -1,0 +1,81 @@
+type dummy.MagentaWhiteVelvet2 {
+  annotations {
+    number LivelyBlackCasie {
+    }
+    serviceid_number SocialistHarlequinJacquelynn2 {
+    }
+    boolean LuckyFuchsiaGinni3 {
+    }
+    number LowBlushChristine5 {
+    }
+    json WelcomeIvoryJosselyn2 {
+    }
+  }
+  serviceid_number CharmingBeigeCallida3 {
+    _hidden_value = true
+  }
+  string SpecialBronzeClea {
+    _hidden_value = true
+  }
+  hidden_boolean PayableOrangeMarchelle {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid AdvancedHarlequinJacenta {
+    _hidden_value = true
+  }
+  serviceid_number SteepAmethystAlys2 {
+    _hidden_value = true
+  }
+  string FascinatingOrangeMargareta4 {
+    _hidden_value = true
+  }
+  string FuriousRedNicoli3 {
+    _hidden_value = true
+  }
+  serviceid_number DeepAmberAlleen {
+    _hidden_value = true
+  }
+  number PricklyAquaAuroora4 {
+    _hidden_value = true
+  }
+  serviceid DifferentTealSilva {
+    _hidden_value = true
+  }
+  serviceid_number AverageCoralElysha2 {
+    _hidden_value = true
+  }
+  json UrgentLimeKristyn {
+    _hidden_value = true
+  }
+  hidden_boolean CircularRoseOrsa8 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean MuteApricotAnneliese3 {
+    _hidden_value = true
+  }
+  number ValuableGoldGwyn6 {
+    _hidden_value = true
+  }
+  serviceid_number UnhappyMaroonLidia {
+    _hidden_value = true
+  }
+  number ModeratePurpleNatalya5 {
+    _hidden_value = true
+  }
+  json SwiftAmethystAnallise {
+    _hidden_value = true
+  }
+  serviceid_number MiserableSalmonRachele3 {
+    _hidden_value = true
+  }
+  LivelyBlackCasie = 19
+  SocialistHarlequinJacquelynn2 = 513
+  LuckyFuchsiaGinni3 = true
+  LowBlushChristine5 = 916
+  WelcomeIvoryJosselyn2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

@@ -1,0 +1,55 @@
+type dummy.SureBlushCindie2 {
+  annotations {
+    serviceid TastelessAquaAshlen2 {
+    }
+    number WideBronzeCorine {
+    }
+    json ElderlyEmeraldFlorence2 {
+    }
+    string UnnecessaryMoccasinLoralee {
+    }
+    number FunctionalMaroonLexie2 {
+    }
+    dummy.FamousCoralElfrieda AsleepJadeKarlotte {
+    }
+  }
+  hidden_boolean BigVioletTonie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean PleasedEmeraldGabriela3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ApparentCyanFay {
+    _hidden_value = true
+  }
+  serviceid_number InquisitiveTealStacie2 {
+    _hidden_value = true
+  }
+  boolean CommunistGoldGisella2 {
+    _hidden_value = true
+  }
+  hidden_boolean ThickEmeraldFina3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean GloriousScarletRosanna {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ParallelMoccasinLuelle3 {
+    _hidden_value = true
+  }
+  TastelessAquaAshlen2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  WideBronzeCorine = 221
+  ElderlyEmeraldFlorence2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  UnnecessaryMoccasinLoralee = "I'll tell you what often gets over looked... garden fences."
+  FunctionalMaroonLexie2 = 315
+  AsleepJadeKarlotte = 86
+  _hidden_value = true
+}

@@ -1,0 +1,117 @@
+type dummy.DangerousAquamarineBethany2 {
+  annotations {
+    json NaturalBrownCristy {
+    }
+    serviceid_number GreatAmaranthAddia {
+    }
+    boolean ScatteredAquaAvie {
+    }
+    number CompactPurpleNanni2 {
+    }
+    json RollingSilverRubie {
+    }
+    number QuaintWhiteVivianna4 {
+    }
+    hidden_boolean DramaticGoldHaily {
+    }
+  }
+  number HorizontalSalmonPrissie {
+    _hidden_value = true
+  }
+  serviceid CleverTealSibeal2 {
+    _hidden_value = true
+  }
+  serviceid_number WorriedGrayHarri {
+    _hidden_value = true
+  }
+  serviceid MusicalIndigoJobi {
+    _hidden_value = true
+  }
+  serviceid_number ElegantMoccasinLucille {
+    _hidden_value = true
+  }
+  boolean WesternChocolateDeena {
+    _hidden_value = true
+  }
+  number SuccessiveMoccasinLoise3 {
+    _hidden_value = true
+  }
+  serviceid WesternChocolateDehlia {
+    _hidden_value = true
+  }
+  serviceid_number GrubbyAquaAubrey {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FancyTurquoiseTeirtza {
+    _hidden_value = true
+  }
+  hidden_boolean RelievedBlueCatherine {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number NationalBlueCherice {
+    _hidden_value = true
+  }
+  json FrequentLavenderKati {
+    _hidden_value = true
+  }
+  serviceid ExcessSilverSaraann {
+    _hidden_value = true
+  }
+  string UnpleasantRedNonna {
+    _hidden_value = true
+  }
+  serviceid_number AnonymousSapphireRayshell2 {
+    _hidden_value = true
+  }
+  json CorporateEmeraldGarland2 {
+    _hidden_value = true
+  }
+  serviceid_number VitalEmeraldFifine2 {
+    _hidden_value = true
+  }
+  hidden_boolean ControlledTanSheilah {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number DisabledHarlequinJanie2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SillyYellowWinifred3 {
+    _hidden_value = true
+  }
+  serviceid NuttyWhiteViki {
+    _hidden_value = true
+  }
+  serviceid_number DreadfulPinkMerrilee3 {
+    _hidden_value = true
+  }
+  number GentleIndigoJocelin2 {
+    _hidden_value = true
+  }
+  json MoralCyanFenelia2 {
+    _hidden_value = true
+  }
+  hidden_boolean SeriousBrownDani {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean LightCopperDulcie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number GrimScarletRonnica4 {
+    _hidden_value = true
+  }
+  NaturalBrownCristy = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  GreatAmaranthAddia = 919
+  ScatteredAquaAvie = true
+  CompactPurpleNanni2 = 17
+  RollingSilverRubie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  QuaintWhiteVivianna4 = 674
+  _hidden_value = true
+}

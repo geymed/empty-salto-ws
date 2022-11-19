@@ -1,0 +1,43 @@
+type dummy.VocationalTanShaine {
+  annotations {
+    serviceid ExclusiveMagentaLatia2 {
+    }
+    number RegulatorySalmonQuintilla5 {
+    }
+    json ImpossibleTealSophronia2 {
+    }
+    number BurningRedNikki2 {
+    }
+    json PaleGrayHarrietta2 {
+    }
+    number DelicateOliveMadalena {
+    }
+    hidden_boolean EthicalScarletRoberta3 {
+    }
+  }
+  boolean FortunateRoseOlivie {
+    _hidden_value = true
+  }
+  boolean ProminentLavenderKelci3 {
+    _hidden_value = true
+  }
+  json CircularRoseOrsa5 {
+    _hidden_value = true
+  }
+  boolean BalancedSilverRosita2 {
+    _hidden_value = true
+  }
+  serviceid_number ConsistentHarlequinJanith3 {
+    _hidden_value = true
+  }
+  boolean HighBlueCharissa2 {
+    _hidden_value = true
+  }
+  ExclusiveMagentaLatia2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  RegulatorySalmonQuintilla5 = 26
+  ImpossibleTealSophronia2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  BurningRedNikki2 = 188
+  PaleGrayHarrietta2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  DelicateOliveMadalena = 783
+  _hidden_value = true
+}

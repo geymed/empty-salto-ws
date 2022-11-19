@@ -1,0 +1,126 @@
+type dummy.ColonialPeachMaud {
+  annotations {
+    serviceid CommonBronzeConsuelo {
+    }
+    number NumerousHarlequinJane3 {
+    }
+    serviceid_number InadequateLavenderKaylil {
+    }
+    hidden_boolean DominantIndigoJenelle {
+    }
+    serviceid SatisfactoryLimeKrista2 {
+    }
+  }
+  hidden_boolean FamousCoralElga {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ProductivePlumMollie2 {
+    _hidden_value = true
+  }
+  boolean ReadyChocolateDebera2 {
+    _hidden_value = true
+  }
+  serviceid_number IndianGrayHarlie2 {
+    _hidden_value = true
+  }
+  json UnnecessaryMoccasinLoralee2 {
+    _hidden_value = true
+  }
+  boolean AwareChocolateDaryn2 {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" RattyWhiteWandis {
+    _hidden_value = true
+  }
+  json HomelessAzureBliss3 {
+    _hidden_value = true
+  }
+  dummy.ProposedGoldGwendolen EmbarrassedAzureBianka4 {
+    GrowingCrimsonEnrica = 131
+    DelicateOliveMable = 150
+    OkSapphireRhianon = 933
+    ClosedMagentaLeilah = {
+      legit = "Im only familiar with 25 letters in the English language. I dont know why."
+    }
+    AlertTomatoTabatha = false
+    StrongBronzeColly = 376
+    NavalPinkMel = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    _hidden_value = true
+  }
+  boolean GlobalGrayHermina2 {
+    _hidden_value = true
+  }
+  boolean KnownMaroonLettie2 {
+    _hidden_value = true
+  }
+  boolean FortunateRoseOllie {
+    _hidden_value = true
+  }
+  number OuterJadeKarrie4 {
+    _hidden_value = true
+  }
+  boolean MeltedAquaAurea {
+    _hidden_value = true
+  }
+  hidden_boolean FellowIvoryJunina2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid FewAmethystAndrei {
+    _hidden_value = true
+  }
+  dummy.InteriorPurpleNathalie PotentialCoralElbertine {
+    ShaggyAquaAviva = 91
+    ThenSalmonPhylis = 596
+    PassingSalmonPolly = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    DemocraticCrimsonEmyle = 257
+    StrikingOliveMag = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    ExcellentCoralEilis = 645
+    _hidden_value = true
+  }
+  json CostlySapphireReeta {
+    _hidden_value = true
+  }
+  hidden_boolean JoyousBlackCarrissa3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number DeadBrownDaphne2 {
+    _hidden_value = true
+  }
+  serviceid RareWhiteWandie2 {
+    _hidden_value = true
+  }
+  json SocialBlueCharo3 {
+    _hidden_value = true
+  }
+  hidden_boolean CrookedAmberAlissa3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean WarmCopperDulcinea2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SickFuchsiaGerhardine {
+    _hidden_value = true
+  }
+  hidden_boolean IncredibleRosePatty {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  CommonBronzeConsuelo = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  NumerousHarlequinJane3 = 894
+  InadequateLavenderKaylil = 260
+  SatisfactoryLimeKrista2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+}

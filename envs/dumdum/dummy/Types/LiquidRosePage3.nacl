@@ -1,0 +1,28 @@
+type dummy.LiquidRosePage3 {
+  annotations {
+    boolean FriendlyGoldGuinna {
+    }
+    json GracefulTurquoiseTerri {
+    }
+    serviceid DivineRoseOpaline {
+    }
+    serviceid_number OutrageousAzureBrandy2 {
+    }
+  }
+  string EconomicBlushClara {
+    _hidden_value = true
+  }
+  hidden_boolean SplendidOrangeMandi2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string ItchyVioletValentina2 {
+    _hidden_value = true
+  }
+  FriendlyGoldGuinna = false
+  GracefulTurquoiseTerri = "To be Frank, I'd have to change my name."
+  DivineRoseOpaline = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  OutrageousAzureBrandy2 = 883
+  _hidden_value = true
+}

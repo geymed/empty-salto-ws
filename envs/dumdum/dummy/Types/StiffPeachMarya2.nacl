@@ -1,0 +1,93 @@
+type dummy.StiffPeachMarya2 {
+  annotations {
+    serviceid FriendlyVioletTrudie {
+    }
+    number SquareAmberAlverta2 {
+    }
+    dummy.EmpiricalPinkMeara SuccessfulChocolateDaryn2 {
+    }
+    serviceid_number RottenApricotAriela {
+    }
+    hidden_boolean CorrespondingPlumMinny2 {
+    }
+  }
+  json IncCrimsonErma {
+    _hidden_value = true
+  }
+  string SteadyJadeKailey3 {
+    _hidden_value = true
+  }
+  json RomanFuchsiaGermain {
+    _hidden_value = true
+  }
+  serviceid ParticularBlushClaudelle2 {
+    _hidden_value = true
+  }
+  boolean UrgentLimeKristy {
+    _hidden_value = true
+  }
+  hidden_boolean NumerousHarlequinJane {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid WorldwideTanShannen2 {
+    _hidden_value = true
+  }
+  boolean BindingSalmonPetra2 {
+    _hidden_value = true
+  }
+  hidden_boolean HarshOliveMaia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json TotalBrownDaniela {
+    _hidden_value = true
+  }
+  serviceid_number HardAquaAudie {
+    _hidden_value = true
+  }
+  serviceid_number ItchyVioletValera {
+    _hidden_value = true
+  }
+  hidden_boolean LooseAquaAugustina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean SafeCopperDorette {
+    _hidden_value = true
+  }
+  serviceid GastricMagentaLavinie {
+    _hidden_value = true
+  }
+  serviceid CivilianSapphireRandi2 {
+    _hidden_value = true
+  }
+  serviceid_number ProfessionalChocolateDawna {
+    _hidden_value = true
+  }
+  serviceid PleasantIvoryJoscelin {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" AngryAquamarineBenedetta2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number TenderYellowYoko {
+    _hidden_value = true
+  }
+  serviceid_number UnevenAquamarineBekki2 {
+    _hidden_value = true
+  }
+  boolean BlankPinkMelody {
+    _hidden_value = true
+  }
+  FriendlyVioletTrudie = "What creature is smarter than a talking parrot? A spelling bee."
+  SquareAmberAlverta2 = 341
+  SuccessfulChocolateDaryn2 = false
+  RottenApricotAriela = 28
+  _hidden_value = true
+}

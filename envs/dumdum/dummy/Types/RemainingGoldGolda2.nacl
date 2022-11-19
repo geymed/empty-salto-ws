@@ -1,0 +1,52 @@
+type dummy.RemainingGoldGolda2 {
+  annotations {
+    serviceid NativeJadeKate3 {
+    }
+    hidden_boolean DamagedAmberAleda2 {
+    }
+    number CuriousTealSidonnie2 {
+    }
+    json ProudHarlequinJanaya {
+    }
+    string AdequateGrayHildegaard3 {
+    }
+    json WelshGrayHayley {
+    }
+  }
+  json PriorRosePaulie {
+    _hidden_value = true
+  }
+  boolean CulturalCoralElianore5 {
+    _hidden_value = true
+  }
+  json StrongBronzeColly3 {
+    _hidden_value = true
+  }
+  json SlightGoldGwenore3 {
+    _hidden_value = true
+  }
+  "List<json>" LazyWhiteVanni4 {
+    _hidden_value = true
+  }
+  json MarvellousMoccasinLorrayne {
+    _hidden_value = true
+  }
+  serviceid_number AdvisoryOrangeMariejeanne2 {
+    _hidden_value = true
+  }
+  number DiverseRedNicky2 {
+    _hidden_value = true
+  }
+  string SuperiorMaroonLian2 {
+    _hidden_value = true
+  }
+  number RipeApricotAriel3 {
+    _hidden_value = true
+  }
+  NativeJadeKate3 = "Why do birds fly south for the winter? Because it's too far to walk."
+  CuriousTealSidonnie2 = 886
+  ProudHarlequinJanaya = "My first time using an elevator was an uplifting experience. The second time let me down."
+  AdequateGrayHildegaard3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  WelshGrayHayley = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

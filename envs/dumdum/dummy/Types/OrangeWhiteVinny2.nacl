@@ -1,0 +1,119 @@
+type dummy.OrangeWhiteVinny2 {
+  annotations {
+    dummy.DEFAULT RuralCoralElse {
+    }
+    serviceid_number CombinedOliveMair2 {
+    }
+    json MarginalLimeKristal {
+    }
+    boolean UsedFuchsiaGeorgeanna {
+    }
+  }
+  hidden_boolean TiredBeigeBritni {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number RunningPlumMirabella {
+    _hidden_value = true
+  }
+  string SwissPlumMignonne2 {
+    _hidden_value = true
+  }
+  string IncreasingCyanEvvy {
+    _hidden_value = true
+  }
+  serviceid_number SolarRosePammie3 {
+    _hidden_value = true
+  }
+  serviceid PossibleBlushCherye {
+    _hidden_value = true
+  }
+  serviceid SevereEmeraldGabrila {
+    _hidden_value = true
+  }
+  "Map<hidden_boolean>" CruelAquamarineBethanne {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid StrategicHarlequinJeannette2 {
+    _hidden_value = true
+  }
+  number ItalianGoldGrayce3 {
+    _hidden_value = true
+  }
+  serviceid_number ObviousCoffeeDolley {
+    _hidden_value = true
+  }
+  string MarginalLimeKristan {
+    _hidden_value = true
+  }
+  string DreadfulPinkMerrilee {
+    _hidden_value = true
+  }
+  number FemaleCrimsonEmmeline2 {
+    _hidden_value = true
+  }
+  boolean LevelJadeKally {
+    _hidden_value = true
+  }
+  string CollectiveLavenderKathryne2 {
+    _hidden_value = true
+  }
+  number RegulatorySalmonQuintilla2 {
+    _hidden_value = true
+  }
+  number DisabledHarlequinJanie {
+    _hidden_value = true
+  }
+  boolean DryCyanEustacia2 {
+    _hidden_value = true
+  }
+  boolean CoolGreenInna2 {
+    _hidden_value = true
+  }
+  dummy.BoilingAmaranthAgneta MentalCrimsonEssa {
+    PuzzledTanShandy = 733
+    ConservationPlumMoira2 = "Im only familiar with 25 letters in the English language. I dont know why."
+    CuriousLimeKirby = "What do you do on a remote island? Try and find the TV island it belongs to."
+    EmbarrassedAzureBianka = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    TiredGoldGretal = 776
+    DemocraticCrimsonEngracia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    AcceptedTanShae = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ExistingCoffeeDesirae = "What did one nut say as he chased another nut?  I'm a cashew!"
+    SunnyTanSharl = "Why didnt the skeleton cross the road? Because he had no guts."
+    UnconsciousSapphireRaven = "Why did the kid cross the playground? To get to the other slide."
+    FellowIvoryJustina = "My first time using an elevator was an uplifting experience. The second time let me down."
+    MereGreenIdette = 685
+    ColossalAmaranthAbby = false
+    CuddlyAmberAlanna = 87
+    UnnecessaryMoccasinLoraine = true
+    SpatialSalmonPerri = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    _hidden_value = true
+  }
+  number ImmenseAmaranthAdelice {
+    _hidden_value = true
+  }
+  json UndergroundScarletRomona {
+    _hidden_value = true
+  }
+  boolean BurningRedNikoletta2 {
+    _hidden_value = true
+  }
+  string ExuberantBlackCarla2 {
+    _hidden_value = true
+  }
+  json FutureCoffeeDoloritas2 {
+    _hidden_value = true
+  }
+  RuralCoralElse = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  CombinedOliveMair2 = 739
+  MarginalLimeKristal = "Why did the kid cross the playground? To get to the other slide."
+  UsedFuchsiaGeorgeanna = true
+  _hidden_value = true
+}

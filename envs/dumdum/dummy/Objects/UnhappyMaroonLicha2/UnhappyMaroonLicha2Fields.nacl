@@ -1,0 +1,66 @@
+type dummy.UnhappyMaroonLicha2 {
+  boolean CasualOliveLurlene2 {
+  }
+  string CostlySapphireRegan2 {
+  }
+  boolean BitterJadeKass5 {
+  }
+  json ImportantBlueChastity5 {
+  }
+  hidden_boolean TopChocolateDarcy {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  serviceid_number IntactRosePatrizia {
+  }
+  json AncientEmeraldFlore {
+  }
+  hidden_boolean EligiblePurpleNeile3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.FancyTurquoiseTeena2 GrotesqueTurquoiseTerrye {
+    UnemployedIvoryJoly = "Why is Peter Pan always flying? Because he Neverlands."
+    UglyPlumMicky = true
+    SimpleBronzeCorly = {
+      legit = "Im only familiar with 25 letters in the English language. I dont know why."
+    }
+    ControversialLimeKrystyna = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+  }
+  number AliveFuchsiaGillie7 {
+  }
+  boolean HungryMaroonLira4 {
+  }
+  serviceid_number NumerousHarlequinJane7 {
+  }
+  string CleanCyanFernande {
+  }
+  json IntactRosePatricia2 {
+  }
+  dummy.VisualGreenIngeberg3 ShaggyAquaAvivah3 {
+    HappyVioletValaria2 = false
+    BeautifulTomatoTabby2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    SmallBlueCharity = true
+    CompulsoryOliveMallorie3 = "Im only familiar with 25 letters in the English language. I dont know why."
+    GreatBlueCharin5 = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  dummy.ChemicalGreenIseabal SurroundingOrangeMargery5 {
+    SplendidOrangeManon = true
+    ExtendedPlumMilissent2 = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    ShortYellowWilow = "Why did the kid cross the playground? To get to the other slide."
+    AfraidAquamarineBelvia2 = 460
+    HelpfulHarlequinJanetta3 = 622
+    ExoticScarletRina2 = 209
+    KindVioletVallie4 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  serviceid_number InvolvedCoffeeDenice5 {
+  }
+  "List<serviceid>" LinguisticJadeKarie3 {
+  }
+}

@@ -1,0 +1,59 @@
+type dummy.RespectableRosePavla {
+  annotations {
+    string ChronicOliveMallissa {
+    }
+    number JoyousBlackCarrissa {
+    }
+    string RenewedSilverSandy2 {
+    }
+    serviceid JuniorIvoryJoni2 {
+    }
+    boolean DailyCyanEvelina2 {
+    }
+    serviceid SteadyJadeKailey2 {
+    }
+    boolean AfraidAquamarineBendite {
+    }
+  }
+  json LightTurquoiseTessy2 {
+    _hidden_value = true
+  }
+  hidden_boolean IdenticalLimeKorney {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number LegitimatePinkMaybelle2 {
+    _hidden_value = true
+  }
+  hidden_boolean TartYellowXena {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string ImaginativeTanSeline2 {
+    _hidden_value = true
+  }
+  boolean PrimeBrownDanika2 {
+    _hidden_value = true
+  }
+  string KindBlackCaryn {
+    _hidden_value = true
+  }
+  hidden_boolean StructuralIvoryJosephine {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number InlandSalmonPrudi2 {
+    _hidden_value = true
+  }
+  ChronicOliveMallissa = "Why did the kid cross the playground? To get to the other slide."
+  JoyousBlackCarrissa = 249
+  RenewedSilverSandy2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  JuniorIvoryJoni2 = "How come the stadium got hot after the game? Because all of the fans left."
+  DailyCyanEvelina2 = false
+  SteadyJadeKailey2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  AfraidAquamarineBendite = false
+  _hidden_value = true
+}

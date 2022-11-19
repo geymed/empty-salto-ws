@@ -1,0 +1,134 @@
+type dummy.ImplicitSapphireReyna2 {
+  annotations {
+    number NotablePeachMartina {
+    }
+    hidden_boolean EducationalCrimsonEryn {
+    }
+    serviceid InterimOrangeMalvina {
+    }
+    boolean SoundRoseOlenka {
+    }
+  }
+  dummy.DEFAULT PsychiatricSilverRoz {
+    _hidden_value = true
+  }
+  hidden_boolean InsufficientPurpleNedi {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string EquivalentJadeKaleena {
+    _hidden_value = true
+  }
+  serviceid HighAmberAllison {
+    _hidden_value = true
+  }
+  string DryCyanEustacia {
+    _hidden_value = true
+  }
+  hidden_boolean HugeCoffeeDoralynn {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string ConfidentHarlequinJacynth {
+    _hidden_value = true
+  }
+  hidden_boolean SmallAmaranthAggi {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string AccurateIndigoJillayne {
+    _hidden_value = true
+  }
+  dummy.ShallowAmberAloysia PleasantBlackCatharine {
+    NiceWhiteVi = "Why did the kid cross the playground? To get to the other slide."
+    VisibleIndigoJillayne = true
+    PreparedCyanFelicia = "Dad Im hungry  Hi hungry Im dad"
+    BlushingTomatoTalyah = 92
+    RedundantSalmonPhilis = {
+      legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    }
+    LivelyPeachMarylin = "What do you call two barracuda fish?  A Pairacuda!"
+    _hidden_value = true
+  }
+  boolean VoluntaryGoldGwennie {
+    _hidden_value = true
+  }
+  json CheerfulSapphireRhona {
+    _hidden_value = true
+  }
+  serviceid AssociatedMaroonLindsy {
+    _hidden_value = true
+  }
+  json ResponsibleCoffeeDeva {
+    _hidden_value = true
+  }
+  json FunnyEmeraldGabbey {
+    _hidden_value = true
+  }
+  serviceid JuniorIvoryJoni {
+    _hidden_value = true
+  }
+  string OverwhelmingPurpleMyrta {
+    _hidden_value = true
+  }
+  serviceid_number SuddenGoldGwen {
+    _hidden_value = true
+  }
+  boolean ColdAmaranthAimil {
+    _hidden_value = true
+  }
+  serviceid_number AssistantOliveLynnea {
+    _hidden_value = true
+  }
+  "List<number>" SevereEmeraldGabriellia {
+    _hidden_value = true
+  }
+  hidden_boolean AmusedBeigeCahra {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean DeliciousApricotArdis {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT ElegantMoccasinLucina {
+    _hidden_value = true
+  }
+  json ConfusedAquamarineBertina {
+    _hidden_value = true
+  }
+  hidden_boolean FunOrangeMarcie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ModernTealStarlene {
+    _hidden_value = true
+  }
+  string DrivingRoseOralla {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" DefiantAzureBetteann {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number RevolutionaryJadeKarry {
+    _hidden_value = true
+  }
+  boolean SmoothIndigoJemmy {
+    _hidden_value = true
+  }
+  boolean ResultingPurpleNadean {
+    _hidden_value = true
+  }
+  NotablePeachMartina = 226
+  InterimOrangeMalvina = "I'll tell you what often gets over looked... garden fences."
+  SoundRoseOlenka = true
+  _hidden_value = true
+}

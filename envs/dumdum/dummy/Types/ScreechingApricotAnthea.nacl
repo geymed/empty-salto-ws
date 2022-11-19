@@ -1,0 +1,27 @@
+type dummy.ScreechingApricotAnthea is string {
+  annotations {
+    number OpenTealStarr {
+    }
+    number EntitledIvoryJulia {
+    }
+    serviceid PassivePurpleMurielle {
+    }
+    dummy.DEFAULT NearFuchsiaGerianne {
+    }
+    serviceid_number ConfidentialScarletRomola {
+    }
+    serviceid_number HistoricLavenderKellie {
+    }
+    json HelpfulBlackCaroline {
+    }
+  }
+  OpenTealStarr = 534
+  EntitledIvoryJulia = 904
+  PassivePurpleMurielle = "How come the stadium got hot after the game? Because all of the fans left."
+  NearFuchsiaGerianne = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  ConfidentialScarletRomola = 139
+  HistoricLavenderKellie = 371
+  HelpfulBlackCaroline = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+}

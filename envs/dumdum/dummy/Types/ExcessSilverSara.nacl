@@ -1,0 +1,99 @@
+type dummy.ExcessSilverSara {
+  annotations {
+    boolean SoleLimeKirsti {
+    }
+    hidden_boolean MagentaWhiteVenita2 {
+    }
+    hidden_boolean RoyalBrownCristie {
+    }
+    dummy.DEFAULT SeparateCopperDorotea2 {
+    }
+    string FaintMaroonLiv {
+    }
+    serviceid ProudBlueCathee2 {
+    }
+  }
+  number MassGreenIlene2 {
+    _hidden_value = true
+  }
+  boolean BloodyCyanFedora {
+    _hidden_value = true
+  }
+  serviceid_number ReadyChocolateDebor {
+    _hidden_value = true
+  }
+  string UselessRedNinette {
+    _hidden_value = true
+  }
+  string PreciseIndigoJoby {
+    _hidden_value = true
+  }
+  hidden_boolean StableHarlequinJasmina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean FormalCoralEliza {
+    _hidden_value = true
+  }
+  serviceid_number TenderAquamarineBebe {
+    _hidden_value = true
+  }
+  boolean PromisingRedNonah {
+    _hidden_value = true
+  }
+  hidden_boolean MixedMaroonLesly2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean VerticalOliveLynsey2 {
+    _hidden_value = true
+  }
+  hidden_boolean AestheticSapphireRebbecca {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean LazyWhiteVanni3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number SquareJadeKaela3 {
+    _hidden_value = true
+  }
+  boolean StillIndigoJo3 {
+    _hidden_value = true
+  }
+  number HelplessAzureBlinni {
+    _hidden_value = true
+  }
+  "List<json>" MeltedAquaAura2 {
+    _hidden_value = true
+  }
+  number AlertTomatoSydney2 {
+    _hidden_value = true
+  }
+  boolean HugeCoffeeDore {
+    _hidden_value = true
+  }
+  serviceid AdjacentSilverRoxanne {
+    _hidden_value = true
+  }
+  number DirectChocolateDeana {
+    _hidden_value = true
+  }
+  hidden_boolean SignificantBrownDanit {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  SoleLimeKirsti = true
+  SeparateCopperDorotea2 = {
+    legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  FaintMaroonLiv = "Why didnt the skeleton cross the road? Because he had no guts."
+  ProudBlueCathee2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+}

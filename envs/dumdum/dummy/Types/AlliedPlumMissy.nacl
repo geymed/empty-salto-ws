@@ -1,0 +1,51 @@
+type dummy.AlliedPlumMissy {
+  annotations {
+    boolean LongVioletVanda2 {
+    }
+    dummy.ImmediateCrimsonEmelita WideAmethystAlyss {
+    }
+    string UgliestYellowZarah {
+    }
+    dummy.ScreechingApricotAnthea DoubtfulTealSimonne2 {
+    }
+    json MinimumIndigoJermaine3 {
+    }
+    serviceid_number AlrightGoldGoldina5 {
+    }
+  }
+  dummy.DEFAULT EconomicBlushClarabelle2 {
+    _hidden_value = true
+  }
+  json MagicOrangeManon3 {
+    _hidden_value = true
+  }
+  serviceid_number AwareChocolateDasi3 {
+    _hidden_value = true
+  }
+  hidden_boolean GrowingCrimsonEnrika3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string GrandEmeraldFlss2 {
+    _hidden_value = true
+  }
+  hidden_boolean MedievalJadeKaree3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json ProgressiveOliveMadelin2 {
+    _hidden_value = true
+  }
+  serviceid FascinatingOrangeMargareta2 {
+    _hidden_value = true
+  }
+  LongVioletVanda2 = false
+  WideAmethystAlyss = "Why was it called the dark ages? Because of all the knights. "
+  UgliestYellowZarah = "Im only familiar with 25 letters in the English language. I dont know why."
+  DoubtfulTealSimonne2 = "Why was it called the dark ages? Because of all the knights. "
+  MinimumIndigoJermaine3 = "What creature is smarter than a talking parrot? A spelling bee."
+  AlrightGoldGoldina5 = 701
+  _hidden_value = true
+}

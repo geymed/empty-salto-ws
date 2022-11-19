@@ -1,0 +1,66 @@
+type dummy.EqualCrimsonEmilie3 {
+  annotations {
+    json GlobalGrayHerminia3 {
+    }
+    dummy.GlamorousTurquoiseTerese2 ShortBronzeColette2 {
+    }
+    hidden_boolean HilariousBlackCarolyn {
+    }
+    boolean FrightenedAzureBlake2 {
+    }
+    serviceid RoughGreenIdaline2 {
+    }
+    serviceid_number DeafIvoryJoya3 {
+    }
+    serviceid PleasantIvoryJosee3 {
+    }
+    json ContinentalOliveMagdalen2 {
+    }
+    dummy.WanderingTomatoSuzann2 GeographicalPeachMarlene5 {
+    }
+    json FlatAmberAllie4 {
+    }
+    json NearFuchsiaGerianne7 {
+    }
+    string AfraidCrimsonEmmy3 {
+    }
+    string JealousAzureBobbi {
+    }
+    number ClearTomatoTammie3 {
+    }
+    number UptightBeigeBrook3 {
+    }
+    hidden_boolean PeacefulOrangeMargot4 {
+    }
+    serviceid KeenGrayHannah {
+    }
+    dummy.AdministrativeGreenHonor5 SquealingApricotAra4 {
+    }
+    serviceid BeautifulVioletTommy3 {
+    }
+    json WetAmberAlicia5 {
+    }
+    boolean DisturbingTealSheree {
+    }
+    json StandardCopperDrusie {
+    }
+  }
+  GlobalGrayHerminia3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  FrightenedAzureBlake2 = false
+  RoughGreenIdaline2 = "I'll tell you what often gets over looked... garden fences."
+  DeafIvoryJoya3 = 842
+  PleasantIvoryJosee3 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ContinentalOliveMagdalen2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  GeographicalPeachMarlene5 = file("RoastedWhiteWenona5.txt")
+  FlatAmberAllie4 = "How come the stadium got hot after the game? Because all of the fans left."
+  NearFuchsiaGerianne7 = "What do you call two barracuda fish?  A Pairacuda!"
+  AfraidCrimsonEmmy3 = "How come the stadium got hot after the game? Because all of the fans left."
+  JealousAzureBobbi = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ClearTomatoTammie3 = 99
+  UptightBeigeBrook3 = 329
+  KeenGrayHannah = "What did one nut say as he chased another nut?  I'm a cashew!"
+  BeautifulVioletTommy3 = "A steak pun is a rare medium well done."
+  WetAmberAlicia5 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  DisturbingTealSheree = true
+  StandardCopperDrusie = "What did one nut say as he chased another nut?  I'm a cashew!"
+}

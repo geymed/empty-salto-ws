@@ -1,0 +1,93 @@
+type dummy.MultipleLimeKinna2 {
+  annotations {
+    hidden_boolean FirmGrayHedi {
+    }
+    dummy.FeministPlumMin ForeignBronzeCorinna {
+    }
+    hidden_boolean IraqiOliveMadella {
+    }
+    dummy.AfraidAquamarineBenedetta OrthodoxSapphireRebecka2 {
+    }
+    boolean AestheticSapphireRebbecca2 {
+    }
+    number EmbarrassedAzureBianka3 {
+    }
+  }
+  boolean GreenVioletUlrika {
+    _hidden_value = true
+  }
+  boolean SunnyTanSharia {
+    _hidden_value = true
+  }
+  number BlushingTomatoTamar3 {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" DistinctTurquoiseTatum2 {
+    _hidden_value = true
+  }
+  json TechnicalCopperEde {
+    _hidden_value = true
+  }
+  serviceid HollowAmberAllix2 {
+    _hidden_value = true
+  }
+  hidden_boolean FutureCoffeeDolores {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT PlasticAquaAurelie2 {
+    _hidden_value = true
+  }
+  number GayOrangeMarigold {
+    _hidden_value = true
+  }
+  number OccasionalIvoryJulina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FitHarlequinJaclyn2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WeirdSilverRoze {
+    _hidden_value = true
+  }
+  serviceid_number UnderlyingLimeKorie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SoftCoralElane4 {
+    _hidden_value = true
+  }
+  number AggregateScarletRobbie2 {
+    _hidden_value = true
+  }
+  hidden_boolean MereGreenIleana {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean SillyYellowWinifred2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT SpiritualLavenderKatlin2 {
+    _hidden_value = true
+  }
+  string MaturePeachMaud2 {
+    _hidden_value = true
+  }
+  string StrikingOliveMagdaia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ThoughtlessBeigeBrit {
+    _hidden_value = true
+  }
+  number CruelPinkMia {
+    _hidden_value = true
+  }
+  ForeignBronzeCorinna = true
+  OrthodoxSapphireRebecka2 = true
+  AestheticSapphireRebbecca2 = true
+  EmbarrassedAzureBianka3 = 138
+  _hidden_value = true
+}

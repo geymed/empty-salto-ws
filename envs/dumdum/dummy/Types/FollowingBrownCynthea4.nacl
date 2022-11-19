@@ -1,0 +1,86 @@
+type dummy.FollowingBrownCynthea4 {
+  annotations {
+    serviceid EarlyBlushChery {
+    }
+    json ExactLimeKorella2 {
+    }
+    boolean SystematicOrangeMarcella5 {
+    }
+    json OrdinaryCopperEdin2 {
+    }
+    json TastyAquaAshli2 {
+    }
+    dummy.BoilingAmaranthAgneta SpecificChocolateDarcee2 {
+    }
+    hidden_boolean ObjectiveOrangeMamie2 {
+    }
+  }
+  dummy.DEFAULT IcyAquaAugusta2 {
+    _hidden_value = true
+  }
+  number SufficientCrimsonEnriqueta2 {
+    _hidden_value = true
+  }
+  boolean HorizontalSalmonPrudi {
+    _hidden_value = true
+  }
+  dummy.LargeBlueCharlotta DecentMoccasinLorain3 {
+    NovelScarletRosina = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ProfitablePurpleNaoma = "Why was it called the dark ages? Because of all the knights. "
+    MissingPinkMelly = 498
+    AssociatedMaroonLindsey = "Why did the tomato blush? Because it saw the salad dressing."
+    RelievedSalmonPetronia = 610
+    RoastedWhiteWenona = "My first time using an elevator was an uplifting experience. The second time let me down."
+    SillyIvoryJoell = 291
+    FrequentLavenderKatie = "Why was it called the dark ages? Because of all the knights. "
+    HiddenRedOdetta = "Slept like a log last night  woke up in the fireplace."
+    LinearRedNesta = true
+    ExcitedBlackCarita = 241
+    UptightBeigeBrittney = "My first time using an elevator was an uplifting experience. The second time let me down."
+    InjuredScarletRosalie = "Slept like a log last night  woke up in the fireplace."
+    LongAmaranthAdiana = "Why do birds fly south for the winter? Because it's too far to walk."
+    OpenBronzeCleopatra = 753
+    _hidden_value = true
+  }
+  hidden_boolean MaturePeachMatti2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid LeadingCrimsonEm3 {
+    _hidden_value = true
+  }
+  hidden_boolean GreenVioletUlrica5 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean MadHarlequinJanessa3 {
+    _hidden_value = true
+  }
+  boolean CognitiveSalmonQueenie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ConfidentHarlequinJacynth3 {
+    _hidden_value = true
+  }
+  number LikePeachMarlie2 {
+    _hidden_value = true
+  }
+  string SmilingBlueCati2 {
+    _hidden_value = true
+  }
+  number ObedientBlackCassie {
+    _hidden_value = true
+  }
+  boolean JollyBlackCaron4 {
+    _hidden_value = true
+  }
+  EarlyBlushChery = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ExactLimeKorella2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  SystematicOrangeMarcella5 = false
+  OrdinaryCopperEdin2 = "What creature is smarter than a talking parrot? A spelling bee."
+  TastyAquaAshli2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  SpecificChocolateDarcee2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

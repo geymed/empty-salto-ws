@@ -1,0 +1,99 @@
+type dummy.ReligiousCoralElena2 {
+  annotations {
+    hidden_boolean AmbitiousPeachMaure2 {
+    }
+    number NursingSalmonPetunia3 {
+    }
+    dummy.DailyCyanEvelina FlutteringAquaAstrix {
+    }
+    serviceid StrangeYellowWinnie2 {
+    }
+    hidden_boolean FantasticSapphireRegine3 {
+    }
+    serviceid MinorEmeraldGabriel2 {
+    }
+    number FrequentLavenderKati3 {
+    }
+  }
+  json BlueCoffeeDi2 {
+    _hidden_value = true
+  }
+  serviceid_number FriendlyVioletTrudy6 {
+    _hidden_value = true
+  }
+  serviceid_number HorribleOrangeMaren5 {
+    _hidden_value = true
+  }
+  serviceid SurroundingOrangeMargery4 {
+    _hidden_value = true
+  }
+  boolean GladGoldGlynda3 {
+    _hidden_value = true
+  }
+  serviceid BusyTealShirleen4 {
+    _hidden_value = true
+  }
+  string LovelyCoralEllie3 {
+    _hidden_value = true
+  }
+  serviceid BoredAquamarineBerri2 {
+    _hidden_value = true
+  }
+  serviceid SilentGrayHarli3 {
+    _hidden_value = true
+  }
+  json CondemnedAquamarineBerthe6 {
+    _hidden_value = true
+  }
+  hidden_boolean OriginalChocolateDarrelle2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT ClearTomatoTammie2 {
+    _hidden_value = true
+  }
+  boolean BloodyTomatoTallou2 {
+    _hidden_value = true
+  }
+  string MagnificentWhiteVeda4 {
+    _hidden_value = true
+  }
+  hidden_boolean MuteApricotAnneliese2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json AliveFuchsiaGillie6 {
+    _hidden_value = true
+  }
+  serviceid_number BrightVioletTory3 {
+    _hidden_value = true
+  }
+  boolean RegularCopperDorthea2 {
+    _hidden_value = true
+  }
+  boolean SignificantBrownDanni4 {
+    _hidden_value = true
+  }
+  hidden_boolean GreekIndigoJoanne2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean OpenBronzeCleopatra2 {
+    _hidden_value = true
+  }
+  string WorldwideTanShanie {
+    _hidden_value = true
+  }
+  string CapableEmeraldFlorinda {
+    _hidden_value = true
+  }
+  NursingSalmonPetunia3 = 767
+  FlutteringAquaAstrix = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  StrangeYellowWinnie2 = "What do you call two barracuda fish?  A Pairacuda!"
+  MinorEmeraldGabriel2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  FrequentLavenderKati3 = 922
+  _hidden_value = true
+}

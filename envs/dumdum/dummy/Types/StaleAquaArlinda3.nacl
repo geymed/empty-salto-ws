@@ -1,0 +1,23 @@
+type dummy.StaleAquaArlinda3 {
+  annotations {
+    serviceid EntireEmeraldFrancyne4 {
+    }
+    string StormyTurquoiseTilly {
+    }
+    boolean OutstandingTealStefanie5 {
+    }
+    json UncomfortablePlumMoina3 {
+    }
+    number TallCyanFayette2 {
+    }
+  }
+  serviceid VictorianJadeKalina {
+    _hidden_value = true
+  }
+  EntireEmeraldFrancyne4 = "What creature is smarter than a talking parrot? A spelling bee."
+  StormyTurquoiseTilly = "To be Frank, I'd have to change my name."
+  OutstandingTealStefanie5 = true
+  UncomfortablePlumMoina3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  TallCyanFayette2 = 806
+  _hidden_value = true
+}

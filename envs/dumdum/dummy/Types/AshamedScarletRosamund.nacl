@@ -1,0 +1,125 @@
+type dummy.AshamedScarletRosamund {
+  annotations {
+    boolean NoisySilverSaidee2 {
+    }
+    serviceid WrongBrownCrissie2 {
+    }
+    json EffectiveChocolateDeedee {
+    }
+    json RelevantCoffeeDora5 {
+    }
+  }
+  hidden_boolean NervousAzureBrana3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number CombinedOliveMair4 {
+    _hidden_value = true
+  }
+  hidden_boolean ManagingLimeKitti {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid AfraidCrimsonEmmye2 {
+    _hidden_value = true
+  }
+  serviceid SilkyAquaBabs2 {
+    _hidden_value = true
+  }
+  hidden_boolean NoisySilverSaidee3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean PreviousBrownDanica {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid WeeklyLavenderKessia4 {
+    _hidden_value = true
+  }
+  "List<number>" EncouragingBlackCari2 {
+    _hidden_value = true
+  }
+  json FlakyAmberAlfy4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GivenHarlequinJania {
+    _hidden_value = true
+  }
+  dummy.AfraidAquamarineBenedetta ResultingPurpleNadean3 {
+    PrettyWhiteVirgina = false
+    WeeSapphireRevkah = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ManualRosePaola = "Why did the tomato blush? Because it saw the salad dressing."
+    InjuredScarletRosalind = "Why did the tomato blush? Because it saw the salad dressing."
+    NosyWhiteVida2 = 5
+    FollowingBrownCynthea = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    CriminalFuchsiaGeorgette = "What do you call two barracuda fish?  A Pairacuda!"
+    WanderingTomatoSuzanne = "How come the stadium got hot after the game? Because all of the fans left."
+    UnexpectedMagentaLaurella = false
+    TurkishPurpleMozelle = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    _hidden_value = true
+  }
+  hidden_boolean ZanyBlueCelie5 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<json>" SteepMoccasinLulita2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT StickyAquaArlyne3 {
+    _hidden_value = true
+  }
+  number NaturalBrownCristionna2 {
+    _hidden_value = true
+  }
+  json InterimOrangeMalory2 {
+    _hidden_value = true
+  }
+  hidden_boolean CalmPurpleNancee2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid VictoriousBlueCecile2 {
+    _hidden_value = true
+  }
+  serviceid_number NewBlueChandal4 {
+    _hidden_value = true
+  }
+  json OlympicRedNessa3 {
+    _hidden_value = true
+  }
+  serviceid DamagedAmberAleda {
+    _hidden_value = true
+  }
+  serviceid InstantSapphireRandy {
+    _hidden_value = true
+  }
+  serviceid LateAmethystAmber5 {
+    _hidden_value = true
+  }
+  hidden_boolean GrowingCrimsonEnrika2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string StrikingOliveMag2 {
+    _hidden_value = true
+  }
+  boolean ManagerialPurpleNerita {
+    _hidden_value = true
+  }
+  json SatisfiedHarlequinJean4 {
+    _hidden_value = true
+  }
+  NoisySilverSaidee2 = false
+  WrongBrownCrissie2 = "I'll tell you what often gets over looked... garden fences."
+  EffectiveChocolateDeedee = "What do you do on a remote island? Try and find the TV island it belongs to."
+  RelevantCoffeeDora5 = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

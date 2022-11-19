@@ -1,0 +1,72 @@
+type dummy.VisualGreenIngeberg3 {
+  annotations {
+    boolean HappyVioletValaria2 {
+    }
+    string BeautifulTomatoTabby2 {
+    }
+    boolean SmallBlueCharity {
+    }
+    serviceid CompulsoryOliveMallorie3 {
+    }
+    string GreatBlueCharin5 {
+    }
+  }
+  string TallYellowXena2 {
+    _hidden_value = true
+  }
+  string NiceBrownCybil4 {
+    _hidden_value = true
+  }
+  hidden_boolean ImpressedPeachMariska2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean EasyBronzeCollette4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number IndependentChocolateDelinda2 {
+    _hidden_value = true
+  }
+  serviceid PsychiatricSilverRoxine2 {
+    _hidden_value = true
+  }
+  serviceid RedWhiteWendie4 {
+    _hidden_value = true
+  }
+  serviceid_number TanYellowYelena2 {
+    _hidden_value = true
+  }
+  serviceid BlueVioletTorie {
+    _hidden_value = true
+  }
+  boolean SurroundingOrangeMargette {
+    _hidden_value = true
+  }
+  serviceid_number DisgustedAzureBev3 {
+    _hidden_value = true
+  }
+  serviceid HilariousBlackCarolyne3 {
+    _hidden_value = true
+  }
+  string UnitedCopperEddy {
+    _hidden_value = true
+  }
+  dummy.EmpiricalPinkMeara SharpAquaBabbette {
+    InfluentialMoccasinLorette = "To be Frank, I'd have to change my name."
+    RichCopperDorelle = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    TerribleEmeraldFredra = "What creature is smarter than a talking parrot? A spelling bee."
+    LoudLavenderKiele2 = "Why did the tomato blush? Because it saw the salad dressing."
+    _hidden_value = true
+  }
+  HappyVioletValaria2 = true
+  BeautifulTomatoTabby2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  SmallBlueCharity = false
+  CompulsoryOliveMallorie3 = "Why is Peter Pan always flying? Because he Neverlands."
+  GreatBlueCharin5 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

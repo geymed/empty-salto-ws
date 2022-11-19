@@ -1,0 +1,28 @@
+type dummy.UncomfortablePlumModestia {
+  annotations {
+    hidden_boolean RoughAquaAveline2 {
+    }
+    serviceid FragileTealSonia3 {
+    }
+    string ScrawnyYellowWilly2 {
+    }
+    boolean SurprisedEmeraldFredelia2 {
+    }
+    number DelightfulBeigeCandi2 {
+    }
+    boolean BadTurquoiseTobye {
+    }
+    boolean ConsciousHarlequinJeanie {
+    }
+  }
+  dummy.DEFAULT VaguePinkMeghann2 {
+    _hidden_value = true
+  }
+  FragileTealSonia3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  ScrawnyYellowWilly2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SurprisedEmeraldFredelia2 = false
+  DelightfulBeigeCandi2 = 671
+  BadTurquoiseTobye = true
+  ConsciousHarlequinJeanie = false
+  _hidden_value = true
+}

@@ -1,0 +1,74 @@
+type dummy.ElectoralLimeKristien2 {
+  annotations {
+    boolean StripedYellowWinonah {
+    }
+    hidden_boolean WetAquamarineBelita {
+    }
+    dummy.DEFAULT AwfulHarlequinJaquenetta {
+    }
+    string NosyWhiteVida5 {
+    }
+  }
+  string FrailVioletTrude5 {
+    _hidden_value = true
+  }
+  json ImaginativeTanSelle {
+    _hidden_value = true
+  }
+  boolean TroubledBeigeBrittaney2 {
+    _hidden_value = true
+  }
+  hidden_boolean UnawareSapphireRee2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean FrontCopperEada {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json InappropriateRoseOthilie3 {
+    _hidden_value = true
+  }
+  serviceid SpiritualLavenderKatrina {
+    _hidden_value = true
+  }
+  serviceid BoredPlumMonique2 {
+    _hidden_value = true
+  }
+  hidden_boolean CompleteCoffeeDevon2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number AcuteLavenderKerianne {
+    _hidden_value = true
+  }
+  serviceid AdjacentSilverRoxanne2 {
+    _hidden_value = true
+  }
+  hidden_boolean ArtificialMagentaLenette3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number TerribleEmeraldFredia {
+    _hidden_value = true
+  }
+  json BlackBlushClarita3 {
+    _hidden_value = true
+  }
+  serviceid ProudHarlequinJana2 {
+    _hidden_value = true
+  }
+  string MajorBlushClair2 {
+    _hidden_value = true
+  }
+  StripedYellowWinonah = false
+  AwfulHarlequinJaquenetta = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  NosyWhiteVida5 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+}

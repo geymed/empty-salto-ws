@@ -1,0 +1,119 @@
+type dummy.ZanyBlueCelie3 {
+  annotations {
+    serviceid_number SmallAmaranthAgathe {
+    }
+    dummy.WanderingTomatoSuzann2 UndergroundScarletRomona2 {
+    }
+    number ScientificCrimsonErda2 {
+    }
+    number ImpressedPeachMariska {
+    }
+    serviceid_number NastyWhiteVernice2 {
+    }
+  }
+  boolean ScrawnyYellowWilmette2 {
+    _hidden_value = true
+  }
+  serviceid TraditionalChocolateDeidre2 {
+    _hidden_value = true
+  }
+  boolean RevolutionaryJadeKaryl {
+    _hidden_value = true
+  }
+  dummy.SpotlessTurquoiseTildy RollingSilverRubina2 {
+    ResonantApricotAnstice = true
+    LittleAmaranthAdella = 144
+    NegativeFuchsiaGavra = 303
+    LocalBlueCharmaine = "Im only familiar with 25 letters in the English language. I dont know why."
+    CuriousLimeKira = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    MedicalCoffeeDevonne = true
+    InnocentMagentaLari = false
+    LoudLavenderKiele = 280
+    CleverTealSibby = 329
+    FunOrangeMarcy = 977
+    ChillyAmaranthAilis = 656
+    GentleIndigoJoceline = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    _hidden_value = true
+  }
+  dummy.AfraidCrimsonEmogene NervousHarlequinJany3 {
+    TameTomatoSusette = 664
+    DeliberateRedNoellyn = "Why didnt the skeleton cross the road? Because he had no guts."
+    PainfulMaroonLily = "Why do birds fly south for the winter? Because it's too far to walk."
+    GrowingCrimsonEnrichetta = 852
+    VisualGreenIngaborg = 641
+    HilariousBlackCaroljean = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    UglyYellowZabrina = 187
+    ParticularBlushClaudelle = true
+    DefinitePeachMartha = 14
+    PleasedEmeraldGabriela = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  number NavalPinkMelamie3 {
+    _hidden_value = true
+  }
+  dummy.PassingSalmonPippa StickyAquaArlyn2 {
+    FaintMaroonLiva = "What did one nut say as he chased another nut?  I'm a cashew!"
+    DoubtfulRosePansy = "Why is Peter Pan always flying? Because he Neverlands."
+    AnxiousAquamarineBeret = "My first time using an elevator was an uplifting experience. The second time let me down."
+    AfricanFuchsiaGiana = false
+    LiableLimeKimmi = 776
+    LeftCoffeeDenny = false
+    _hidden_value = true
+  }
+  serviceid_number ForwardSapphireRici {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UsefulChocolateDee3 {
+    _hidden_value = true
+  }
+  serviceid_number LivingGrayHenrieta {
+    _hidden_value = true
+  }
+  hidden_boolean RespectableRosePearla {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid MaleCoffeeDido {
+    _hidden_value = true
+  }
+  hidden_boolean ToughYellowYsabel {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT SoftAquamarineBarby3 {
+    _hidden_value = true
+  }
+  hidden_boolean IdeologicalOrangeMargaretha {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT BreakableTealShirlee {
+    _hidden_value = true
+  }
+  boolean PolishPinkMeredithe {
+    _hidden_value = true
+  }
+  json DefiantAzureBetteann2 {
+    _hidden_value = true
+  }
+  number PeacefulOrangeMargret {
+    _hidden_value = true
+  }
+  hidden_boolean CoastalPlumMichel2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json ConstitutionalHarlequinJayne {
+    _hidden_value = true
+  }
+  SmallAmaranthAgathe = 478
+  UndergroundScarletRomona2 = "Why did the kid cross the playground? To get to the other slide."
+  ScientificCrimsonErda2 = 507
+  ImpressedPeachMariska = 871
+  NastyWhiteVernice2 = 931
+  _hidden_value = true
+}

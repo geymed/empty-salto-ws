@@ -1,0 +1,77 @@
+type dummy.ChosenSilverSarina {
+  annotations {
+    serviceid_number ManualRosePaolina {
+    }
+    number PunyAmaranthAeriel3 {
+    }
+    number MarriedCyanFanechka3 {
+    }
+    json ChillyAmaranthAilsun {
+    }
+    boolean BeautifulVioletTommi {
+    }
+  }
+  json ShiveringAquaBabita {
+    _hidden_value = true
+  }
+  number IsolatedPeachMarketa4 {
+    _hidden_value = true
+  }
+  json PresentBrownCristi2 {
+    _hidden_value = true
+  }
+  dummy.AverageTomatoTabbitha PublicBlushChristyna {
+    LonelyAzureBobine = "Whoever invented the knock-knock joke should get a no bell prize."
+    ComplexCopperDrucy = 524
+    DangerousCrimsonEssie = 211
+    FreshCopperDyanne = "What did one nut say as he chased another nut?  I'm a cashew!"
+    DepressedAzureBetty = true
+    HiddenRedOdessa = 101
+    ProminentLavenderKelci = 835
+    ImmensePlumMirna = 900
+    NavalPinkMelamie = true
+    MysteriousAzureBobinette = 627
+    RenewedSilverSandy = true
+    PriorRosePauli = 43
+    EagerBeigeCandis = 320
+    _hidden_value = true
+  }
+  dummy.StiffPeachMarya InvolvedCoffeeDena {
+    BritishBlushCherin = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    InnerFuchsiaGenovera = '''
+Did you hear about the guy whose whole left side was cut off? He's all right now.
+I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
+Did you know that protons have mass? I didn't even know they were catholic.
+'''
+    CurlyAmberAlecia = 344
+    ArtisticPeachMathilda = "Why did the kid cross the playground? To get to the other slide."
+    OpenBronzeClio = false
+    LinguisticJadeKarilynn = 819
+    MonthlyMaroonLinnea = true
+    FantasticBlackCarlota = 153
+    ThinCyanEvangeline = 280
+    _hidden_value = true
+  }
+  hidden_boolean RoyalBrownCristin3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json GrumpyVioletUrsulina3 {
+    _hidden_value = true
+  }
+  string ComplexCopperDrusi2 {
+    _hidden_value = true
+  }
+  number ScaryYellowWillow {
+    _hidden_value = true
+  }
+  ManualRosePaolina = 314
+  PunyAmaranthAeriel3 = 860
+  MarriedCyanFanechka3 = 281
+  ChillyAmaranthAilsun = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  BeautifulVioletTommi = true
+  _hidden_value = true
+}

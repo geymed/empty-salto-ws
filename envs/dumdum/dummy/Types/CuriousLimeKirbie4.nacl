@@ -1,0 +1,117 @@
+type dummy.CuriousLimeKirbie4 {
+  annotations {
+    boolean PremierOrangeMari7 {
+    }
+    serviceid_number EnthusiasticBlackCarina3 {
+    }
+    json UnlikelyCrimsonEthelda3 {
+    }
+    serviceid_number JuicyApricotArdyth2 {
+    }
+    serviceid AppallingTanSelene2 {
+    }
+    boolean JoyousBlackCarry2 {
+    }
+  }
+  serviceid_number LooseAquaAugustine {
+    _hidden_value = true
+  }
+  hidden_boolean YummyYellowZorina2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number QualifiedPinkMellicent2 {
+    _hidden_value = true
+  }
+  serviceid LengthySapphireRania5 {
+    _hidden_value = true
+  }
+  string CommercialCopperDorelle {
+    _hidden_value = true
+  }
+  serviceid PowerfulTomatoStephana3 {
+    _hidden_value = true
+  }
+  boolean RetiredSilverSarah2 {
+    _hidden_value = true
+  }
+  hidden_boolean BreakableTealShir3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string UnnecessaryMoccasinLoralie2 {
+    _hidden_value = true
+  }
+  number QuietApricotAnnissa3 {
+    _hidden_value = true
+  }
+  serviceid HappyVioletValaria3 {
+    _hidden_value = true
+  }
+  hidden_boolean DisabledHarlequinJanie4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json ConsiderableChocolateDemetria2 {
+    _hidden_value = true
+  }
+  number HungryMaroonLisa3 {
+    _hidden_value = true
+  }
+  hidden_boolean IntenseLavenderKatti2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number RollingSilverRubie2 {
+    _hidden_value = true
+  }
+  number PotentialCoralElberta3 {
+    _hidden_value = true
+  }
+  serviceid RegionalCopperDorice3 {
+    _hidden_value = true
+  }
+  json ProvincialPeachMariya2 {
+    _hidden_value = true
+  }
+  number FantasticSapphireReggie3 {
+    _hidden_value = true
+  }
+  serviceid ActiveCopperDredi5 {
+    _hidden_value = true
+  }
+  serviceid SpicyAquaArlina3 {
+    _hidden_value = true
+  }
+  serviceid DarkChocolateDeanne3 {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" IndependentChocolateDell2 {
+    _hidden_value = true
+  }
+  serviceid DampMoccasinLorrin3 {
+    _hidden_value = true
+  }
+  json ExtremeHarlequinJackie2 {
+    _hidden_value = true
+  }
+  hidden_boolean IncCrimsonErmentrude2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number AdditionalCopperDoti2 {
+    _hidden_value = true
+  }
+  PremierOrangeMari7 = true
+  EnthusiasticBlackCarina3 = 240
+  UnlikelyCrimsonEthelda3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  JuicyApricotArdyth2 = 761
+  AppallingTanSelene2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  JoyousBlackCarry2 = true
+  _hidden_value = true
+}

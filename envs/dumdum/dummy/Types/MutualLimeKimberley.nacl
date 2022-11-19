@@ -1,0 +1,96 @@
+type dummy.MutualLimeKimberley {
+  annotations {
+    serviceid_number ThirstyAquaAstrid {
+    }
+    string AdequateGrayHildegaard {
+    }
+    dummy.UnknownFuchsiaGilberte MuteApricotAnneliese {
+    }
+    number FamousCoralElianora2 {
+    }
+    json MereGreenIleane {
+    }
+    serviceid AutomaticLavenderKiah2 {
+    }
+  }
+  dummy.DEFAULT WideAmethystAlyson {
+    _hidden_value = true
+  }
+  hidden_boolean SubjectiveSapphireRiane3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ElaborateRedNicolette2 {
+    _hidden_value = true
+  }
+  string FilthyAmberAlexine3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT TameTomatoSusette2 {
+    _hidden_value = true
+  }
+  serviceid_number AgriculturalGoldGoldarina {
+    _hidden_value = true
+  }
+  hidden_boolean SelectiveRedNovelia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json SmoggyTurquoiseTiffany2 {
+    _hidden_value = true
+  }
+  serviceid_number IllEmeraldGael2 {
+    _hidden_value = true
+  }
+  hidden_boolean SlowCyanEugenie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid AshamedScarletRosamond3 {
+    _hidden_value = true
+  }
+  hidden_boolean WelshGrayHatty {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number DueCopperDorthy {
+    _hidden_value = true
+  }
+  string CompleteCoffeeDevinne2 {
+    _hidden_value = true
+  }
+  serviceid_number WrittenGreenIvonne {
+    _hidden_value = true
+  }
+  number HarshApricotAnn {
+    _hidden_value = true
+  }
+  serviceid MathematicalRoseOrsola {
+    _hidden_value = true
+  }
+  string ArchitecturalRosePatrica3 {
+    _hidden_value = true
+  }
+  number DeterminedOrangeMarin {
+    _hidden_value = true
+  }
+  hidden_boolean KindVioletValma2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ReducedPinkMeta {
+    _hidden_value = true
+  }
+  ThirstyAquaAstrid = 784
+  AdequateGrayHildegaard = "What creature is smarter than a talking parrot? A spelling bee."
+  MuteApricotAnneliese = true
+  FamousCoralElianora2 = 759
+  MereGreenIleane = "What creature is smarter than a talking parrot? A spelling bee."
+  AutomaticLavenderKiah2 = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

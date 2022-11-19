@@ -1,0 +1,105 @@
+type dummy.PreciseIndigoJobi2 {
+  annotations {
+    boolean SillyYellowWini6 {
+    }
+    json ShrillApricotAntoinette3 {
+    }
+    boolean MightyWhiteVerene3 {
+    }
+    boolean PainfulMaroonLilllie3 {
+    }
+  }
+  dummy.FamousCoralElianora ScreechingApricotAnthe {
+    ShinyTurquoiseTiff = 506
+    RelativeGoldGuillema = "My first time using an elevator was an uplifting experience. The second time let me down."
+    OkSapphireRhianna = 210
+    StupidTomatoSusan = "My first time using an elevator was an uplifting experience. The second time let me down."
+    EarlyAmethystAmanda = "Slept like a log last night  woke up in the fireplace."
+    UncertainMagentaLela = "Im only familiar with 25 letters in the English language. I dont know why."
+    UpsetOliveLyssa = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    WorryingSilverRozamond2 = "Why did the tomato blush? Because it saw the salad dressing."
+    FatIvoryJoelle = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    PlasticAquaAuria = "A steak pun is a rare medium well done."
+    _hidden_value = true
+  }
+  "Map<serviceid_number>" BitterJadeKass4 {
+    _hidden_value = true
+  }
+  json HiddenRedOdessa2 {
+    _hidden_value = true
+  }
+  serviceid DefeatedAzureBetta2 {
+    _hidden_value = true
+  }
+  serviceid_number ImportantTealSophie {
+    _hidden_value = true
+  }
+  boolean FuzzyAquaAtlante3 {
+    _hidden_value = true
+  }
+  json FarBlushChristiane3 {
+    _hidden_value = true
+  }
+  string ConsiderableChocolateDemetria {
+    _hidden_value = true
+  }
+  number DrabTurquoiseTasha4 {
+    _hidden_value = true
+  }
+  hidden_boolean ExceptionalOliveMadlin {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ScrawnyYellowWilma2 {
+    _hidden_value = true
+  }
+  json LoudApricotAnnadiana {
+    _hidden_value = true
+  }
+  serviceid_number BrilliantGreenIlyse {
+    _hidden_value = true
+  }
+  number GreatBlueCharin3 {
+    _hidden_value = true
+  }
+  boolean FlatGrayHannis3 {
+    _hidden_value = true
+  }
+  serviceid_number SquareAmberAlvina2 {
+    _hidden_value = true
+  }
+  string ExuberantBlackCarla3 {
+    _hidden_value = true
+  }
+  string HealthyGoldGratia2 {
+    _hidden_value = true
+  }
+  hidden_boolean BlackVioletTonye3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ElectricGreenIngunna2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MagneticPeachMavra2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AmusedBeigeCacilie3 {
+    _hidden_value = true
+  }
+  json ResultingPurpleNadean4 {
+    _hidden_value = true
+  }
+  string PastCoffeeDianemarie3 {
+    _hidden_value = true
+  }
+  SillyYellowWini6 = false
+  ShrillApricotAntoinette3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  MightyWhiteVerene3 = false
+  PainfulMaroonLilllie3 = false
+  _hidden_value = true
+}

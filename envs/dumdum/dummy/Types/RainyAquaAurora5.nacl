@@ -1,0 +1,22 @@
+type dummy.RainyAquaAurora5 {
+  annotations {
+    hidden_boolean HolyIndigoJemima2 {
+    }
+    serviceid ManyWhiteVeradis {
+    }
+    number OutrageousAzureBrandise2 {
+    }
+    json GrotesqueTurquoiseTersina3 {
+    }
+  }
+  json RadicalGrayHelaine {
+    _hidden_value = true
+  }
+  serviceid BewilderedAquamarineBerny {
+    _hidden_value = true
+  }
+  ManyWhiteVeradis = "Why did the tomato blush? Because it saw the salad dressing."
+  OutrageousAzureBrandise2 = 176
+  GrotesqueTurquoiseTersina3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

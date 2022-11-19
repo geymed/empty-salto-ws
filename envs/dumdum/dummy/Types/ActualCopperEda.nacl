@@ -1,0 +1,129 @@
+type dummy.ActualCopperEda {
+  annotations {
+    string ConventionalGoldGus {
+    }
+    hidden_boolean OpenTealStarlene2 {
+    }
+    serviceid WonderfulYellowZonda {
+    }
+    json CompatibleSapphireRenell2 {
+    }
+    serviceid RearPurpleMuire {
+    }
+  }
+  json DemocraticCrimsonEmyle4 {
+    _hidden_value = true
+  }
+  json AutomaticLavenderKiah3 {
+    _hidden_value = true
+  }
+  hidden_boolean MagneticPeachMavis {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid TerribleBeigeBrinna2 {
+    _hidden_value = true
+  }
+  serviceid LittleBlushChlo2 {
+    _hidden_value = true
+  }
+  boolean NeutralPeachMarylynne {
+    _hidden_value = true
+  }
+  json VastEmeraldFred3 {
+    _hidden_value = true
+  }
+  string OkSapphireRhianon3 {
+    _hidden_value = true
+  }
+  dummy.StaleAquaArlina CleverTealSibeal {
+    FatalPurpleMyrtle = "Why is Peter Pan always flying? Because he Neverlands."
+    NaughtyAzureBonnibelle = 760
+    ControlledTanSheila = "Why didnt the skeleton cross the road? Because he had no guts."
+    EncouragingBlackCaresse = 941
+    FollowingBrownCynthia2 = "What creature is smarter than a talking parrot? A spelling bee."
+    ProtectiveRoseOlive = "What do you call two barracuda fish?  A Pairacuda!"
+    NosyWhiteVicky = 491
+    UniqueFuchsiaGerta = false
+    PassivePurpleMyrah = 608
+    DistinguishedPurpleNatassia = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    CloudyTomatoTamqrah = 24
+    BrightVioletTova = "What did one nut say as he chased another nut?  I'm a cashew!"
+    SquealingApricotArabel = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    RegisteredPurpleNan = "How come the stadium got hot after the game? Because all of the fans left."
+    QuickCoralEleni = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  hidden_boolean EagerBeigeCandra2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean StraightAmethystAlys {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number LoudApricotAnnabelle {
+    _hidden_value = true
+  }
+  dummy.BoilingAmaranthAgneta FormalCoralElizabeth3 {
+    PuzzledTanShandy = 255
+    ConservationPlumMoira2 = "Why didnt the skeleton cross the road? Because he had no guts."
+    CuriousLimeKirby = "How come the stadium got hot after the game? Because all of the fans left."
+    EmbarrassedAzureBianka = "Im only familiar with 25 letters in the English language. I dont know why."
+    TiredGoldGretal = 213
+    DemocraticCrimsonEngracia = "Im only familiar with 25 letters in the English language. I dont know why."
+    AcceptedTanShae = "Why was it called the dark ages? Because of all the knights. "
+    ExistingCoffeeDesirae = "My first time using an elevator was an uplifting experience. The second time let me down."
+    SunnyTanSharl = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    UnconsciousSapphireRaven = "My first time using an elevator was an uplifting experience. The second time let me down."
+    FellowIvoryJustina = "What do you call two barracuda fish?  A Pairacuda!"
+    MereGreenIdette = 619
+    ColossalAmaranthAbby = false
+    CuddlyAmberAlanna = 750
+    UnnecessaryMoccasinLoraine = true
+    SpatialSalmonPerri = {
+      legit = "Why did the tomato blush? Because it saw the salad dressing."
+    }
+    _hidden_value = true
+  }
+  serviceid DeliberateRedNoelyn {
+    _hidden_value = true
+  }
+  json SubsequentFuchsiaGilbertine {
+    _hidden_value = true
+  }
+  string TheoreticalIndigoJeniffer {
+    _hidden_value = true
+  }
+  string MajorBlushClara {
+    _hidden_value = true
+  }
+  serviceid IndianGrayHarmonie {
+    _hidden_value = true
+  }
+  json GenerousLavenderKayle3 {
+    _hidden_value = true
+  }
+  hidden_boolean DrunkPeachMarlane {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean AppropriateChocolateDarci2 {
+    _hidden_value = true
+  }
+  number AwkwardPeachMarylee2 {
+    _hidden_value = true
+  }
+  serviceid HelplessTealSophey2 {
+    _hidden_value = true
+  }
+  ConventionalGoldGus = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  WonderfulYellowZonda = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  CompatibleSapphireRenell2 = "Why was it called the dark ages? Because of all the knights. "
+  RearPurpleMuire = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

@@ -1,0 +1,134 @@
+type dummy.UnacceptableSalmonPenelopa {
+  annotations {
+    boolean UnconsciousSapphireRay {
+    }
+    serviceid_number UnsightlyTurquoiseTiphany {
+    }
+    serviceid StrategicIndigoJeannine {
+    }
+    hidden_boolean SlipperyAquamarineBarbe {
+    }
+    serviceid_number EqualCrimsonEmilie {
+    }
+    serviceid_number DivineRoseOpalina2 {
+    }
+  }
+  dummy.BrightTomatoTamara GastricMagentaLavina2 {
+    UsedFuchsiaGeorgena = 47
+    MolecularRedNerte2 = 961
+    LongVioletVanessa = 291
+    _hidden_value = true
+  }
+  serviceid SubjectiveSapphireRiannon {
+    _hidden_value = true
+  }
+  serviceid_number BindingSalmonPetra {
+    _hidden_value = true
+  }
+  boolean TopChocolateDarda2 {
+    _hidden_value = true
+  }
+  number DivineRoseOpalina3 {
+    _hidden_value = true
+  }
+  hidden_boolean PracticalCopperDorisa {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number AnnoyedAquamarineBenita2 {
+    _hidden_value = true
+  }
+  hidden_boolean FatalPurpleMyrtle2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT StrangeCoralEdna2 {
+    _hidden_value = true
+  }
+  hidden_boolean DifferentTealSilvie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean InternalCoralEdyth3 {
+    _hidden_value = true
+  }
+  boolean FrailVioletTrude2 {
+    _hidden_value = true
+  }
+  hidden_boolean ParallelMoccasinLuisa2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number DearGoldGlennis {
+    _hidden_value = true
+  }
+  hidden_boolean DefinitePeachMartguerita {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number QuietWhiteVivienne2 {
+    _hidden_value = true
+  }
+  serviceid_number ExcellentCoralEilis2 {
+    _hidden_value = true
+  }
+  number RealisticMoccasinLolita {
+    _hidden_value = true
+  }
+  number PsychiatricSilverRoxine {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EstimatedOrangeMargette {
+    _hidden_value = true
+  }
+  serviceid DearGoldGloria {
+    _hidden_value = true
+  }
+  dummy.DistinctTurquoiseTatum EnchantingBlackCaresa2 {
+    VariableRedNomi = 190
+    BindingSalmonPeta = "I'll tell you what often gets over looked... garden fences."
+    AcceptableGrayHelli = "A steak pun is a rare medium well done."
+    LoudApricotAnnadiane = "Why was it called the dark ages? Because of all the knights. "
+    HomelessSilverSaloma = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    _hidden_value = true
+  }
+  number CognitiveSalmonQuinta {
+    _hidden_value = true
+  }
+  number HungryAzureBlisse {
+    _hidden_value = true
+  }
+  string IndividualBrownCrystal {
+    _hidden_value = true
+  }
+  boolean FrightenedAzureBlaire {
+    _hidden_value = true
+  }
+  hidden_boolean CostlySapphireReeva {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean AwfulHarlequinJaquith {
+    _hidden_value = true
+  }
+  number ConfidentialScarletRois2 {
+    _hidden_value = true
+  }
+  number ExactLimeKore {
+    _hidden_value = true
+  }
+  UnconsciousSapphireRay = false
+  UnsightlyTurquoiseTiphany = 839
+  StrategicIndigoJeannine = "Why is Peter Pan always flying? Because he Neverlands."
+  EqualCrimsonEmilie = 233
+  DivineRoseOpalina2 = 116
+  _hidden_value = true
+}

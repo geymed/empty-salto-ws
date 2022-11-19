@@ -1,0 +1,27 @@
+type dummy.WonderfulBlueCeleste {
+  annotations {
+    serviceid_number SunnyTanSharity2 {
+    }
+    number SharpFuchsiaGeralda {
+    }
+    hidden_boolean ExcitedBlackCariotta2 {
+    }
+    hidden_boolean HighBlueCharita {
+    }
+    number SemanticRedNissa {
+    }
+  }
+  number MightyTanShandie {
+    _hidden_value = true
+  }
+  boolean FrailVioletTrude {
+    _hidden_value = true
+  }
+  serviceid MiniatureAmaranthAdriana {
+    _hidden_value = true
+  }
+  SunnyTanSharity2 = 136
+  SharpFuchsiaGeralda = 12
+  SemanticRedNissa = 710
+  _hidden_value = true
+}

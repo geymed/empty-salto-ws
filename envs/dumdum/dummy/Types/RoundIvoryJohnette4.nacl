@@ -1,0 +1,52 @@
+type dummy.RoundIvoryJohnette4 {
+  annotations {
+    string HistoricLavenderKelly {
+    }
+    number ZealousBlueCelestyna {
+    }
+    serviceid OutdoorSilverSarita {
+    }
+    serviceid ProperCoralElisa4 {
+    }
+  }
+  serviceid BreakableTealShirlee2 {
+    _hidden_value = true
+  }
+  json IrrelevantPurpleNanete {
+    _hidden_value = true
+  }
+  hidden_boolean UpsetOliveMabel4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number SingleBronzeCoral {
+    _hidden_value = true
+  }
+  json FrontCopperEadith2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT NearFuchsiaGeri3 {
+    _hidden_value = true
+  }
+  serviceid CriticalCrimsonEstel4 {
+    _hidden_value = true
+  }
+  number AbleBlushChrista {
+    _hidden_value = true
+  }
+  number CoolGreenIolanthe {
+    _hidden_value = true
+  }
+  string ConsistentHarlequinJanis2 {
+    _hidden_value = true
+  }
+  number ParticularBlushClaude2 {
+    _hidden_value = true
+  }
+  HistoricLavenderKelly = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ZealousBlueCelestyna = 500
+  OutdoorSilverSarita = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ProperCoralElisa4 = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

@@ -1,0 +1,81 @@
+type dummy.SillyIvoryJoell2 {
+  annotations {
+    string StormyTurquoiseTimi {
+    }
+    serviceid_number LesserMoccasinLucretia3 {
+    }
+    string FellowIvoryJustina2 {
+    }
+    string InjuredScarletRosalinda {
+    }
+    dummy.DEFAULT EasyTealSiouxie {
+    }
+  }
+  hidden_boolean ContemporaryFuchsiaGeorgianne {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT IntactRosePatsy {
+    _hidden_value = true
+  }
+  number PurpleWhiteViviana {
+    _hidden_value = true
+  }
+  hidden_boolean CrookedAmberAlison2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number VividTanShawnee3 {
+    _hidden_value = true
+  }
+  string WoodenAquamarineBellanca4 {
+    _hidden_value = true
+  }
+  json StrictLavenderKath2 {
+    _hidden_value = true
+  }
+  number DisgustedAzureBeverie {
+    _hidden_value = true
+  }
+  serviceid_number UnacceptableSalmonPenelopa4 {
+    _hidden_value = true
+  }
+  json HiddenRedOdelle3 {
+    _hidden_value = true
+  }
+  boolean UsefulChocolateDedra2 {
+    _hidden_value = true
+  }
+  serviceid FantasticBlackCarlotta3 {
+    _hidden_value = true
+  }
+  hidden_boolean SuddenGoldGwen3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number CheerfulBeigeCalypso2 {
+    _hidden_value = true
+  }
+  serviceid ConfusedAquamarineBertine {
+    _hidden_value = true
+  }
+  json QuietWhiteVivienne3 {
+    _hidden_value = true
+  }
+  hidden_boolean InternalCoralEffie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  StormyTurquoiseTimi = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  LesserMoccasinLucretia3 = 144
+  FellowIvoryJustina2 = "Dad Im hungry  Hi hungry Im dad"
+  InjuredScarletRosalinda = "What did one nut say as he chased another nut?  I'm a cashew!"
+  EasyTealSiouxie = {
+    legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  _hidden_value = true
+}

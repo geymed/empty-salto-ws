@@ -1,0 +1,75 @@
+type dummy.InadequateLavenderKeeley2 {
+  annotations {
+    number LightTurquoiseTessy3 {
+    }
+    serviceid_number EnviousAzureBiddie {
+    }
+    hidden_boolean ObligedOrangeMarcellina {
+    }
+    number CriticalCrimsonEstel2 {
+    }
+    serviceid_number BetterVioletTomi {
+    }
+  }
+  serviceid_number GreasyAquaAubree2 {
+    _hidden_value = true
+  }
+  boolean RunningPlumMirabel {
+    _hidden_value = true
+  }
+  json SupremeGreenIsabelita {
+    _hidden_value = true
+  }
+  serviceid_number ContinuingGreenIrma {
+    _hidden_value = true
+  }
+  number MassiveAmaranthAdria {
+    _hidden_value = true
+  }
+  serviceid CompactPurpleNannette {
+    _hidden_value = true
+  }
+  number NeatMoccasinLorita2 {
+    _hidden_value = true
+  }
+  serviceid DarkTomatoTarra2 {
+    _hidden_value = true
+  }
+  boolean PreparedCyanFelicdad2 {
+    _hidden_value = true
+  }
+  string DeterminedBeigeCandice2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MinisterialTanSheela {
+    _hidden_value = true
+  }
+  serviceid AnxiousHarlequinJanna {
+    _hidden_value = true
+  }
+  hidden_boolean SophisticatedJadeKarlotta2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ShakyAquaAyn2 {
+    _hidden_value = true
+  }
+  serviceid CarefulTealShoshanna {
+    _hidden_value = true
+  }
+  number BrightTomatoTamara2 {
+    _hidden_value = true
+  }
+  boolean RoughGreenIdelle {
+    _hidden_value = true
+  }
+  boolean InvolvedCoffeeDenice {
+    _hidden_value = true
+  }
+  LightTurquoiseTessy3 = 331
+  EnviousAzureBiddie = 38
+  CriticalCrimsonEstel2 = 723
+  BetterVioletTomi = 300
+  _hidden_value = true
+}

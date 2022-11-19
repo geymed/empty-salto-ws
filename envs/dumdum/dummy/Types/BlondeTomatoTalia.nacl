@@ -1,0 +1,48 @@
+type dummy.BlondeTomatoTalia {
+  annotations {
+    dummy.SpareMaroonLilli TartYellowXaviera2 {
+    }
+    serviceid_number DualSapphireRheba {
+    }
+    json WellFuchsiaGipsy {
+    }
+    hidden_boolean DualSapphireRhianna {
+    }
+  }
+  "List<hidden_boolean>" DesirableMagentaLara2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<json>" MaleCoffeeDianne {
+    _hidden_value = true
+  }
+  hidden_boolean TestyYellowYoko {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ConsistentHarlequinJanine {
+    _hidden_value = true
+  }
+  serviceid_number RubberSilverSarene {
+    _hidden_value = true
+  }
+  number BurningRedNikoletta {
+    _hidden_value = true
+  }
+  json NervousAzureBrandais {
+    _hidden_value = true
+  }
+  dummy.CommonBronzeConstantine ProudBlueCathee {
+    CrazyTealSibyl = 95
+    _hidden_value = true
+  }
+  dummy.DEFAULT TragicRosePauly2 {
+    _hidden_value = true
+  }
+  TartYellowXaviera2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  DualSapphireRheba = 143
+  WellFuchsiaGipsy = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

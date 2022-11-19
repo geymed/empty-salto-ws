@@ -1,0 +1,26 @@
+type dummy.EmbarrassingSilverSaundra {
+  annotations {
+    string DeepAmberAllene {
+    }
+    string AdministrativeGreenHonor2 {
+    }
+    json StupidTomatoSusan2 {
+    }
+  }
+  serviceid_number InstantSapphireRandie {
+    _hidden_value = true
+  }
+  number TenderRedOdelinda {
+    _hidden_value = true
+  }
+  serviceid_number FutureCoffeeDoloritas {
+    _hidden_value = true
+  }
+  "List<boolean>" VariousBronzeCorrine {
+    _hidden_value = true
+  }
+  DeepAmberAllene = "Dad Im hungry  Hi hungry Im dad"
+  AdministrativeGreenHonor2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  StupidTomatoSusan2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

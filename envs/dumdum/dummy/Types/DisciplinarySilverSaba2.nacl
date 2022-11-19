@@ -1,0 +1,84 @@
+type dummy.DisciplinarySilverSaba2 {
+  annotations {
+    hidden_boolean ChronicOliveMalinde {
+    }
+    string DarkChocolateDebbi {
+    }
+    hidden_boolean HighAmberAllina2 {
+    }
+  }
+  dummy.DeliciousApricotArdisj OldBlueChantal3 {
+    ResidentSalmonRachelle = 790
+    ShrillApricotAntonella = "Why was it called the dark ages? Because of all the knights. "
+    SpecifiedSalmonPortia = "To be Frank, I'd have to change my name."
+    TerribleBeigeBrinn = 469
+    WeeklyLavenderKessia = 435
+    FoolishSapphireReine = 417
+    FutureCoffeeDolly = "What do you call two barracuda fish?  A Pairacuda!"
+    WittyBlueCeil = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    WellFuchsiaGisela = true
+    MadHarlequinJanessa = 621
+    SweetAquaAshlan = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    OrganisationalTanSharai = "How come the stadium got hot after the game? Because all of the fans left."
+    ExcitedBlackCariotta = false
+    _hidden_value = true
+  }
+  serviceid CrookedAmberAlana3 {
+    _hidden_value = true
+  }
+  serviceid AgriculturalGoldGoldia4 {
+    _hidden_value = true
+  }
+  boolean OutrageousAzureBreanne2 {
+    _hidden_value = true
+  }
+  json InformalLavenderKathie2 {
+    _hidden_value = true
+  }
+  serviceid DrabTurquoiseTasha5 {
+    _hidden_value = true
+  }
+  number ModeratePurpleNatalya3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT OptimisticRosePearline2 {
+    _hidden_value = true
+  }
+  serviceid_number EssentialCoffeeDione3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ProbableSalmonPhylys3 {
+    _hidden_value = true
+  }
+  json NewBlueChad3 {
+    _hidden_value = true
+  }
+  hidden_boolean ScrawnyYellowWillyt3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number NuclearCoffeeDonielle2 {
+    _hidden_value = true
+  }
+  boolean StrangeTurquoiseTina {
+    _hidden_value = true
+  }
+  serviceid_number NiceWhiteVi4 {
+    _hidden_value = true
+  }
+  json ObnoxiousAzureBrandi4 {
+    _hidden_value = true
+  }
+  serviceid SelectSalmonPhilippa2 {
+    _hidden_value = true
+  }
+  string InstitutionalMaroonLesli3 {
+    _hidden_value = true
+  }
+  number TroubledBeigeBrittaney3 {
+    _hidden_value = true
+  }
+  DarkChocolateDebbi = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

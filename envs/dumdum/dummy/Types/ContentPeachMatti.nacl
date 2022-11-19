@@ -1,0 +1,78 @@
+type dummy.ContentPeachMatti {
+  annotations {
+    dummy.DEFAULT JollyBlackCaron2 {
+    }
+    number SocialistHarlequinJacquenette {
+    }
+    string HappyBlackCarola {
+    }
+    hidden_boolean ObviousCoffeeDollie {
+    }
+    hidden_boolean ColourfulScarletRosaleen2 {
+    }
+    dummy.AwakeRedNola ThoroughScarletRonda {
+    }
+  }
+  json StatutoryGrayHatti2 {
+    _hidden_value = true
+  }
+  dummy.PassivePurpleMyranda GiganticVioletUlrikaumeko {
+    RepulsiveBeigeBrena = true
+    DiverseRedNicol = 486
+    LegitimatePinkMaxine = "I'll tell you what often gets over looked... garden fences."
+    ObligedOrangeMarcelline = 775
+    FluffyAmberAlia = false
+    FunnyVioletTuesday = "Dad Im hungry  Hi hungry Im dad"
+    RelaxedPlumMinnie = true
+    AwfulAquamarineBernelle = "Why did the kid cross the playground? To get to the other slide."
+    DomesticCopperEba = 283
+    FuzzyAquaAtlante = {
+      legit = "Why did the tomato blush? Because it saw the salad dressing."
+    }
+    _hidden_value = true
+  }
+  serviceid OutsideGrayHelene {
+    _hidden_value = true
+  }
+  serviceid_number ConsistentHarlequinJanith {
+    _hidden_value = true
+  }
+  hidden_boolean MiddleCopperDyana {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json BitterJadeKass {
+    _hidden_value = true
+  }
+  hidden_boolean VividTanShay {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number SlimRoseOlwen {
+    _hidden_value = true
+  }
+  json SuperbMagentaLaurena {
+    _hidden_value = true
+  }
+  serviceid_number OrganisationalTanSharai2 {
+    _hidden_value = true
+  }
+  string YoungBlueCher {
+    _hidden_value = true
+  }
+  serviceid StraightHarlequinJaimie {
+    _hidden_value = true
+  }
+  serviceid_number RoundIvoryJohna {
+    _hidden_value = true
+  }
+  JollyBlackCaron2 = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  SocialistHarlequinJacquenette = 269
+  HappyBlackCarola = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ThoroughScarletRonda = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

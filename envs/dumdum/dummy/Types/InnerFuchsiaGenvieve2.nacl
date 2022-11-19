@@ -1,0 +1,41 @@
+type dummy.InnerFuchsiaGenvieve2 {
+  annotations {
+    string ExperiencedMagentaLauralee {
+    }
+    serviceid FarBlushChristiane2 {
+    }
+    serviceid UnpleasantRedNora {
+    }
+    serviceid_number CuriousLimeKirbie3 {
+    }
+  }
+  json PhysicalCoffeeDennie2 {
+    _hidden_value = true
+  }
+  "List<serviceid>" ElegantTurquoiseTeddy2 {
+    _hidden_value = true
+  }
+  number StandardCopperDrusilla {
+    _hidden_value = true
+  }
+  serviceid ThickEmeraldFiona {
+    _hidden_value = true
+  }
+  dummy.DEFAULT NationalBlueCherianne {
+    _hidden_value = true
+  }
+  string NovelScarletRosette2 {
+    _hidden_value = true
+  }
+  number SpatialSalmonPerla {
+    _hidden_value = true
+  }
+  boolean SteepMoccasinLula {
+    _hidden_value = true
+  }
+  ExperiencedMagentaLauralee = "Whoever invented the knock-knock joke should get a no bell prize."
+  FarBlushChristiane2 = "Dad Im hungry  Hi hungry Im dad"
+  UnpleasantRedNora = "What creature is smarter than a talking parrot? A spelling bee."
+  CuriousLimeKirbie3 = 724
+  _hidden_value = true
+}

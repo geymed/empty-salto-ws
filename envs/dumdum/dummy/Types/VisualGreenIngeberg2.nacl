@@ -1,0 +1,86 @@
+type dummy.VisualGreenIngeberg2 {
+  annotations {
+    dummy.ShallowAmberAloysia BeautifulVioletTommie3 {
+    }
+    hidden_boolean SymbolicPurpleNady2 {
+    }
+    boolean SecureMoccasinLouella {
+    }
+    json TameYellowYasmeen {
+    }
+    dummy.WorryingSilverRozamond RegionalCopperDorian {
+    }
+    boolean DefinitePeachMartelle2 {
+    }
+  }
+  boolean GreatVioletTybi2 {
+    _hidden_value = true
+  }
+  number CarefulTealShoshana3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AwfulHarlequinJaquelyn {
+    _hidden_value = true
+  }
+  boolean ThirstyAquaAsia2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EnchantingBlackCarena2 {
+    _hidden_value = true
+  }
+  boolean EntireEmeraldFrancyne2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DramaticGoldHadria {
+    _hidden_value = true
+  }
+  string LinearRedNessy {
+    _hidden_value = true
+  }
+  hidden_boolean ChronicOliveMalissia4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean RelaxedPlumMinni2 {
+    _hidden_value = true
+  }
+  hidden_boolean LtdCoralEloisa {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json PaleGrayHarriett2 {
+    _hidden_value = true
+  }
+  boolean OverseasIvoryJudye3 {
+    _hidden_value = true
+  }
+  dummy.EnglishBrownCourtnay NakedMagentaLeanna {
+    _hidden_value = true
+  }
+  number DistinctiveLimeKristen2 {
+    _hidden_value = true
+  }
+  number AbsoluteGreenImojean3 {
+    _hidden_value = true
+  }
+  serviceid FunnyBlackCarmelita2 {
+    _hidden_value = true
+  }
+  serviceid HomelessAzureBlinny {
+    _hidden_value = true
+  }
+  json CreepyAquamarineBessie {
+    _hidden_value = true
+  }
+  json DisturbedAzureBeverlie {
+    _hidden_value = true
+  }
+  BeautifulVioletTommie3 = false
+  SecureMoccasinLouella = true
+  TameYellowYasmeen = "Why is Peter Pan always flying? Because he Neverlands."
+  RegionalCopperDorian = 362
+  DefinitePeachMartelle2 = false
+  _hidden_value = true
+}

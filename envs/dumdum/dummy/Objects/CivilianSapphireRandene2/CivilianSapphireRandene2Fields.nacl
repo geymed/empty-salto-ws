@@ -1,0 +1,52 @@
+type dummy.CivilianSapphireRandene2 {
+  json OddFuchsiaGenna4 {
+  }
+  serviceid_number CurrentBrownDacey3 {
+  }
+  hidden_boolean HotCoffeeDenyse2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number InstitutionalMaroonLeshia3 {
+  }
+  number ChosenSilverSarette4 {
+  }
+  number AdjacentSilverRoxi {
+  }
+  hidden_boolean HelplessTealSonya {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  boolean SubsequentFuchsiaGilda2 {
+  }
+  serviceid AloneCyanFae2 {
+  }
+  serviceid_number WhiteBronzeClovis4 {
+  }
+  hidden_boolean FlyingMoccasinLoree6 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  string SoundRoseOlia7 {
+  }
+  json PermanentFuchsiaGayel2 {
+  }
+  dummy.UnhappyMaroonLibby RareEmeraldFlori2 {
+    EmptyAmethystAndra = "Why was it called the dark ages? Because of all the knights. "
+    GlamorousTurquoiseTerese = "Slept like a log last night  woke up in the fireplace."
+    TiredGoldGretchen = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    NumerousHarlequinJanean = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    WiseLavenderKatherine = 453
+    ExclusiveMagentaLatrena = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    DisastrousScarletRochell = 655
+    HistoricalCyanEvangelin = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ThickEmeraldFina = 113
+    SorryBrownDaphene = "My first time using an elevator was an uplifting experience. The second time let me down."
+    DullMoccasinLori = true
+  }
+  serviceid SuitableCrimsonEmilee3 {
+  }
+}

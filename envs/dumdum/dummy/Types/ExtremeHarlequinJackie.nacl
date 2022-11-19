@@ -1,0 +1,24 @@
+type dummy.ExtremeHarlequinJackie {
+  annotations {
+    hidden_boolean NewWhiteVeronique2 {
+    }
+    number LoyalPurpleNatala4 {
+    }
+    boolean StormyTurquoiseTim3 {
+    }
+    serviceid_number CrucialFuchsiaGenny {
+    }
+    number CurvedAmberAlla {
+    }
+    hidden_boolean ChosenSilverSari {
+    }
+  }
+  serviceid_number SillyBlueCathrine2 {
+    _hidden_value = true
+  }
+  LoyalPurpleNatala4 = 70
+  StormyTurquoiseTim3 = true
+  CrucialFuchsiaGenny = 467
+  CurvedAmberAlla = 18
+  _hidden_value = true
+}

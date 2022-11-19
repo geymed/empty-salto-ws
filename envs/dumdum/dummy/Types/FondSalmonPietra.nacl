@@ -1,0 +1,101 @@
+type dummy.FondSalmonPietra {
+  annotations {
+    hidden_boolean SplendidBlueCatina {
+    }
+    hidden_boolean LateAmethystAmata {
+    }
+    number JoyousBlackCarry {
+    }
+    json SmoggyTurquoiseTiffi {
+    }
+    string OutsideGrayHelena {
+    }
+  }
+  boolean ToryGreenInes {
+    _hidden_value = true
+  }
+  string KindVioletValry {
+    _hidden_value = true
+  }
+  dummy.DeliciousApricotArdisj GenerousLavenderKayle2 {
+    ResidentSalmonRachelle = 273
+    ShrillApricotAntonella = "What creature is smarter than a talking parrot? A spelling bee."
+    SpecifiedSalmonPortia = "How come the stadium got hot after the game? Because all of the fans left."
+    TerribleBeigeBrinn = 419
+    WeeklyLavenderKessia = 757
+    FoolishSapphireReine = 393
+    FutureCoffeeDolly = "Why was it called the dark ages? Because of all the knights. "
+    WittyBlueCeil = "Why didnt the skeleton cross the road? Because he had no guts."
+    WellFuchsiaGisela = false
+    MadHarlequinJanessa = 992
+    SweetAquaAshlan = "What do you call two barracuda fish?  A Pairacuda!"
+    OrganisationalTanSharai = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ExcitedBlackCariotta = true
+    _hidden_value = true
+  }
+  "List<serviceid_number>" OrganicLimeLainey {
+    _hidden_value = true
+  }
+  string AdvancedHarlequinJacinda2 {
+    _hidden_value = true
+  }
+  dummy.EmpiricalPinkMeara GreasyAquaAubree {
+    InfluentialMoccasinLorette = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    RichCopperDorelle = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    TerribleEmeraldFredra = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    LoudLavenderKiele2 = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  boolean StupidTomatoSunny {
+    _hidden_value = true
+  }
+  number StaticSapphireRebekah {
+    _hidden_value = true
+  }
+  string ExuberantBlackCarlee2 {
+    _hidden_value = true
+  }
+  json HomelessAzureBlisse {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GrotesqueTurquoiseTerza {
+    _hidden_value = true
+  }
+  json DoubleCrimsonEtheline {
+    _hidden_value = true
+  }
+  hidden_boolean BreezyAmaranthAida {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number WildCyanEydie {
+    _hidden_value = true
+  }
+  hidden_boolean EnergeticBlackCaril {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string ShakyAquaAyn {
+    _hidden_value = true
+  }
+  serviceid_number CruelPlumMichaelina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BadVioletToma2 {
+    _hidden_value = true
+  }
+  number RearPurpleMureil {
+    _hidden_value = true
+  }
+  json HelpfulHarlequinJanet {
+    _hidden_value = true
+  }
+  JoyousBlackCarry = 809
+  SmoggyTurquoiseTiffi = "What creature is smarter than a talking parrot? A spelling bee."
+  OutsideGrayHelena = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

@@ -1,0 +1,25 @@
+type dummy.MarineMagentaLeone3 {
+  annotations {
+    json CausalSapphireRene2 {
+    }
+    serviceid_number ImprovedMagentaLaryssa {
+    }
+    serviceid CloudyTomatoTammy {
+    }
+    serviceid LowAmberAllyce2 {
+    }
+    json HistoricalCyanEvangelin3 {
+    }
+    hidden_boolean SeriousBrownDanell3 {
+    }
+  }
+  json TragicRosePauly4 {
+    _hidden_value = true
+  }
+  CausalSapphireRene2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ImprovedMagentaLaryssa = 165
+  CloudyTomatoTammy = "Did you know that protons have mass? I didn't even know they were catholic."
+  LowAmberAllyce2 = "Why did the kid cross the playground? To get to the other slide."
+  HistoricalCyanEvangelin3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

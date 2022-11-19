@@ -1,0 +1,146 @@
+type dummy.ScaryYellowWillie {
+  annotations {
+    boolean ActiveCopperDredi3 {
+    }
+    number PsychiatricSilverRoxy3 {
+    }
+    number SpontaneousTanSharyl3 {
+    }
+    hidden_boolean AbsoluteGreenImojean2 {
+    }
+    number NavalPinkMel2 {
+    }
+    json PhysicalCoffeeDenni2 {
+    }
+  }
+  boolean GrandEmeraldFlss {
+    _hidden_value = true
+  }
+  boolean PeacefulOrangeMargo {
+    _hidden_value = true
+  }
+  json CautiousScarletRivkah {
+    _hidden_value = true
+  }
+  json NotablePeachMartina2 {
+    _hidden_value = true
+  }
+  number DullVioletTrista {
+    _hidden_value = true
+  }
+  boolean PatientPurpleNani2 {
+    _hidden_value = true
+  }
+  boolean DistantIndigoJillie {
+    _hidden_value = true
+  }
+  serviceid_number CuteTomatoTansy {
+    _hidden_value = true
+  }
+  number GloriousBlackCarmina2 {
+    _hidden_value = true
+  }
+  serviceid_number DearGoldGlennis2 {
+    _hidden_value = true
+  }
+  serviceid_number FunnyBlackCarmelita {
+    _hidden_value = true
+  }
+  serviceid IntegratedOliveMaegan3 {
+    _hidden_value = true
+  }
+  dummy.MightyTanShandra LoudLavenderKial2 {
+    InterestingChocolateDelphinia = false
+    SuccessiveMoccasinLola = "Why did the tomato blush? Because it saw the salad dressing."
+    LoyalPurpleNatala = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ScaredSapphireRahel = "Dad Im hungry  Hi hungry Im dad"
+    FiscalRedNiki = 719
+    DependentGrayHeath = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    GoodBlueCelisse2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    NativeJadeKate = 403
+    PassingSalmonPippy = true
+    HelplessAzureBlanche = true
+    BurningRedNikkie = "What do you call two barracuda fish?  A Pairacuda!"
+    CatholicHarlequinJamie = true
+    _hidden_value = true
+  }
+  dummy.UnknownFuchsiaGilberte ConceptualTanShela2 {
+    UnexpectedMagentaLauree = false
+    InternationalBlushClaudette = 965
+    BoldPlumMinna = true
+    _hidden_value = true
+  }
+  serviceid LostJadeKaralee {
+    _hidden_value = true
+  }
+  number EnthusiasticPinkMerrielle {
+    _hidden_value = true
+  }
+  serviceid AccessibleOrangeMarilee4 {
+    _hidden_value = true
+  }
+  string HandicappedTanShannon3 {
+    _hidden_value = true
+  }
+  boolean ScreechingApricotAnthea3 {
+    _hidden_value = true
+  }
+  number ExceptionalOliveMadge2 {
+    _hidden_value = true
+  }
+  json PastCoffeeDianemarie2 {
+    _hidden_value = true
+  }
+  hidden_boolean ValuableGoldGypsy {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string HollowAmberAllx3 {
+    _hidden_value = true
+  }
+  string NeatMoccasinLorilyn {
+    _hidden_value = true
+  }
+  dummy.PassingSalmonPippa FrenchBrownCyndia3 {
+    FaintMaroonLiva = "Why do birds fly south for the winter? Because it's too far to walk."
+    DoubtfulRosePansy = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    AnxiousAquamarineBeret = "Why do birds fly south for the winter? Because it's too far to walk."
+    AfricanFuchsiaGiana = true
+    LiableLimeKimmi = 328
+    LeftCoffeeDenny = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT TiredGoldGretal2 {
+    _hidden_value = true
+  }
+  "Map<boolean>" ShortBronzeColene {
+    _hidden_value = true
+  }
+  hidden_boolean CoastalPlumMichaella {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json SpottyYellowWylma2 {
+    _hidden_value = true
+  }
+  serviceid_number JuicyApricotAretha {
+    _hidden_value = true
+  }
+  string HomelyTurquoiseTess {
+    _hidden_value = true
+  }
+  json LostJadeKaralynn {
+    _hidden_value = true
+  }
+  number CharmingPlumMorgana3 {
+    _hidden_value = true
+  }
+  ActiveCopperDredi3 = true
+  PsychiatricSilverRoxy3 = 28
+  SpontaneousTanSharyl3 = 480
+  NavalPinkMel2 = 822
+  PhysicalCoffeeDenni2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

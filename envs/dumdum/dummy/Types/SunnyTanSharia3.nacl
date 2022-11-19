@@ -1,0 +1,42 @@
+type dummy.SunnyTanSharia3 {
+  annotations {
+    serviceid_number ComparativePlumMitzi3 {
+    }
+    string PsychologicalIvoryJoice4 {
+    }
+    json UselessRedNina {
+    }
+    string StrategicIndigoJeannine2 {
+    }
+    serviceid SemanticRedNinnette2 {
+    }
+  }
+  serviceid AdditionalCopperDoti {
+    _hidden_value = true
+  }
+  serviceid ManualRosePapagena {
+    _hidden_value = true
+  }
+  hidden_boolean EerieAzureBeverly4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json BraveBeigeCairistiona5 {
+    _hidden_value = true
+  }
+  hidden_boolean PracticalCopperDorine {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number ElderlyEmeraldFlorentia {
+    _hidden_value = true
+  }
+  ComparativePlumMitzi3 = 945
+  PsychologicalIvoryJoice4 = "Why did the tomato blush? Because it saw the salad dressing."
+  UselessRedNina = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  StrategicIndigoJeannine2 = "Why did the kid cross the playground? To get to the other slide."
+  SemanticRedNinnette2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

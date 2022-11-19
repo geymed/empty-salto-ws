@@ -1,0 +1,77 @@
+type dummy.SelfishBeigeBridget {
+  annotations {
+    serviceid_number SoundRoseOlia3 {
+    }
+    json SweetGreenHolly2 {
+    }
+    dummy.DeliciousApricotArdisj SoleLimeKirsti2 {
+    }
+    dummy.PassivePurpleMyranda ParliamentaryFuchsiaGertrudis {
+    }
+    hidden_boolean GoldenGrayHaleigh {
+    }
+  }
+  serviceid SilkyAquaBamby {
+    _hidden_value = true
+  }
+  serviceid_number NarrowAmberAlmeda {
+    _hidden_value = true
+  }
+  json FondSalmonPietra2 {
+    _hidden_value = true
+  }
+  number GrimScarletRonnica2 {
+    _hidden_value = true
+  }
+  json SelectedPlumMilka {
+    _hidden_value = true
+  }
+  serviceid_number SkinnyAmberAloysia2 {
+    _hidden_value = true
+  }
+  json DrabTurquoiseTasha3 {
+    _hidden_value = true
+  }
+  boolean EarlyBlushCherri2 {
+    _hidden_value = true
+  }
+  hidden_boolean SteadyJadeKaitlin2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number ColdChocolateDebbi {
+    _hidden_value = true
+  }
+  serviceid_number RegulatorySalmonQuinta {
+    _hidden_value = true
+  }
+  serviceid AbsentPinkMelony {
+    _hidden_value = true
+  }
+  string NastyWhiteVerna2 {
+    _hidden_value = true
+  }
+  number SoftAquamarineBarbra {
+    _hidden_value = true
+  }
+  serviceid_number MiddleCopperDusty2 {
+    _hidden_value = true
+  }
+  boolean LightAmethystAnestassia2 {
+    _hidden_value = true
+  }
+  number HarshOliveMahalia2 {
+    _hidden_value = true
+  }
+  hidden_boolean FarBlushChristiane {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  SoundRoseOlia3 = 538
+  SweetGreenHolly2 = "Why was it called the dark ages? Because of all the knights. "
+  SoleLimeKirsti2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  ParliamentaryFuchsiaGertrudis = true
+  _hidden_value = true
+}

@@ -1,0 +1,108 @@
+type dummy.OrangePurpleMufinella3 {
+  annotations {
+    serviceid UnderlyingLimeKoressa3 {
+    }
+    serviceid_number ExcellentCoralEilis3 {
+    }
+    serviceid_number ElegantMoccasinLucina3 {
+    }
+    hidden_boolean ActiveCopperDreddy2 {
+    }
+  }
+  json FierceOliveMaitilde {
+    _hidden_value = true
+  }
+  boolean ConstantEmeraldFred {
+    _hidden_value = true
+  }
+  number FoolishAzureBinni2 {
+    _hidden_value = true
+  }
+  serviceid HappyVioletValaria {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CourageousBeigeCammi2 {
+    _hidden_value = true
+  }
+  number RivalPurpleNariko {
+    _hidden_value = true
+  }
+  hidden_boolean FatIvoryJoella {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number InjuredScarletRosalinde {
+    _hidden_value = true
+  }
+  hidden_boolean EndlessPeachMarji {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean MightyWhiteVerena2 {
+    _hidden_value = true
+  }
+  boolean HardAquaAudie2 {
+    _hidden_value = true
+  }
+  string ElectoralLimeKristina {
+    _hidden_value = true
+  }
+  string AwkwardPeachMaryjo3 {
+    _hidden_value = true
+  }
+  hidden_boolean ProudBlueCathee3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid LovelyCoralEllissa {
+    _hidden_value = true
+  }
+  serviceid_number PremierOrangeMari5 {
+    _hidden_value = true
+  }
+  serviceid NarrowAmberAlma3 {
+    _hidden_value = true
+  }
+  number MagicOrangeMarabel3 {
+    _hidden_value = true
+  }
+  hidden_boolean RightBlushCherise3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT EnglishBrownCourtney3 {
+    _hidden_value = true
+  }
+  number BraveMoccasinLucina2 {
+    _hidden_value = true
+  }
+  hidden_boolean NervousAzureBrana4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number VaryingPurpleNellie {
+    _hidden_value = true
+  }
+  json AliveTealSherrie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ZealousBlueCelestyn {
+    _hidden_value = true
+  }
+  dummy.GrubbyAquaAubrie AshamedScarletRosamond4 {
+    WearyBeigeBrooke = "Why is Peter Pan always flying? Because he Neverlands."
+    SolidAquamarineBarrie = true
+    RivalPurpleNara = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    DifficultBronzeClementia = "What do you call two barracuda fish?  A Pairacuda!"
+    _hidden_value = true
+  }
+  UnderlyingLimeKoressa3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ExcellentCoralEilis3 = 393
+  ElegantMoccasinLucina3 = 586
+  _hidden_value = true
+}

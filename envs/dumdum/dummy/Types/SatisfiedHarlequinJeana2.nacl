@@ -1,0 +1,57 @@
+type dummy.SatisfiedHarlequinJeana2 {
+  annotations {
+    json RegisteredPurpleNadya2 {
+    }
+    serviceid PartialOliveLyndel2 {
+    }
+    number LittleAmaranthAdey {
+    }
+    json ArrogantAquamarineBerna {
+    }
+    hidden_boolean FlatGrayHanny2 {
+    }
+    boolean LongBlueCher {
+    }
+    dummy.FollowingBrownCynthia SurroundingOrangeMargery3 {
+    }
+  }
+  hidden_boolean IslamicRoseOlympe2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json FunnyVioletTwila2 {
+    _hidden_value = true
+  }
+  json GrubbyAquaAudi3 {
+    _hidden_value = true
+  }
+  string ElegantTurquoiseTeddy4 {
+    _hidden_value = true
+  }
+  serviceid DependentGrayHeath2 {
+    _hidden_value = true
+  }
+  dummy.PassingSalmonPippa WidespreadHarlequinJacquie3 {
+    FaintMaroonLiva = "Why do birds fly south for the winter? Because it's too far to walk."
+    DoubtfulRosePansy = "Dad Im hungry  Hi hungry Im dad"
+    AnxiousAquamarineBeret = "Slept like a log last night  woke up in the fireplace."
+    AfricanFuchsiaGiana = false
+    LiableLimeKimmi = 776
+    LeftCoffeeDenny = false
+    _hidden_value = true
+  }
+  serviceid_number JewishLimeKit4 {
+    _hidden_value = true
+  }
+  serviceid QuickWhiteVivyan3 {
+    _hidden_value = true
+  }
+  RegisteredPurpleNadya2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  PartialOliveLyndel2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  LittleAmaranthAdey = 830
+  ArrogantAquamarineBerna = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  LongBlueCher = false
+  SurroundingOrangeMargery3 = 370
+  _hidden_value = true
+}

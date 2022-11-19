@@ -1,0 +1,23 @@
+type dummy.LooseIvoryJulienne2 {
+  annotations {
+    number WoodenAquamarineBelle3 {
+    }
+    boolean AdvancedHarlequinJacinthe2 {
+    }
+    number CuriousTealSidoney3 {
+    }
+    string SympatheticPinkMaye {
+    }
+    boolean UrbanCyanFallon2 {
+    }
+  }
+  json OverseasIvoryJudye4 {
+    _hidden_value = true
+  }
+  WoodenAquamarineBelle3 = 498
+  AdvancedHarlequinJacinthe2 = false
+  CuriousTealSidoney3 = 99
+  SympatheticPinkMaye = "Why do birds fly south for the winter? Because it's too far to walk."
+  UrbanCyanFallon2 = true
+  _hidden_value = true
+}

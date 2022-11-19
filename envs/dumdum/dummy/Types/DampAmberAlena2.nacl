@@ -1,0 +1,32 @@
+type dummy.DampAmberAlena2 {
+  annotations {
+    
+    
+    
+    
+    string TremendousMagentaLeodora {
+    }
+    boolean ImaginativeTanSelinda4 {
+    }
+    number AdjacentSilverRoxie {
+    }
+    number SlipperyAquamarineBarbee {
+    }
+    hidden_boolean StaticSapphireRebekah2 {
+    }
+  }
+  
+  
+  
+  
+  
+  
+  _hidden_value = true
+  TremendousMagentaLeodora = "To be Frank, I'd have to change my name."
+  ImaginativeTanSelinda4 = false
+  AdjacentSilverRoxie = 745
+  SlipperyAquamarineBarbee = 426
+  serviceid SupportingSilverSamantha2 {
+    _hidden_value = true
+  }
+}

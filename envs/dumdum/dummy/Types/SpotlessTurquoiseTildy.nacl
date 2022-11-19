@@ -1,0 +1,42 @@
+type dummy.SpotlessTurquoiseTildy is number {
+  annotations {
+    boolean ResonantApricotAnstice {
+    }
+    serviceid_number LittleAmaranthAdella {
+    }
+    hidden_boolean AccusedSilverSally {
+    }
+    serviceid_number NegativeFuchsiaGavra {
+    }
+    string LocalBlueCharmaine {
+    }
+    json CuriousLimeKira {
+    }
+    boolean MedicalCoffeeDevonne {
+    }
+    boolean InnocentMagentaLari {
+    }
+    number LoudLavenderKiele {
+    }
+    number CleverTealSibby {
+    }
+    serviceid_number FunOrangeMarcy {
+    }
+    number ChillyAmaranthAilis {
+    }
+    serviceid GentleIndigoJoceline {
+    }
+  }
+  ResonantApricotAnstice = true
+  LittleAmaranthAdella = 962
+  NegativeFuchsiaGavra = 826
+  LocalBlueCharmaine = "To be Frank, I'd have to change my name."
+  CuriousLimeKira = "Whoever invented the knock-knock joke should get a no bell prize."
+  MedicalCoffeeDevonne = true
+  InnocentMagentaLari = true
+  LoudLavenderKiele = 111
+  CleverTealSibby = 672
+  FunOrangeMarcy = 812
+  ChillyAmaranthAilis = 318
+  GentleIndigoJoceline = "How come the stadium got hot after the game? Because all of the fans left."
+}

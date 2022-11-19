@@ -1,0 +1,36 @@
+type dummy.CloseBrownCory {
+  annotations {
+    number PastCoffeeDianna {
+    }
+    hidden_boolean EfficientGoldGretta {
+    }
+    string RevolutionaryJadeKary {
+    }
+    dummy.DistinctHarlequinJanella UnexpectedMagentaLaurella2 {
+    }
+    boolean ExcitedBlackCariotta4 {
+    }
+    boolean IsolatedPeachMarketa {
+    }
+  }
+  hidden_boolean AestheticSapphireRea {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json FashionableSapphireRena2 {
+    _hidden_value = true
+  }
+  string MarginalLimeKristal2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RudeTanShaylah {
+    _hidden_value = true
+  }
+  PastCoffeeDianna = 799
+  RevolutionaryJadeKary = "What creature is smarter than a talking parrot? A spelling bee."
+  UnexpectedMagentaLaurella2 = false
+  ExcitedBlackCariotta4 = false
+  IsolatedPeachMarketa = true
+  _hidden_value = true
+}

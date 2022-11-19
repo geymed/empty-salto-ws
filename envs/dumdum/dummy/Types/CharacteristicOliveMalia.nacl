@@ -1,0 +1,70 @@
+type dummy.CharacteristicOliveMalia {
+  annotations {
+    serviceid_number GuiltyFuchsiaGinelle3 {
+    }
+    serviceid FlatAmberAlli2 {
+    }
+    hidden_boolean NotablePeachMartie2 {
+    }
+    dummy.PassingSalmonPippa TightAquamarineBecky2 {
+    }
+    number ContinuousIvoryJuana {
+    }
+  }
+  dummy.BoilingAmaranthAgneta ThickEmeraldFina6 {
+    PuzzledTanShandy = 713
+    ConservationPlumMoira2 = "Dad Im hungry  Hi hungry Im dad"
+    CuriousLimeKirby = "How come the stadium got hot after the game? Because all of the fans left."
+    EmbarrassedAzureBianka = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    TiredGoldGretal = 200
+    DemocraticCrimsonEngracia = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    AcceptedTanShae = "A steak pun is a rare medium well done."
+    ExistingCoffeeDesirae = "Why was it called the dark ages? Because of all the knights. "
+    SunnyTanSharl = "To be Frank, I'd have to change my name."
+    UnconsciousSapphireRaven = "To be Frank, I'd have to change my name."
+    FellowIvoryJustina = "Why did the tomato blush? Because it saw the salad dressing."
+    MereGreenIdette = 704
+    ColossalAmaranthAbby = true
+    CuddlyAmberAlanna = 900
+    UnnecessaryMoccasinLoraine = true
+    SpatialSalmonPerri = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    _hidden_value = true
+  }
+  serviceid_number ElegantMoccasinLucilia2 {
+    _hidden_value = true
+  }
+  json VocationalTanShalna2 {
+    _hidden_value = true
+  }
+  json ConservationPlumMoira5 {
+    _hidden_value = true
+  }
+  serviceid UsefulChocolateDee4 {
+    _hidden_value = true
+  }
+  boolean SplendidOrangeMandy {
+    _hidden_value = true
+  }
+  json OddWhiteVinita2 {
+    _hidden_value = true
+  }
+  serviceid ArchitecturalRosePatrice {
+    _hidden_value = true
+  }
+  serviceid FreshApricotArdys {
+    _hidden_value = true
+  }
+  string EnthusiasticPinkMerrie2 {
+    _hidden_value = true
+  }
+  json InjuredScarletRosalind4 {
+    _hidden_value = true
+  }
+  GuiltyFuchsiaGinelle3 = 164
+  FlatAmberAlli2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  TightAquamarineBecky2 = 727
+  ContinuousIvoryJuana = 275
+  _hidden_value = true
+}

@@ -1,0 +1,110 @@
+type dummy.LuckyBlackCassey {
+  annotations {
+    dummy.DEFAULT IntegratedOliveMady2 {
+    }
+    string VastEmeraldFreddi {
+    }
+    serviceid HorribleOrangeMaren2 {
+    }
+    dummy.DEFAULT LongAmethystAmelia {
+    }
+    json ShaggyAquaAviva2 {
+    }
+    hidden_boolean ArtisticPeachMasha {
+    }
+  }
+  serviceid WanderingTomatoSuzanne2 {
+    _hidden_value = true
+  }
+  json DoubtfulTealSioux {
+    _hidden_value = true
+  }
+  string SlowCyanEugine {
+    _hidden_value = true
+  }
+  json RelatedIndigoJessamine {
+    _hidden_value = true
+  }
+  string BalancedSilverRosmunda {
+    _hidden_value = true
+  }
+  json AlternativeEmeraldFiorenze {
+    _hidden_value = true
+  }
+  number SuccessiveMoccasinLoise2 {
+    _hidden_value = true
+  }
+  serviceid_number CriticalCrimsonEstell2 {
+    _hidden_value = true
+  }
+  hidden_boolean GradualSilverSalli {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.WorryingSilverRozamond WateryYellowZelda {
+    StormyTurquoiseTim = 132
+    IntegratedOliveMady = "A steak pun is a rare medium well done."
+    UltimateJadeKamillah = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    QuickWhiteVivyan = 252
+    _hidden_value = true
+  }
+  dummy.DEFAULT WeakFuchsiaGayleen {
+    _hidden_value = true
+  }
+  string PaleGrayHarriette {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ItalianGoldGrayce2 {
+    _hidden_value = true
+  }
+  hidden_boolean DominantIndigoJen {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number DualSapphireRhetta {
+    _hidden_value = true
+  }
+  hidden_boolean UnusualGoldGlad {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json HomelessAzureBlinnie {
+    _hidden_value = true
+  }
+  json CorrespondingPlumMinny {
+    _hidden_value = true
+  }
+  hidden_boolean MarriedCyanFania {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string BalancedSilverRosmunda2 {
+    _hidden_value = true
+  }
+  boolean GeneticMoccasinLorie {
+    _hidden_value = true
+  }
+  boolean ClinicalIndigoJeralee {
+    _hidden_value = true
+  }
+  boolean RainyAquaAurora4 {
+    _hidden_value = true
+  }
+  string FantasticBlackCarline {
+    _hidden_value = true
+  }
+  IntegratedOliveMady2 = {
+    legit = "How come the stadium got hot after the game? Because all of the fans left."
+  }
+  VastEmeraldFreddi = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  HorribleOrangeMaren2 = "To be Frank, I'd have to change my name."
+  LongAmethystAmelia = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  ShaggyAquaAviva2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

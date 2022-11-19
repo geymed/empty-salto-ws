@@ -1,0 +1,26 @@
+type dummy.ProtestantScarletRobinet3 {
+  annotations {
+    serviceid_number SteepAmberAlyce {
+    }
+    number RadicalGrayHelenelizabeth2 {
+    }
+    dummy.LoudLavenderKial IncreasedCrimsonEsther {
+    }
+    string ColossalAmaranthAbbie {
+    }
+    json GiganticAmaranthAddi {
+    }
+    number InterimOrangeMalva3 {
+    }
+  }
+  serviceid FutureCoffeeDolorita2 {
+    _hidden_value = true
+  }
+  SteepAmberAlyce = 558
+  RadicalGrayHelenelizabeth2 = 835
+  IncreasedCrimsonEsther = 882
+  ColossalAmaranthAbbie = "Im only familiar with 25 letters in the English language. I dont know why."
+  GiganticAmaranthAddi = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  InterimOrangeMalva3 = 529
+  _hidden_value = true
+}

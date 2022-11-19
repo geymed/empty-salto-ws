@@ -1,0 +1,43 @@
+type dummy.RomanticMagentaLeandra {
+  annotations {
+    dummy.DEFAULT RemarkableGreenHyacinth {
+    }
+    string CharmingPlumMorgana {
+    }
+    string FavourablePinkMerci {
+    }
+    json ChubbyAmberAlina {
+    }
+    serviceid_number CentralBronzeConny {
+    }
+  }
+  boolean LegitimatePinkMaybelle {
+    _hidden_value = true
+  }
+  boolean InteriorPurpleNatka {
+    _hidden_value = true
+  }
+  dummy.DEFAULT StatutoryGrayHatti {
+    _hidden_value = true
+  }
+  serviceid_number GenuineGreenIsis {
+    _hidden_value = true
+  }
+  json PleasedEmeraldGabrielle {
+    _hidden_value = true
+  }
+  serviceid EarlyBlushCherri {
+    _hidden_value = true
+  }
+  number RainyAquaAurora2 {
+    _hidden_value = true
+  }
+  RemarkableGreenHyacinth = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  CharmingPlumMorgana = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  FavourablePinkMerci = "Slept like a log last night  woke up in the fireplace."
+  ChubbyAmberAlina = "Why did the kid cross the playground? To get to the other slide."
+  CentralBronzeConny = 612
+  _hidden_value = true
+}

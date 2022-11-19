@@ -1,0 +1,22 @@
+type dummy.GracefulTurquoiseTerrijo2 {
+  annotations {
+    serviceid RearPurpleMuriel {
+    }
+    number EmbarrassingSilverSaundra3 {
+    }
+    hidden_boolean SkinnyAmberAlthea2 {
+    }
+    serviceid WonderfulYellowZola {
+    }
+    string RedundantSalmonPhillida {
+    }
+  }
+  boolean ColossalAmaranthAbbie4 {
+    _hidden_value = true
+  }
+  RearPurpleMuriel = "What do you do on a remote island? Try and find the TV island it belongs to."
+  EmbarrassingSilverSaundra3 = 745
+  WonderfulYellowZola = "What do you do on a remote island? Try and find the TV island it belongs to."
+  RedundantSalmonPhillida = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

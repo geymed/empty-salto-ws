@@ -1,0 +1,74 @@
+type dummy.WrongTomatoSybila2 {
+  annotations {
+    serviceid RegulatorySalmonQuintilla3 {
+    }
+    json QuietCoralEirena2 {
+    }
+    serviceid_number AlrightGoldGoldina3 {
+    }
+    serviceid ChubbyAmberAlis {
+    }
+  }
+  json MarriedCyanFanechka {
+    _hidden_value = true
+  }
+  serviceid_number MajorBlushCissy2 {
+    _hidden_value = true
+  }
+  string FastEmeraldFleurette3 {
+    _hidden_value = true
+  }
+  json FriendlyVioletTrudie2 {
+    _hidden_value = true
+  }
+  json GoldenGrayHaleigh2 {
+    _hidden_value = true
+  }
+  number DistinctHarlequinJanelle2 {
+    _hidden_value = true
+  }
+  json VisitingScarletRobbi2 {
+    _hidden_value = true
+  }
+  json ThickEmeraldFina4 {
+    _hidden_value = true
+  }
+  serviceid_number AppropriateChocolateDarcey3 {
+    _hidden_value = true
+  }
+  json QuickWhiteVivyan2 {
+    _hidden_value = true
+  }
+  number ExcitingGreenIssie4 {
+    _hidden_value = true
+  }
+  string AmateurSalmonPierette2 {
+    _hidden_value = true
+  }
+  number ComplexCopperDrusi {
+    _hidden_value = true
+  }
+  serviceid_number FeministPlumMina {
+    _hidden_value = true
+  }
+  json TenseBeigeBrigitte3 {
+    _hidden_value = true
+  }
+  serviceid LinguisticJadeKarin2 {
+    _hidden_value = true
+  }
+  dummy.LoudLavenderKial GleamingTurquoiseTeriann {
+    SurroundingOrangeMargery = 390
+    WhisperingApricotArdelia = 399
+    HorribleOrangeMaren = "A steak pun is a rare medium well done."
+    _hidden_value = true
+  }
+  json MassiveFuchsiaGerrilee {
+    _hidden_value = true
+  }
+  RegulatorySalmonQuintilla3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  QuietCoralEirena2 = "Why did the kid cross the playground? To get to the other slide."
+  AlrightGoldGoldina3 = 787
+  ChubbyAmberAlis = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+}

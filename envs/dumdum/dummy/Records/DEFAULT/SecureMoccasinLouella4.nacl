@@ -1,0 +1,4 @@
+dummy.DEFAULT SecureMoccasinLouella4 {
+  legit = "A steak pun is a rare medium well done."
+  _parent = dummy.ConvincingSalmonPeggie2
+}

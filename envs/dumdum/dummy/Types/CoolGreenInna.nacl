@@ -1,0 +1,67 @@
+type dummy.CoolGreenInna {
+  annotations {
+    boolean DisappointedMagentaLaurice2 {
+    }
+    serviceid UpsetOliveMabel3 {
+    }
+    number GrotesqueTurquoiseTersina {
+    }
+    number ModernTealStar {
+    }
+  }
+  hidden_boolean VitalEmeraldFilia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ShinyTurquoiseTiertza {
+    _hidden_value = true
+  }
+  json FrightenedAzureBlair {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RecentBronzeCornelle {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AdequateGrayHildy3 {
+    _hidden_value = true
+  }
+  string AmbitiousPeachMaurene {
+    _hidden_value = true
+  }
+  serviceid_number MarineMagentaLeonanie {
+    _hidden_value = true
+  }
+  hidden_boolean KoreanSapphireRasia2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean VastEmeraldFred {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number InevitableIvoryJolynn3 {
+    _hidden_value = true
+  }
+  hidden_boolean ScaryBeigeBriana {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean RelatedIndigoJessalin {
+    _hidden_value = true
+  }
+  serviceid ColourfulScarletRosaleen {
+    _hidden_value = true
+  }
+  serviceid GoodBlackCarol {
+    _hidden_value = true
+  }
+  DisappointedMagentaLaurice2 = false
+  UpsetOliveMabel3 = "Slept like a log last night  woke up in the fireplace."
+  GrotesqueTurquoiseTersina = 850
+  ModernTealStar = 511
+  _hidden_value = true
+}

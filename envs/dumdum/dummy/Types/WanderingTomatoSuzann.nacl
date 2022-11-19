@@ -1,0 +1,55 @@
+type dummy.WanderingTomatoSuzann is string {
+  annotations {
+    number MolecularRedNerta {
+    }
+    number SureBlushCindi {
+    }
+    json AdvisoryOrangeMaridel {
+    }
+    serviceid MarxistSapphireRaine {
+    }
+    hidden_boolean SatisfactoryLimeKrissy {
+    }
+    serviceid CleanCyanFernandina {
+    }
+    serviceid_number MathematicalRoseOthelia {
+    }
+    number BrightVioletTove {
+    }
+    serviceid_number UniqueFuchsiaGert {
+    }
+    boolean GiganticAmaranthAdda {
+    }
+    string RottenApricotArlana {
+    }
+    serviceid_number MaturePeachMatty {
+    }
+    hidden_boolean ImaginativeTanSeline {
+    }
+    boolean UnknownFuchsiaGilberta {
+    }
+    serviceid_number SpicyAquaArlie {
+    }
+    string HelplessTealSonny {
+    }
+    hidden_boolean PeculiarPlumMicheline {
+    }
+    serviceid_number WesternChocolateDeeyn {
+    }
+  }
+  MolecularRedNerta = 56
+  SureBlushCindi = 696
+  AdvisoryOrangeMaridel = "Why didnt the skeleton cross the road? Because he had no guts."
+  MarxistSapphireRaine = "What did one nut say as he chased another nut?  I'm a cashew!"
+  CleanCyanFernandina = "What did one nut say as he chased another nut?  I'm a cashew!"
+  MathematicalRoseOthelia = 53
+  BrightVioletTove = 978
+  UniqueFuchsiaGert = 61
+  GiganticAmaranthAdda = true
+  RottenApricotArlana = "How come the stadium got hot after the game? Because all of the fans left."
+  MaturePeachMatty = 250
+  UnknownFuchsiaGilberta = true
+  SpicyAquaArlie = 373
+  HelplessTealSonny = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  WesternChocolateDeeyn = 515
+}

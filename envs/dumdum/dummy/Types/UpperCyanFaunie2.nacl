@@ -1,0 +1,42 @@
+type dummy.UpperCyanFaunie2 {
+  annotations {
+    hidden_boolean FatAmaranthAbigail3 {
+    }
+    json BigAmaranthAbagail {
+    }
+    hidden_boolean HorribleVioletValene4 {
+    }
+    serviceid_number AnnualCoffeeDonnamarie {
+    }
+    hidden_boolean ToryGreenInessa {
+    }
+    serviceid_number DelightfulBeigeCandice {
+    }
+  }
+  serviceid_number CruelAquamarineBeth2 {
+    _hidden_value = true
+  }
+  hidden_boolean IraqiOliveMadelon {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json PreferredTanScarlet5 {
+    _hidden_value = true
+  }
+  hidden_boolean BoredAquamarineBerri {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean DoubtfulTealSiobhan2 {
+    _hidden_value = true
+  }
+  json LovelyBlackCass2 {
+    _hidden_value = true
+  }
+  BigAmaranthAbagail = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  AnnualCoffeeDonnamarie = 662
+  DelightfulBeigeCandice = 717
+  _hidden_value = true
+}

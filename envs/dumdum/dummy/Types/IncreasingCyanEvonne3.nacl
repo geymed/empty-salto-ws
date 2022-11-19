@@ -1,0 +1,103 @@
+type dummy.IncreasingCyanEvonne3 {
+  annotations {
+    json EmptyAmethystAndrea {
+    }
+    serviceid VisitingScarletRobbi3 {
+    }
+    hidden_boolean MonthlyMaroonLinn2 {
+    }
+    dummy.DEFAULT SuccessfulBlueCatlin {
+    }
+    number MammothAmaranthAdora {
+    }
+    boolean ExternalEmeraldFlorie {
+    }
+    string EssentialCoffeeDion3 {
+    }
+  }
+  string ElatedBeigeCaralie2 {
+    _hidden_value = true
+  }
+  boolean AnxiousAquamarineBenoite2 {
+    _hidden_value = true
+  }
+  number WorriedGrayHarmonie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SpecifiedSalmonPooh3 {
+    _hidden_value = true
+  }
+  serviceid DutchLavenderKendra {
+    _hidden_value = true
+  }
+  serviceid_number AssistantOliveLynnelle3 {
+    _hidden_value = true
+  }
+  number RemainingGoldGoldarina {
+    _hidden_value = true
+  }
+  string MissingPinkMelly5 {
+    _hidden_value = true
+  }
+  hidden_boolean BiologicalMaroonLetizia2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid BrokenAmaranthAileen {
+    _hidden_value = true
+  }
+  number GrumpyVioletUrsulina2 {
+    _hidden_value = true
+  }
+  serviceid EncouragingLimeLacey {
+    _hidden_value = true
+  }
+  boolean InteriorPurpleNatty {
+    _hidden_value = true
+  }
+  number ConventionalGoldGussi4 {
+    _hidden_value = true
+  }
+  serviceid ElectoralLimeKristien {
+    _hidden_value = true
+  }
+  boolean HeavyAmethystAndriette {
+    _hidden_value = true
+  }
+  hidden_boolean MiserableSalmonRachael3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean DryCyanEustacia3 {
+    _hidden_value = true
+  }
+  number ColonialPeachMaudie6 {
+    _hidden_value = true
+  }
+  boolean WetAmberAlicia2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT InevitableIvoryJonell4 {
+    _hidden_value = true
+  }
+  serviceid_number BeautifulVioletTommie4 {
+    _hidden_value = true
+  }
+  serviceid UnconsciousSapphireRay3 {
+    _hidden_value = true
+  }
+  serviceid FairBlackCarleen {
+    _hidden_value = true
+  }
+  EmptyAmethystAndrea = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  VisitingScarletRobbi3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SuccessfulBlueCatlin = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  MammothAmaranthAdora = 952
+  ExternalEmeraldFlorie = false
+  EssentialCoffeeDion3 = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

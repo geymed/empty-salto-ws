@@ -1,0 +1,35 @@
+type dummy.FavouriteHarlequinJaclyn {
+  annotations {
+    dummy.DEFAULT PublicBlushChrysa2 {
+    }
+    json ActiveCopperDreddy {
+    }
+    json BusyTealShirlene3 {
+    }
+    serviceid ManyAmethystAnetta {
+    }
+    dummy.EnglishBrownCourtnay CriticalCrimsonEstele3 {
+    }
+    hidden_boolean DarkTomatoTarah2 {
+    }
+  }
+  hidden_boolean SmartPeachMarj2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string GrossLavenderKevina {
+    _hidden_value = true
+  }
+  number OddWhiteVinita {
+    _hidden_value = true
+  }
+  PublicBlushChrysa2 = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  ActiveCopperDreddy = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  BusyTealShirlene3 = "What creature is smarter than a talking parrot? A spelling bee."
+  ManyAmethystAnetta = "What did one nut say as he chased another nut?  I'm a cashew!"
+  CriticalCrimsonEstele3 = false
+  _hidden_value = true
+}

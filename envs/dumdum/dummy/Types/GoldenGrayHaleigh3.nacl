@@ -1,0 +1,142 @@
+type dummy.GoldenGrayHaleigh3 {
+  annotations {
+    number ChiefCopperDorree3 {
+    }
+    string WelshGrayHattie9 {
+    }
+    dummy.DEFAULT LiveIndigoJodie {
+    }
+    number ShaggyAquaAvril {
+    }
+    number AverageTomatoTabbie {
+    }
+    string SureBlushCindra {
+    }
+  }
+  hidden_boolean PreciousOrangeMarielle3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" LuckyFuchsiaGinnifer2 {
+    _hidden_value = true
+  }
+  string LegislativeMaroonLinell {
+    _hidden_value = true
+  }
+  hidden_boolean DullMoccasinLoria2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SquareAmberAlvira2 {
+    _hidden_value = true
+  }
+  json ScaryBeigeBrenna3 {
+    _hidden_value = true
+  }
+  number SadGrayHesther2 {
+    _hidden_value = true
+  }
+  boolean SecondaryFuchsiaGertruda2 {
+    _hidden_value = true
+  }
+  serviceid_number OtherBlueCelinka {
+    _hidden_value = true
+  }
+  json SuspiciousPurpleMyrle2 {
+    _hidden_value = true
+  }
+  serviceid_number ToughGoldGlenna2 {
+    _hidden_value = true
+  }
+  hidden_boolean HiddenRedOdelle2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number MarineMagentaLeone4 {
+    _hidden_value = true
+  }
+  hidden_boolean OutsideGrayHelge {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT CorrectCrimsonErinn3 {
+    _hidden_value = true
+  }
+  serviceid_number ConservativeCoralEllene2 {
+    _hidden_value = true
+  }
+  serviceid ShockedPinkMelisande3 {
+    _hidden_value = true
+  }
+  boolean EasternCrimsonErin {
+    _hidden_value = true
+  }
+  string HurtAzureBlondie2 {
+    _hidden_value = true
+  }
+  hidden_boolean ReligiousCoralElene3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string CivilianSapphireRandi3 {
+    _hidden_value = true
+  }
+  string RegularCopperDorthy4 {
+    _hidden_value = true
+  }
+  serviceid ColouredMoccasinLivvy2 {
+    _hidden_value = true
+  }
+  boolean BoredPlumMonika {
+    _hidden_value = true
+  }
+  serviceid HelpfulTealSonni3 {
+    _hidden_value = true
+  }
+  json MagnificentWhiteVannie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ConservativeCoralEllen5 {
+    _hidden_value = true
+  }
+  boolean GiantAmaranthAda2 {
+    _hidden_value = true
+  }
+  hidden_boolean GrimScarletRonnie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean TemporaryGrayHali {
+    _hidden_value = true
+  }
+  serviceid_number MereGreenIleane3 {
+    _hidden_value = true
+  }
+  serviceid LeadingCrimsonEm2 {
+    _hidden_value = true
+  }
+  json MagicOrangeManya3 {
+    _hidden_value = true
+  }
+  string DelicateOliveMable2 {
+    _hidden_value = true
+  }
+  string BindingSalmonPeta2 {
+    _hidden_value = true
+  }
+  ChiefCopperDorree3 = 960
+  WelshGrayHattie9 = "Dad Im hungry  Hi hungry Im dad"
+  LiveIndigoJodie = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  ShaggyAquaAvril = 514
+  AverageTomatoTabbie = 1
+  SureBlushCindra = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

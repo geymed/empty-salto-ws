@@ -1,0 +1,52 @@
+type dummy.UsualCoralEllynn {
+  annotations {
+    boolean CrowdedTomatoTanitansy2 {
+    }
+    dummy.SpotlessTurquoiseTildy AggressiveMaroonLilias2 {
+    }
+    hidden_boolean DramaticGoldHadria2 {
+    }
+  }
+  number GladGoldGlynnis2 {
+    _hidden_value = true
+  }
+  boolean TenderRedOdelia3 {
+    _hidden_value = true
+  }
+  json DirectChocolateDeana2 {
+    _hidden_value = true
+  }
+  serviceid_number TraditionalChocolateDeirdre2 {
+    _hidden_value = true
+  }
+  serviceid TallYellowXena {
+    _hidden_value = true
+  }
+  json AccusedSilverSallyann3 {
+    _hidden_value = true
+  }
+  json PureGrayHephzibah2 {
+    _hidden_value = true
+  }
+  string MagnificentWhiteVeda3 {
+    _hidden_value = true
+  }
+  serviceid InjuredScarletRosalie2 {
+    _hidden_value = true
+  }
+  json ModernTealStafani3 {
+    _hidden_value = true
+  }
+  json MiserableSalmonRachael4 {
+    _hidden_value = true
+  }
+  string LoyalPurpleNatala5 {
+    _hidden_value = true
+  }
+  serviceid ExcessSilverSapphira2 {
+    _hidden_value = true
+  }
+  CrowdedTomatoTanitansy2 = false
+  AggressiveMaroonLilias2 = 798
+  _hidden_value = true
+}

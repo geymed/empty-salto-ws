@@ -1,0 +1,29 @@
+type dummy.QuietApricotAnnis {
+  annotations {
+    number SweetAquaAshlan2 {
+    }
+    serviceid_number MissingPinkMelly4 {
+    }
+    string InnerFuchsiaGenny {
+    }
+    dummy.ModernTealStafani ChronicOliveMalissia2 {
+    }
+    string MassiveFuchsiaGerrie3 {
+    }
+    serviceid RunningPlumMirabel2 {
+    }
+    serviceid_number WelcomeIvoryJosselyn {
+    }
+  }
+  string PrimitiveOrangeMargalo {
+    _hidden_value = true
+  }
+  SweetAquaAshlan2 = 110
+  MissingPinkMelly4 = 825
+  InnerFuchsiaGenny = "Dad Im hungry  Hi hungry Im dad"
+  ChronicOliveMalissia2 = true
+  MassiveFuchsiaGerrie3 = "Why did the kid cross the playground? To get to the other slide."
+  RunningPlumMirabel2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  WelcomeIvoryJosselyn = 891
+  _hidden_value = true
+}

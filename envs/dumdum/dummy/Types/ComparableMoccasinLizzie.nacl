@@ -1,0 +1,58 @@
+type dummy.ComparableMoccasinLizzie {
+  annotations {
+    number NumerousAmethystAngelica {
+    }
+    serviceid_number EasyBronzeCollen2 {
+    }
+    dummy.DEFAULT CourageousBeigeCammi {
+    }
+    boolean PresentBrownCristabel {
+    }
+    dummy.DEFAULT RespectableRosePearla3 {
+    }
+  }
+  hidden_boolean BlackVioletTonye {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid LovelyBlackCasie {
+    _hidden_value = true
+  }
+  boolean GratefulIvoryJorie {
+    _hidden_value = true
+  }
+  hidden_boolean BalancedSilverRosmunda4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ToughYellowYvette {
+    _hidden_value = true
+  }
+  serviceid_number SuperPeachMarti {
+    _hidden_value = true
+  }
+  serviceid_number ValuableGoldGwyn4 {
+    _hidden_value = true
+  }
+  string BrokenAmaranthAilee2 {
+    _hidden_value = true
+  }
+  string HarshApricotAnjela3 {
+    _hidden_value = true
+  }
+  serviceid_number TypicalEmeraldFrancesca2 {
+    _hidden_value = true
+  }
+  NumerousAmethystAngelica = 852
+  EasyBronzeCollen2 = 153
+  CourageousBeigeCammi = {
+    legit = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  PresentBrownCristabel = true
+  RespectableRosePearla3 = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  _hidden_value = true
+}

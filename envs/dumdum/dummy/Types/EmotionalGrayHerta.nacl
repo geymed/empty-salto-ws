@@ -1,0 +1,159 @@
+type dummy.EmotionalGrayHerta {
+  annotations {
+    serviceid_number MixedMaroonLeslie2 {
+    }
+    hidden_boolean ItalianGoldGray2 {
+    }
+    string ScrawnyYellowWillyt2 {
+    }
+  }
+  serviceid HugeAmaranthAdela2 {
+    _hidden_value = true
+  }
+  dummy.DeliciousApricotArdisj EssentialCoffeeDione {
+    ResidentSalmonRachelle = 126
+    ShrillApricotAntonella = "Why didnt the skeleton cross the road? Because he had no guts."
+    SpecifiedSalmonPortia = "To be Frank, I'd have to change my name."
+    TerribleBeigeBrinn = 461
+    WeeklyLavenderKessia = 943
+    FoolishSapphireReine = 953
+    FutureCoffeeDolly = "A steak pun is a rare medium well done."
+    WittyBlueCeil = "My first time using an elevator was an uplifting experience. The second time let me down."
+    WellFuchsiaGisela = false
+    MadHarlequinJanessa = 590
+    SweetAquaAshlan = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    OrganisationalTanSharai = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ExcitedBlackCariotta = false
+    _hidden_value = true
+  }
+  string GrotesqueTurquoiseTerry {
+    _hidden_value = true
+  }
+  hidden_boolean UptightBeigeBrook {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ImperialJadeKaterina {
+    _hidden_value = true
+  }
+  hidden_boolean HelpfulBlackCarolin {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number AlliedPlumMisha {
+    _hidden_value = true
+  }
+  serviceid_number MarkedMagentaLatrina2 {
+    _hidden_value = true
+  }
+  serviceid SillyBlueCathleen {
+    _hidden_value = true
+  }
+  boolean SubjectiveSapphireRianon {
+    _hidden_value = true
+  }
+  number SmilingBlueCathyleen2 {
+    _hidden_value = true
+  }
+  boolean SlowAmethystAnalise {
+    _hidden_value = true
+  }
+  number PainfulMaroonLilllie2 {
+    _hidden_value = true
+  }
+  number PricklyAquaAurie {
+    _hidden_value = true
+  }
+  string VulnerableJadeKarol {
+    _hidden_value = true
+  }
+  serviceid CognitiveSalmonQuinn {
+    _hidden_value = true
+  }
+  serviceid SophisticatedJadeKarlie {
+    _hidden_value = true
+  }
+  serviceid HungryMaroonLinzy2 {
+    _hidden_value = true
+  }
+  json StatutoryGrayHarriot {
+    _hidden_value = true
+  }
+  dummy.AfraidAquamarineBenedetta CuteTomatoTanya2 {
+    PrettyWhiteVirgina = false
+    WeeSapphireRevkah = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ManualRosePaola = "My first time using an elevator was an uplifting experience. The second time let me down."
+    InjuredScarletRosalind = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    NosyWhiteVida2 = 683
+    FollowingBrownCynthea = "Whoever invented the knock-knock joke should get a no bell prize."
+    CriminalFuchsiaGeorgette = "Dad Im hungry  Hi hungry Im dad"
+    WanderingTomatoSuzanne = "Why was it called the dark ages? Because of all the knights. "
+    UnexpectedMagentaLaurella = false
+    TurkishPurpleMozelle = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    _hidden_value = true
+  }
+  number OptimisticSalmonPeg2 {
+    _hidden_value = true
+  }
+  number OrganisationalTanSharai5 {
+    _hidden_value = true
+  }
+  hidden_boolean MentalCrimsonEsmaria {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string SacredRedNorma3 {
+    _hidden_value = true
+  }
+  boolean StandardCopperDrusy2 {
+    _hidden_value = true
+  }
+  boolean RedWhiteWendie2 {
+    _hidden_value = true
+  }
+  boolean ScaredSapphireRahel4 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" HuskyApricotAnnabel {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number LonelyAzureBobinette {
+    _hidden_value = true
+  }
+  number DryAmberAlexa4 {
+    _hidden_value = true
+  }
+  hidden_boolean PrimeBrownDanila {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json SharpFuchsiaGeorgine {
+    _hidden_value = true
+  }
+  string ResponsibleCoffeeDevan2 {
+    _hidden_value = true
+  }
+  hidden_boolean ImportantBlueChastity2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string LuckyFuchsiaGinni {
+    _hidden_value = true
+  }
+  string SafeCopperDoretta {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LabourBrownDaffie {
+    _hidden_value = true
+  }
+  MixedMaroonLeslie2 = 869
+  ScrawnyYellowWillyt2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

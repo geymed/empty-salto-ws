@@ -1,0 +1,103 @@
+type dummy.DirectChocolateDe2 {
+  annotations {
+    dummy.SlimyAquamarineBarbara NiceBrownCyb {
+    }
+    serviceid_number PunyAmaranthAeriell2 {
+    }
+    json EarlyBlushCherrita3 {
+    }
+    json SharedPinkMelba {
+    }
+    serviceid_number AbsoluteGreenImogene {
+    }
+    number LegalBrownDagmar {
+    }
+  }
+  string CompetentSalmonPeri {
+    _hidden_value = true
+  }
+  serviceid ProductivePlumMommy {
+    _hidden_value = true
+  }
+  serviceid_number SweetGreenHolly {
+    _hidden_value = true
+  }
+  "List<boolean>" WidespreadHarlequinJacquetta2 {
+    _hidden_value = true
+  }
+  number TestyYellowYolanda2 {
+    _hidden_value = true
+  }
+  "List<json>" RomanFuchsiaGermaine {
+    _hidden_value = true
+  }
+  hidden_boolean LowAmberAllyce {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT HappyVioletVale {
+    _hidden_value = true
+  }
+  dummy.CommonBronzeConstantine SufficientCrimsonEolanda {
+    CrazyTealSibyl = 269
+    _hidden_value = true
+  }
+  json BlackBlushClarisse {
+    _hidden_value = true
+  }
+  serviceid BlushingTomatoTamar2 {
+    _hidden_value = true
+  }
+  "List<number>" BottomMoccasinLouise2 {
+    _hidden_value = true
+  }
+  serviceid PersistentRosePam {
+    _hidden_value = true
+  }
+  boolean RoundIvoryJohnette {
+    _hidden_value = true
+  }
+  json PastCoffeeDianemarie {
+    _hidden_value = true
+  }
+  boolean AgriculturalGoldGoldia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MissingPinkMelloney {
+    _hidden_value = true
+  }
+  string FamousTealSiusan2 {
+    _hidden_value = true
+  }
+  hidden_boolean StickyAquamarineBeatrisa {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number GiganticVioletUlrike {
+    _hidden_value = true
+  }
+  json VastYellowZelda {
+    _hidden_value = true
+  }
+  json TightIvoryJoellyn {
+    _hidden_value = true
+  }
+  serviceid NervousAzureBrande {
+    _hidden_value = true
+  }
+  number ThoughtfulBlueCayla {
+    _hidden_value = true
+  }
+  serviceid BiologicalMaroonLetisha {
+    _hidden_value = true
+  }
+  NiceBrownCyb = false
+  PunyAmaranthAeriell2 = 256
+  EarlyBlushCherrita3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SharedPinkMelba = "What do you do on a remote island? Try and find the TV island it belongs to."
+  AbsoluteGreenImogene = 25
+  LegalBrownDagmar = 879
+  _hidden_value = true
+}

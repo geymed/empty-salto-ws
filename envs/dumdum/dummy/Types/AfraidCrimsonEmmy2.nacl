@@ -1,0 +1,119 @@
+type dummy.AfraidCrimsonEmmy2 {
+  annotations {
+    string JointCoralElissa2 {
+    }
+    dummy.DEFAULT FavourablePinkMercie2 {
+    }
+    boolean TurkishPurpleMoyra2 {
+    }
+    boolean IntelligentMaroonLinnell2 {
+    }
+    boolean FlakyAmberAlfreda3 {
+    }
+    serviceid FragileTealSonia2 {
+    }
+    serviceid SovietChocolateDarelle2 {
+    }
+  }
+  serviceid RoundYellowWilhelmine {
+    _hidden_value = true
+  }
+  boolean PsychologicalIvoryJolee3 {
+    _hidden_value = true
+  }
+  number OrganisationalTanSharai7 {
+    _hidden_value = true
+  }
+  serviceid SuccessfulBlueCatrina {
+    _hidden_value = true
+  }
+  number NiceBrownCybil2 {
+    _hidden_value = true
+  }
+  string TemporaryGrayHalley {
+    _hidden_value = true
+  }
+  serviceid_number ContinentalOliveMagdalene {
+    _hidden_value = true
+  }
+  number PunyAmaranthAeriell3 {
+    _hidden_value = true
+  }
+  serviceid_number UnsightlyTurquoiseTisha {
+    _hidden_value = true
+  }
+  string RollingSilverRubina4 {
+    _hidden_value = true
+  }
+  json LightTurquoiseThalia2 {
+    _hidden_value = true
+  }
+  "List<json>" RainyWhiteWallis {
+    _hidden_value = true
+  }
+  number DailyCyanEve {
+    _hidden_value = true
+  }
+  json SlimRoseOlympe {
+    _hidden_value = true
+  }
+  number SuperbMagentaLaurene {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GreyEmeraldFrank {
+    _hidden_value = true
+  }
+  hidden_boolean SoftCoralElana3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean SmilingBlueCati {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number ValidLavenderKerstin3 {
+    _hidden_value = true
+  }
+  json HighAmberAllison5 {
+    _hidden_value = true
+  }
+  serviceid AfraidAquamarineBendite2 {
+    _hidden_value = true
+  }
+  hidden_boolean InlandSalmonPrue {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.AwakeRedNola RandomMoccasinLorena2 {
+    IrrelevantPurpleNani = true
+    RealBlushClarie = true
+    RapidGrayHildagarde = "Whoever invented the knock-knock joke should get a no bell prize."
+    ZanyYellowZorine = 152
+    CertainBronzeClemmie = 175
+    VivaciousBlueCecilla = true
+    ConservationPlumMoira = 86
+    GrossLavenderKetty = false
+    NetGoldGladys = 613
+    AccessibleOrangeMarika = false
+    BadAquamarineBernetta = false
+    InnovativeTanSheeree = "What do you do on a remote island? Try and find the TV island it belongs to."
+    WillingGoldGusti = "Why was it called the dark ages? Because of all the knights. "
+    ParallelMoccasinLuelle = 610
+    SadYellowWilletta = "Why did the tomato blush? Because it saw the salad dressing."
+    EligiblePurpleNeille = 647
+    _hidden_value = true
+  }
+  JointCoralElissa2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  FavourablePinkMercie2 = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  TurkishPurpleMoyra2 = false
+  IntelligentMaroonLinnell2 = false
+  FlakyAmberAlfreda3 = false
+  FragileTealSonia2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SovietChocolateDarelle2 = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

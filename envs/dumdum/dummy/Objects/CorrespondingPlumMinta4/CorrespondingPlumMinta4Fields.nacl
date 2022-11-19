@@ -1,0 +1,85 @@
+type dummy.CorrespondingPlumMinta4 {
+  serviceid LivingGrayHenrie3 {
+  }
+  serviceid_number IntermediateRoseOfella3 {
+  }
+  dummy.NativeJadeKatalin EvilAzureBill3 {
+    BusyTealShirley2 = 704
+    FashionableSapphireRena5 = 54
+    ReasonableCrimsonEmelia2 = "Did you know that protons have mass? I didn't even know they were catholic."
+    RapidGrayHilda2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    PowerfulCopperDrona = false
+    BrightVioletTracee = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  dummy.GratefulIvoryJordanna OperationalOrangeMariam3 {
+    ColossalAmaranthAbby2 = "Why was it called the dark ages? Because of all the knights. "
+    ControlledTanSheilakathryn = 371
+    WillingGoldGusta = 963
+    MaleCoffeeDidi2 = "What creature is smarter than a talking parrot? A spelling bee."
+    DullTurquoiseTedda3 = false
+  }
+  boolean LongAmethystAme5 {
+  }
+  dummy.ResidentialIndigoJesse HugeAmaranthAdelaida5 {
+    AggregateScarletRobbie = "Why do birds fly south for the winter? Because it's too far to walk."
+    MidPinkMelissa = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    CulturalCoralElie = "Did you know that protons have mass? I didn't even know they were catholic."
+    CondemnedAquamarineBerthe = "Why did the tomato blush? Because it saw the salad dressing."
+    GoverningTanSephira = true
+    SquealingApricotAra = "My first time using an elevator was an uplifting experience. The second time let me down."
+    UncomfortablePlumModesty = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    SouthernCyanEvey = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    EerieAzureBeverly = "Did you know that protons have mass? I didn't even know they were catholic."
+    RoughGreenIdalina = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    SuitableCrimsonEmilee = "What do you do on a remote island? Try and find the TV island it belongs to."
+    VocationalTanShalna = 687
+    AfraidCrimsonEmmie = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    OrthodoxSapphireRebecca = "What do you call two barracuda fish?  A Pairacuda!"
+    NuclearCoffeeDonna = false
+    ColourfulScarletRosabelle = 305
+    UnableCoralEloise = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  string CivilCoffeeDodi3 {
+  }
+  hidden_boolean CurlyAmberAlbina2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string NoisyApricotAnnelise7 {
+  }
+  string DangerousAzureBethena6 {
+  }
+  json ComingSilverSandi4 {
+  }
+  string ExtraordinaryIndigoJessie3 {
+  }
+  hidden_boolean MereGreenIleane4 {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  json OkSapphireRhianna5 {
+  }
+  hidden_boolean AmericanBronzeCorrie2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.SecureMoccasinLouella2 ClinicalIndigoJeralee4 {
+    ExcitedOrangeMariquilla4 = 113
+    DyingScarletRoby2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    UselessRedNinetta2 = "What creature is smarter than a talking parrot? A spelling bee."
+    SafeCopperDorey2 = 135
+  }
+  number LovelyCoralElly {
+  }
+  json WorthyRedOdilia2 {
+  }
+  string DepressedPinkMelantha7 {
+  }
+}

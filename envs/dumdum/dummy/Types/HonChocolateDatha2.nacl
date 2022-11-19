@@ -1,0 +1,64 @@
+type dummy.HonChocolateDatha2 {
+  annotations {
+    hidden_boolean FlakyAmberAlfy6 {
+    }
+    string FineBrownCourtnay3 {
+    }
+    serviceid UglyTurquoiseTine4 {
+    }
+    json ObedientBlackCassy {
+    }
+  }
+  serviceid RoughGreenIdalina3 {
+    _hidden_value = true
+  }
+  boolean CheerfulBeigeCalypso3 {
+    _hidden_value = true
+  }
+  serviceid HelplessTealSonny2 {
+    _hidden_value = true
+  }
+  serviceid DamagedAmberAleece4 {
+    _hidden_value = true
+  }
+  number SplendidOrangeMandy4 {
+    _hidden_value = true
+  }
+  string RationalLavenderKatya3 {
+    _hidden_value = true
+  }
+  serviceid_number FranticAzureBirgit3 {
+    _hidden_value = true
+  }
+  dummy.EmpiricalPinkMeara TallAmaranthAggie {
+    InfluentialMoccasinLorette = "Dad Im hungry  Hi hungry Im dad"
+    RichCopperDorelle = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    TerribleEmeraldFredra = "Why was it called the dark ages? Because of all the knights. "
+    LoudLavenderKiele2 = "Why did the kid cross the playground? To get to the other slide."
+    _hidden_value = true
+  }
+  json CoolGreenInna5 {
+    _hidden_value = true
+  }
+  json ConfidentialScarletRois5 {
+    _hidden_value = true
+  }
+  string UnsightlyTurquoiseTiphany3 {
+    _hidden_value = true
+  }
+  number FrailVioletTrixy {
+    _hidden_value = true
+  }
+  number NorthernCoralEleanora4 {
+    _hidden_value = true
+  }
+  boolean PerfectBlackCate {
+    _hidden_value = true
+  }
+  FineBrownCourtnay3 = "Why do birds fly south for the winter? Because it's too far to walk."
+  UglyTurquoiseTine4 = "Why was it called the dark ages? Because of all the knights. "
+  ObedientBlackCassy = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

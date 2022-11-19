@@ -1,0 +1,38 @@
+type dummy.AbleBlushChrissy {
+  annotations {
+    hidden_boolean SimpleBronzeCornela {
+    }
+    boolean CasualOliveLurlene {
+    }
+    dummy.MightyTanShandra BoilingAmaranthAgretha2 {
+    }
+    json PassivePurpleMurielle3 {
+    }
+    string FranticAzureBirdie2 {
+    }
+  }
+  number GreenChocolateDebora {
+    _hidden_value = true
+  }
+  boolean QuickCoralEleonora2 {
+    _hidden_value = true
+  }
+  hidden_boolean DeliberateRedNoellyn3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean IsraeliPinkMeriel2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean EnvironmentalCoffeeDomini2 {
+    _hidden_value = true
+  }
+  CasualOliveLurlene = false
+  BoilingAmaranthAgretha2 = false
+  PassivePurpleMurielle3 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FranticAzureBirdie2 = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

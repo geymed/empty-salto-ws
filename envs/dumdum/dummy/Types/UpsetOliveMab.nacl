@@ -1,0 +1,30 @@
+type dummy.UpsetOliveMab {
+  annotations {
+    dummy.DEFAULT NuttyWhiteVikki2 {
+    }
+    hidden_boolean UsualCoralEllyn {
+    }
+    string ManagerialRedNerta {
+    }
+    json RelevantCoffeeDora {
+    }
+    hidden_boolean ConfusedAquamarineBertina3 {
+    }
+    serviceid AwfulAquamarineBernetta {
+    }
+    hidden_boolean AcademicEmeraldFriederike {
+    }
+    hidden_boolean AgreeableBeigeBunnie {
+    }
+  }
+  string GrowingCrimsonEnrichetta2 {
+    _hidden_value = true
+  }
+  NuttyWhiteVikki2 = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  ManagerialRedNerta = "What do you call two barracuda fish?  A Pairacuda!"
+  RelevantCoffeeDora = "What creature is smarter than a talking parrot? A spelling bee."
+  AwfulAquamarineBernetta = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

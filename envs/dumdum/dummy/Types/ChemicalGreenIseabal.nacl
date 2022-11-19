@@ -1,0 +1,49 @@
+type dummy.ChemicalGreenIseabal {
+  annotations {
+    boolean SplendidOrangeManon {
+    }
+    dummy.DEFAULT ExtendedPlumMilissent2 {
+    }
+    serviceid ShortYellowWilow {
+    }
+    number AfraidAquamarineBelvia2 {
+    }
+    serviceid_number HelpfulHarlequinJanetta3 {
+    }
+    number ExoticScarletRina2 {
+    }
+    string KindVioletVallie4 {
+    }
+  }
+  boolean ExclusiveMagentaLatashia2 {
+    _hidden_value = true
+  }
+  number UrgentLimeKrysta4 {
+    _hidden_value = true
+  }
+  dummy.LoudLavenderKial AdequateGrayHildegarde2 {
+    SurroundingOrangeMargery = 661
+    WhisperingApricotArdelia = 530
+    HorribleOrangeMaren = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    _hidden_value = true
+  }
+  number SensitiveGrayHendrika3 {
+    _hidden_value = true
+  }
+  boolean AutomaticLavenderKevyn {
+    _hidden_value = true
+  }
+  json FlakyAmberAli {
+    _hidden_value = true
+  }
+  SplendidOrangeManon = true
+  ExtendedPlumMilissent2 = {
+    legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  ShortYellowWilow = "Why did the tomato blush? Because it saw the salad dressing."
+  AfraidAquamarineBelvia2 = 608
+  HelpfulHarlequinJanetta3 = 193
+  ExoticScarletRina2 = 125
+  KindVioletVallie4 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

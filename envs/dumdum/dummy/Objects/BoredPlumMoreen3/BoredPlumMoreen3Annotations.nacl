@@ -1,0 +1,63 @@
+type dummy.BoredPlumMoreen3 {
+  annotations {
+    boolean SovietChocolateDarelle4 {
+    }
+    serviceid_number LooseIvoryJuliet {
+    }
+    serviceid_number CompactPurpleNannette3 {
+    }
+    serviceid_number MagneticPeachMavra4 {
+    }
+    json FutureCoffeeDolly3 {
+    }
+    json ElectricalLavenderKerrie5 {
+    }
+    boolean ShinyTurquoiseTiertza4 {
+    }
+    serviceid UnusualTurquoiseTobe2 {
+    }
+    json ProfoundPinkMerla2 {
+    }
+    hidden_boolean ShrillApricotAntoinette9 {
+    }
+    boolean SadYellowWillette2 {
+    }
+    serviceid_number BigVioletTonie5 {
+    }
+    boolean RenewedSilverSandra {
+    }
+    hidden_boolean AdorableTomatoSybyl2 {
+    }
+    hidden_boolean UniqueFuchsiaGerti3 {
+    }
+    dummy.AwakeRedNola ThoughtlessBeigeBrita2 {
+    }
+    number SoftApricotApril4 {
+    }
+    number MedievalJadeKaren3 {
+    }
+    dummy.SpareMaroonLilli EnvironmentalCoffeeDomini5 {
+    }
+    hidden_boolean FoolishSapphireReine3 {
+    }
+    boolean DistinguishedPurpleNatasha3 {
+    }
+  }
+  SovietChocolateDarelle4 = false
+  LooseIvoryJuliet = 571
+  CompactPurpleNannette3 = 90
+  MagneticPeachMavra4 = 567
+  FutureCoffeeDolly3 = "How come the stadium got hot after the game? Because all of the fans left."
+  ElectricalLavenderKerrie5 = "A steak pun is a rare medium well done."
+  ShinyTurquoiseTiertza4 = false
+  UnusualTurquoiseTobe2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  ProfoundPinkMerla2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SadYellowWillette2 = false
+  BigVioletTonie5 = 999
+  RenewedSilverSandra = false
+  ThoughtlessBeigeBrita2 = file("JollyVioletValli3.txt")
+  SoftApricotApril4 = 641
+  MedievalJadeKaren3 = 295
+  EnvironmentalCoffeeDomini5 = file("ImmensePlumMirilla.txt")
+  DistinguishedPurpleNatasha3 = false
+}

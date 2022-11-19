@@ -1,0 +1,50 @@
+type dummy.StupidTomatoSunny6 {
+  hidden_boolean QuietCoralEirena3 {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  json QuaintTurquoiseTiena2 {
+  }
+  boolean BoilingAmaranthAgneta4 {
+  }
+  hidden_boolean IncCrimsonErma6 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json EthicalScarletRobenia2 {
+  }
+  hidden_boolean CriticalCrimsonEstella3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.ChineseGoldGuglielma2 RareEmeraldFlorette3 {
+    ClumsyVioletTraci3 = false
+    ShrillApricotAntoinette2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+    IslamicRoseOlympe = false
+    CombativeAquamarineBerte2 = 50
+    RetiredSilverSaraann = true
+  }
+  json SecretGrayHilary4 {
+  }
+  json TallAmaranthAggy3 {
+  }
+  hidden_boolean ExperiencedMagentaLauraine {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number JollyBlackCarri4 {
+  }
+  hidden_boolean WeeklyLavenderKesley {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  number FashionableSapphireRena6 {
+  }
+  string ColossalAmaranthAbby5 {
+  }
+}

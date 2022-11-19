@@ -1,0 +1,99 @@
+type dummy.CrazyTealSibyl2 {
+  annotations {
+    serviceid UnderlyingLimeKoressa2 {
+    }
+    serviceid DecisiveSalmonPenni2 {
+    }
+    serviceid_number SeriousBrownDanell2 {
+    }
+    json DangerousAzureBethena {
+    }
+    serviceid NeighbouringPurpleNananne {
+    }
+  }
+  number UnemployedIvoryJoline2 {
+    _hidden_value = true
+  }
+  hidden_boolean LinearRedNesta3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string BreakableTealShir {
+    _hidden_value = true
+  }
+  serviceid_number FatVioletTrixy {
+    _hidden_value = true
+  }
+  hidden_boolean CombativeAquamarineBerte {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SplendidOrangeMandi3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json ReadyChocolateDebera {
+    _hidden_value = true
+  }
+  serviceid_number VictoriousBlueCecil2 {
+    _hidden_value = true
+  }
+  serviceid_number PoliteSalmonRafaela {
+    _hidden_value = true
+  }
+  boolean FortunateRoseOliy2 {
+    _hidden_value = true
+  }
+  boolean ArtisticPeachMarysa {
+    _hidden_value = true
+  }
+  serviceid MiddleCopperDyan {
+    _hidden_value = true
+  }
+  number ManagingLimeKittie {
+    _hidden_value = true
+  }
+  dummy.StiffPeachMarya SolidAquamarineBari {
+    BritishBlushCherin = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    InnerFuchsiaGenovera = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    CurlyAmberAlecia = 612
+    ArtisticPeachMathilda = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    OpenBronzeClio = false
+    LinguisticJadeKarilynn = 333
+    MonthlyMaroonLinnea = true
+    FantasticBlackCarlota = 167
+    ThinCyanEvangeline = 256
+    _hidden_value = true
+  }
+  string ElaborateRedNicolea2 {
+    _hidden_value = true
+  }
+  hidden_boolean CompetentSalmonPeria2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number RoundYellowWilla2 {
+    _hidden_value = true
+  }
+  serviceid PsychologicalIvoryJolee2 {
+    _hidden_value = true
+  }
+  serviceid_number ScrawnyYellowWilma {
+    _hidden_value = true
+  }
+  boolean ShaggyAquaAvivah2 {
+    _hidden_value = true
+  }
+  UnderlyingLimeKoressa2 = "Dad Im hungry  Hi hungry Im dad"
+  DecisiveSalmonPenni2 = "How come the stadium got hot after the game? Because all of the fans left."
+  SeriousBrownDanell2 = 361
+  DangerousAzureBethena = "Dad Im hungry  Hi hungry Im dad"
+  NeighbouringPurpleNananne = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

@@ -1,0 +1,62 @@
+type dummy.FlatGrayHannie {
+  annotations {
+    number TremendousMagentaLeola {
+    }
+    hidden_boolean RisingScarletRosemaria2 {
+    }
+    boolean LabourBrownDael {
+    }
+    string ColourfulScarletRosaleen3 {
+    }
+    hidden_boolean RedBrownDalila2 {
+    }
+    serviceid SteadyJadeKailey {
+    }
+  }
+  serviceid_number CharmingBeigeCallida {
+    _hidden_value = true
+  }
+  number ScaryBeigeBriana2 {
+    _hidden_value = true
+  }
+  number RainyWhiteWallie {
+    _hidden_value = true
+  }
+  json LiquidRosePage2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT StaleAquaArlinda {
+    _hidden_value = true
+  }
+  boolean FairBlackCarlen {
+    _hidden_value = true
+  }
+  hidden_boolean LeftCoffeeDenny2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.ColonialPeachMaudie DynamicPeachMarne {
+    FrequentLavenderKatie2 = 119
+    VoicelessApricotArdeen = true
+    InnerFuchsiaGenvieve = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    FlakyAmberAlfy = "Why do birds fly south for the winter? Because it's too far to walk."
+    CentralBronzeConnie = "Slept like a log last night  woke up in the fireplace."
+    StingyYellowWinnah = "How come the stadium got hot after the game? Because all of the fans left."
+    AnnoyedAquamarineBenita = 282
+    DullVioletTrish = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    WeeklyLavenderKessia2 = "Why did the kid cross the playground? To get to the other slide."
+    RawJadeKarlee = 845
+    WeirdSilverRozella = 564
+    ShaggyAquaAvis = "Slept like a log last night  woke up in the fireplace."
+    _hidden_value = true
+  }
+  boolean UsefulChocolateDee {
+    _hidden_value = true
+  }
+  TremendousMagentaLeola = 878
+  LabourBrownDael = false
+  ColourfulScarletRosaleen3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SteadyJadeKailey = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

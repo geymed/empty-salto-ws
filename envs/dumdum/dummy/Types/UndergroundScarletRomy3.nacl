@@ -1,0 +1,20 @@
+type dummy.UndergroundScarletRomy3 {
+  annotations {
+    json SuddenGoldGwen4 {
+    }
+    boolean IntimateSilverRuthe {
+    }
+    string LeftCoffeeDeny2 {
+    }
+    boolean FirmGrayHeddie3 {
+    }
+  }
+  json UselessRedNinette3 {
+    _hidden_value = true
+  }
+  SuddenGoldGwen4 = "Why did the tomato blush? Because it saw the salad dressing."
+  IntimateSilverRuthe = false
+  LeftCoffeeDeny2 = "I'll tell you what often gets over looked... garden fences."
+  FirmGrayHeddie3 = false
+  _hidden_value = true
+}

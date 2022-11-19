@@ -1,0 +1,20 @@
+type dummy.TastelessAquaAshley2 {
+  annotations {
+    serviceid AwkwardPeachMaryjo {
+    }
+    json NervousHarlequinJany {
+    }
+    json PrimaryCoffeeDoe {
+    }
+    string BottomMoccasinLouisette2 {
+    }
+  }
+  serviceid_number HighAmberAllina {
+    _hidden_value = true
+  }
+  AwkwardPeachMaryjo = "My first time using an elevator was an uplifting experience. The second time let me down."
+  NervousHarlequinJany = "Why did the tomato blush? Because it saw the salad dressing."
+  PrimaryCoffeeDoe = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  BottomMoccasinLouisette2 = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

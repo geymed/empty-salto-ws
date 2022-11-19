@@ -1,0 +1,49 @@
+type dummy.PastCoffeeDianna3 {
+  annotations {
+    json AcuteLavenderKeri {
+    }
+    hidden_boolean CompetentSalmonPeria3 {
+    }
+    number JudicialJadeKarisa {
+    }
+    dummy.WanderingTomatoSuzann RawJadeKarleen2 {
+    }
+    dummy.DEFAULT ImportantTealSophia2 {
+    }
+  }
+  boolean BurningRedNikoletta6 {
+    _hidden_value = true
+  }
+  hidden_boolean ConsciousHarlequinJeanelle2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean MotionlessTurquoiseThelma4 {
+    _hidden_value = true
+  }
+  serviceid_number SelectSalmonPhilipa4 {
+    _hidden_value = true
+  }
+  string SeriousBrownDanell4 {
+    _hidden_value = true
+  }
+  hidden_boolean PlainIndigoJewelle2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number FoolishSapphireReina {
+    _hidden_value = true
+  }
+  serviceid WidespreadHarlequinJacquetta7 {
+    _hidden_value = true
+  }
+  AcuteLavenderKeri = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  JudicialJadeKarisa = 641
+  RawJadeKarleen2 = "I'll tell you what often gets over looked... garden fences."
+  ImportantTealSophia2 = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  _hidden_value = true
+}
