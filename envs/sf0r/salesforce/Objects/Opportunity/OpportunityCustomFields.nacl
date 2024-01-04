@@ -1,0 +1,78 @@
+type salesforce.Opportunity {
+  salesforce.Text CurrentGenerators__c {
+    apiName = "Opportunity.CurrentGenerators__c"
+    externalId = false
+    label = "Current Generator(s)"
+    length = 100
+    trackTrending = false
+    unique = false
+    createable = true
+    updateable = true
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Picklist DeliveryInstallationStatus__c {
+    apiName = "Opportunity.DeliveryInstallationStatus__c"
+    externalId = false
+    label = "Delivery/Installation Status"
+    trackTrending = false
+    valueSet = [
+      {
+        fullName = "In progress"
+        default = false
+        label = "In progress"
+      },
+      {
+        fullName = "Yet to begin"
+        default = false
+        label = "Yet to begin"
+      },
+      {
+        fullName = "Completed"
+        default = false
+        label = "Completed"
+      },
+    ]
+    sorted = false
+    restricted = false
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text MainCompetitors__c {
+    apiName = "Opportunity.MainCompetitors__c"
+    externalId = false
+    label = "Main Competitor(s)"
+    length = 100
+    trackTrending = false
+    unique = false
+    createable = true
+    updateable = true
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text OrderNumber__c {
+    apiName = "Opportunity.OrderNumber__c"
+    externalId = false
+    label = "Order Number"
+    length = 8
+    trackTrending = false
+    unique = false
+    createable = true
+    updateable = true
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text TrackingNumber__c {
+    apiName = "Opportunity.TrackingNumber__c"
+    externalId = false
+    label = "Tracking Number"
+    length = 12
+    trackTrending = false
+    unique = false
+    createable = true
+    updateable = true
+    caseSensitive = false
+    queryable = true
+  }
+}

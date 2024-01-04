@@ -1,0 +1,11 @@
+salesforce.ValidationRule Lead_TrackerE2EValidationRule {
+  fullName = "Lead.TrackerE2EValidationRule"
+  active = false
+  description = "ValidationRule that should be fetched in tracker e2e test by trackerId: e2de2a08-70cf-436f-a7d3-925a2974e55b"
+  errorConditionFormula = "false"
+  errorMessage = "Error Message!"
+  _parent = [
+    salesforce.Lead,
+  ]
+  _alias = "Lead.TrackerE2EValidationRule"
+}

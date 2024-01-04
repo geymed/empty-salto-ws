@@ -1,0 +1,243 @@
+type salesforce.PaymentLineInvoice {
+  salesforce.Currency Amount {
+    apiName = "PaymentLineInvoice.Amount"
+    _required = true
+    label = "Amount"
+    createable = true
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+  }
+  salesforce.DateTime AppliedDate {
+    apiName = "PaymentLineInvoice.AppliedDate"
+    label = "Applied Date"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Lookup AssociatedAccountId {
+    apiName = "PaymentLineInvoice.AssociatedAccountId"
+    relationshipName = "AssociatedAccount"
+    referenceTo = [
+      salesforce.Account,
+    ]
+    label = "Account ID"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Lookup AssociatedPaymentLineId {
+    apiName = "PaymentLineInvoice.AssociatedPaymentLineId"
+    relationshipName = "AssociatedPaymentLine"
+    referenceTo = [
+      salesforce.PaymentLineInvoice,
+    ]
+    label = "Payment Line Invoice ID"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.LongTextArea Comments {
+    apiName = "PaymentLineInvoice.Comments"
+    length = 1000
+    label = "Comments"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.DateTime Date {
+    apiName = "PaymentLineInvoice.Date"
+    label = "Date"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.DateTime EffectiveDate {
+    apiName = "PaymentLineInvoice.EffectiveDate"
+    label = "Effective Date"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Summary EffectiveImpactAmount {
+    apiName = "PaymentLineInvoice.EffectiveImpactAmount"
+    label = "Effective Impact Amount"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Picklist HasBeenUnapplied {
+    apiName = "PaymentLineInvoice.HasBeenUnapplied"
+    valueSet = [
+      {
+        fullName = "No"
+        isActive = true
+        label = "No"
+        default = false
+      },
+      {
+        fullName = "Yes"
+        isActive = true
+        label = "Yes"
+        default = false
+      },
+      {
+        fullName = "NA"
+        isActive = true
+        label = "NA"
+        default = false
+      },
+    ]
+    restricted = true
+    _required = true
+    label = "Has Been Unapplied"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Summary ImpactAmount {
+    apiName = "PaymentLineInvoice.ImpactAmount"
+    label = "Impact Amount"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.MasterDetail InvoiceId {
+    apiName = "PaymentLineInvoice.InvoiceId"
+    relationshipName = "Invoice"
+    referenceTo = [
+      salesforce.Invoice,
+    ]
+    _required = true
+    label = "Invoice ID"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Currency PaymentBalance {
+    apiName = "PaymentLineInvoice.PaymentBalance"
+    label = "Payment Balance"
+    createable = false
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup PaymentId {
+    apiName = "PaymentLineInvoice.PaymentId"
+    relationshipName = "Payment"
+    referenceTo = [
+      salesforce.Payment,
+    ]
+    _required = true
+    label = "Payment ID"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Picklist Type {
+    apiName = "PaymentLineInvoice.Type"
+    valueSet = [
+      {
+        fullName = "Applied"
+        isActive = true
+        label = "Applied"
+        default = false
+      },
+      {
+        fullName = "Unapplied"
+        isActive = true
+        label = "Unapplied"
+        default = false
+      },
+    ]
+    restricted = true
+    _required = true
+    label = "Type"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.DateTime UnappliedDate {
+    apiName = "PaymentLineInvoice.UnappliedDate"
+    label = "Unapplied Date"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  serviceid Id {
+    apiName = "PaymentLineInvoice.Id"
+    label = "Payment Line Invoice ID"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Checkbox IsDeleted {
+    apiName = "PaymentLineInvoice.IsDeleted"
+    defaultValue = false
+    label = "Deleted"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.AutoNumber PaymentLineInvoiceNumber {
+    apiName = "PaymentLineInvoice.PaymentLineInvoiceNumber"
+    label = "Payment Line Invoice Number"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime CreatedDate {
+    apiName = "PaymentLineInvoice.CreatedDate"
+    label = "Created Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup CreatedById {
+    apiName = "PaymentLineInvoice.CreatedById"
+    relationshipName = "CreatedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Created By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime LastModifiedDate {
+    apiName = "PaymentLineInvoice.LastModifiedDate"
+    label = "Last Modified Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup LastModifiedById {
+    apiName = "PaymentLineInvoice.LastModifiedById"
+    relationshipName = "LastModifiedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Last Modified By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime SystemModstamp {
+    apiName = "PaymentLineInvoice.SystemModstamp"
+    label = "System Modstamp"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+}

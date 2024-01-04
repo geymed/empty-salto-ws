@@ -1,0 +1,130 @@
+type salesforce.Lead {
+  salesforce.Text CurrentGenerators__c {
+    apiName = "Lead.CurrentGenerators__c"
+    externalId = false
+    label = "Current Generator(s)"
+    length = 100
+    unique = false
+    createable = true
+    updateable = true
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Number NumberofLocations__c {
+    apiName = "Lead.NumberofLocations__c"
+    externalId = false
+    label = "Number of Locations"
+    precision = 3
+    scale = 0
+    unique = false
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist Primary__c {
+    apiName = "Lead.Primary__c"
+    externalId = false
+    label = "Primary"
+    valueSet = [
+      {
+        fullName = "No"
+        default = false
+        label = "No"
+      },
+      {
+        fullName = "Yes"
+        default = false
+        label = "Yes"
+      },
+      {
+        fullName = "Maybe"
+        default = false
+        label = "Maybe"
+      },
+    ]
+    sorted = false
+    restricted = false
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist ProductInterest__c {
+    apiName = "Lead.ProductInterest__c"
+    description = "this is his desc"
+    externalId = false
+    label = "Product Interest Gilad"
+    valueSet = [
+      {
+        fullName = "GC1020011 series14"
+        default = false
+        label = "GC1000211 series14"
+      },
+      {
+        fullName = "GC3000646 series"
+        default = false
+        label = "GC3000646 series"
+      },
+      {
+        fullName = "bambaloli bob"
+        default = false
+        label = "bamba botnim bla"
+      },
+      {
+        fullName = "bambam"
+        default = false
+        label = "bambam"
+      },
+      {
+        fullName = "barbar"
+        default = false
+        label = "barbar"
+      },
+    ]
+    sorted = false
+    restricted = false
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text SICCode__c {
+    apiName = "Lead.SICCode__c"
+    externalId = false
+    label = "SIC Code"
+    length = 15
+    unique = false
+    createable = true
+    updateable = true
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text geymedbam__c {
+    apiName = "Lead.geymedbam__c"
+    externalId = false
+    label = "geymedbam"
+    length = 3
+    unique = false
+    createable = true
+    updateable = true
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.FormulaText multiline__c {
+    apiName = "Lead.multiline__c"
+    externalId = false
+    formula = '''
+City + 
+"A" +
+"B" +
+"C" +
+"D"
+'''
+    formulaTreatBlanksAs = "BlankAsZero"
+    label = "multiline"
+    unique = false
+    createable = false
+    updateable = false
+    caseSensitive = false
+    queryable = true
+    _hidden_value = true
+  }
+}

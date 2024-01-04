@@ -1,0 +1,171 @@
+type salesforce.MLModelFactor {
+  serviceid Id {
+    apiName = "MLModelFactor.Id"
+    label = "ML Model Factor ID"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Checkbox IsDeleted {
+    apiName = "MLModelFactor.IsDeleted"
+    defaultValue = false
+    label = "Deleted"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.AutoNumber Name {
+    apiName = "MLModelFactor.Name"
+    label = "Name"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime CreatedDate {
+    apiName = "MLModelFactor.CreatedDate"
+    label = "Created Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup CreatedById {
+    apiName = "MLModelFactor.CreatedById"
+    relationshipName = "CreatedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Created By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime LastModifiedDate {
+    apiName = "MLModelFactor.LastModifiedDate"
+    label = "Last Modified Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup LastModifiedById {
+    apiName = "MLModelFactor.LastModifiedById"
+    relationshipName = "LastModifiedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Last Modified By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime SystemModstamp {
+    apiName = "MLModelFactor.SystemModstamp"
+    label = "System Modstamp"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup ModelId {
+    apiName = "MLModelFactor.ModelId"
+    relationshipName = "Model"
+    referenceTo = [
+      salesforce.MLModel,
+    ]
+    _required = true
+    label = "ML Model ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Picklist Type {
+    apiName = "MLModelFactor.Type"
+    valueSet = [
+      {
+        fullName = "Basic"
+        isActive = true
+        label = "Basic"
+        default = false
+      },
+      {
+        fullName = "And"
+        isActive = true
+        label = "And"
+        default = false
+      },
+      {
+        fullName = "Or"
+        isActive = true
+        label = "Or"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Factor Type"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Number Weight {
+    apiName = "MLModelFactor.Weight"
+    label = "Weight"
+    precision = 18
+    scale = 0
+    createable = false
+    updateable = false
+    unique = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Number Importance {
+    apiName = "MLModelFactor.Importance"
+    label = "Importance"
+    precision = 18
+    scale = 0
+    createable = false
+    updateable = false
+    unique = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Number Correlation {
+    apiName = "MLModelFactor.Correlation"
+    label = "Correlation"
+    precision = 18
+    scale = 0
+    createable = false
+    updateable = false
+    unique = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Picklist FactorType {
+    apiName = "MLModelFactor.FactorType"
+    valueSet = [
+      {
+        fullName = "ModelFactor"
+        isActive = true
+        label = "ModelFactor"
+        default = false
+      },
+      {
+        fullName = "ModelFactlet"
+        isActive = true
+        label = "ModelFactlet"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Factor Category"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+}

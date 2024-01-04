@@ -1,0 +1,560 @@
+type salesforce.MessagingSession {
+  salesforce.DateTime AcceptTime {
+    apiName = "MessagingSession.AcceptTime"
+    label = "Accept Time"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Number AgentMessageCount {
+    apiName = "MessagingSession.AgentMessageCount"
+    label = "Agent Message Count"
+    precision = 9
+    createable = false
+    updateable = false
+    scale = 0
+    unique = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup CaseId {
+    apiName = "MessagingSession.CaseId"
+    relationshipName = "Case"
+    referenceTo = [
+      salesforce.Case,
+    ]
+    label = "Case ID"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text ChannelKey {
+    apiName = "MessagingSession.ChannelKey"
+    length = 150
+    label = "Channel Key"
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text ChannelName {
+    apiName = "MessagingSession.ChannelName"
+    length = 80
+    label = "Channel Name"
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Picklist ChannelType {
+    apiName = "MessagingSession.ChannelType"
+    valueSet = [
+      {
+        fullName = "Text"
+        isActive = true
+        label = "Text"
+        default = false
+      },
+      {
+        fullName = "Facebook"
+        isActive = true
+        label = "Facebook"
+        default = false
+      },
+      {
+        fullName = "Line"
+        isActive = true
+        label = "Line"
+        default = false
+      },
+      {
+        fullName = "GoogleHome"
+        isActive = true
+        label = "Google Home"
+        default = false
+      },
+      {
+        fullName = "Alexa"
+        isActive = true
+        label = "Alexa"
+        default = false
+      },
+      {
+        fullName = "Omega"
+        isActive = true
+        label = "Omega"
+        default = false
+      },
+      {
+        fullName = "AppleBusinessChat"
+        isActive = true
+        label = "Apple Messages for Business"
+        default = false
+      },
+      {
+        fullName = "WeChat"
+        isActive = true
+        label = "WeChat"
+        default = false
+      },
+      {
+        fullName = "WebChat"
+        isActive = true
+        label = "Chat"
+        default = false
+      },
+      {
+        fullName = "WhatsApp"
+        isActive = true
+        label = "WhatsApp"
+        default = false
+      },
+      {
+        fullName = "Phone"
+        isActive = true
+        label = "Phone"
+        default = false
+      },
+      {
+        fullName = "EmbeddedMessaging"
+        isActive = true
+        label = "Embedded Messaging"
+        default = false
+      },
+      {
+        fullName = "Voice"
+        isActive = true
+        label = "Voice"
+        default = false
+      },
+      {
+        fullName = "Custom"
+        isActive = true
+        label = "Custom"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Channel Type"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup ConversationId {
+    apiName = "MessagingSession.ConversationId"
+    relationshipName = "Conversation"
+    referenceTo = [
+      "Conversation",
+    ]
+    label = "Conversation ID"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.DateTime EndTime {
+    apiName = "MessagingSession.EndTime"
+    label = "End Time"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Lookup EndUserAccountId {
+    apiName = "MessagingSession.EndUserAccountId"
+    relationshipName = "EndUserAccount"
+    referenceTo = [
+      salesforce.Account,
+    ]
+    label = "Account ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup EndUserContactId {
+    apiName = "MessagingSession.EndUserContactId"
+    relationshipName = "EndUserContact"
+    referenceTo = [
+      salesforce.Contact,
+    ]
+    label = "Contact ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Number EndUserMessageCount {
+    apiName = "MessagingSession.EndUserMessageCount"
+    label = "End User Message Count"
+    precision = 9
+    createable = false
+    updateable = false
+    scale = 0
+    unique = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup LeadId {
+    apiName = "MessagingSession.LeadId"
+    relationshipName = "Lead"
+    referenceTo = [
+      salesforce.Lead,
+    ]
+    label = "Lead ID"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Lookup MessagingChannelId {
+    apiName = "MessagingSession.MessagingChannelId"
+    relationshipName = "MessagingChannel"
+    referenceTo = [
+      salesforce.MessagingChannel,
+    ]
+    _required = true
+    label = "Messaging Channel ID"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Lookup MessagingEndUserId {
+    apiName = "MessagingSession.MessagingEndUserId"
+    relationshipName = "MessagingEndUser"
+    referenceTo = [
+      salesforce.MessagingEndUser,
+    ]
+    _required = true
+    label = "Messaging User ID"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Lookup OpportunityId {
+    apiName = "MessagingSession.OpportunityId"
+    relationshipName = "Opportunity"
+    referenceTo = [
+      salesforce.Opportunity,
+    ]
+    label = "Opportunity ID"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist Origin {
+    apiName = "MessagingSession.Origin"
+    valueSet = [
+      {
+        fullName = "InboundInitiated"
+        isActive = true
+        label = "Inbound Initiated"
+        default = true
+      },
+      {
+        fullName = "TriggeredOutbound"
+        isActive = true
+        label = "Triggered Outbound"
+        default = false
+      },
+      {
+        fullName = "OptOut"
+        isActive = true
+        label = "Opt-Out Status Change"
+        default = false
+      },
+      {
+        fullName = "OptIn"
+        isActive = true
+        label = "Opt In Status Change"
+        default = false
+      },
+      {
+        fullName = "ConversationClose"
+        isActive = true
+        label = "Conversation Closed"
+        default = false
+      },
+      {
+        fullName = "AgentInitiated"
+        isActive = true
+        label = "Agent Initiated"
+        default = false
+      },
+      {
+        fullName = "Help"
+        isActive = true
+        label = "Help"
+        default = false
+      },
+      {
+        fullName = "ConversationControlLost"
+        isActive = true
+        label = "Conversation Control Transferred"
+        default = false
+      },
+    ]
+    restricted = true
+    _required = true
+    label = "Origin"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Lookup OwnerId {
+    apiName = "MessagingSession.OwnerId"
+    relationshipName = "Owner"
+    referenceTo = [
+      salesforce.Group,
+      salesforce.User,
+    ]
+    label = "Owner ID"
+    createable = true
+    updateable = true
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text PreviewDetails {
+    apiName = "MessagingSession.PreviewDetails"
+    length = 255
+    label = "Preview Details"
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime StartTime {
+    apiName = "MessagingSession.StartTime"
+    label = "Start Time"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Picklist Status {
+    apiName = "MessagingSession.Status"
+    valueSet = [
+      {
+        fullName = "Active"
+        isActive = true
+        label = "Active"
+        default = false
+      },
+      {
+        fullName = "Ended"
+        isActive = true
+        label = "Ended"
+        default = false
+      },
+      {
+        fullName = "Waiting"
+        isActive = true
+        label = "Waiting"
+        default = false
+      },
+      {
+        fullName = "New"
+        isActive = true
+        label = "New"
+        default = false
+      },
+      {
+        fullName = "Consent"
+        isActive = true
+        label = "Consent"
+        default = false
+      },
+      {
+        fullName = "Inactive"
+        isActive = true
+        label = "Inactive"
+        default = false
+      },
+      {
+        fullName = "Error"
+        isActive = true
+        label = "Error"
+        default = false
+      },
+      {
+        fullName = "Paused"
+        isActive = true
+        label = "Paused"
+        default = false
+      },
+    ]
+    restricted = true
+    _required = true
+    label = "Status"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  serviceid Id {
+    apiName = "MessagingSession.Id"
+    label = "Messaging Session ID"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Checkbox IsDeleted {
+    apiName = "MessagingSession.IsDeleted"
+    defaultValue = false
+    label = "Deleted"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.AutoNumber Name {
+    apiName = "MessagingSession.Name"
+    label = "Messaging Session Name"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime CreatedDate {
+    apiName = "MessagingSession.CreatedDate"
+    label = "Created Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup CreatedById {
+    apiName = "MessagingSession.CreatedById"
+    relationshipName = "CreatedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Created By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime LastModifiedDate {
+    apiName = "MessagingSession.LastModifiedDate"
+    label = "Last Modified Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup LastModifiedById {
+    apiName = "MessagingSession.LastModifiedById"
+    relationshipName = "LastModifiedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Last Modified By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime SystemModstamp {
+    apiName = "MessagingSession.SystemModstamp"
+    label = "System Modstamp"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Picklist AgentType {
+    apiName = "MessagingSession.AgentType"
+    valueSet = [
+      {
+        fullName = "Agent"
+        isActive = true
+        label = "Agent"
+        default = true
+      },
+      {
+        fullName = "Bot"
+        isActive = true
+        label = "Bot"
+        default = false
+      },
+      {
+        fullName = "BotToAgent"
+        isActive = true
+        label = "Bot & Agent"
+        default = false
+      },
+      {
+        fullName = "System"
+        isActive = true
+        label = "System"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Agent Type"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Text SessionKey {
+    apiName = "MessagingSession.SessionKey"
+    length = 36
+    label = "Session Key"
+    createable = true
+    updateable = false
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Lookup TargetUserId {
+    apiName = "MessagingSession.TargetUserId"
+    relationshipName = "TargetUser"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "User ID"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text ChannelGroup {
+    apiName = "MessagingSession.ChannelGroup"
+    length = 255
+    label = "Group"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text ChannelIntent {
+    apiName = "MessagingSession.ChannelIntent"
+    length = 255
+    label = "Intent"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text ChannelLocale {
+    apiName = "MessagingSession.ChannelLocale"
+    length = 255
+    label = "Locale"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Summary ChannelEndUserFormula {
+    apiName = "MessagingSession.ChannelEndUserFormula"
+    label = "Concatenated Messaging Channel and Messaging User"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+}

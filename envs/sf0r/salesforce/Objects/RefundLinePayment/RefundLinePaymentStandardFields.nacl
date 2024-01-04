@@ -1,0 +1,235 @@
+type salesforce.RefundLinePayment {
+  salesforce.Currency Amount {
+    apiName = "RefundLinePayment.Amount"
+    _required = true
+    label = "Amount"
+    createable = true
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+  }
+  salesforce.DateTime AppliedDate {
+    apiName = "RefundLinePayment.AppliedDate"
+    label = "Applied Date"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Lookup AssociatedAccountId {
+    apiName = "RefundLinePayment.AssociatedAccountId"
+    relationshipName = "AssociatedAccount"
+    referenceTo = [
+      salesforce.Account,
+    ]
+    label = "Account ID"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Lookup AssociatedRefundLinePaymentId {
+    apiName = "RefundLinePayment.AssociatedRefundLinePaymentId"
+    relationshipName = "AssociatedRefundLinePayment"
+    referenceTo = [
+      salesforce.RefundLinePayment,
+    ]
+    label = "Refund Line Payment ID"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.LongTextArea Comments {
+    apiName = "RefundLinePayment.Comments"
+    length = 1000
+    label = "Comments"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.DateTime Date {
+    apiName = "RefundLinePayment.Date"
+    label = "Date"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.DateTime EffectiveDate {
+    apiName = "RefundLinePayment.EffectiveDate"
+    label = "Effective Date"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Summary EffectiveImpactAmount {
+    apiName = "RefundLinePayment.EffectiveImpactAmount"
+    label = "Effective Impact Amount"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Picklist HasBeenUnapplied {
+    apiName = "RefundLinePayment.HasBeenUnapplied"
+    valueSet = [
+      {
+        fullName = "No"
+        isActive = true
+        label = "No"
+        default = false
+      },
+    ]
+    restricted = true
+    _required = true
+    label = "Has Been Unapplied"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Summary ImpactAmount {
+    apiName = "RefundLinePayment.ImpactAmount"
+    label = "Impact Amount"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Currency PaymentBalance {
+    apiName = "RefundLinePayment.PaymentBalance"
+    label = "Payment Balance"
+    createable = false
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.MasterDetail PaymentId {
+    apiName = "RefundLinePayment.PaymentId"
+    relationshipName = "Payment"
+    referenceTo = [
+      salesforce.Payment,
+    ]
+    _required = true
+    label = "Payment ID"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Currency RefundBalance {
+    apiName = "RefundLinePayment.RefundBalance"
+    label = "Refund Balance"
+    createable = false
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup RefundId {
+    apiName = "RefundLinePayment.RefundId"
+    relationshipName = "Refund"
+    referenceTo = [
+      salesforce.Refund,
+    ]
+    _required = true
+    label = "Refund ID"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Picklist Type {
+    apiName = "RefundLinePayment.Type"
+    valueSet = [
+      {
+        fullName = "Applied"
+        isActive = true
+        label = "Applied"
+        default = false
+      },
+    ]
+    restricted = true
+    _required = true
+    label = "Type"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.DateTime UnappliedDate {
+    apiName = "RefundLinePayment.UnappliedDate"
+    label = "Unapplied Date"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  serviceid Id {
+    apiName = "RefundLinePayment.Id"
+    label = "Refund Line Payment ID"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Checkbox IsDeleted {
+    apiName = "RefundLinePayment.IsDeleted"
+    defaultValue = false
+    label = "Deleted"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.AutoNumber RefundLinePaymentNumber {
+    apiName = "RefundLinePayment.RefundLinePaymentNumber"
+    label = "Refund Line Payment Number"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime CreatedDate {
+    apiName = "RefundLinePayment.CreatedDate"
+    label = "Created Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup CreatedById {
+    apiName = "RefundLinePayment.CreatedById"
+    relationshipName = "CreatedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Created By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime LastModifiedDate {
+    apiName = "RefundLinePayment.LastModifiedDate"
+    label = "Last Modified Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup LastModifiedById {
+    apiName = "RefundLinePayment.LastModifiedById"
+    relationshipName = "LastModifiedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Last Modified By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime SystemModstamp {
+    apiName = "RefundLinePayment.SystemModstamp"
+    label = "System Modstamp"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+}

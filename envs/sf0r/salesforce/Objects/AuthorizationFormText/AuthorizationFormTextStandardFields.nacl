@@ -1,0 +1,2939 @@
+type salesforce.AuthorizationFormText {
+  salesforce.MasterDetail AuthorizationFormId {
+    apiName = "AuthorizationFormText.AuthorizationFormId"
+    relationshipName = "AuthorizationForm"
+    referenceTo = [
+      salesforce.AuthorizationForm,
+    ]
+    _required = true
+    label = "Authorization Form ID"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Lookup ContentDocumentId {
+    apiName = "AuthorizationFormText.ContentDocumentId"
+    relationshipName = "ContentDocument"
+    referenceTo = [
+      "ContentDocument",
+    ]
+    label = "Content Document ID"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Unknown DetailAuthorizationFormText {
+    apiName = "AuthorizationFormText.DetailAuthorizationFormText"
+    _hidden_value = true
+  }
+  salesforce.Text FullAuthorizationFormUrl {
+    apiName = "AuthorizationFormText.FullAuthorizationFormUrl"
+    length = 255
+    label = "Full Authorization Form Url"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Picklist Locale {
+    apiName = "AuthorizationFormText.Locale"
+    valueSet = [
+      {
+        fullName = "af_ZA"
+        isActive = true
+        label = "Afrikaans (South Africa)"
+        default = false
+      },
+      {
+        fullName = "es_EC"
+        isActive = true
+        label = "Spanish (Ecuador)"
+        default = false
+      },
+      {
+        fullName = "fr_LU"
+        isActive = true
+        label = "French (Luxembourg)"
+        default = false
+      },
+      {
+        fullName = "en_TO"
+        isActive = true
+        label = "English (Tonga)"
+        default = false
+      },
+      {
+        fullName = "en_TT"
+        isActive = true
+        label = "English (Trinidad & Tobago)"
+        default = false
+      },
+      {
+        fullName = "nl_AW"
+        isActive = true
+        label = "Dutch (Aruba)"
+        default = false
+      },
+      {
+        fullName = "es_ES"
+        isActive = true
+        label = "Spanish (Spain)"
+        default = false
+      },
+      {
+        fullName = "pt_ST"
+        isActive = true
+        label = "Portuguese (São Tomé & Príncipe)"
+        default = false
+      },
+      {
+        fullName = "xh_ZA"
+        isActive = true
+        label = "Xhosa (South Africa)"
+        default = false
+      },
+      {
+        fullName = "en_TZ"
+        isActive = true
+        label = "English (Tanzania)"
+        default = false
+      },
+      {
+        fullName = "sh_CS"
+        isActive = true
+        label = "Serbian (Latin) (Serbia)"
+        default = false
+      },
+      {
+        fullName = "nl_BE"
+        isActive = true
+        label = "Dutch (Belgium)"
+        default = false
+      },
+      {
+        fullName = "sm_US"
+        isActive = true
+        label = "Samoan (United States)"
+        default = false
+      },
+      {
+        fullName = "en_UG"
+        isActive = true
+        label = "English (Uganda)"
+        default = false
+      },
+      {
+        fullName = "ti_ET"
+        isActive = true
+        label = "Tigrinya (Ethiopia)"
+        default = false
+      },
+      {
+        fullName = "fr_MR"
+        isActive = true
+        label = "French (Mauritania)"
+        default = false
+      },
+      {
+        fullName = "iw_IL"
+        isActive = true
+        label = "Hebrew (Israel)"
+        default = false
+      },
+      {
+        fullName = "am_ET"
+        isActive = true
+        label = "Amharic (Ethiopia)"
+        default = false
+      },
+      {
+        fullName = "ko_KR"
+        isActive = true
+        label = "Korean (South Korea)"
+        default = false
+      },
+      {
+        fullName = "fr_MA"
+        isActive = true
+        label = "French (Morocco)"
+        default = false
+      },
+      {
+        fullName = "en_US"
+        isActive = true
+        label = "English (United States)"
+        default = false
+      },
+      {
+        fullName = "fr_MC"
+        isActive = true
+        label = "French (Monaco)"
+        default = false
+      },
+      {
+        fullName = "zu_ZA"
+        isActive = true
+        label = "Zulu (South Africa)"
+        default = false
+      },
+      {
+        fullName = "be_BY"
+        isActive = true
+        label = "Belarusian (Belarus)"
+        default = false
+      },
+      {
+        fullName = "ar_YE"
+        isActive = true
+        label = "Arabic (Yemen)"
+        default = false
+      },
+      {
+        fullName = "es_CO"
+        isActive = true
+        label = "Spanish (Colombia)"
+        default = false
+      },
+      {
+        fullName = "en_RW"
+        isActive = true
+        label = "English (Rwanda)"
+        default = false
+      },
+      {
+        fullName = "uz_LATN_UZ"
+        isActive = true
+        label = "Uzbek (Latin, Uzbekistan)"
+        default = false
+      },
+      {
+        fullName = "es_CL"
+        isActive = true
+        label = "Spanish (Chile)"
+        default = false
+      },
+      {
+        fullName = "bn_IN"
+        isActive = true
+        label = "Bangla (India)"
+        default = false
+      },
+      {
+        fullName = "es_CR"
+        isActive = true
+        label = "Spanish (Costa Rica)"
+        default = false
+      },
+      {
+        fullName = "en_SC"
+        isActive = true
+        label = "English (Seychelles)"
+        default = false
+      },
+      {
+        fullName = "pa_IN"
+        isActive = true
+        label = "Punjabi (India)"
+        default = false
+      },
+      {
+        fullName = "sm_WS"
+        isActive = true
+        label = "Samoan (Samoa)"
+        default = false
+      },
+      {
+        fullName = "fr_KM"
+        isActive = true
+        label = "French (Comoros)"
+        default = false
+      },
+      {
+        fullName = "en_SB"
+        isActive = true
+        label = "English (Solomon Islands)"
+        default = false
+      },
+      {
+        fullName = "en_SG"
+        isActive = true
+        label = "English (Singapore)"
+        default = false
+      },
+      {
+        fullName = "en_SH"
+        isActive = true
+        label = "English (St. Helena)"
+        default = false
+      },
+      {
+        fullName = "en_SL"
+        isActive = true
+        label = "English (Sierra Leone)"
+        default = false
+      },
+      {
+        fullName = "az_AZ"
+        isActive = true
+        label = "Azerbaijani (Azerbaijan)"
+        default = false
+      },
+      {
+        fullName = "fi_FI"
+        isActive = true
+        label = "Finnish (Finland)"
+        default = false
+      },
+      {
+        fullName = "ru_UA"
+        isActive = true
+        label = "Russian (Ukraine)"
+        default = false
+      },
+      {
+        fullName = "ur_PK"
+        isActive = true
+        label = "Urdu (Pakistan)"
+        default = false
+      },
+      {
+        fullName = "es_DO"
+        isActive = true
+        label = "Spanish (Dominican Republic)"
+        default = false
+      },
+      {
+        fullName = "en_SX"
+        isActive = true
+        label = "English (Sint Maarten)"
+        default = false
+      },
+      {
+        fullName = "pt_PT"
+        isActive = true
+        label = "Portuguese (Portugal)"
+        default = false
+      },
+      {
+        fullName = "en_SZ"
+        isActive = true
+        label = "English (Eswatini)"
+        default = false
+      },
+      {
+        fullName = "en_PH"
+        isActive = true
+        label = "English (Philippines)"
+        default = false
+      },
+      {
+        fullName = "bn_BD"
+        isActive = true
+        label = "Bangla (Bangladesh)"
+        default = false
+      },
+      {
+        fullName = "fr_HT"
+        isActive = true
+        label = "French (Haiti)"
+        default = false
+      },
+      {
+        fullName = "hu_HU"
+        isActive = true
+        label = "Hungarian (Hungary)"
+        default = false
+      },
+      {
+        fullName = "en_PG"
+        isActive = true
+        label = "English (Papua New Guinea)"
+        default = false
+      },
+      {
+        fullName = "ar_SA"
+        isActive = true
+        label = "Arabic (Saudi Arabia)"
+        default = false
+      },
+      {
+        fullName = "en_PK"
+        isActive = true
+        label = "English (Pakistan)"
+        default = false
+      },
+      {
+        fullName = "sr_BA"
+        isActive = true
+        label = "Serbian (Cyrillic) (Bosnia and Herzegovina)"
+        default = false
+      },
+      {
+        fullName = "ro_MD"
+        isActive = true
+        label = "Romanian (Moldova)"
+        default = false
+      },
+      {
+        fullName = "es_AR"
+        isActive = true
+        label = "Spanish (Argentina)"
+        default = false
+      },
+      {
+        fullName = "es_BO"
+        isActive = true
+        label = "Spanish (Bolivia)"
+        default = false
+      },
+      {
+        fullName = "en_MY"
+        isActive = true
+        label = "English (Malaysia)"
+        default = false
+      },
+      {
+        fullName = "en_MW"
+        isActive = true
+        label = "English (Malawi)"
+        default = false
+      },
+      {
+        fullName = "ar_TN"
+        isActive = true
+        label = "Arabic (Tunisia)"
+        default = false
+      },
+      {
+        fullName = "hi_IN"
+        isActive = true
+        label = "Hindi (India)"
+        default = false
+      },
+      {
+        fullName = "en_NA"
+        isActive = true
+        label = "English (Namibia)"
+        default = false
+      },
+      {
+        fullName = "fr_FR"
+        isActive = true
+        label = "French (France)"
+        default = false
+      },
+      {
+        fullName = "en_NG"
+        isActive = true
+        label = "English (Nigeria)"
+        default = false
+      },
+      {
+        fullName = "yo_BJ"
+        isActive = true
+        label = "Yoruba (Benin)"
+        default = false
+      },
+      {
+        fullName = "ms_MY"
+        isActive = true
+        label = "Malay (Malaysia)"
+        default = false
+      },
+      {
+        fullName = "en_NL"
+        isActive = true
+        label = "English (Netherlands)"
+        default = false
+      },
+      {
+        fullName = "sr_CS"
+        isActive = true
+        label = "Serbian (Cyrillic) (Serbia)"
+        default = false
+      },
+      {
+        fullName = "haw_US"
+        isActive = true
+        label = "Hawaiian (United States)"
+        default = false
+      },
+      {
+        fullName = "en_NZ"
+        isActive = true
+        label = "English (New Zealand)"
+        default = false
+      },
+      {
+        fullName = "fr_GN"
+        isActive = true
+        label = "French (Guinea)"
+        default = false
+      },
+      {
+        fullName = "sh_BA"
+        isActive = true
+        label = "Serbian (Latin) (Bosnia and Herzegovina)"
+        default = false
+      },
+      {
+        fullName = "cy_GB"
+        isActive = true
+        label = "Welsh (United Kingdom)"
+        default = false
+      },
+      {
+        fullName = "ht_HT"
+        isActive = true
+        label = "Haitian Creole (Haiti)"
+        default = false
+      },
+      {
+        fullName = "lu_CD"
+        isActive = true
+        label = "Luba-Katanga (Congo - Kinshasa)"
+        default = false
+      },
+      {
+        fullName = "de_AT"
+        isActive = true
+        label = "German (Austria)"
+        default = false
+      },
+      {
+        fullName = "ro_RO"
+        isActive = true
+        label = "Romanian (Romania)"
+        default = false
+      },
+      {
+        fullName = "zh_TW_STROKE"
+        isActive = true
+        label = "Chinese (Taiwan, Stroke Ordering)"
+        default = false
+      },
+      {
+        fullName = "en_KY"
+        isActive = true
+        label = "English (Cayman Islands)"
+        default = false
+      },
+      {
+        fullName = "mt_MT"
+        isActive = true
+        label = "Maltese (Malta)"
+        default = false
+      },
+      {
+        fullName = "en_LR"
+        isActive = true
+        label = "English (Liberia)"
+        default = false
+      },
+      {
+        fullName = "ar_OM"
+        isActive = true
+        label = "Arabic (Oman)"
+        default = false
+      },
+      {
+        fullName = "dz_BT"
+        isActive = true
+        label = "Dzongkha (Bhutan)"
+        default = false
+      },
+      {
+        fullName = "en_MG"
+        isActive = true
+        label = "English (Madagascar)"
+        default = false
+      },
+      {
+        fullName = "en_MU"
+        isActive = true
+        label = "English (Mauritius)"
+        default = false
+      },
+      {
+        fullName = "en_MT"
+        isActive = true
+        label = "English (Malta)"
+        default = false
+      },
+      {
+        fullName = "hmn_US"
+        isActive = true
+        label = "Hmong (United States)"
+        default = false
+      },
+      {
+        fullName = "it_IT"
+        isActive = true
+        label = "Italian (Italy)"
+        default = false
+      },
+      {
+        fullName = "pl_PL"
+        isActive = true
+        label = "Polish (Poland)"
+        default = false
+      },
+      {
+        fullName = "fr_BE"
+        isActive = true
+        label = "French (Belgium)"
+        default = false
+      },
+      {
+        fullName = "sh_ME"
+        isActive = true
+        label = "Montenegrin (Montenegro)"
+        default = false
+      },
+      {
+        fullName = "tr_TR"
+        isActive = true
+        label = "Turkish (Türkiye)"
+        default = false
+      },
+      {
+        fullName = "de_DE"
+        isActive = true
+        label = "German (Germany)"
+        default = false
+      },
+      {
+        fullName = "tg_TJ"
+        isActive = true
+        label = "Tajik (Tajikistan)"
+        default = false
+      },
+      {
+        fullName = "ar_QA"
+        isActive = true
+        label = "Arabic (Qatar)"
+        default = false
+      },
+      {
+        fullName = "de_CH"
+        isActive = true
+        label = "German (Switzerland)"
+        default = false
+      },
+      {
+        fullName = "zh_HK"
+        isActive = true
+        label = "Chinese (Hong Kong SAR China)"
+        default = false
+      },
+      {
+        fullName = "zh_CN_PINYIN"
+        isActive = true
+        label = "Chinese (China, Pinyin Ordering)"
+        default = false
+      },
+      {
+        fullName = "en_JM"
+        isActive = true
+        label = "English (Jamaica)"
+        default = false
+      },
+      {
+        fullName = "fr_CA"
+        isActive = true
+        label = "French (Canada)"
+        default = false
+      },
+      {
+        fullName = "fr_CH"
+        isActive = true
+        label = "French (Switzerland)"
+        default = false
+      },
+      {
+        fullName = "vi_VN"
+        isActive = true
+        label = "Vietnamese (Vietnam)"
+        default = false
+      },
+      {
+        fullName = "de_BE"
+        isActive = true
+        label = "German (Belgium)"
+        default = false
+      },
+      {
+        fullName = "en_KE"
+        isActive = true
+        label = "English (Kenya)"
+        default = false
+      },
+      {
+        fullName = "mi_NZ"
+        isActive = true
+        label = "Te reo (New Zealand)"
+        default = false
+      },
+      {
+        fullName = "en_GY"
+        isActive = true
+        label = "English (Guyana)"
+        default = false
+      },
+      {
+        fullName = "ca_ES"
+        isActive = true
+        label = "Catalan (Spain)"
+        default = false
+      },
+      {
+        fullName = "so_SO"
+        isActive = true
+        label = "Somali (Somalia)"
+        default = false
+      },
+      {
+        fullName = "en_HK"
+        isActive = true
+        label = "English (Hong Kong SAR China)"
+        default = false
+      },
+      {
+        fullName = "nl_NL"
+        isActive = true
+        label = "Dutch (Netherlands)"
+        default = false
+      },
+      {
+        fullName = "ar_JO"
+        isActive = true
+        label = "Arabic (Jordan)"
+        default = false
+      },
+      {
+        fullName = "is_IS"
+        isActive = true
+        label = "Icelandic (Iceland)"
+        default = false
+      },
+      {
+        fullName = "ru_BY"
+        isActive = true
+        label = "Russian (Belarus)"
+        default = false
+      },
+      {
+        fullName = "en_IE"
+        isActive = true
+        label = "English (Ireland)"
+        default = false
+      },
+      {
+        fullName = "hr_HR"
+        isActive = true
+        label = "Croatian (Croatia)"
+        default = false
+      },
+      {
+        fullName = "en_ID"
+        isActive = true
+        label = "English (Indonesia)"
+        default = false
+      },
+      {
+        fullName = "ar_KW"
+        isActive = true
+        label = "Arabic (Kuwait)"
+        default = false
+      },
+      {
+        fullName = "lt_LT"
+        isActive = true
+        label = "Lithuanian (Lithuania)"
+        default = false
+      },
+      {
+        fullName = "en_IN"
+        isActive = true
+        label = "English (India)"
+        default = false
+      },
+      {
+        fullName = "en_IL"
+        isActive = true
+        label = "English (Israel)"
+        default = false
+      },
+      {
+        fullName = "ps_AF"
+        isActive = true
+        label = "Pashto (Afghanistan)"
+        default = false
+      },
+      {
+        fullName = "zh_HK_STROKE"
+        isActive = true
+        label = "Chinese (Hong Kong SAR China, Stroke Ordering)"
+        default = false
+      },
+      {
+        fullName = "en_ER"
+        isActive = true
+        label = "English (Eritrea)"
+        default = false
+      },
+      {
+        fullName = "ar_LB"
+        isActive = true
+        label = "Arabic (Lebanon)"
+        default = false
+      },
+      {
+        fullName = "ru_AM"
+        isActive = true
+        label = "Russian (Armenia)"
+        default = false
+      },
+      {
+        fullName = "ar_LY"
+        isActive = true
+        label = "Arabic (Libya)"
+        default = false
+      },
+      {
+        fullName = "en_FJ"
+        isActive = true
+        label = "English (Fiji)"
+        default = false
+      },
+      {
+        fullName = "en_FK"
+        isActive = true
+        label = "English (Falkland Islands)"
+        default = false
+      },
+      {
+        fullName = "mk_MK"
+        isActive = true
+        label = "Macedonian (North Macedonia)"
+        default = false
+      },
+      {
+        fullName = "ar_MA"
+        isActive = true
+        label = "Arabic (Morocco)"
+        default = false
+      },
+      {
+        fullName = "en_GB"
+        isActive = true
+        label = "English (United Kingdom)"
+        default = false
+      },
+      {
+        fullName = "en_GH"
+        isActive = true
+        label = "English (Ghana)"
+        default = false
+      },
+      {
+        fullName = "ml_IN"
+        isActive = true
+        label = "Malayalam (India)"
+        default = false
+      },
+      {
+        fullName = "en_GI"
+        isActive = true
+        label = "English (Gibraltar)"
+        default = false
+      },
+      {
+        fullName = "zh_CN"
+        isActive = true
+        label = "Chinese (China)"
+        default = false
+      },
+      {
+        fullName = "en_GM"
+        isActive = true
+        label = "English (Gambia)"
+        default = false
+      },
+      {
+        fullName = "ta_LK"
+        isActive = true
+        label = "Tamil (Sri Lanka)"
+        default = false
+      },
+      {
+        fullName = "en_CM"
+        isActive = true
+        label = "English (Cameroon)"
+        default = false
+      },
+      {
+        fullName = "it_CH"
+        isActive = true
+        label = "Italian (Switzerland)"
+        default = false
+      },
+      {
+        fullName = "pt_BR"
+        isActive = true
+        label = "Portuguese (Brazil)"
+        default = false
+      },
+      {
+        fullName = "es_US"
+        isActive = true
+        label = "Spanish (United States)"
+        default = false
+      },
+      {
+        fullName = "en_CY"
+        isActive = true
+        label = "English (Cyprus)"
+        default = false
+      },
+      {
+        fullName = "es_UY"
+        isActive = true
+        label = "Spanish (Uruguay)"
+        default = false
+      },
+      {
+        fullName = "en_DE"
+        isActive = true
+        label = "English (Germany)"
+        default = false
+      },
+      {
+        fullName = "es_VE"
+        isActive = true
+        label = "Spanish (Venezuela)"
+        default = false
+      },
+      {
+        fullName = "da_DK"
+        isActive = true
+        label = "Danish (Denmark)"
+        default = false
+      },
+      {
+        fullName = "pt_AO"
+        isActive = true
+        label = "Portuguese (Angola)"
+        default = false
+      },
+      {
+        fullName = "el_GR"
+        isActive = true
+        label = "Greek (Greece)"
+        default = false
+      },
+      {
+        fullName = "en_AU"
+        isActive = true
+        label = "English (Australia)"
+        default = false
+      },
+      {
+        fullName = "es_SV"
+        isActive = true
+        label = "Spanish (El Salvador)"
+        default = false
+      },
+      {
+        fullName = "en_BB"
+        isActive = true
+        label = "English (Barbados)"
+        default = false
+      },
+      {
+        fullName = "en_BE"
+        isActive = true
+        label = "English (Belgium)"
+        default = false
+      },
+      {
+        fullName = "en_BM"
+        isActive = true
+        label = "English (Bermuda)"
+        default = false
+      },
+      {
+        fullName = "en_BS"
+        isActive = true
+        label = "English (Bahamas)"
+        default = false
+      },
+      {
+        fullName = "en_BW"
+        isActive = true
+        label = "English (Botswana)"
+        default = false
+      },
+      {
+        fullName = "en_BZ"
+        isActive = true
+        label = "English (Belize)"
+        default = false
+      },
+      {
+        fullName = "en_CA"
+        isActive = true
+        label = "English (Canada)"
+        default = false
+      },
+      {
+        fullName = "ka_GE"
+        isActive = true
+        label = "Georgian (Georgia)"
+        default = false
+      },
+      {
+        fullName = "lv_LV"
+        isActive = true
+        label = "Latvian (Latvia)"
+        default = false
+      },
+      {
+        fullName = "uk_UA"
+        isActive = true
+        label = "Ukrainian (Ukraine)"
+        default = false
+      },
+      {
+        fullName = "ar_IQ"
+        isActive = true
+        label = "Arabic (Iraq)"
+        default = false
+      },
+      {
+        fullName = "th_TH"
+        isActive = true
+        label = "Thai (Thailand)"
+        default = false
+      },
+      {
+        fullName = "rm_CH"
+        isActive = true
+        label = "Romansh (Switzerland)"
+        default = false
+      },
+      {
+        fullName = "kl_GL"
+        isActive = true
+        label = "Kalaallisut (Greenland)"
+        default = false
+      },
+      {
+        fullName = "ru_KZ"
+        isActive = true
+        label = "Russian (Kazakhstan)"
+        default = false
+      },
+      {
+        fullName = "ar_BH"
+        isActive = true
+        label = "Arabic (Bahrain)"
+        default = false
+      },
+      {
+        fullName = "ru_KG"
+        isActive = true
+        label = "Russian (Kyrgyzstan)"
+        default = false
+      },
+      {
+        fullName = "ta_IN"
+        isActive = true
+        label = "Tamil (India)"
+        default = false
+      },
+      {
+        fullName = "sr_RS"
+        isActive = true
+        label = "Serbian (Serbia)"
+        default = false
+      },
+      {
+        fullName = "zh_MO"
+        isActive = true
+        label = "Chinese (Macao SAR China)"
+        default = false
+      },
+      {
+        fullName = "en_AE"
+        isActive = true
+        label = "English (United Arab Emirates)"
+        default = false
+      },
+      {
+        fullName = "zh_MY"
+        isActive = true
+        label = "Chinese (Malaysia)"
+        default = false
+      },
+      {
+        fullName = "kk_KZ"
+        isActive = true
+        label = "Kazakh (Kazakhstan)"
+        default = false
+      },
+      {
+        fullName = "no_NO"
+        isActive = true
+        label = "Norwegian (Norway)"
+        default = false
+      },
+      {
+        fullName = "en_AG"
+        isActive = true
+        label = "English (Antigua & Barbuda)"
+        default = false
+      },
+      {
+        fullName = "nl_SR"
+        isActive = true
+        label = "Dutch (Suriname)"
+        default = false
+      },
+      {
+        fullName = "el_CY"
+        isActive = true
+        label = "Greek (Cyprus)"
+        default = false
+      },
+      {
+        fullName = "es_PE"
+        isActive = true
+        label = "Spanish (Peru)"
+        default = false
+      },
+      {
+        fullName = "es_PA"
+        isActive = true
+        label = "Spanish (Panama)"
+        default = false
+      },
+      {
+        fullName = "ar_DZ"
+        isActive = true
+        label = "Arabic (Algeria)"
+        default = false
+      },
+      {
+        fullName = "lb_LU"
+        isActive = true
+        label = "Luxembourgish (Luxembourg)"
+        default = false
+      },
+      {
+        fullName = "pt_CV"
+        isActive = true
+        label = "Portuguese (Cape Verde)"
+        default = false
+      },
+      {
+        fullName = "fr_WF"
+        isActive = true
+        label = "French (Wallis & Futuna)"
+        default = false
+      },
+      {
+        fullName = "es_PR"
+        isActive = true
+        label = "Spanish (Puerto Rico)"
+        default = false
+      },
+      {
+        fullName = "ar_EG"
+        isActive = true
+        label = "Arabic (Egypt)"
+        default = false
+      },
+      {
+        fullName = "es_PY"
+        isActive = true
+        label = "Spanish (Paraguay)"
+        default = false
+      },
+      {
+        fullName = "ru_PL"
+        isActive = true
+        label = "Russian (Poland)"
+        default = false
+      },
+      {
+        fullName = "cs_CZ"
+        isActive = true
+        label = "Czech (Czechia)"
+        default = false
+      },
+      {
+        fullName = "es_MX"
+        isActive = true
+        label = "Spanish (Mexico)"
+        default = false
+      },
+      {
+        fullName = "sk_SK"
+        isActive = true
+        label = "Slovak (Slovakia)"
+        default = false
+      },
+      {
+        fullName = "te_IN"
+        isActive = true
+        label = "Telugu (India)"
+        default = false
+      },
+      {
+        fullName = "sv_SE"
+        isActive = true
+        label = "Swedish (Sweden)"
+        default = false
+      },
+      {
+        fullName = "sq_AL"
+        isActive = true
+        label = "Albanian (Albania)"
+        default = false
+      },
+      {
+        fullName = "es_NI"
+        isActive = true
+        label = "Spanish (Nicaragua)"
+        default = false
+      },
+      {
+        fullName = "my_MM"
+        isActive = true
+        label = "Burmese (Myanmar [Burma])"
+        default = false
+      },
+      {
+        fullName = "km_KH"
+        isActive = true
+        label = "Khmer (Cambodia)"
+        default = false
+      },
+      {
+        fullName = "ja_JP"
+        isActive = true
+        label = "Japanese (Japan)"
+        default = false
+      },
+      {
+        fullName = "rn_BI"
+        isActive = true
+        label = "Rundi (Burundi)"
+        default = false
+      },
+      {
+        fullName = "eu_ES"
+        isActive = true
+        label = "Basque (Spain)"
+        default = false
+      },
+      {
+        fullName = "ht_US"
+        isActive = true
+        label = "Haitian Creole (United States)"
+        default = false
+      },
+      {
+        fullName = "ru_MD"
+        isActive = true
+        label = "Russian (Moldova)"
+        default = false
+      },
+      {
+        fullName = "bs_BA"
+        isActive = true
+        label = "Bosnian (Bosnia & Herzegovina)"
+        default = false
+      },
+      {
+        fullName = "ne_NP"
+        isActive = true
+        label = "Nepali (Nepal)"
+        default = false
+      },
+      {
+        fullName = "ga_IE"
+        isActive = true
+        label = "Irish (Ireland)"
+        default = false
+      },
+      {
+        fullName = "ru_LT"
+        isActive = true
+        label = "Russian (Lithuania)"
+        default = false
+      },
+      {
+        fullName = "sl_SI"
+        isActive = true
+        label = "Slovenian (Slovenia)"
+        default = false
+      },
+      {
+        fullName = "ar_AE"
+        isActive = true
+        label = "Arabic (United Arab Emirates)"
+        default = false
+      },
+      {
+        fullName = "tl_PH"
+        isActive = true
+        label = "Tagalog (Philippines)"
+        default = false
+      },
+      {
+        fullName = "in_ID"
+        isActive = true
+        label = "Indonesian (Indonesia)"
+        default = false
+      },
+      {
+        fullName = "zh_CN_STROKE"
+        isActive = true
+        label = "Chinese (China, Stroke Ordering)"
+        default = false
+      },
+      {
+        fullName = "lo_LA"
+        isActive = true
+        label = "Lao (Laos)"
+        default = false
+      },
+      {
+        fullName = "kn_IN"
+        isActive = true
+        label = "Kannada (India)"
+        default = false
+      },
+      {
+        fullName = "ji_US"
+        isActive = true
+        label = "Yiddish (United States)"
+        default = false
+      },
+      {
+        fullName = "sw_KE"
+        isActive = true
+        label = "Swahili (Kenya)"
+        default = false
+      },
+      {
+        fullName = "pt_MZ"
+        isActive = true
+        label = "Portuguese (Mozambique)"
+        default = false
+      },
+      {
+        fullName = "ms_BN"
+        isActive = true
+        label = "Malay (Brunei)"
+        default = false
+      },
+      {
+        fullName = "de_LU"
+        isActive = true
+        label = "German (Luxembourg)"
+        default = false
+      },
+      {
+        fullName = "en_ZA"
+        isActive = true
+        label = "English (South Africa)"
+        default = false
+      },
+      {
+        fullName = "so_DJ"
+        isActive = true
+        label = "Somali (Djibouti)"
+        default = false
+      },
+      {
+        fullName = "ru_RU"
+        isActive = true
+        label = "Russian (Russia)"
+        default = false
+      },
+      {
+        fullName = "mr_IN"
+        isActive = true
+        label = "Marathi (India)"
+        default = false
+      },
+      {
+        fullName = "ky_KG"
+        isActive = true
+        label = "Kyrgyz (Kyrgyzstan)"
+        default = false
+      },
+      {
+        fullName = "zh_TW"
+        isActive = true
+        label = "Chinese (Taiwan)"
+        default = false
+      },
+      {
+        fullName = "en_VU"
+        isActive = true
+        label = "English (Vanuatu)"
+        default = false
+      },
+      {
+        fullName = "es_GT"
+        isActive = true
+        label = "Spanish (Guatemala)"
+        default = false
+      },
+      {
+        fullName = "zh_SG"
+        isActive = true
+        label = "Chinese (Singapore)"
+        default = false
+      },
+      {
+        fullName = "bg_BG"
+        isActive = true
+        label = "Bulgarian (Bulgaria)"
+        default = false
+      },
+      {
+        fullName = "hy_AM"
+        isActive = true
+        label = "Armenian (Armenia)"
+        default = false
+      },
+      {
+        fullName = "en_WS"
+        isActive = true
+        label = "English (Samoa)"
+        default = false
+      },
+      {
+        fullName = "es_HN"
+        isActive = true
+        label = "Spanish (Honduras)"
+        default = false
+      },
+      {
+        fullName = "gu_IN"
+        isActive = true
+        label = "Gujarati (India)"
+        default = false
+      },
+      {
+        fullName = "et_EE"
+        isActive = true
+        label = "Estonian (Estonia)"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Locale"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text Name {
+    apiName = "AuthorizationFormText.Name"
+    length = 255
+    _required = true
+    label = "Name"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text SummaryAuthFormText {
+    apiName = "AuthorizationFormText.SummaryAuthFormText"
+    length = 255
+    label = "Summary Auth Form Text"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  serviceid Id {
+    apiName = "AuthorizationFormText.Id"
+    label = "Authorization Form Text ID"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Checkbox IsDeleted {
+    apiName = "AuthorizationFormText.IsDeleted"
+    defaultValue = false
+    label = "Deleted"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime CreatedDate {
+    apiName = "AuthorizationFormText.CreatedDate"
+    label = "Created Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup CreatedById {
+    apiName = "AuthorizationFormText.CreatedById"
+    relationshipName = "CreatedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Created By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime LastModifiedDate {
+    apiName = "AuthorizationFormText.LastModifiedDate"
+    label = "Last Modified Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup LastModifiedById {
+    apiName = "AuthorizationFormText.LastModifiedById"
+    relationshipName = "LastModifiedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Last Modified By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime SystemModstamp {
+    apiName = "AuthorizationFormText.SystemModstamp"
+    label = "System Modstamp"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Picklist LocaleSelection {
+    apiName = "AuthorizationFormText.LocaleSelection"
+    valueSet = [
+      {
+        fullName = "af_ZA"
+        isActive = true
+        label = "Afrikaans (South Africa)"
+        default = false
+      },
+      {
+        fullName = "es_EC"
+        isActive = true
+        label = "Spanish (Ecuador)"
+        default = false
+      },
+      {
+        fullName = "fr_LU"
+        isActive = true
+        label = "French (Luxembourg)"
+        default = false
+      },
+      {
+        fullName = "en_TO"
+        isActive = true
+        label = "English (Tonga)"
+        default = false
+      },
+      {
+        fullName = "en_TT"
+        isActive = true
+        label = "English (Trinidad & Tobago)"
+        default = false
+      },
+      {
+        fullName = "nl_AW"
+        isActive = true
+        label = "Dutch (Aruba)"
+        default = false
+      },
+      {
+        fullName = "es_ES"
+        isActive = true
+        label = "Spanish (Spain)"
+        default = false
+      },
+      {
+        fullName = "pt_ST"
+        isActive = true
+        label = "Portuguese (São Tomé & Príncipe)"
+        default = false
+      },
+      {
+        fullName = "xh_ZA"
+        isActive = true
+        label = "Xhosa (South Africa)"
+        default = false
+      },
+      {
+        fullName = "en_TZ"
+        isActive = true
+        label = "English (Tanzania)"
+        default = false
+      },
+      {
+        fullName = "sh_CS"
+        isActive = true
+        label = "Serbian (Latin) (Serbia)"
+        default = false
+      },
+      {
+        fullName = "nl_BE"
+        isActive = true
+        label = "Dutch (Belgium)"
+        default = false
+      },
+      {
+        fullName = "sm_US"
+        isActive = true
+        label = "Samoan (United States)"
+        default = false
+      },
+      {
+        fullName = "en_UG"
+        isActive = true
+        label = "English (Uganda)"
+        default = false
+      },
+      {
+        fullName = "ti_ET"
+        isActive = true
+        label = "Tigrinya (Ethiopia)"
+        default = false
+      },
+      {
+        fullName = "fr_MR"
+        isActive = true
+        label = "French (Mauritania)"
+        default = false
+      },
+      {
+        fullName = "iw_IL"
+        isActive = true
+        label = "Hebrew (Israel)"
+        default = false
+      },
+      {
+        fullName = "am_ET"
+        isActive = true
+        label = "Amharic (Ethiopia)"
+        default = false
+      },
+      {
+        fullName = "ko_KR"
+        isActive = true
+        label = "Korean (South Korea)"
+        default = false
+      },
+      {
+        fullName = "fr_MA"
+        isActive = true
+        label = "French (Morocco)"
+        default = false
+      },
+      {
+        fullName = "en_US"
+        isActive = true
+        label = "English (United States)"
+        default = false
+      },
+      {
+        fullName = "fr_MC"
+        isActive = true
+        label = "French (Monaco)"
+        default = false
+      },
+      {
+        fullName = "zu_ZA"
+        isActive = true
+        label = "Zulu (South Africa)"
+        default = false
+      },
+      {
+        fullName = "be_BY"
+        isActive = true
+        label = "Belarusian (Belarus)"
+        default = false
+      },
+      {
+        fullName = "ar_YE"
+        isActive = true
+        label = "Arabic (Yemen)"
+        default = false
+      },
+      {
+        fullName = "es_CO"
+        isActive = true
+        label = "Spanish (Colombia)"
+        default = false
+      },
+      {
+        fullName = "en_RW"
+        isActive = true
+        label = "English (Rwanda)"
+        default = false
+      },
+      {
+        fullName = "uz_LATN_UZ"
+        isActive = true
+        label = "Uzbek (Latin, Uzbekistan)"
+        default = false
+      },
+      {
+        fullName = "es_CL"
+        isActive = true
+        label = "Spanish (Chile)"
+        default = false
+      },
+      {
+        fullName = "bn_IN"
+        isActive = true
+        label = "Bangla (India)"
+        default = false
+      },
+      {
+        fullName = "es_CR"
+        isActive = true
+        label = "Spanish (Costa Rica)"
+        default = false
+      },
+      {
+        fullName = "en_SC"
+        isActive = true
+        label = "English (Seychelles)"
+        default = false
+      },
+      {
+        fullName = "pa_IN"
+        isActive = true
+        label = "Punjabi (India)"
+        default = false
+      },
+      {
+        fullName = "sm_WS"
+        isActive = true
+        label = "Samoan (Samoa)"
+        default = false
+      },
+      {
+        fullName = "fr_KM"
+        isActive = true
+        label = "French (Comoros)"
+        default = false
+      },
+      {
+        fullName = "en_SB"
+        isActive = true
+        label = "English (Solomon Islands)"
+        default = false
+      },
+      {
+        fullName = "en_SG"
+        isActive = true
+        label = "English (Singapore)"
+        default = false
+      },
+      {
+        fullName = "en_SH"
+        isActive = true
+        label = "English (St. Helena)"
+        default = false
+      },
+      {
+        fullName = "en_SL"
+        isActive = true
+        label = "English (Sierra Leone)"
+        default = false
+      },
+      {
+        fullName = "az_AZ"
+        isActive = true
+        label = "Azerbaijani (Azerbaijan)"
+        default = false
+      },
+      {
+        fullName = "fi_FI"
+        isActive = true
+        label = "Finnish (Finland)"
+        default = false
+      },
+      {
+        fullName = "ru_UA"
+        isActive = true
+        label = "Russian (Ukraine)"
+        default = false
+      },
+      {
+        fullName = "ur_PK"
+        isActive = true
+        label = "Urdu (Pakistan)"
+        default = false
+      },
+      {
+        fullName = "es_DO"
+        isActive = true
+        label = "Spanish (Dominican Republic)"
+        default = false
+      },
+      {
+        fullName = "en_SX"
+        isActive = true
+        label = "English (Sint Maarten)"
+        default = false
+      },
+      {
+        fullName = "pt_PT"
+        isActive = true
+        label = "Portuguese (Portugal)"
+        default = false
+      },
+      {
+        fullName = "en_SZ"
+        isActive = true
+        label = "English (Eswatini)"
+        default = false
+      },
+      {
+        fullName = "en_PH"
+        isActive = true
+        label = "English (Philippines)"
+        default = false
+      },
+      {
+        fullName = "bn_BD"
+        isActive = true
+        label = "Bangla (Bangladesh)"
+        default = false
+      },
+      {
+        fullName = "fr_HT"
+        isActive = true
+        label = "French (Haiti)"
+        default = false
+      },
+      {
+        fullName = "hu_HU"
+        isActive = true
+        label = "Hungarian (Hungary)"
+        default = false
+      },
+      {
+        fullName = "en_PG"
+        isActive = true
+        label = "English (Papua New Guinea)"
+        default = false
+      },
+      {
+        fullName = "ar_SA"
+        isActive = true
+        label = "Arabic (Saudi Arabia)"
+        default = false
+      },
+      {
+        fullName = "en_PK"
+        isActive = true
+        label = "English (Pakistan)"
+        default = false
+      },
+      {
+        fullName = "sr_BA"
+        isActive = true
+        label = "Serbian (Cyrillic) (Bosnia and Herzegovina)"
+        default = false
+      },
+      {
+        fullName = "ro_MD"
+        isActive = true
+        label = "Romanian (Moldova)"
+        default = false
+      },
+      {
+        fullName = "es_AR"
+        isActive = true
+        label = "Spanish (Argentina)"
+        default = false
+      },
+      {
+        fullName = "es_BO"
+        isActive = true
+        label = "Spanish (Bolivia)"
+        default = false
+      },
+      {
+        fullName = "en_MY"
+        isActive = true
+        label = "English (Malaysia)"
+        default = false
+      },
+      {
+        fullName = "en_MW"
+        isActive = true
+        label = "English (Malawi)"
+        default = false
+      },
+      {
+        fullName = "ar_TN"
+        isActive = true
+        label = "Arabic (Tunisia)"
+        default = false
+      },
+      {
+        fullName = "hi_IN"
+        isActive = true
+        label = "Hindi (India)"
+        default = false
+      },
+      {
+        fullName = "en_NA"
+        isActive = true
+        label = "English (Namibia)"
+        default = false
+      },
+      {
+        fullName = "fr_FR"
+        isActive = true
+        label = "French (France)"
+        default = false
+      },
+      {
+        fullName = "en_NG"
+        isActive = true
+        label = "English (Nigeria)"
+        default = false
+      },
+      {
+        fullName = "yo_BJ"
+        isActive = true
+        label = "Yoruba (Benin)"
+        default = false
+      },
+      {
+        fullName = "ms_MY"
+        isActive = true
+        label = "Malay (Malaysia)"
+        default = false
+      },
+      {
+        fullName = "en_NL"
+        isActive = true
+        label = "English (Netherlands)"
+        default = false
+      },
+      {
+        fullName = "sr_CS"
+        isActive = true
+        label = "Serbian (Cyrillic) (Serbia)"
+        default = false
+      },
+      {
+        fullName = "haw_US"
+        isActive = true
+        label = "Hawaiian (United States)"
+        default = false
+      },
+      {
+        fullName = "en_NZ"
+        isActive = true
+        label = "English (New Zealand)"
+        default = false
+      },
+      {
+        fullName = "fr_GN"
+        isActive = true
+        label = "French (Guinea)"
+        default = false
+      },
+      {
+        fullName = "sh_BA"
+        isActive = true
+        label = "Serbian (Latin) (Bosnia and Herzegovina)"
+        default = false
+      },
+      {
+        fullName = "cy_GB"
+        isActive = true
+        label = "Welsh (United Kingdom)"
+        default = false
+      },
+      {
+        fullName = "ht_HT"
+        isActive = true
+        label = "Haitian Creole (Haiti)"
+        default = false
+      },
+      {
+        fullName = "lu_CD"
+        isActive = true
+        label = "Luba-Katanga (Congo - Kinshasa)"
+        default = false
+      },
+      {
+        fullName = "de_AT"
+        isActive = true
+        label = "German (Austria)"
+        default = false
+      },
+      {
+        fullName = "ro_RO"
+        isActive = true
+        label = "Romanian (Romania)"
+        default = false
+      },
+      {
+        fullName = "zh_TW_STROKE"
+        isActive = true
+        label = "Chinese (Taiwan, Stroke Ordering)"
+        default = false
+      },
+      {
+        fullName = "en_KY"
+        isActive = true
+        label = "English (Cayman Islands)"
+        default = false
+      },
+      {
+        fullName = "mt_MT"
+        isActive = true
+        label = "Maltese (Malta)"
+        default = false
+      },
+      {
+        fullName = "en_LR"
+        isActive = true
+        label = "English (Liberia)"
+        default = false
+      },
+      {
+        fullName = "ar_OM"
+        isActive = true
+        label = "Arabic (Oman)"
+        default = false
+      },
+      {
+        fullName = "dz_BT"
+        isActive = true
+        label = "Dzongkha (Bhutan)"
+        default = false
+      },
+      {
+        fullName = "en_MG"
+        isActive = true
+        label = "English (Madagascar)"
+        default = false
+      },
+      {
+        fullName = "en_MU"
+        isActive = true
+        label = "English (Mauritius)"
+        default = false
+      },
+      {
+        fullName = "en_MT"
+        isActive = true
+        label = "English (Malta)"
+        default = false
+      },
+      {
+        fullName = "hmn_US"
+        isActive = true
+        label = "Hmong (United States)"
+        default = false
+      },
+      {
+        fullName = "it_IT"
+        isActive = true
+        label = "Italian (Italy)"
+        default = false
+      },
+      {
+        fullName = "pl_PL"
+        isActive = true
+        label = "Polish (Poland)"
+        default = false
+      },
+      {
+        fullName = "fr_BE"
+        isActive = true
+        label = "French (Belgium)"
+        default = false
+      },
+      {
+        fullName = "sh_ME"
+        isActive = true
+        label = "Montenegrin (Montenegro)"
+        default = false
+      },
+      {
+        fullName = "tr_TR"
+        isActive = true
+        label = "Turkish (Türkiye)"
+        default = false
+      },
+      {
+        fullName = "de_DE"
+        isActive = true
+        label = "German (Germany)"
+        default = false
+      },
+      {
+        fullName = "tg_TJ"
+        isActive = true
+        label = "Tajik (Tajikistan)"
+        default = false
+      },
+      {
+        fullName = "ar_QA"
+        isActive = true
+        label = "Arabic (Qatar)"
+        default = false
+      },
+      {
+        fullName = "de_CH"
+        isActive = true
+        label = "German (Switzerland)"
+        default = false
+      },
+      {
+        fullName = "zh_HK"
+        isActive = true
+        label = "Chinese (Hong Kong SAR China)"
+        default = false
+      },
+      {
+        fullName = "zh_CN_PINYIN"
+        isActive = true
+        label = "Chinese (China, Pinyin Ordering)"
+        default = false
+      },
+      {
+        fullName = "en_JM"
+        isActive = true
+        label = "English (Jamaica)"
+        default = false
+      },
+      {
+        fullName = "fr_CA"
+        isActive = true
+        label = "French (Canada)"
+        default = false
+      },
+      {
+        fullName = "fr_CH"
+        isActive = true
+        label = "French (Switzerland)"
+        default = false
+      },
+      {
+        fullName = "vi_VN"
+        isActive = true
+        label = "Vietnamese (Vietnam)"
+        default = false
+      },
+      {
+        fullName = "de_BE"
+        isActive = true
+        label = "German (Belgium)"
+        default = false
+      },
+      {
+        fullName = "en_KE"
+        isActive = true
+        label = "English (Kenya)"
+        default = false
+      },
+      {
+        fullName = "mi_NZ"
+        isActive = true
+        label = "Te reo (New Zealand)"
+        default = false
+      },
+      {
+        fullName = "en_GY"
+        isActive = true
+        label = "English (Guyana)"
+        default = false
+      },
+      {
+        fullName = "ca_ES"
+        isActive = true
+        label = "Catalan (Spain)"
+        default = false
+      },
+      {
+        fullName = "so_SO"
+        isActive = true
+        label = "Somali (Somalia)"
+        default = false
+      },
+      {
+        fullName = "en_HK"
+        isActive = true
+        label = "English (Hong Kong SAR China)"
+        default = false
+      },
+      {
+        fullName = "nl_NL"
+        isActive = true
+        label = "Dutch (Netherlands)"
+        default = false
+      },
+      {
+        fullName = "ar_JO"
+        isActive = true
+        label = "Arabic (Jordan)"
+        default = false
+      },
+      {
+        fullName = "is_IS"
+        isActive = true
+        label = "Icelandic (Iceland)"
+        default = false
+      },
+      {
+        fullName = "ru_BY"
+        isActive = true
+        label = "Russian (Belarus)"
+        default = false
+      },
+      {
+        fullName = "en_IE"
+        isActive = true
+        label = "English (Ireland)"
+        default = false
+      },
+      {
+        fullName = "hr_HR"
+        isActive = true
+        label = "Croatian (Croatia)"
+        default = false
+      },
+      {
+        fullName = "en_ID"
+        isActive = true
+        label = "English (Indonesia)"
+        default = false
+      },
+      {
+        fullName = "ar_KW"
+        isActive = true
+        label = "Arabic (Kuwait)"
+        default = false
+      },
+      {
+        fullName = "lt_LT"
+        isActive = true
+        label = "Lithuanian (Lithuania)"
+        default = false
+      },
+      {
+        fullName = "en_IN"
+        isActive = true
+        label = "English (India)"
+        default = false
+      },
+      {
+        fullName = "en_IL"
+        isActive = true
+        label = "English (Israel)"
+        default = false
+      },
+      {
+        fullName = "ps_AF"
+        isActive = true
+        label = "Pashto (Afghanistan)"
+        default = false
+      },
+      {
+        fullName = "zh_HK_STROKE"
+        isActive = true
+        label = "Chinese (Hong Kong SAR China, Stroke Ordering)"
+        default = false
+      },
+      {
+        fullName = "en_ER"
+        isActive = true
+        label = "English (Eritrea)"
+        default = false
+      },
+      {
+        fullName = "ar_LB"
+        isActive = true
+        label = "Arabic (Lebanon)"
+        default = false
+      },
+      {
+        fullName = "ru_AM"
+        isActive = true
+        label = "Russian (Armenia)"
+        default = false
+      },
+      {
+        fullName = "ar_LY"
+        isActive = true
+        label = "Arabic (Libya)"
+        default = false
+      },
+      {
+        fullName = "en_FJ"
+        isActive = true
+        label = "English (Fiji)"
+        default = false
+      },
+      {
+        fullName = "en_FK"
+        isActive = true
+        label = "English (Falkland Islands)"
+        default = false
+      },
+      {
+        fullName = "mk_MK"
+        isActive = true
+        label = "Macedonian (North Macedonia)"
+        default = false
+      },
+      {
+        fullName = "ar_MA"
+        isActive = true
+        label = "Arabic (Morocco)"
+        default = false
+      },
+      {
+        fullName = "en_GB"
+        isActive = true
+        label = "English (United Kingdom)"
+        default = false
+      },
+      {
+        fullName = "en_GH"
+        isActive = true
+        label = "English (Ghana)"
+        default = false
+      },
+      {
+        fullName = "ml_IN"
+        isActive = true
+        label = "Malayalam (India)"
+        default = false
+      },
+      {
+        fullName = "en_GI"
+        isActive = true
+        label = "English (Gibraltar)"
+        default = false
+      },
+      {
+        fullName = "zh_CN"
+        isActive = true
+        label = "Chinese (China)"
+        default = false
+      },
+      {
+        fullName = "en_GM"
+        isActive = true
+        label = "English (Gambia)"
+        default = false
+      },
+      {
+        fullName = "ta_LK"
+        isActive = true
+        label = "Tamil (Sri Lanka)"
+        default = false
+      },
+      {
+        fullName = "en_CM"
+        isActive = true
+        label = "English (Cameroon)"
+        default = false
+      },
+      {
+        fullName = "it_CH"
+        isActive = true
+        label = "Italian (Switzerland)"
+        default = false
+      },
+      {
+        fullName = "pt_BR"
+        isActive = true
+        label = "Portuguese (Brazil)"
+        default = false
+      },
+      {
+        fullName = "es_US"
+        isActive = true
+        label = "Spanish (United States)"
+        default = false
+      },
+      {
+        fullName = "en_CY"
+        isActive = true
+        label = "English (Cyprus)"
+        default = false
+      },
+      {
+        fullName = "es_UY"
+        isActive = true
+        label = "Spanish (Uruguay)"
+        default = false
+      },
+      {
+        fullName = "en_DE"
+        isActive = true
+        label = "English (Germany)"
+        default = false
+      },
+      {
+        fullName = "es_VE"
+        isActive = true
+        label = "Spanish (Venezuela)"
+        default = false
+      },
+      {
+        fullName = "da_DK"
+        isActive = true
+        label = "Danish (Denmark)"
+        default = false
+      },
+      {
+        fullName = "pt_AO"
+        isActive = true
+        label = "Portuguese (Angola)"
+        default = false
+      },
+      {
+        fullName = "el_GR"
+        isActive = true
+        label = "Greek (Greece)"
+        default = false
+      },
+      {
+        fullName = "en_AU"
+        isActive = true
+        label = "English (Australia)"
+        default = false
+      },
+      {
+        fullName = "es_SV"
+        isActive = true
+        label = "Spanish (El Salvador)"
+        default = false
+      },
+      {
+        fullName = "en_BB"
+        isActive = true
+        label = "English (Barbados)"
+        default = false
+      },
+      {
+        fullName = "en_BE"
+        isActive = true
+        label = "English (Belgium)"
+        default = false
+      },
+      {
+        fullName = "en_BM"
+        isActive = true
+        label = "English (Bermuda)"
+        default = false
+      },
+      {
+        fullName = "en_BS"
+        isActive = true
+        label = "English (Bahamas)"
+        default = false
+      },
+      {
+        fullName = "en_BW"
+        isActive = true
+        label = "English (Botswana)"
+        default = false
+      },
+      {
+        fullName = "en_BZ"
+        isActive = true
+        label = "English (Belize)"
+        default = false
+      },
+      {
+        fullName = "en_CA"
+        isActive = true
+        label = "English (Canada)"
+        default = false
+      },
+      {
+        fullName = "ka_GE"
+        isActive = true
+        label = "Georgian (Georgia)"
+        default = false
+      },
+      {
+        fullName = "lv_LV"
+        isActive = true
+        label = "Latvian (Latvia)"
+        default = false
+      },
+      {
+        fullName = "uk_UA"
+        isActive = true
+        label = "Ukrainian (Ukraine)"
+        default = false
+      },
+      {
+        fullName = "ar_IQ"
+        isActive = true
+        label = "Arabic (Iraq)"
+        default = false
+      },
+      {
+        fullName = "th_TH"
+        isActive = true
+        label = "Thai (Thailand)"
+        default = false
+      },
+      {
+        fullName = "rm_CH"
+        isActive = true
+        label = "Romansh (Switzerland)"
+        default = false
+      },
+      {
+        fullName = "kl_GL"
+        isActive = true
+        label = "Kalaallisut (Greenland)"
+        default = false
+      },
+      {
+        fullName = "ru_KZ"
+        isActive = true
+        label = "Russian (Kazakhstan)"
+        default = false
+      },
+      {
+        fullName = "ar_BH"
+        isActive = true
+        label = "Arabic (Bahrain)"
+        default = false
+      },
+      {
+        fullName = "ru_KG"
+        isActive = true
+        label = "Russian (Kyrgyzstan)"
+        default = false
+      },
+      {
+        fullName = "ta_IN"
+        isActive = true
+        label = "Tamil (India)"
+        default = false
+      },
+      {
+        fullName = "sr_RS"
+        isActive = true
+        label = "Serbian (Serbia)"
+        default = false
+      },
+      {
+        fullName = "zh_MO"
+        isActive = true
+        label = "Chinese (Macao SAR China)"
+        default = false
+      },
+      {
+        fullName = "en_AE"
+        isActive = true
+        label = "English (United Arab Emirates)"
+        default = false
+      },
+      {
+        fullName = "zh_MY"
+        isActive = true
+        label = "Chinese (Malaysia)"
+        default = false
+      },
+      {
+        fullName = "kk_KZ"
+        isActive = true
+        label = "Kazakh (Kazakhstan)"
+        default = false
+      },
+      {
+        fullName = "no_NO"
+        isActive = true
+        label = "Norwegian (Norway)"
+        default = false
+      },
+      {
+        fullName = "en_AG"
+        isActive = true
+        label = "English (Antigua & Barbuda)"
+        default = false
+      },
+      {
+        fullName = "nl_SR"
+        isActive = true
+        label = "Dutch (Suriname)"
+        default = false
+      },
+      {
+        fullName = "el_CY"
+        isActive = true
+        label = "Greek (Cyprus)"
+        default = false
+      },
+      {
+        fullName = "es_PE"
+        isActive = true
+        label = "Spanish (Peru)"
+        default = false
+      },
+      {
+        fullName = "es_PA"
+        isActive = true
+        label = "Spanish (Panama)"
+        default = false
+      },
+      {
+        fullName = "ar_DZ"
+        isActive = true
+        label = "Arabic (Algeria)"
+        default = false
+      },
+      {
+        fullName = "lb_LU"
+        isActive = true
+        label = "Luxembourgish (Luxembourg)"
+        default = false
+      },
+      {
+        fullName = "pt_CV"
+        isActive = true
+        label = "Portuguese (Cape Verde)"
+        default = false
+      },
+      {
+        fullName = "fr_WF"
+        isActive = true
+        label = "French (Wallis & Futuna)"
+        default = false
+      },
+      {
+        fullName = "es_PR"
+        isActive = true
+        label = "Spanish (Puerto Rico)"
+        default = false
+      },
+      {
+        fullName = "ar_EG"
+        isActive = true
+        label = "Arabic (Egypt)"
+        default = false
+      },
+      {
+        fullName = "es_PY"
+        isActive = true
+        label = "Spanish (Paraguay)"
+        default = false
+      },
+      {
+        fullName = "ru_PL"
+        isActive = true
+        label = "Russian (Poland)"
+        default = false
+      },
+      {
+        fullName = "cs_CZ"
+        isActive = true
+        label = "Czech (Czechia)"
+        default = false
+      },
+      {
+        fullName = "es_MX"
+        isActive = true
+        label = "Spanish (Mexico)"
+        default = false
+      },
+      {
+        fullName = "sk_SK"
+        isActive = true
+        label = "Slovak (Slovakia)"
+        default = false
+      },
+      {
+        fullName = "te_IN"
+        isActive = true
+        label = "Telugu (India)"
+        default = false
+      },
+      {
+        fullName = "sv_SE"
+        isActive = true
+        label = "Swedish (Sweden)"
+        default = false
+      },
+      {
+        fullName = "sq_AL"
+        isActive = true
+        label = "Albanian (Albania)"
+        default = false
+      },
+      {
+        fullName = "es_NI"
+        isActive = true
+        label = "Spanish (Nicaragua)"
+        default = false
+      },
+      {
+        fullName = "my_MM"
+        isActive = true
+        label = "Burmese (Myanmar [Burma])"
+        default = false
+      },
+      {
+        fullName = "km_KH"
+        isActive = true
+        label = "Khmer (Cambodia)"
+        default = false
+      },
+      {
+        fullName = "ja_JP"
+        isActive = true
+        label = "Japanese (Japan)"
+        default = false
+      },
+      {
+        fullName = "rn_BI"
+        isActive = true
+        label = "Rundi (Burundi)"
+        default = false
+      },
+      {
+        fullName = "eu_ES"
+        isActive = true
+        label = "Basque (Spain)"
+        default = false
+      },
+      {
+        fullName = "ht_US"
+        isActive = true
+        label = "Haitian Creole (United States)"
+        default = false
+      },
+      {
+        fullName = "ru_MD"
+        isActive = true
+        label = "Russian (Moldova)"
+        default = false
+      },
+      {
+        fullName = "bs_BA"
+        isActive = true
+        label = "Bosnian (Bosnia & Herzegovina)"
+        default = false
+      },
+      {
+        fullName = "ne_NP"
+        isActive = true
+        label = "Nepali (Nepal)"
+        default = false
+      },
+      {
+        fullName = "ga_IE"
+        isActive = true
+        label = "Irish (Ireland)"
+        default = false
+      },
+      {
+        fullName = "ru_LT"
+        isActive = true
+        label = "Russian (Lithuania)"
+        default = false
+      },
+      {
+        fullName = "sl_SI"
+        isActive = true
+        label = "Slovenian (Slovenia)"
+        default = false
+      },
+      {
+        fullName = "ar_AE"
+        isActive = true
+        label = "Arabic (United Arab Emirates)"
+        default = false
+      },
+      {
+        fullName = "tl_PH"
+        isActive = true
+        label = "Tagalog (Philippines)"
+        default = false
+      },
+      {
+        fullName = "in_ID"
+        isActive = true
+        label = "Indonesian (Indonesia)"
+        default = false
+      },
+      {
+        fullName = "zh_CN_STROKE"
+        isActive = true
+        label = "Chinese (China, Stroke Ordering)"
+        default = false
+      },
+      {
+        fullName = "lo_LA"
+        isActive = true
+        label = "Lao (Laos)"
+        default = false
+      },
+      {
+        fullName = "kn_IN"
+        isActive = true
+        label = "Kannada (India)"
+        default = false
+      },
+      {
+        fullName = "ji_US"
+        isActive = true
+        label = "Yiddish (United States)"
+        default = false
+      },
+      {
+        fullName = "sw_KE"
+        isActive = true
+        label = "Swahili (Kenya)"
+        default = false
+      },
+      {
+        fullName = "pt_MZ"
+        isActive = true
+        label = "Portuguese (Mozambique)"
+        default = false
+      },
+      {
+        fullName = "ms_BN"
+        isActive = true
+        label = "Malay (Brunei)"
+        default = false
+      },
+      {
+        fullName = "de_LU"
+        isActive = true
+        label = "German (Luxembourg)"
+        default = false
+      },
+      {
+        fullName = "en_ZA"
+        isActive = true
+        label = "English (South Africa)"
+        default = false
+      },
+      {
+        fullName = "so_DJ"
+        isActive = true
+        label = "Somali (Djibouti)"
+        default = false
+      },
+      {
+        fullName = "ru_RU"
+        isActive = true
+        label = "Russian (Russia)"
+        default = false
+      },
+      {
+        fullName = "mr_IN"
+        isActive = true
+        label = "Marathi (India)"
+        default = false
+      },
+      {
+        fullName = "ky_KG"
+        isActive = true
+        label = "Kyrgyz (Kyrgyzstan)"
+        default = false
+      },
+      {
+        fullName = "zh_TW"
+        isActive = true
+        label = "Chinese (Taiwan)"
+        default = false
+      },
+      {
+        fullName = "en_VU"
+        isActive = true
+        label = "English (Vanuatu)"
+        default = false
+      },
+      {
+        fullName = "es_GT"
+        isActive = true
+        label = "Spanish (Guatemala)"
+        default = false
+      },
+      {
+        fullName = "zh_SG"
+        isActive = true
+        label = "Chinese (Singapore)"
+        default = false
+      },
+      {
+        fullName = "bg_BG"
+        isActive = true
+        label = "Bulgarian (Bulgaria)"
+        default = false
+      },
+      {
+        fullName = "hy_AM"
+        isActive = true
+        label = "Armenian (Armenia)"
+        default = false
+      },
+      {
+        fullName = "en_WS"
+        isActive = true
+        label = "English (Samoa)"
+        default = false
+      },
+      {
+        fullName = "es_HN"
+        isActive = true
+        label = "Spanish (Honduras)"
+        default = false
+      },
+      {
+        fullName = "gu_IN"
+        isActive = true
+        label = "Gujarati (India)"
+        default = false
+      },
+      {
+        fullName = "et_EE"
+        isActive = true
+        label = "Estonian (Estonia)"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Locale"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+}

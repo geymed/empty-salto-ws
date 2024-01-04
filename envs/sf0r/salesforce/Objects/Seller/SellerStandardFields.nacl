@@ -1,0 +1,186 @@
+type salesforce.Seller {
+  salesforce.Date ActiveFromDate {
+    apiName = "Seller.ActiveFromDate"
+    label = "Active From Date"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Date ActiveToDate {
+    apiName = "Seller.ActiveToDate"
+    label = "Active To Date"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text Name {
+    apiName = "Seller.Name"
+    length = 255
+    _required = true
+    label = "Name"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Lookup OwnerId {
+    apiName = "Seller.OwnerId"
+    relationshipName = "Owner"
+    referenceTo = [
+      salesforce.Group,
+      salesforce.User,
+    ]
+    label = "Owner ID"
+    createable = true
+    updateable = true
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup PartyId {
+    apiName = "Seller.PartyId"
+    relationshipName = "Party"
+    referenceTo = [
+      salesforce.Individual,
+    ]
+    label = "Individual ID"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Number SalesAmount {
+    apiName = "Seller.SalesAmount"
+    label = "Sales Amount"
+    precision = 9
+    createable = true
+    updateable = true
+    scale = 0
+    unique = false
+    queryable = true
+  }
+  salesforce.Picklist SellerTier {
+    apiName = "Seller.SellerTier"
+    valueSet = [
+      {
+        fullName = "Gold"
+        isActive = true
+        label = "Gold"
+        default = false
+      },
+      {
+        fullName = "Silver"
+        isActive = true
+        label = "Silver"
+        default = false
+      },
+      {
+        fullName = "Bronze"
+        isActive = true
+        label = "Bronze"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Seller Tier"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist SellerType {
+    apiName = "Seller.SellerType"
+    valueSet = [
+      {
+        fullName = "Reseller"
+        isActive = true
+        label = "Reseller"
+        default = false
+      },
+      {
+        fullName = "Distributor"
+        isActive = true
+        label = "Distributor"
+        default = false
+      },
+      {
+        fullName = "Wholesaler"
+        isActive = true
+        label = "Wholesaler"
+        default = false
+      },
+      {
+        fullName = "SalesPartner"
+        isActive = true
+        label = "SalesPartner"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Seller Type"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  serviceid Id {
+    apiName = "Seller.Id"
+    label = "Seller ID"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Checkbox IsDeleted {
+    apiName = "Seller.IsDeleted"
+    defaultValue = false
+    label = "Deleted"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime CreatedDate {
+    apiName = "Seller.CreatedDate"
+    label = "Created Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup CreatedById {
+    apiName = "Seller.CreatedById"
+    relationshipName = "CreatedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Created By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime LastModifiedDate {
+    apiName = "Seller.LastModifiedDate"
+    label = "Last Modified Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup LastModifiedById {
+    apiName = "Seller.LastModifiedById"
+    relationshipName = "LastModifiedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Last Modified By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime SystemModstamp {
+    apiName = "Seller.SystemModstamp"
+    label = "System Modstamp"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+}

@@ -1,0 +1,20 @@
+salesforce.ListView Invoice_mine {
+  fullName = "Invoice.mine"
+  columns = [
+    "Name",
+    "BillingAccount",
+    "Status",
+    "TotalAmount",
+    "TotalChargeAmount",
+    "TotalAdjustmentAmount",
+    "TotalTaxAmount",
+    "InvoiceDate",
+    "DueDate",
+  ]
+  filterScope = "Mine"
+  label = "My Invoices"
+  _parent = [
+    salesforce.Invoice,
+  ]
+  _alias = "My Invoices"
+}

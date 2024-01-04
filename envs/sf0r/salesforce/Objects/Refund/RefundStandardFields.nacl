@@ -1,0 +1,468 @@
+type salesforce.Refund {
+  salesforce.Lookup AccountId {
+    apiName = "Refund.AccountId"
+    relationshipName = "Account"
+    referenceTo = [
+      salesforce.Account,
+    ]
+    label = "Account ID"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Currency Amount {
+    apiName = "Refund.Amount"
+    _required = true
+    label = "Amount"
+    createable = true
+    updateable = true
+    scale = 2
+    precision = 18
+    queryable = true
+  }
+  salesforce.Currency Balance {
+    apiName = "Refund.Balance"
+    label = "Balance"
+    createable = false
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime CancellationDate {
+    apiName = "Refund.CancellationDate"
+    label = "Cancellation Date"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.DateTime CancellationEffectiveDate {
+    apiName = "Refund.CancellationEffectiveDate"
+    label = "Cancellation Effective Date"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.DateTime CancellationGatewayDate {
+    apiName = "Refund.CancellationGatewayDate"
+    label = "Cancellation Gateway Date"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text CancellationGatewayRefNumber {
+    apiName = "Refund.CancellationGatewayRefNumber"
+    length = 255
+    label = "Cancellation Gateway Reference Number"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text CancellationGatewayResultCode {
+    apiName = "Refund.CancellationGatewayResultCode"
+    length = 64
+    label = "Cancellation Gateway ResultCode"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text CancellationSfResultCode {
+    apiName = "Refund.CancellationSfResultCode"
+    length = 64
+    label = "Cancellation Salesforce ResultCode"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.LongTextArea Comments {
+    apiName = "Refund.Comments"
+    length = 1000
+    label = "Comments"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.DateTime Date {
+    apiName = "Refund.Date"
+    label = "Date"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.DateTime EffectiveDate {
+    apiName = "Refund.EffectiveDate"
+    label = "Effective Date"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Email Email {
+    apiName = "Refund.Email"
+    label = "Audit Email"
+    createable = true
+    updateable = true
+    unique = false
+    queryable = true
+  }
+  salesforce.DateTime GatewayDate {
+    apiName = "Refund.GatewayDate"
+    label = "Gateway Date"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text GatewayRefNumber {
+    apiName = "Refund.GatewayRefNumber"
+    length = 255
+    label = "Gateway Reference Number"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text GatewayResultCode {
+    apiName = "Refund.GatewayResultCode"
+    length = 64
+    label = "Gateway ResultCode"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text GatewayResultCodeDescription {
+    apiName = "Refund.GatewayResultCodeDescription"
+    length = 255
+    label = "Gateway ResultCode Description"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Summary ImpactAmount {
+    apiName = "Refund.ImpactAmount"
+    label = "Impact Amount"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text IpAddress {
+    apiName = "Refund.IpAddress"
+    length = 39
+    label = "IP Address"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text MacAddress {
+    apiName = "Refund.MacAddress"
+    length = 32
+    label = "MAC Address"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Currency NetApplied {
+    apiName = "Refund.NetApplied"
+    label = "Net Applied"
+    createable = false
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup PaymentGatewayId {
+    apiName = "Refund.PaymentGatewayId"
+    relationshipName = "PaymentGateway"
+    referenceTo = [
+      salesforce.PaymentGateway,
+    ]
+    label = "Payment Gateway ID"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Lookup PaymentGroupId {
+    apiName = "Refund.PaymentGroupId"
+    relationshipName = "PaymentGroup"
+    referenceTo = [
+      salesforce.PaymentGroup,
+    ]
+    label = "Payment Group ID"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Lookup PaymentMethodId {
+    apiName = "Refund.PaymentMethodId"
+    relationshipName = "PaymentMethod"
+    referenceTo = [
+      salesforce.PaymentMethod,
+    ]
+    label = "Payment Method ID"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Phone Phone {
+    apiName = "Refund.Phone"
+    label = "Phone"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist ProcessingMode {
+    apiName = "Refund.ProcessingMode"
+    valueSet = [
+      {
+        fullName = "Salesforce"
+        isActive = true
+        label = "Salesforce"
+        default = false
+      },
+      {
+        fullName = "External"
+        isActive = true
+        label = "External"
+        default = false
+      },
+    ]
+    restricted = true
+    _required = true
+    label = "Processing Mode"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Picklist SfResultCode {
+    apiName = "Refund.SfResultCode"
+    valueSet = [
+      {
+        fullName = "Success"
+        isActive = true
+        label = "Success"
+        default = false
+      },
+      {
+        fullName = "PermanentFail"
+        isActive = true
+        label = "Permanent Fail"
+        default = false
+      },
+      {
+        fullName = "Decline"
+        isActive = true
+        label = "Decline"
+        default = false
+      },
+      {
+        fullName = "RequiresReview"
+        isActive = true
+        label = "Requires Review"
+        default = false
+      },
+      {
+        fullName = "Indeterminate"
+        isActive = true
+        label = "Indeterminate"
+        default = false
+      },
+      {
+        fullName = "SystemError"
+        isActive = true
+        label = "System Error"
+        default = false
+      },
+      {
+        fullName = "ValidationError"
+        isActive = true
+        label = "Validation Error"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Salesforce ResultCode"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist Status {
+    apiName = "Refund.Status"
+    valueSet = [
+      {
+        fullName = "Draft"
+        isActive = true
+        label = "Draft"
+        default = false
+      },
+      {
+        fullName = "Processed"
+        isActive = true
+        label = "Processed"
+        default = false
+      },
+      {
+        fullName = "Canceled"
+        isActive = true
+        label = "Canceled"
+        default = false
+      },
+      {
+        fullName = "Pending"
+        isActive = true
+        label = "Pending"
+        default = false
+      },
+      {
+        fullName = "Failed"
+        isActive = true
+        label = "Failed"
+        default = false
+      },
+    ]
+    restricted = true
+    _required = true
+    label = "Status"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Currency TotalApplied {
+    apiName = "Refund.TotalApplied"
+    label = "Total Applied"
+    createable = false
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Currency TotalUnapplied {
+    apiName = "Refund.TotalUnapplied"
+    label = "Total Unapplied"
+    createable = false
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Picklist Type {
+    apiName = "Refund.Type"
+    valueSet = [
+      {
+        fullName = "Referenced"
+        isActive = true
+        label = "Referenced"
+        default = false
+      },
+      {
+        fullName = "NonReferenced"
+        isActive = true
+        label = "NonReferenced"
+        default = false
+      },
+    ]
+    restricted = true
+    _required = true
+    label = "Type"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  serviceid Id {
+    apiName = "Refund.Id"
+    label = "Refund ID"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Checkbox IsDeleted {
+    apiName = "Refund.IsDeleted"
+    defaultValue = false
+    label = "Deleted"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.AutoNumber RefundNumber {
+    apiName = "Refund.RefundNumber"
+    label = "Refund Number"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime CreatedDate {
+    apiName = "Refund.CreatedDate"
+    label = "Created Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup CreatedById {
+    apiName = "Refund.CreatedById"
+    relationshipName = "CreatedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Created By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime LastModifiedDate {
+    apiName = "Refund.LastModifiedDate"
+    label = "Last Modified Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup LastModifiedById {
+    apiName = "Refund.LastModifiedById"
+    relationshipName = "LastModifiedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Last Modified By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime SystemModstamp {
+    apiName = "Refund.SystemModstamp"
+    label = "System Modstamp"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.LongTextArea ClientContext {
+    apiName = "Refund.ClientContext"
+    length = 2000
+    label = "Client Context"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+}

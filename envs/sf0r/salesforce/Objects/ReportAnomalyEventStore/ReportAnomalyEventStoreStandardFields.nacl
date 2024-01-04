@@ -1,0 +1,323 @@
+type salesforce.ReportAnomalyEventStore {
+  salesforce.DateTime EventDate {
+    apiName = "ReportAnomalyEventStore.EventDate"
+    _required = true
+    label = "Event Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text EventIdentifier {
+    apiName = "ReportAnomalyEventStore.EventIdentifier"
+    length = 80
+    _required = true
+    label = "Event ID"
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text Report {
+    apiName = "ReportAnomalyEventStore.Report"
+    length = 18
+    label = "Report ID"
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Number Score {
+    apiName = "ReportAnomalyEventStore.Score"
+    label = "Score"
+    precision = 12
+    scale = 6
+    createable = false
+    updateable = false
+    unique = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.LongTextArea SecurityEventData {
+    apiName = "ReportAnomalyEventStore.SecurityEventData"
+    length = 10000
+    label = "Event Data"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text SourceIp {
+    apiName = "ReportAnomalyEventStore.SourceIp"
+    length = 255
+    label = "Source IP Address"
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.LongTextArea Summary {
+    apiName = "ReportAnomalyEventStore.Summary"
+    length = 1000
+    label = "Summary"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup UserId {
+    apiName = "ReportAnomalyEventStore.UserId"
+    relationshipName = "User"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "User ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  serviceid Id {
+    apiName = "ReportAnomalyEventStore.Id"
+    label = "Report Anomaly Event Store ID"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.AutoNumber ReportAnomalyEventNumber {
+    apiName = "ReportAnomalyEventStore.ReportAnomalyEventNumber"
+    label = "Event Name"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime CreatedDate {
+    apiName = "ReportAnomalyEventStore.CreatedDate"
+    label = "Created Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime LastModifiedDate {
+    apiName = "ReportAnomalyEventStore.LastModifiedDate"
+    label = "Last Modified Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime SystemModstamp {
+    apiName = "ReportAnomalyEventStore.SystemModstamp"
+    label = "System Modstamp"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text Username {
+    apiName = "ReportAnomalyEventStore.Username"
+    length = 255
+    label = "Username"
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text SessionKey {
+    apiName = "ReportAnomalyEventStore.SessionKey"
+    length = 24
+    label = "Session Key"
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text LoginKey {
+    apiName = "ReportAnomalyEventStore.LoginKey"
+    length = 24
+    label = "Login Key"
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup PolicyId {
+    apiName = "ReportAnomalyEventStore.PolicyId"
+    relationshipName = "Policy"
+    referenceTo = [
+      salesforce.TransactionSecurityPolicy,
+    ]
+    label = "Transaction Security Policy ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Picklist PolicyOutcome {
+    apiName = "ReportAnomalyEventStore.PolicyOutcome"
+    valueSet = [
+      {
+        fullName = "Block"
+        isActive = true
+        label = "Block"
+        default = false
+      },
+      {
+        fullName = "FreezeUser"
+        isActive = true
+        label = "FreezeUser"
+        default = false
+      },
+      {
+        fullName = "EndSession"
+        isActive = true
+        label = "EndSession"
+        default = false
+      },
+      {
+        fullName = "Notified"
+        isActive = true
+        label = "Notified"
+        default = false
+      },
+      {
+        fullName = "NoAction"
+        isActive = true
+        label = "NoAction"
+        default = false
+      },
+      {
+        fullName = "TwoFAInitiated"
+        isActive = true
+        label = "TwoFAInitiated"
+        default = false
+      },
+      {
+        fullName = "TwoFASucceeded"
+        isActive = true
+        label = "TwoFASucceeded"
+        default = false
+      },
+      {
+        fullName = "TwoFADenied"
+        isActive = true
+        label = "TwoFADenied"
+        default = false
+      },
+      {
+        fullName = "Error"
+        isActive = true
+        label = "Error"
+        default = false
+      },
+      {
+        fullName = "TwoFAInProgress"
+        isActive = true
+        label = "TwoFAInProgress"
+        default = false
+      },
+      {
+        fullName = "TwoFARecoverableError"
+        isActive = true
+        label = "TwoFARecoverableError"
+        default = false
+      },
+      {
+        fullName = "TwoFAFailedGeneralError"
+        isActive = true
+        label = "TwoFAFailedGeneralError"
+        default = false
+      },
+      {
+        fullName = "TwoFAFailedInvalidCode"
+        isActive = true
+        label = "TwoFAFailedInvalidCode"
+        default = false
+      },
+      {
+        fullName = "TwoFAFailedTooManyAttempts"
+        isActive = true
+        label = "TwoFAFailedTooManyAttempts"
+        default = false
+      },
+      {
+        fullName = "TwoFAAutomatedSuccess"
+        isActive = true
+        label = "TwoFAAutomatedSuccess"
+        default = false
+      },
+      {
+        fullName = "TwoFAReportedDenied"
+        isActive = true
+        label = "TwoFAReportedDenied"
+        default = false
+      },
+      {
+        fullName = "TwoFANoAction"
+        isActive = true
+        label = "TwoFANoAction"
+        default = false
+      },
+      {
+        fullName = "FailedPasswordLockout"
+        isActive = true
+        label = "FailedPasswordLockout"
+        default = false
+      },
+      {
+        fullName = "FailedInvalidPassword"
+        isActive = true
+        label = "FailedInvalidPassword"
+        default = false
+      },
+      {
+        fullName = "ExemptNoAction"
+        isActive = true
+        label = "ExemptNoAction"
+        default = false
+      },
+      {
+        fullName = "MeteringNoAction"
+        isActive = true
+        label = "MeteringNoAction"
+        default = false
+      },
+      {
+        fullName = "MeteringBlock"
+        isActive = true
+        label = "MeteringBlock"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Policy Outcome"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Number EvaluationTime {
+    apiName = "ReportAnomalyEventStore.EvaluationTime"
+    label = "Evaluation Time"
+    precision = 18
+    scale = 0
+    createable = false
+    updateable = false
+    unique = false
+    queryable = true
+    _hidden_value = true
+  }
+}

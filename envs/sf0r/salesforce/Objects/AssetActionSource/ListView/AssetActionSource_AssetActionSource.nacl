@@ -1,0 +1,9 @@
+salesforce.ListView AssetActionSource_AssetActionSource {
+  fullName = "AssetActionSource.AssetActionSource"
+  filterScope = "Everything"
+  label = "All"
+  _parent = [
+    salesforce.AssetActionSource,
+  ]
+  _alias = "All"
+}

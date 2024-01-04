@@ -1,0 +1,432 @@
+type salesforce.DigitalWallet {
+  salesforce.Lookup AccountId {
+    apiName = "DigitalWallet.AccountId"
+    relationshipName = "Account"
+    referenceTo = [
+      salesforce.Account,
+    ]
+    label = "Account ID"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Email AuditEmail {
+    apiName = "DigitalWallet.AuditEmail"
+    label = "Audit Email"
+    createable = true
+    updateable = true
+    unique = false
+    queryable = true
+  }
+  salesforce.LongTextArea Comments {
+    apiName = "DigitalWallet.Comments"
+    length = 1000
+    label = "Comments"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text CompanyName {
+    apiName = "DigitalWallet.CompanyName"
+    length = 255
+    label = "Company Name"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text Customer {
+    apiName = "DigitalWallet.Customer"
+    length = 255
+    label = "Customer ID"
+    createable = true
+    updateable = false
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Email Email {
+    apiName = "DigitalWallet.Email"
+    label = "Registered Email"
+    createable = true
+    updateable = true
+    unique = false
+    queryable = true
+  }
+  salesforce.Text GatewayToken {
+    apiName = "DigitalWallet.GatewayToken"
+    length = 255
+    label = "Gateway Token"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.LongTextArea GatewayTokenDetails {
+    apiName = "DigitalWallet.GatewayTokenDetails"
+    length = 1000
+    label = "Gateway Token Details"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.EncryptedText GatewayTokenEncrypted {
+    apiName = "DigitalWallet.GatewayTokenEncrypted"
+    length = 255
+    label = "Gateway Token Encrypted"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text IpAddress {
+    apiName = "DigitalWallet.IpAddress"
+    length = 39
+    label = "IP Address"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Checkbox IsAutoPayEnabled {
+    apiName = "DigitalWallet.IsAutoPayEnabled"
+    defaultValue = false
+    label = "Auto Pay"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text MacAddress {
+    apiName = "DigitalWallet.MacAddress"
+    length = 32
+    label = "MAC Address"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text NickName {
+    apiName = "DigitalWallet.NickName"
+    length = 255
+    label = "Nickname"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Lookup PaymentGatewayId {
+    apiName = "DigitalWallet.PaymentGatewayId"
+    relationshipName = "PaymentGateway"
+    referenceTo = [
+      salesforce.PaymentGateway,
+    ]
+    label = "Payment Gateway ID"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Text PaymentMethodDetails {
+    apiName = "DigitalWallet.PaymentMethodDetails"
+    length = 255
+    label = "Payment Method Details"
+    createable = true
+    updateable = false
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text PaymentMethodSubType {
+    apiName = "DigitalWallet.PaymentMethodSubType"
+    length = 255
+    label = "Payment Method SubType"
+    createable = true
+    updateable = false
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Picklist PaymentMethodType {
+    apiName = "DigitalWallet.PaymentMethodType"
+    valueSet = [
+      {
+        fullName = "ACH"
+        isActive = true
+        label = "ACH"
+        default = false
+      },
+      {
+        fullName = "AfterpayClearpay"
+        isActive = true
+        label = "Afterpay / Clearpay"
+        default = false
+      },
+      {
+        fullName = "AmericanExpress"
+        isActive = true
+        label = "American Express"
+        default = false
+      },
+      {
+        fullName = "ApplePay"
+        isActive = true
+        label = "Apple Pay"
+        default = false
+      },
+      {
+        fullName = "BACS"
+        isActive = true
+        label = "Bacs"
+        default = false
+      },
+      {
+        fullName = "BanContact"
+        isActive = true
+        label = "Bancontact"
+        default = false
+      },
+      {
+        fullName = "BECS"
+        isActive = true
+        label = "Becs"
+        default = false
+      },
+      {
+        fullName = "DinersClub"
+        isActive = true
+        label = "Diners Club"
+        default = false
+      },
+      {
+        fullName = "Discover"
+        isActive = true
+        label = "Discover"
+        default = false
+      },
+      {
+        fullName = "EPS"
+        isActive = true
+        label = "Eps"
+        default = false
+      },
+      {
+        fullName = "GooglePay"
+        isActive = true
+        label = "Google Pay"
+        default = false
+      },
+      {
+        fullName = "iDeal"
+        isActive = true
+        label = "iDEAL"
+        default = false
+      },
+      {
+        fullName = "Jcb"
+        isActive = true
+        label = "Jcb"
+        default = false
+      },
+      {
+        fullName = "Klarna"
+        isActive = true
+        label = "Klarna"
+        default = false
+      },
+      {
+        fullName = "Maestro"
+        isActive = true
+        label = "Maestro"
+        default = false
+      },
+      {
+        fullName = "MasterCard"
+        isActive = true
+        label = "Master Card"
+        default = false
+      },
+      {
+        fullName = "Other"
+        isActive = true
+        label = "Other"
+        default = false
+      },
+      {
+        fullName = "PayPal"
+        isActive = true
+        label = "Paypal"
+        default = false
+      },
+      {
+        fullName = "SepaDebit"
+        isActive = true
+        label = "SEPA Debit"
+        default = false
+      },
+      {
+        fullName = "UnionPay"
+        isActive = true
+        label = "UnionPay"
+        default = false
+      },
+      {
+        fullName = "Venmo"
+        isActive = true
+        label = "Venmo"
+        default = false
+      },
+      {
+        fullName = "Visa"
+        isActive = true
+        label = "Visa"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Payment Method Type"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Phone Phone {
+    apiName = "DigitalWallet.Phone"
+    label = "Phone"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist ProcessingMode {
+    apiName = "DigitalWallet.ProcessingMode"
+    valueSet = [
+      {
+        fullName = "Salesforce"
+        isActive = true
+        label = "Salesforce"
+        default = false
+      },
+      {
+        fullName = "External"
+        isActive = true
+        label = "External"
+        default = false
+      },
+    ]
+    restricted = true
+    _required = true
+    label = "Processing Mode"
+    createable = true
+    updateable = false
+    queryable = true
+  }
+  salesforce.Picklist Status {
+    apiName = "DigitalWallet.Status"
+    valueSet = [
+      {
+        fullName = "Active"
+        isActive = true
+        label = "Active"
+        default = false
+      },
+      {
+        fullName = "InActive"
+        isActive = true
+        label = "Inactive"
+        default = false
+      },
+      {
+        fullName = "Canceled"
+        isActive = true
+        label = "Canceled"
+        default = false
+      },
+    ]
+    restricted = true
+    _required = true
+    label = "Status"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  serviceid Id {
+    apiName = "DigitalWallet.Id"
+    label = "Digital Wallet ID"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Checkbox IsDeleted {
+    apiName = "DigitalWallet.IsDeleted"
+    defaultValue = false
+    label = "Deleted"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.AutoNumber DigitalWalletNumber {
+    apiName = "DigitalWallet.DigitalWalletNumber"
+    label = "Digital Wallet Number"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime CreatedDate {
+    apiName = "DigitalWallet.CreatedDate"
+    label = "Created Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup CreatedById {
+    apiName = "DigitalWallet.CreatedById"
+    relationshipName = "CreatedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Created By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime LastModifiedDate {
+    apiName = "DigitalWallet.LastModifiedDate"
+    label = "Last Modified Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup LastModifiedById {
+    apiName = "DigitalWallet.LastModifiedById"
+    relationshipName = "LastModifiedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Last Modified By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime SystemModstamp {
+    apiName = "DigitalWallet.SystemModstamp"
+    label = "System Modstamp"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Address PaymentMethodAddress {
+    apiName = "DigitalWallet.PaymentMethodAddress"
+    label = "Payment Method Address"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+}

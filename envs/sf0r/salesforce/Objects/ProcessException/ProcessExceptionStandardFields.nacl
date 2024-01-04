@@ -1,0 +1,343 @@
+type salesforce.ProcessException {
+  salesforce.Lookup AttachedToId {
+    apiName = "ProcessException.AttachedToId"
+    relationshipName = "AttachedTo"
+    referenceTo = [
+      salesforce.CreditMemo,
+      salesforce.Invoice,
+      salesforce.NewObjectBabe__c,
+      salesforce.NewObjectBabi__c,
+      salesforce.NewObjectName__c,
+      salesforce.Order,
+      salesforce.OrderItem,
+      salesforce.Payment,
+      salesforce.PaymentAuthorization,
+      salesforce.Refund,
+    ]
+    _required = true
+    label = "Attached To ID"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Lookup CaseId {
+    apiName = "ProcessException.CaseId"
+    relationshipName = "Case"
+    referenceTo = [
+      salesforce.Case,
+    ]
+    label = "Case ID"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist Category {
+    apiName = "ProcessException.Category"
+    valueSet = [
+      {
+        fullName = "Order Activation"
+        isActive = true
+        label = "Order Activation"
+        default = true
+      },
+      {
+        fullName = "Order Approval"
+        isActive = true
+        label = "Order Approval"
+        default = false
+      },
+      {
+        fullName = "Fulfillment"
+        isActive = true
+        label = "Fulfillment"
+        default = false
+      },
+      {
+        fullName = "Payment"
+        isActive = true
+        label = "Payment"
+        default = false
+      },
+      {
+        fullName = "Invoicing"
+        isActive = true
+        label = "Invoicing"
+        default = false
+      },
+      {
+        fullName = "Place Order"
+        isActive = true
+        label = "Place Order"
+        default = false
+      },
+    ]
+    restricted = false
+    label = "Category"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.LongTextArea Description {
+    apiName = "ProcessException.Description"
+    length = 2000
+    label = "Description"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text ExternalReference {
+    apiName = "ProcessException.ExternalReference"
+    length = 255
+    label = "External Reference"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text Message {
+    apiName = "ProcessException.Message"
+    length = 255
+    _required = true
+    label = "Message"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Lookup OwnerId {
+    apiName = "ProcessException.OwnerId"
+    relationshipName = "Owner"
+    referenceTo = [
+      salesforce.Group,
+      salesforce.User,
+    ]
+    label = "Owner ID"
+    createable = true
+    updateable = true
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Picklist Priority {
+    apiName = "ProcessException.Priority"
+    valueSet = [
+      {
+        fullName = "High"
+        isActive = true
+        label = "High"
+        default = false
+      },
+      {
+        fullName = "Low"
+        isActive = true
+        label = "Low"
+        default = true
+      },
+    ]
+    restricted = false
+    label = "Priority"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist Severity {
+    apiName = "ProcessException.Severity"
+    valueSet = [
+      {
+        fullName = "High"
+        isActive = true
+        label = "High"
+        default = true
+      },
+      {
+        fullName = "Low"
+        isActive = true
+        label = "Low"
+        default = false
+      },
+    ]
+    restricted = false
+    label = "Severity"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist Status {
+    apiName = "ProcessException.Status"
+    valueSet = [
+      {
+        fullName = "New"
+        isActive = true
+        label = "New"
+        default = true
+      },
+      {
+        fullName = "Triaged"
+        isActive = true
+        label = "Triaged"
+        default = false
+      },
+      {
+        fullName = "Paused"
+        isActive = true
+        label = "Paused"
+        default = false
+      },
+      {
+        fullName = "Ignored"
+        isActive = true
+        label = "Ignored"
+        default = false
+      },
+      {
+        fullName = "Resolved"
+        isActive = true
+        label = "Resolved"
+        default = false
+      },
+      {
+        fullName = "Voided"
+        isActive = true
+        label = "Voided"
+        default = false
+      },
+    ]
+    restricted = false
+    _required = true
+    label = "Status"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  serviceid Id {
+    apiName = "ProcessException.Id"
+    label = "Process Exception ID"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Checkbox IsDeleted {
+    apiName = "ProcessException.IsDeleted"
+    defaultValue = false
+    label = "Deleted"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.AutoNumber ProcessExceptionNumber {
+    apiName = "ProcessException.ProcessExceptionNumber"
+    label = "Process Exception Number"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime CreatedDate {
+    apiName = "ProcessException.CreatedDate"
+    label = "Created Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup CreatedById {
+    apiName = "ProcessException.CreatedById"
+    relationshipName = "CreatedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Created By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime LastModifiedDate {
+    apiName = "ProcessException.LastModifiedDate"
+    label = "Last Modified Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup LastModifiedById {
+    apiName = "ProcessException.LastModifiedById"
+    relationshipName = "LastModifiedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Last Modified By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime SystemModstamp {
+    apiName = "ProcessException.SystemModstamp"
+    label = "System Modstamp"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Picklist StatusCategory {
+    apiName = "ProcessException.StatusCategory"
+    valueSet = [
+      {
+        fullName = "ACTIVE"
+        isActive = true
+        label = "Active"
+        default = false
+      },
+      {
+        fullName = "INACTIVE"
+        isActive = true
+        label = "Inactive"
+        default = false
+      },
+      {
+        fullName = "RESOLVED"
+        isActive = true
+        label = "Resolved"
+        default = false
+      },
+    ]
+    restricted = true
+    _required = true
+    label = "Status Category"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Picklist SeverityCategory {
+    apiName = "ProcessException.SeverityCategory"
+    valueSet = [
+      {
+        fullName = "HIGH"
+        isActive = true
+        label = "High"
+        default = false
+      },
+      {
+        fullName = "MEDIUM"
+        isActive = true
+        label = "Medium"
+        default = false
+      },
+      {
+        fullName = "LOW"
+        isActive = true
+        label = "Low"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Severity Category"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+}

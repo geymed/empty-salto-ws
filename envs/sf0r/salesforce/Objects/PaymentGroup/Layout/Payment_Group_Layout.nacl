@@ -1,0 +1,39 @@
+salesforce.Layout PaymentGroup_Payment_Group_Layout@bss {
+  layoutSections = [
+    {
+      customLabel = true
+      detailHeading = true
+      editHeading = true
+      label = "Payment Group"
+      layoutColumns = [
+        {
+          layoutItems = [
+            {
+              behavior = "Edit"
+              field = salesforce.PaymentGroup.field.SourceObjectId
+            },
+          ]
+        },
+      ]
+      style = "OneColumn"
+    },
+    {
+      customLabel = false
+      detailHeading = false
+      editHeading = false
+      layoutColumns = [
+        {
+        },
+      ]
+      style = "CustomLinks"
+    },
+  ]
+  showEmailCheckbox = false
+  showRunAssignmentRulesCheckbox = false
+  showSubmitAndAttachButton = false
+  fullName = "PaymentGroup-Payment Group Layout"
+  _parent = [
+    salesforce.PaymentGroup,
+  ]
+  _alias = "PaymentGroup-Payment Group Layout"
+}

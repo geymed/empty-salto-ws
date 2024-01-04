@@ -1,0 +1,336 @@
+type salesforce.MLModelFactorComponent {
+  serviceid Id {
+    apiName = "MLModelFactorComponent.Id"
+    label = "ML Model Factor Components ID"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Checkbox IsDeleted {
+    apiName = "MLModelFactorComponent.IsDeleted"
+    defaultValue = false
+    label = "Deleted"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.AutoNumber Name {
+    apiName = "MLModelFactorComponent.Name"
+    label = "Name"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime CreatedDate {
+    apiName = "MLModelFactorComponent.CreatedDate"
+    label = "Created Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup CreatedById {
+    apiName = "MLModelFactorComponent.CreatedById"
+    relationshipName = "CreatedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Created By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime LastModifiedDate {
+    apiName = "MLModelFactorComponent.LastModifiedDate"
+    label = "Last Modified Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup LastModifiedById {
+    apiName = "MLModelFactorComponent.LastModifiedById"
+    relationshipName = "LastModifiedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Last Modified By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime SystemModstamp {
+    apiName = "MLModelFactorComponent.SystemModstamp"
+    label = "System Modstamp"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup ModelFactorId {
+    apiName = "MLModelFactorComponent.ModelFactorId"
+    relationshipName = "ModelFactor"
+    referenceTo = [
+      salesforce.MLModelFactor,
+    ]
+    _required = true
+    label = "ML Model Factor ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup ModelId {
+    apiName = "MLModelFactorComponent.ModelId"
+    relationshipName = "Model"
+    referenceTo = [
+      salesforce.MLModel,
+    ]
+    label = "ML Model ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text LeftHandDerivedField {
+    apiName = "MLModelFactorComponent.LeftHandDerivedField"
+    length = 120
+    label = "Left Hand Derived Field"
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Picklist Operator {
+    apiName = "MLModelFactorComponent.Operator"
+    valueSet = [
+      {
+        fullName = "LessThan"
+        isActive = true
+        label = "LessThan"
+        default = false
+      },
+      {
+        fullName = "Equals"
+        isActive = true
+        label = "Equals"
+        default = false
+      },
+      {
+        fullName = "NotEquals"
+        isActive = true
+        label = "NotEquals"
+        default = false
+      },
+      {
+        fullName = "GreaterThan"
+        isActive = true
+        label = "GreaterThan"
+        default = false
+      },
+      {
+        fullName = "IsNull"
+        isActive = true
+        label = "IsNull"
+        default = false
+      },
+      {
+        fullName = "IsNotNull"
+        isActive = true
+        label = "IsNotNull"
+        default = false
+      },
+      {
+        fullName = "StartsWith"
+        isActive = true
+        label = "StartsWith"
+        default = false
+      },
+      {
+        fullName = "EndsWith"
+        isActive = true
+        label = "EndsWith"
+        default = false
+      },
+      {
+        fullName = "Contains"
+        isActive = true
+        label = "Contains"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Operator"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text RightHandDerivedField {
+    apiName = "MLModelFactorComponent.RightHandDerivedField"
+    length = 120
+    label = "Right Hand Derived Field"
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text Value {
+    apiName = "MLModelFactorComponent.Value"
+    length = 120
+    label = "Value"
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Number SortOrder {
+    apiName = "MLModelFactorComponent.SortOrder"
+    label = "Sort Order"
+    precision = 9
+    createable = false
+    updateable = false
+    scale = 0
+    unique = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Picklist FeatureType {
+    apiName = "MLModelFactorComponent.FeatureType"
+    valueSet = [
+      {
+        fullName = "Binary"
+        isActive = true
+        label = "Binary"
+        default = false
+      },
+      {
+        fullName = "Integral"
+        isActive = true
+        label = "Integral"
+        default = false
+      },
+      {
+        fullName = "Real"
+        isActive = true
+        label = "Real"
+        default = false
+      },
+      {
+        fullName = "Currency"
+        isActive = true
+        label = "Currency"
+        default = false
+      },
+      {
+        fullName = "Email"
+        isActive = true
+        label = "Email"
+        default = false
+      },
+      {
+        fullName = "Percent"
+        isActive = true
+        label = "Percent"
+        default = false
+      },
+      {
+        fullName = "ID"
+        isActive = true
+        label = "ID"
+        default = false
+      },
+      {
+        fullName = "Picklist"
+        isActive = true
+        label = "Picklist"
+        default = false
+      },
+      {
+        fullName = "MultiPicklist"
+        isActive = true
+        label = "MultiPicklist"
+        default = false
+      },
+      {
+        fullName = "Combobox"
+        isActive = true
+        label = "Combobox"
+        default = false
+      },
+      {
+        fullName = "Date"
+        isActive = true
+        label = "Date"
+        default = false
+      },
+      {
+        fullName = "DateTime"
+        isActive = true
+        label = "DateTime"
+        default = false
+      },
+      {
+        fullName = "Phone"
+        isActive = true
+        label = "Phone"
+        default = false
+      },
+      {
+        fullName = "Text"
+        isActive = true
+        label = "Text"
+        default = false
+      },
+      {
+        fullName = "TextArea"
+        isActive = true
+        label = "TextArea"
+        default = false
+      },
+      {
+        fullName = "URL"
+        isActive = true
+        label = "URL"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Feature Type"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text FeatureValue {
+    apiName = "MLModelFactorComponent.FeatureValue"
+    length = 255
+    label = "Feature Value"
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text FactorLabelKey {
+    apiName = "MLModelFactorComponent.FactorLabelKey"
+    length = 255
+    label = "Factor Label Key"
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    queryable = true
+    _hidden_value = true
+  }
+}

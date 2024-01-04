@@ -1,0 +1,7 @@
+salesforce.SharingRules AlternativePaymentMethod {
+  fullName = "AlternativePaymentMethod"
+  _parent = [
+    salesforce.AlternativePaymentMethod,
+  ]
+  _alias = "AlternativePaymentMethod"
+}

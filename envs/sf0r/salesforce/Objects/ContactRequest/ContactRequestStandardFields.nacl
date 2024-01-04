@@ -1,0 +1,234 @@
+type salesforce.ContactRequest {
+  salesforce.Lookup OwnerId {
+    apiName = "ContactRequest.OwnerId"
+    relationshipName = "Owner"
+    referenceTo = [
+      salesforce.Group,
+      salesforce.User,
+    ]
+    label = "Owner ID"
+    createable = true
+    updateable = true
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Picklist PreferredChannel {
+    apiName = "ContactRequest.PreferredChannel"
+    valueSet = [
+      {
+        fullName = "Phone"
+        isActive = true
+        label = "Phone"
+        default = true
+      },
+    ]
+    restricted = false
+    _required = true
+    label = "Preferred Channel"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Phone PreferredPhone {
+    apiName = "ContactRequest.PreferredPhone"
+    label = "Preferred Phone Number"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.LongTextArea RequestDescription {
+    apiName = "ContactRequest.RequestDescription"
+    length = 32000
+    label = "Request Description"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist RequestReason {
+    apiName = "ContactRequest.RequestReason"
+    valueSet = [
+      {
+        fullName = "Account"
+        isActive = true
+        label = "Account"
+        default = true
+      },
+      {
+        fullName = "Billing"
+        isActive = true
+        label = "Billing"
+        default = false
+      },
+      {
+        fullName = "Case"
+        isActive = true
+        label = "Case"
+        default = false
+      },
+      {
+        fullName = "General"
+        isActive = true
+        label = "General"
+        default = false
+      },
+      {
+        fullName = "Order"
+        isActive = true
+        label = "Order"
+        default = false
+      },
+      {
+        fullName = "Product"
+        isActive = true
+        label = "Product"
+        default = false
+      },
+      {
+        fullName = "Other"
+        isActive = true
+        label = "Other"
+        default = false
+      },
+    ]
+    restricted = false
+    label = "Request Reason"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist Status {
+    apiName = "ContactRequest.Status"
+    valueSet = [
+      {
+        fullName = "New"
+        isActive = true
+        label = "New"
+        default = true
+      },
+      {
+        fullName = "Attempted"
+        isActive = true
+        label = "Attempted"
+        default = false
+      },
+      {
+        fullName = "Contacted"
+        isActive = true
+        label = "Contacted"
+        default = false
+      },
+      {
+        fullName = "Abandoned"
+        isActive = true
+        label = "Abandoned"
+        default = false
+      },
+    ]
+    restricted = false
+    _required = true
+    label = "Request Status"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Lookup WhatId {
+    apiName = "ContactRequest.WhatId"
+    relationshipName = "What"
+    referenceTo = [
+      salesforce.Account,
+      salesforce.Case,
+      salesforce.NewObjectBabe__c,
+      salesforce.NewObjectBabi__c,
+      salesforce.NewObjectName__c,
+      salesforce.Opportunity,
+    ]
+    label = "Related To ID"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Lookup WhoId {
+    apiName = "ContactRequest.WhoId"
+    relationshipName = "Who"
+    referenceTo = [
+      salesforce.Contact,
+      salesforce.Lead,
+      salesforce.User,
+    ]
+    label = "Requestor ID"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  serviceid Id {
+    apiName = "ContactRequest.Id"
+    label = "Contact Request ID"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Checkbox IsDeleted {
+    apiName = "ContactRequest.IsDeleted"
+    defaultValue = false
+    label = "Deleted"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.AutoNumber Name {
+    apiName = "ContactRequest.Name"
+    label = "Contact Request Number"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime CreatedDate {
+    apiName = "ContactRequest.CreatedDate"
+    label = "Created Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup CreatedById {
+    apiName = "ContactRequest.CreatedById"
+    relationshipName = "CreatedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Created By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime LastModifiedDate {
+    apiName = "ContactRequest.LastModifiedDate"
+    label = "Last Modified Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup LastModifiedById {
+    apiName = "ContactRequest.LastModifiedById"
+    relationshipName = "LastModifiedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Last Modified By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime SystemModstamp {
+    apiName = "ContactRequest.SystemModstamp"
+    label = "System Modstamp"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+}
