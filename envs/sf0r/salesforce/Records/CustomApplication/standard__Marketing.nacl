@@ -1,0 +1,20 @@
+salesforce.CustomApplication standard__Marketing {
+  defaultLandingTab = "standard-home"
+  formFactors = [
+    "Large",
+  ]
+  isNavAutoTempTabsDisabled = false
+  isNavPersonalizationDisabled = false
+  isNavTabPersistenceDisabled = false
+  tabs = [
+    "standard-Chatter",
+    "standard-Campaign",
+    "standard-Lead",
+    "standard-Contact",
+    "standard-Opportunity",
+    "standard-report",
+    "standard-Dashboard",
+  ]
+  fullName = "standard__Marketing"
+  _alias = "standard__Marketing"
+}

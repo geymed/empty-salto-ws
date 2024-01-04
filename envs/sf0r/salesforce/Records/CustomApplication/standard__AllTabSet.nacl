@@ -1,0 +1,8 @@
+salesforce.CustomApplication standard__AllTabSet {
+  defaultLandingTab = "standard-home"
+  isNavAutoTempTabsDisabled = false
+  isNavPersonalizationDisabled = false
+  isNavTabPersistenceDisabled = false
+  fullName = "standard__AllTabSet"
+  _alias = "standard__AllTabSet"
+}

@@ -1,0 +1,11 @@
+salesforce.CustomApplication standard__Insights {
+  defaultLandingTab = "standard-home"
+  formFactors = [
+    "Large",
+  ]
+  isNavAutoTempTabsDisabled = false
+  isNavPersonalizationDisabled = false
+  isNavTabPersistenceDisabled = false
+  fullName = "standard__Insights"
+  _alias = "standard__Insights"
+}

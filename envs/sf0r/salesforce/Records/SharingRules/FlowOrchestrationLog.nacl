@@ -1,0 +1,4 @@
+salesforce.SharingRules FlowOrchestrationLog {
+  fullName = "FlowOrchestrationLog"
+  _alias = "FlowOrchestrationLog"
+}

@@ -1,0 +1,26 @@
+salesforce.EmailTemplate unfiled_public_CommerceReorderPortalInvitation@zcd {
+  available = true
+  description = "Invite a contact to a Commerce Reorder Portal."
+  encodingKey = "UTF-8"
+  name = "Commerce Reorder Portal: Invitation"
+  style = "none"
+  subject = "Welcome to {!Community_Name}"
+  textOnly = '''
+<html>
+            Dear {!Receiving_User.FirstName},
+            <p>
+            Check out this reorder portal for a simpler way to place repeat orders with {!Organization.Name}. You can view your past orders, modify quantities, place new orders, and view order statuses.
+            </p>
+            <p>
+            Click the link for access: <a href={!Community_URL}>{!Community_Name}</a>
+            </p>
+            Regards,<br>
+            {!Sending_User.Name}
+            </html>
+'''
+  type = "custom"
+  uiType = "Aloha"
+  fullName = "unfiled$public/CommerceReorderPortalInvitation"
+  content = file("salesforce/Records/EmailTemplate/unfiled$public/CommerceReorderPortalInvitation/CommerceReorderPortalInvitation.email")
+  _alias = "unfiled$public/CommerceReorderPortalInvitation"
+}

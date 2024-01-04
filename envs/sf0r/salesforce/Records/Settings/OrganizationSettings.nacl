@@ -1,0 +1,32 @@
+salesforce.Organization {
+  Address = {
+    country = "IL"
+  }
+  PrimaryContact = "Gilad Foyer"
+  DefaultLocaleSidKey = "en_IE_EURO"
+  TimeZoneSidKey = "Europe/Dublin"
+  LanguageLocaleKey = "en_US"
+  ReceivesInfoEmails = false
+  ReceivesAdminInfoEmails = true
+  PreferencesRequireOpportunityProducts = false
+  PreferencesTransactionSecurityPolicy = false
+  PreferencesConsentManagementEnabled = true
+  PreferencesAutoSelectIndividualOnMerge = false
+  PreferencesLightningLoginEnabled = true
+  PreferencesOnlyLLPermUserAllowed = false
+  FiscalYearStartMonth = 1
+  UsesStartDateAsFiscalYearName = false
+  DefaultAccountAccess = "Edit"
+  DefaultContactAccess = "ControlledByParent"
+  DefaultOpportunityAccess = "Edit"
+  DefaultLeadAccess = "ReadEditTransfer"
+  DefaultCaseAccess = "ReadEditTransfer"
+  DefaultCalendarAccess = "HideDetailsInsert"
+  DefaultPricebookAccess = "ReadSelect"
+  DefaultCampaignAccess = "All"
+  UiSkin = "Theme3"
+  SignupCountryIsoCode = "IL"
+  NumKnowledgeService = 2
+  WebToCaseDefaultOrigin = "Web"
+  IsReadOnly = false
+}

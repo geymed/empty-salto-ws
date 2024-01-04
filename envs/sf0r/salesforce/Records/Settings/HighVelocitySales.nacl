@@ -1,0 +1,16 @@
+salesforce.HighVelocitySalesSettings {
+  fullName = "HighVelocitySales"
+  enableACAutoSendEmail = "false"
+  enableACChangeTargetAssignee = "true"
+  enableACSkipWeekends = "false"
+  enableBusinessHours = "false"
+  enableCadenceVariantTestingPref = "false"
+  enableChgTgtAssigneeUsrPermPref = "false"
+  enableEngagementWaveAnalyticsPref = "false"
+  enableHighVelocitySalesSetup = "false"
+  enableLogACallForCTIPref = "false"
+  enableLogTasksForLinkedInPref = "false"
+  enableOpportunityAttributionPermPref = "false"
+  enableTaskLoggingPref = "false"
+  _alias = "HighVelocitySales"
+}

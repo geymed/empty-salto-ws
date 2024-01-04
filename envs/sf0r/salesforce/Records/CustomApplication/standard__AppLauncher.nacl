@@ -1,0 +1,14 @@
+salesforce.CustomApplication standard__AppLauncher {
+  defaultLandingTab = "standard-home"
+  formFactors = [
+    "Large",
+  ]
+  isNavAutoTempTabsDisabled = false
+  isNavPersonalizationDisabled = false
+  isNavTabPersistenceDisabled = false
+  tabs = [
+    "standard-AppLauncher",
+  ]
+  fullName = "standard__AppLauncher"
+  _alias = "standard__AppLauncher"
+}
