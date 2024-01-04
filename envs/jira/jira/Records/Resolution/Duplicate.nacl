@@ -1,4 +1,0 @@
-jira.Resolution Duplicate {
-  description = "The problem is a duplicate of an existing issue."
-  name = "Duplicate"
-}

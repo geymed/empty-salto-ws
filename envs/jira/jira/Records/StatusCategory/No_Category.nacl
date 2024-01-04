@@ -1,5 +1,0 @@
-jira.StatusCategory No_Category@s {
-  key = "undefined"
-  colorName = "medium-gray"
-  name = "No Category"
-}

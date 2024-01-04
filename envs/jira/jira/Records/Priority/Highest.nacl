@@ -1,6 +1,0 @@
-jira.Priority Highest {
-  statusColor = "#d04437"
-  description = "This problem will block progress."
-  iconUrl = "/images/icons/priorities/highest.svg"
-  name = "Highest"
-}

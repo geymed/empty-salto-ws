@@ -1,6 +1,0 @@
-jira.Priority Lowest {
-  statusColor = "#999999"
-  description = "Trivial problem with little or no impact on progress."
-  iconUrl = "/images/icons/priorities/lowest.svg"
-  name = "Lowest"
-}

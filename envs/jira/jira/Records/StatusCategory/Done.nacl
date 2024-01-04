@@ -1,5 +1,0 @@
-jira.StatusCategory Done {
-  key = "done"
-  colorName = "green"
-  name = "Done"
-}

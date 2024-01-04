@@ -1,5 +1,0 @@
-jira.StatusCategory In_Progress@s {
-  key = "indeterminate"
-  colorName = "yellow"
-  name = "In Progress"
-}

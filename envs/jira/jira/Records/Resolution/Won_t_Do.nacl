@@ -1,4 +1,0 @@
-jira.Resolution Won_t_Do@ts {
-  description = "This issue won't be actioned."
-  name = "Won't Do"
-}

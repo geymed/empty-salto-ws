@@ -1,6 +1,0 @@
-jira.ProjectType product_discovery {
-  key = "product_discovery"
-  formattedKey = "Product Discovery"
-  descriptionI18nKey = "jira.project.type.polaris.description"
-  color = "#F5A623"
-}

@@ -1,0 +1,9 @@
+jira.Filter geymed_default@b {
+  name = "geymed-default"
+  description = ""
+  owner = {
+    id = "632ccb873ac41ebde76a0b64"
+    displayName = "Gilad Foyer"
+  }
+  jql = "resolution = Unresolved AND assignee in (632ccb873ac41ebde76a0b64) AND status != \"Won't Fix\" AND status != \"Cannot Reproduce\" AND type in (Bug, Task, Improvement) ORDER BY priority DESC, updated DESC, created DESC "
+}
