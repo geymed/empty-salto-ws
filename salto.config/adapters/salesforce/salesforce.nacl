@@ -1,0 +1,80 @@
+salesforce {
+  fetch = {
+    metadata = {
+      include = [
+        {
+          metadataType = ".*"
+          namespace = ""
+          name = ".*"
+        },
+      ]
+      exclude = [
+        {
+          metadataType = "Report"
+        },
+        {
+          metadataType = "ReportType"
+        },
+        {
+          metadataType = "ReportFolder"
+        },
+        {
+          metadataType = "Dashboard"
+        },
+        {
+          metadataType = "DashboardFolder"
+        },
+        {
+          metadataType = "Document"
+        },
+        {
+          metadataType = "DocumentFolder"
+        },
+        {
+          metadataType = "Profile"
+        },
+        {
+          metadataType = "PermissionSet"
+        },
+        {
+          metadataType = "SiteDotCom"
+        },
+        {
+          metadataType = "EmailTemplate"
+          name = "MarketoEmailTemplates/.*"
+        },
+        {
+          metadataType = "ContentAsset"
+        },
+        {
+          metadataType = "CustomObjectTranslation"
+        },
+        {
+          metadataType = "AnalyticSnapshot"
+        },
+        {
+          metadataType = "WaveDashboard"
+        },
+        {
+          metadataType = "WaveDataflow"
+        },
+        {
+          metadataType = "StandardValueSet"
+          name = "^(AddressCountryCode)|(AddressStateCode)$"
+          namespace = ""
+        },
+        {
+          metadataType = "Layout"
+          name = "CollaborationGroup-Group Layout"
+        },
+        {
+          metadataType = "Layout"
+          name = "CaseInteraction-Case Feed Layout"
+        },
+      ]
+    }
+    fetchAllCustomSettings = false
+    maxInstancesPerType = 5000
+  }
+  maxItemsInRetrieveRequest = 2500
+}
