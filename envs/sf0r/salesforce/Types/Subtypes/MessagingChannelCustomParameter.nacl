@@ -1,0 +1,27 @@
+type salesforce.MessagingChannelCustomParameter {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  salesforce.MessagingChannelActionParameterMapping actionParameterMappings {
+  }
+  string externalParameterName {
+  }
+  string masterLabel {
+  }
+  number maxLength {
+  }
+  string name {
+  }
+  metadataType = "MessagingChannelCustomParameter"
+}

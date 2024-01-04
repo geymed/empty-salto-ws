@@ -1,0 +1,55 @@
+type salesforce.ConversationMessageLayout {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  salesforce.ConvMsgExternalTemplateVersion externalTemplates {
+  }
+  string formatType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Application",
+        "Attachments",
+        "Buttons",
+        "Carousel",
+        "EncryptedOAuthToken",
+        "ExternalTemplate",
+        "Inputs",
+        "ListPicker",
+        "Media",
+        "Payment",
+        "QuickReplies",
+        "RichLink",
+        "Text",
+        "TimePicker",
+        "WebView",
+      ]
+    }
+  }
+  salesforce.ConversationMessageLayoutItem layoutItems {
+  }
+  string messageType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "AuthenticationRequest",
+        "Choices",
+        "Form",
+        "PaymentRequest",
+        "StaticContent",
+      ]
+    }
+  }
+  metadataType = "ConversationMessageLayout"
+}

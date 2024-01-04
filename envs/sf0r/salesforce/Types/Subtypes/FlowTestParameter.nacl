@@ -1,0 +1,31 @@
+type salesforce.FlowTestParameter {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  string leftValueReference {
+  }
+  string type {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "InputTriggeringRecordInitial",
+        "InputTriggeringRecordUpdated",
+        "ScheduledPath",
+      ]
+    }
+  }
+  salesforce.FlowTestReferenceOrValue value {
+  }
+  metadataType = "FlowTestParameter"
+}

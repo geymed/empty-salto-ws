@@ -1,0 +1,31 @@
+type salesforce.FlexiPageEvent {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  string sourceName {
+  }
+  salesforce.FlexiPageEventSourceProperty sourceProperties {
+  }
+  string sourceType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Component",
+      ]
+    }
+  }
+  salesforce.FlexiPageEventTarget targets {
+  }
+  metadataType = "FlexiPageEvent"
+}

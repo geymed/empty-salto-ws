@@ -1,0 +1,39 @@
+type salesforce.MessagingChannel {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  serviceid fullName {
+  }
+  salesforce.MessagingAutoResponse automatedResponses {
+  }
+  salesforce.MessagingChannelCustomParameter customParameters {
+  }
+  string description {
+  }
+  string masterLabel {
+  }
+  string sessionHandlerFlow {
+  }
+  string sessionHandlerQueue {
+  }
+  salesforce.MessagingChannelStandardParameter standardParameters {
+  }
+  string internalId {
+    _hidden_value = true
+    localOnly = true
+  }
+  suffix = "messagingChannel"
+  dirName = "messagingChannels"
+  metadataType = "MessagingChannel"
+}

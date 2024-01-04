@@ -1,0 +1,21 @@
+type salesforce.FlowTestCondition {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  string leftValueReference {
+  }
+  salesforce.FlowTestReferenceOrValue rightValue {
+  }
+  metadataType = "FlowTestCondition"
+}

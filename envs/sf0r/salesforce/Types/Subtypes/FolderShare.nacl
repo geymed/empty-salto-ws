@@ -1,0 +1,53 @@
+type salesforce.FolderShare {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  string accessLevel {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "EditAllContents",
+        "Manage",
+        "View",
+      ]
+    }
+  }
+  string sharedTo {
+  }
+  string sharedToType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "AllCspUsers",
+        "AllPrmUsers",
+        "ChannelProgramGroup",
+        "CustomerPortalUser",
+        "Group",
+        "Manager",
+        "ManagerAndSubordinatesInternal",
+        "Organization",
+        "PartnerUser",
+        "PortalRole",
+        "PortalRoleAndSubordinates",
+        "Role",
+        "RoleAndSubordinates",
+        "RoleAndSubordinatesInternal",
+        "Territory",
+        "TerritoryAndSubordinates",
+        "User",
+      ]
+    }
+  }
+  metadataType = "FolderShare"
+}

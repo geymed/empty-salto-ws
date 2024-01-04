@@ -1,0 +1,4577 @@
+settings salesforce.Organization {
+  salesforce.Text Division {
+    apiName = "Organization.Division"
+    label = "Division"
+    createable = false
+    updateable = true
+    unique = false
+    caseSensitive = false
+    length = 80
+    queryable = true
+  }
+  salesforce.Address Address {
+    apiName = "Organization.Address"
+    label = "Address"
+    createable = false
+    updateable = false
+    queryable = true
+  }
+  salesforce.Phone Phone {
+    apiName = "Organization.Phone"
+    label = "Phone"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Phone Fax {
+    apiName = "Organization.Fax"
+    label = "Fax"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text PrimaryContact {
+    apiName = "Organization.PrimaryContact"
+    label = "Primary Contact"
+    createable = false
+    updateable = true
+    unique = false
+    caseSensitive = false
+    length = 80
+    queryable = true
+  }
+  salesforce.Picklist DefaultLocaleSidKey {
+    apiName = "Organization.DefaultLocaleSidKey"
+    label = "Locale"
+    _required = true
+    valueSet = [
+      {
+        fullName = "af_ZA"
+        default = false
+        label = "Afrikaans (South Africa)"
+        isActive = true
+      },
+      {
+        fullName = "sq_AL"
+        default = false
+        label = "Albanian (Albania)"
+        isActive = true
+      },
+      {
+        fullName = "am_ET"
+        default = false
+        label = "Amharic (Ethiopia)"
+        isActive = true
+      },
+      {
+        fullName = "ar_DZ"
+        default = false
+        label = "Arabic (Algeria)"
+        isActive = true
+      },
+      {
+        fullName = "ar_BH"
+        default = false
+        label = "Arabic (Bahrain)"
+        isActive = true
+      },
+      {
+        fullName = "ar_EG"
+        default = false
+        label = "Arabic (Egypt)"
+        isActive = true
+      },
+      {
+        fullName = "ar_IQ"
+        default = false
+        label = "Arabic (Iraq)"
+        isActive = true
+      },
+      {
+        fullName = "ar_JO"
+        default = false
+        label = "Arabic (Jordan)"
+        isActive = true
+      },
+      {
+        fullName = "ar_KW"
+        default = false
+        label = "Arabic (Kuwait)"
+        isActive = true
+      },
+      {
+        fullName = "ar_LB"
+        default = false
+        label = "Arabic (Lebanon)"
+        isActive = true
+      },
+      {
+        fullName = "ar_LY"
+        default = false
+        label = "Arabic (Libya)"
+        isActive = true
+      },
+      {
+        fullName = "ar_MA"
+        default = false
+        label = "Arabic (Morocco)"
+        isActive = true
+      },
+      {
+        fullName = "ar_OM"
+        default = false
+        label = "Arabic (Oman)"
+        isActive = true
+      },
+      {
+        fullName = "ar_QA"
+        default = false
+        label = "Arabic (Qatar)"
+        isActive = true
+      },
+      {
+        fullName = "ar_SA"
+        default = false
+        label = "Arabic (Saudi Arabia)"
+        isActive = true
+      },
+      {
+        fullName = "ar_TN"
+        default = false
+        label = "Arabic (Tunisia)"
+        isActive = true
+      },
+      {
+        fullName = "ar_AE"
+        default = false
+        label = "Arabic (United Arab Emirates)"
+        isActive = true
+      },
+      {
+        fullName = "ar_YE"
+        default = false
+        label = "Arabic (Yemen)"
+        isActive = true
+      },
+      {
+        fullName = "hy_AM"
+        default = false
+        label = "Armenian (Armenia)"
+        isActive = true
+      },
+      {
+        fullName = "az_AZ"
+        default = false
+        label = "Azerbaijani (Azerbaijan)"
+        isActive = true
+      },
+      {
+        fullName = "bn_BD"
+        default = false
+        label = "Bangla (Bangladesh)"
+        isActive = true
+      },
+      {
+        fullName = "bn_IN"
+        default = false
+        label = "Bangla (India)"
+        isActive = true
+      },
+      {
+        fullName = "eu_ES"
+        default = false
+        label = "Basque (Spain)"
+        isActive = true
+      },
+      {
+        fullName = "be_BY"
+        default = false
+        label = "Belarusian (Belarus)"
+        isActive = true
+      },
+      {
+        fullName = "bs_BA"
+        default = false
+        label = "Bosnian (Bosnia & Herzegovina)"
+        isActive = true
+      },
+      {
+        fullName = "bg_BG"
+        default = false
+        label = "Bulgarian (Bulgaria)"
+        isActive = true
+      },
+      {
+        fullName = "my_MM"
+        default = false
+        label = "Burmese (Myanmar [Burma])"
+        isActive = true
+      },
+      {
+        fullName = "ca_ES"
+        default = false
+        label = "Catalan (Spain)"
+        isActive = true
+      },
+      {
+        fullName = "zh_CN_PINYIN"
+        default = false
+        label = "Chinese (China, Pinyin Ordering)"
+        isActive = true
+      },
+      {
+        fullName = "zh_CN_STROKE"
+        default = false
+        label = "Chinese (China, Stroke Ordering)"
+        isActive = true
+      },
+      {
+        fullName = "zh_CN"
+        default = false
+        label = "Chinese (China)"
+        isActive = true
+      },
+      {
+        fullName = "zh_HK_STROKE"
+        default = false
+        label = "Chinese (Hong Kong SAR China, Stroke Ordering)"
+        isActive = true
+      },
+      {
+        fullName = "zh_HK"
+        default = false
+        label = "Chinese (Hong Kong SAR China)"
+        isActive = true
+      },
+      {
+        fullName = "zh_MO"
+        default = false
+        label = "Chinese (Macao SAR China)"
+        isActive = true
+      },
+      {
+        fullName = "zh_MY"
+        default = false
+        label = "Chinese (Malaysia)"
+        isActive = true
+      },
+      {
+        fullName = "zh_SG"
+        default = false
+        label = "Chinese (Singapore)"
+        isActive = true
+      },
+      {
+        fullName = "zh_TW_STROKE"
+        default = false
+        label = "Chinese (Taiwan, Stroke Ordering)"
+        isActive = true
+      },
+      {
+        fullName = "zh_TW"
+        default = false
+        label = "Chinese (Taiwan)"
+        isActive = true
+      },
+      {
+        fullName = "hr_HR"
+        default = false
+        label = "Croatian (Croatia)"
+        isActive = true
+      },
+      {
+        fullName = "cs_CZ"
+        default = false
+        label = "Czech (Czechia)"
+        isActive = true
+      },
+      {
+        fullName = "da_DK"
+        default = false
+        label = "Danish (Denmark)"
+        isActive = true
+      },
+      {
+        fullName = "nl_AW"
+        default = false
+        label = "Dutch (Aruba)"
+        isActive = true
+      },
+      {
+        fullName = "nl_BE"
+        default = false
+        label = "Dutch (Belgium)"
+        isActive = true
+      },
+      {
+        fullName = "nl_NL"
+        default = false
+        label = "Dutch (Netherlands)"
+        isActive = true
+      },
+      {
+        fullName = "nl_SR"
+        default = false
+        label = "Dutch (Suriname)"
+        isActive = true
+      },
+      {
+        fullName = "dz_BT"
+        default = false
+        label = "Dzongkha (Bhutan)"
+        isActive = true
+      },
+      {
+        fullName = "en_AG"
+        default = false
+        label = "English (Antigua & Barbuda)"
+        isActive = true
+      },
+      {
+        fullName = "en_AU"
+        default = false
+        label = "English (Australia)"
+        isActive = true
+      },
+      {
+        fullName = "en_BS"
+        default = false
+        label = "English (Bahamas)"
+        isActive = true
+      },
+      {
+        fullName = "en_BB"
+        default = false
+        label = "English (Barbados)"
+        isActive = true
+      },
+      {
+        fullName = "en_BE"
+        default = false
+        label = "English (Belgium)"
+        isActive = true
+      },
+      {
+        fullName = "en_BZ"
+        default = false
+        label = "English (Belize)"
+        isActive = true
+      },
+      {
+        fullName = "en_BM"
+        default = false
+        label = "English (Bermuda)"
+        isActive = true
+      },
+      {
+        fullName = "en_BW"
+        default = false
+        label = "English (Botswana)"
+        isActive = true
+      },
+      {
+        fullName = "en_CM"
+        default = false
+        label = "English (Cameroon)"
+        isActive = true
+      },
+      {
+        fullName = "en_CA"
+        default = false
+        label = "English (Canada)"
+        isActive = true
+      },
+      {
+        fullName = "en_KY"
+        default = false
+        label = "English (Cayman Islands)"
+        isActive = true
+      },
+      {
+        fullName = "en_CY"
+        default = false
+        label = "English (Cyprus)"
+        isActive = true
+      },
+      {
+        fullName = "en_ER"
+        default = false
+        label = "English (Eritrea)"
+        isActive = true
+      },
+      {
+        fullName = "en_SZ"
+        default = false
+        label = "English (Eswatini)"
+        isActive = true
+      },
+      {
+        fullName = "en_FK"
+        default = false
+        label = "English (Falkland Islands)"
+        isActive = true
+      },
+      {
+        fullName = "en_FJ"
+        default = false
+        label = "English (Fiji)"
+        isActive = true
+      },
+      {
+        fullName = "en_GM"
+        default = false
+        label = "English (Gambia)"
+        isActive = true
+      },
+      {
+        fullName = "en_DE"
+        default = false
+        label = "English (Germany)"
+        isActive = true
+      },
+      {
+        fullName = "en_GH"
+        default = false
+        label = "English (Ghana)"
+        isActive = true
+      },
+      {
+        fullName = "en_GI"
+        default = false
+        label = "English (Gibraltar)"
+        isActive = true
+      },
+      {
+        fullName = "en_GY"
+        default = false
+        label = "English (Guyana)"
+        isActive = true
+      },
+      {
+        fullName = "en_HK"
+        default = false
+        label = "English (Hong Kong SAR China)"
+        isActive = true
+      },
+      {
+        fullName = "en_IN"
+        default = false
+        label = "English (India)"
+        isActive = true
+      },
+      {
+        fullName = "en_ID"
+        default = false
+        label = "English (Indonesia)"
+        isActive = true
+      },
+      {
+        fullName = "en_IE"
+        default = false
+        label = "English (Ireland)"
+        isActive = true
+      },
+      {
+        fullName = "en_IL"
+        default = false
+        label = "English (Israel)"
+        isActive = true
+      },
+      {
+        fullName = "en_JM"
+        default = false
+        label = "English (Jamaica)"
+        isActive = true
+      },
+      {
+        fullName = "en_KE"
+        default = false
+        label = "English (Kenya)"
+        isActive = true
+      },
+      {
+        fullName = "en_LR"
+        default = false
+        label = "English (Liberia)"
+        isActive = true
+      },
+      {
+        fullName = "en_MG"
+        default = false
+        label = "English (Madagascar)"
+        isActive = true
+      },
+      {
+        fullName = "en_MW"
+        default = false
+        label = "English (Malawi)"
+        isActive = true
+      },
+      {
+        fullName = "en_MY"
+        default = false
+        label = "English (Malaysia)"
+        isActive = true
+      },
+      {
+        fullName = "en_MT"
+        default = false
+        label = "English (Malta)"
+        isActive = true
+      },
+      {
+        fullName = "en_MU"
+        default = false
+        label = "English (Mauritius)"
+        isActive = true
+      },
+      {
+        fullName = "en_NA"
+        default = false
+        label = "English (Namibia)"
+        isActive = true
+      },
+      {
+        fullName = "en_NL"
+        default = false
+        label = "English (Netherlands)"
+        isActive = true
+      },
+      {
+        fullName = "en_NZ"
+        default = false
+        label = "English (New Zealand)"
+        isActive = true
+      },
+      {
+        fullName = "en_NG"
+        default = false
+        label = "English (Nigeria)"
+        isActive = true
+      },
+      {
+        fullName = "en_PK"
+        default = false
+        label = "English (Pakistan)"
+        isActive = true
+      },
+      {
+        fullName = "en_PG"
+        default = false
+        label = "English (Papua New Guinea)"
+        isActive = true
+      },
+      {
+        fullName = "en_PH"
+        default = false
+        label = "English (Philippines)"
+        isActive = true
+      },
+      {
+        fullName = "en_RW"
+        default = false
+        label = "English (Rwanda)"
+        isActive = true
+      },
+      {
+        fullName = "en_WS"
+        default = false
+        label = "English (Samoa)"
+        isActive = true
+      },
+      {
+        fullName = "en_SC"
+        default = false
+        label = "English (Seychelles)"
+        isActive = true
+      },
+      {
+        fullName = "en_SL"
+        default = false
+        label = "English (Sierra Leone)"
+        isActive = true
+      },
+      {
+        fullName = "en_SG"
+        default = false
+        label = "English (Singapore)"
+        isActive = true
+      },
+      {
+        fullName = "en_SX"
+        default = false
+        label = "English (Sint Maarten)"
+        isActive = true
+      },
+      {
+        fullName = "en_SB"
+        default = false
+        label = "English (Solomon Islands)"
+        isActive = true
+      },
+      {
+        fullName = "en_ZA"
+        default = false
+        label = "English (South Africa)"
+        isActive = true
+      },
+      {
+        fullName = "en_SH"
+        default = false
+        label = "English (St. Helena)"
+        isActive = true
+      },
+      {
+        fullName = "en_TZ"
+        default = false
+        label = "English (Tanzania)"
+        isActive = true
+      },
+      {
+        fullName = "en_TO"
+        default = false
+        label = "English (Tonga)"
+        isActive = true
+      },
+      {
+        fullName = "en_TT"
+        default = false
+        label = "English (Trinidad & Tobago)"
+        isActive = true
+      },
+      {
+        fullName = "en_UG"
+        default = false
+        label = "English (Uganda)"
+        isActive = true
+      },
+      {
+        fullName = "en_AE"
+        default = false
+        label = "English (United Arab Emirates)"
+        isActive = true
+      },
+      {
+        fullName = "en_GB"
+        default = false
+        label = "English (United Kingdom)"
+        isActive = true
+      },
+      {
+        fullName = "en_US"
+        default = false
+        label = "English (United States)"
+        isActive = true
+      },
+      {
+        fullName = "en_VU"
+        default = false
+        label = "English (Vanuatu)"
+        isActive = true
+      },
+      {
+        fullName = "et_EE"
+        default = false
+        label = "Estonian (Estonia)"
+        isActive = true
+      },
+      {
+        fullName = "fi_FI"
+        default = false
+        label = "Finnish (Finland)"
+        isActive = true
+      },
+      {
+        fullName = "fr_BE"
+        default = false
+        label = "French (Belgium)"
+        isActive = true
+      },
+      {
+        fullName = "fr_CA"
+        default = false
+        label = "French (Canada)"
+        isActive = true
+      },
+      {
+        fullName = "fr_KM"
+        default = false
+        label = "French (Comoros)"
+        isActive = true
+      },
+      {
+        fullName = "fr_FR"
+        default = false
+        label = "French (France)"
+        isActive = true
+      },
+      {
+        fullName = "fr_GN"
+        default = false
+        label = "French (Guinea)"
+        isActive = true
+      },
+      {
+        fullName = "fr_HT"
+        default = false
+        label = "French (Haiti)"
+        isActive = true
+      },
+      {
+        fullName = "fr_LU"
+        default = false
+        label = "French (Luxembourg)"
+        isActive = true
+      },
+      {
+        fullName = "fr_MR"
+        default = false
+        label = "French (Mauritania)"
+        isActive = true
+      },
+      {
+        fullName = "fr_MC"
+        default = false
+        label = "French (Monaco)"
+        isActive = true
+      },
+      {
+        fullName = "fr_MA"
+        default = false
+        label = "French (Morocco)"
+        isActive = true
+      },
+      {
+        fullName = "fr_CH"
+        default = false
+        label = "French (Switzerland)"
+        isActive = true
+      },
+      {
+        fullName = "fr_WF"
+        default = false
+        label = "French (Wallis & Futuna)"
+        isActive = true
+      },
+      {
+        fullName = "ka_GE"
+        default = false
+        label = "Georgian (Georgia)"
+        isActive = true
+      },
+      {
+        fullName = "de_AT"
+        default = false
+        label = "German (Austria)"
+        isActive = true
+      },
+      {
+        fullName = "de_BE"
+        default = false
+        label = "German (Belgium)"
+        isActive = true
+      },
+      {
+        fullName = "de_DE"
+        default = false
+        label = "German (Germany)"
+        isActive = true
+      },
+      {
+        fullName = "de_LU"
+        default = false
+        label = "German (Luxembourg)"
+        isActive = true
+      },
+      {
+        fullName = "de_CH"
+        default = false
+        label = "German (Switzerland)"
+        isActive = true
+      },
+      {
+        fullName = "el_CY"
+        default = false
+        label = "Greek (Cyprus)"
+        isActive = true
+      },
+      {
+        fullName = "el_GR"
+        default = false
+        label = "Greek (Greece)"
+        isActive = true
+      },
+      {
+        fullName = "gu_IN"
+        default = false
+        label = "Gujarati (India)"
+        isActive = true
+      },
+      {
+        fullName = "ht_HT"
+        default = false
+        label = "Haitian Creole (Haiti)"
+        isActive = true
+      },
+      {
+        fullName = "ht_US"
+        default = false
+        label = "Haitian Creole (United States)"
+        isActive = true
+      },
+      {
+        fullName = "haw_US"
+        default = false
+        label = "Hawaiian (United States)"
+        isActive = true
+      },
+      {
+        fullName = "iw_IL"
+        default = false
+        label = "Hebrew (Israel)"
+        isActive = true
+      },
+      {
+        fullName = "hi_IN"
+        default = false
+        label = "Hindi (India)"
+        isActive = true
+      },
+      {
+        fullName = "hmn_US"
+        default = false
+        label = "Hmong (United States)"
+        isActive = true
+      },
+      {
+        fullName = "hu_HU"
+        default = false
+        label = "Hungarian (Hungary)"
+        isActive = true
+      },
+      {
+        fullName = "is_IS"
+        default = false
+        label = "Icelandic (Iceland)"
+        isActive = true
+      },
+      {
+        fullName = "in_ID"
+        default = false
+        label = "Indonesian (Indonesia)"
+        isActive = true
+      },
+      {
+        fullName = "ga_IE"
+        default = false
+        label = "Irish (Ireland)"
+        isActive = true
+      },
+      {
+        fullName = "it_IT"
+        default = false
+        label = "Italian (Italy)"
+        isActive = true
+      },
+      {
+        fullName = "it_CH"
+        default = false
+        label = "Italian (Switzerland)"
+        isActive = true
+      },
+      {
+        fullName = "ja_JP"
+        default = false
+        label = "Japanese (Japan)"
+        isActive = true
+      },
+      {
+        fullName = "kl_GL"
+        default = false
+        label = "Kalaallisut (Greenland)"
+        isActive = true
+      },
+      {
+        fullName = "kn_IN"
+        default = false
+        label = "Kannada (India)"
+        isActive = true
+      },
+      {
+        fullName = "kk_KZ"
+        default = false
+        label = "Kazakh (Kazakhstan)"
+        isActive = true
+      },
+      {
+        fullName = "km_KH"
+        default = false
+        label = "Khmer (Cambodia)"
+        isActive = true
+      },
+      {
+        fullName = "ko_KR"
+        default = false
+        label = "Korean (South Korea)"
+        isActive = true
+      },
+      {
+        fullName = "ky_KG"
+        default = false
+        label = "Kyrgyz (Kyrgyzstan)"
+        isActive = true
+      },
+      {
+        fullName = "lo_LA"
+        default = false
+        label = "Lao (Laos)"
+        isActive = true
+      },
+      {
+        fullName = "lv_LV"
+        default = false
+        label = "Latvian (Latvia)"
+        isActive = true
+      },
+      {
+        fullName = "lt_LT"
+        default = false
+        label = "Lithuanian (Lithuania)"
+        isActive = true
+      },
+      {
+        fullName = "lu_CD"
+        default = false
+        label = "Luba-Katanga (Congo - Kinshasa)"
+        isActive = true
+      },
+      {
+        fullName = "lb_LU"
+        default = false
+        label = "Luxembourgish (Luxembourg)"
+        isActive = true
+      },
+      {
+        fullName = "mk_MK"
+        default = false
+        label = "Macedonian (North Macedonia)"
+        isActive = true
+      },
+      {
+        fullName = "ms_BN"
+        default = false
+        label = "Malay (Brunei)"
+        isActive = true
+      },
+      {
+        fullName = "ms_MY"
+        default = false
+        label = "Malay (Malaysia)"
+        isActive = true
+      },
+      {
+        fullName = "ml_IN"
+        default = false
+        label = "Malayalam (India)"
+        isActive = true
+      },
+      {
+        fullName = "mt_MT"
+        default = false
+        label = "Maltese (Malta)"
+        isActive = true
+      },
+      {
+        fullName = "mr_IN"
+        default = false
+        label = "Marathi (India)"
+        isActive = true
+      },
+      {
+        fullName = "sh_ME"
+        default = false
+        label = "Montenegrin (Montenegro)"
+        isActive = true
+      },
+      {
+        fullName = "ne_NP"
+        default = false
+        label = "Nepali (Nepal)"
+        isActive = true
+      },
+      {
+        fullName = "no_NO"
+        default = false
+        label = "Norwegian (Norway)"
+        isActive = true
+      },
+      {
+        fullName = "ps_AF"
+        default = false
+        label = "Pashto (Afghanistan)"
+        isActive = true
+      },
+      {
+        fullName = "pl_PL"
+        default = false
+        label = "Polish (Poland)"
+        isActive = true
+      },
+      {
+        fullName = "pt_AO"
+        default = false
+        label = "Portuguese (Angola)"
+        isActive = true
+      },
+      {
+        fullName = "pt_BR"
+        default = false
+        label = "Portuguese (Brazil)"
+        isActive = true
+      },
+      {
+        fullName = "pt_CV"
+        default = false
+        label = "Portuguese (Cape Verde)"
+        isActive = true
+      },
+      {
+        fullName = "pt_MZ"
+        default = false
+        label = "Portuguese (Mozambique)"
+        isActive = true
+      },
+      {
+        fullName = "pt_PT"
+        default = false
+        label = "Portuguese (Portugal)"
+        isActive = true
+      },
+      {
+        fullName = "pt_ST"
+        default = false
+        label = "Portuguese (São Tomé & Príncipe)"
+        isActive = true
+      },
+      {
+        fullName = "pa_IN"
+        default = false
+        label = "Punjabi (India)"
+        isActive = true
+      },
+      {
+        fullName = "ro_MD"
+        default = false
+        label = "Romanian (Moldova)"
+        isActive = true
+      },
+      {
+        fullName = "ro_RO"
+        default = false
+        label = "Romanian (Romania)"
+        isActive = true
+      },
+      {
+        fullName = "rm_CH"
+        default = false
+        label = "Romansh (Switzerland)"
+        isActive = true
+      },
+      {
+        fullName = "rn_BI"
+        default = false
+        label = "Rundi (Burundi)"
+        isActive = true
+      },
+      {
+        fullName = "ru_AM"
+        default = false
+        label = "Russian (Armenia)"
+        isActive = true
+      },
+      {
+        fullName = "ru_BY"
+        default = false
+        label = "Russian (Belarus)"
+        isActive = true
+      },
+      {
+        fullName = "ru_KZ"
+        default = false
+        label = "Russian (Kazakhstan)"
+        isActive = true
+      },
+      {
+        fullName = "ru_KG"
+        default = false
+        label = "Russian (Kyrgyzstan)"
+        isActive = true
+      },
+      {
+        fullName = "ru_LT"
+        default = false
+        label = "Russian (Lithuania)"
+        isActive = true
+      },
+      {
+        fullName = "ru_MD"
+        default = false
+        label = "Russian (Moldova)"
+        isActive = true
+      },
+      {
+        fullName = "ru_PL"
+        default = false
+        label = "Russian (Poland)"
+        isActive = true
+      },
+      {
+        fullName = "ru_RU"
+        default = false
+        label = "Russian (Russia)"
+        isActive = true
+      },
+      {
+        fullName = "ru_UA"
+        default = false
+        label = "Russian (Ukraine)"
+        isActive = true
+      },
+      {
+        fullName = "sm_WS"
+        default = false
+        label = "Samoan (Samoa)"
+        isActive = true
+      },
+      {
+        fullName = "sm_US"
+        default = false
+        label = "Samoan (United States)"
+        isActive = true
+      },
+      {
+        fullName = "sr_BA"
+        default = false
+        label = "Serbian (Cyrillic) (Bosnia and Herzegovina)"
+        isActive = true
+      },
+      {
+        fullName = "sr_CS"
+        default = false
+        label = "Serbian (Cyrillic) (Serbia)"
+        isActive = true
+      },
+      {
+        fullName = "sh_BA"
+        default = false
+        label = "Serbian (Latin) (Bosnia and Herzegovina)"
+        isActive = true
+      },
+      {
+        fullName = "sh_CS"
+        default = false
+        label = "Serbian (Latin) (Serbia)"
+        isActive = true
+      },
+      {
+        fullName = "sr_RS"
+        default = false
+        label = "Serbian (Serbia)"
+        isActive = true
+      },
+      {
+        fullName = "sk_SK"
+        default = false
+        label = "Slovak (Slovakia)"
+        isActive = true
+      },
+      {
+        fullName = "sl_SI"
+        default = false
+        label = "Slovenian (Slovenia)"
+        isActive = true
+      },
+      {
+        fullName = "so_DJ"
+        default = false
+        label = "Somali (Djibouti)"
+        isActive = true
+      },
+      {
+        fullName = "so_SO"
+        default = false
+        label = "Somali (Somalia)"
+        isActive = true
+      },
+      {
+        fullName = "es_AR"
+        default = false
+        label = "Spanish (Argentina)"
+        isActive = true
+      },
+      {
+        fullName = "es_BO"
+        default = false
+        label = "Spanish (Bolivia)"
+        isActive = true
+      },
+      {
+        fullName = "es_CL"
+        default = false
+        label = "Spanish (Chile)"
+        isActive = true
+      },
+      {
+        fullName = "es_CO"
+        default = false
+        label = "Spanish (Colombia)"
+        isActive = true
+      },
+      {
+        fullName = "es_CR"
+        default = false
+        label = "Spanish (Costa Rica)"
+        isActive = true
+      },
+      {
+        fullName = "es_DO"
+        default = false
+        label = "Spanish (Dominican Republic)"
+        isActive = true
+      },
+      {
+        fullName = "es_EC"
+        default = false
+        label = "Spanish (Ecuador)"
+        isActive = true
+      },
+      {
+        fullName = "es_SV"
+        default = false
+        label = "Spanish (El Salvador)"
+        isActive = true
+      },
+      {
+        fullName = "es_GT"
+        default = false
+        label = "Spanish (Guatemala)"
+        isActive = true
+      },
+      {
+        fullName = "es_HN"
+        default = false
+        label = "Spanish (Honduras)"
+        isActive = true
+      },
+      {
+        fullName = "es_MX"
+        default = false
+        label = "Spanish (Mexico)"
+        isActive = true
+      },
+      {
+        fullName = "es_NI"
+        default = false
+        label = "Spanish (Nicaragua)"
+        isActive = true
+      },
+      {
+        fullName = "es_PA"
+        default = false
+        label = "Spanish (Panama)"
+        isActive = true
+      },
+      {
+        fullName = "es_PY"
+        default = false
+        label = "Spanish (Paraguay)"
+        isActive = true
+      },
+      {
+        fullName = "es_PE"
+        default = false
+        label = "Spanish (Peru)"
+        isActive = true
+      },
+      {
+        fullName = "es_PR"
+        default = false
+        label = "Spanish (Puerto Rico)"
+        isActive = true
+      },
+      {
+        fullName = "es_ES"
+        default = false
+        label = "Spanish (Spain)"
+        isActive = true
+      },
+      {
+        fullName = "es_US"
+        default = false
+        label = "Spanish (United States)"
+        isActive = true
+      },
+      {
+        fullName = "es_UY"
+        default = false
+        label = "Spanish (Uruguay)"
+        isActive = true
+      },
+      {
+        fullName = "es_VE"
+        default = false
+        label = "Spanish (Venezuela)"
+        isActive = true
+      },
+      {
+        fullName = "sw_KE"
+        default = false
+        label = "Swahili (Kenya)"
+        isActive = true
+      },
+      {
+        fullName = "sv_SE"
+        default = false
+        label = "Swedish (Sweden)"
+        isActive = true
+      },
+      {
+        fullName = "tl_PH"
+        default = false
+        label = "Tagalog (Philippines)"
+        isActive = true
+      },
+      {
+        fullName = "tg_TJ"
+        default = false
+        label = "Tajik (Tajikistan)"
+        isActive = true
+      },
+      {
+        fullName = "ta_IN"
+        default = false
+        label = "Tamil (India)"
+        isActive = true
+      },
+      {
+        fullName = "ta_LK"
+        default = false
+        label = "Tamil (Sri Lanka)"
+        isActive = true
+      },
+      {
+        fullName = "te_IN"
+        default = false
+        label = "Telugu (India)"
+        isActive = true
+      },
+      {
+        fullName = "mi_NZ"
+        default = false
+        label = "Te reo (New Zealand)"
+        isActive = true
+      },
+      {
+        fullName = "th_TH"
+        default = false
+        label = "Thai (Thailand)"
+        isActive = true
+      },
+      {
+        fullName = "ti_ET"
+        default = false
+        label = "Tigrinya (Ethiopia)"
+        isActive = true
+      },
+      {
+        fullName = "tr_TR"
+        default = false
+        label = "Turkish (Türkiye)"
+        isActive = true
+      },
+      {
+        fullName = "uk_UA"
+        default = false
+        label = "Ukrainian (Ukraine)"
+        isActive = true
+      },
+      {
+        fullName = "ur_PK"
+        default = false
+        label = "Urdu (Pakistan)"
+        isActive = true
+      },
+      {
+        fullName = "uz_LATN_UZ"
+        default = false
+        label = "Uzbek (Latin, Uzbekistan)"
+        isActive = true
+      },
+      {
+        fullName = "vi_VN"
+        default = false
+        label = "Vietnamese (Vietnam)"
+        isActive = true
+      },
+      {
+        fullName = "cy_GB"
+        default = false
+        label = "Welsh (United Kingdom)"
+        isActive = true
+      },
+      {
+        fullName = "xh_ZA"
+        default = false
+        label = "Xhosa (South Africa)"
+        isActive = true
+      },
+      {
+        fullName = "ji_US"
+        default = false
+        label = "Yiddish (United States)"
+        isActive = true
+      },
+      {
+        fullName = "yo_BJ"
+        default = false
+        label = "Yoruba (Benin)"
+        isActive = true
+      },
+      {
+        fullName = "zu_ZA"
+        default = false
+        label = "Zulu (South Africa)"
+        isActive = true
+      },
+    ]
+    restricted = true
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist TimeZoneSidKey {
+    apiName = "Organization.TimeZoneSidKey"
+    label = "Time Zone"
+    _required = true
+    valueSet = [
+      {
+        fullName = "Pacific/Kiritimati"
+        default = false
+        label = "(GMT+14:00) Line Islands Time (Pacific/Kiritimati)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Chatham"
+        default = false
+        label = "(GMT+13:45) Chatham Daylight Time (Pacific/Chatham)"
+        isActive = true
+      },
+      {
+        fullName = "Antarctica/McMurdo"
+        default = false
+        label = "(GMT+13:00) New Zealand Daylight Time (Antarctica/McMurdo)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Apia"
+        default = false
+        label = "(GMT+13:00) Apia Standard Time (Pacific/Apia)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Auckland"
+        default = false
+        label = "(GMT+13:00) New Zealand Daylight Time (Pacific/Auckland)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Enderbury"
+        default = false
+        label = "(GMT+13:00) Phoenix Islands Time (Pacific/Enderbury)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Fakaofo"
+        default = false
+        label = "(GMT+13:00) Tokelau Time (Pacific/Fakaofo)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Tongatapu"
+        default = false
+        label = "(GMT+13:00) Tonga Standard Time (Pacific/Tongatapu)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Anadyr"
+        default = false
+        label = "(GMT+12:00) Anadyr Standard Time (Asia/Anadyr)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Kamchatka"
+        default = false
+        label = "(GMT+12:00) Petropavlovsk-Kamchatski Standard Time (Asia/Kamchatka)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Fiji"
+        default = false
+        label = "(GMT+12:00) Fiji Standard Time (Pacific/Fiji)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Funafuti"
+        default = false
+        label = "(GMT+12:00) Tuvalu Time (Pacific/Funafuti)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Kwajalein"
+        default = false
+        label = "(GMT+12:00) Marshall Islands Time (Pacific/Kwajalein)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Majuro"
+        default = false
+        label = "(GMT+12:00) Marshall Islands Time (Pacific/Majuro)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Nauru"
+        default = false
+        label = "(GMT+12:00) Nauru Time (Pacific/Nauru)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Norfolk"
+        default = false
+        label = "(GMT+12:00) Norfolk Island Daylight Time (Pacific/Norfolk)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Tarawa"
+        default = false
+        label = "(GMT+12:00) Gilbert Islands Time (Pacific/Tarawa)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Wake"
+        default = false
+        label = "(GMT+12:00) Wake Island Time (Pacific/Wake)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Wallis"
+        default = false
+        label = "(GMT+12:00) Wallis & Futuna Time (Pacific/Wallis)"
+        isActive = true
+      },
+      {
+        fullName = "Antarctica/Casey"
+        default = false
+        label = "(GMT+11:00) Casey Time (Antarctica/Casey)"
+        isActive = true
+      },
+      {
+        fullName = "Antarctica/Macquarie"
+        default = false
+        label = "(GMT+11:00) Australian Eastern Daylight Time (Antarctica/Macquarie)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Magadan"
+        default = false
+        label = "(GMT+11:00) Magadan Standard Time (Asia/Magadan)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Sakhalin"
+        default = false
+        label = "(GMT+11:00) Sakhalin Standard Time (Asia/Sakhalin)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Srednekolymsk"
+        default = false
+        label = "(GMT+11:00) Magadan Standard Time (Asia/Srednekolymsk)"
+        isActive = true
+      },
+      {
+        fullName = "Australia/Currie"
+        default = false
+        label = "(GMT+11:00) Australian Eastern Daylight Time (Australia/Currie)"
+        isActive = true
+      },
+      {
+        fullName = "Australia/Hobart"
+        default = false
+        label = "(GMT+11:00) Australian Eastern Daylight Time (Australia/Hobart)"
+        isActive = true
+      },
+      {
+        fullName = "Australia/Lord_Howe"
+        default = false
+        label = "(GMT+11:00) Lord Howe Daylight Time (Australia/Lord_Howe)"
+        isActive = true
+      },
+      {
+        fullName = "Australia/Melbourne"
+        default = false
+        label = "(GMT+11:00) Australian Eastern Daylight Time (Australia/Melbourne)"
+        isActive = true
+      },
+      {
+        fullName = "Australia/Sydney"
+        default = false
+        label = "(GMT+11:00) Australian Eastern Daylight Time (Australia/Sydney)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Bougainville"
+        default = false
+        label = "(GMT+11:00) Bougainville Standard Time (Pacific/Bougainville)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Efate"
+        default = false
+        label = "(GMT+11:00) Vanuatu Standard Time (Pacific/Efate)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Guadalcanal"
+        default = false
+        label = "(GMT+11:00) Solomon Islands Time (Pacific/Guadalcanal)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Kosrae"
+        default = false
+        label = "(GMT+11:00) Kosrae Time (Pacific/Kosrae)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Noumea"
+        default = false
+        label = "(GMT+11:00) New Caledonia Standard Time (Pacific/Noumea)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Ponape"
+        default = false
+        label = "(GMT+11:00) Ponape Time (Pacific/Ponape)"
+        isActive = true
+      },
+      {
+        fullName = "Australia/Adelaide"
+        default = false
+        label = "(GMT+10:30) Australian Central Daylight Time (Australia/Adelaide)"
+        isActive = true
+      },
+      {
+        fullName = "Australia/Broken_Hill"
+        default = false
+        label = "(GMT+10:30) Australian Central Daylight Time (Australia/Broken_Hill)"
+        isActive = true
+      },
+      {
+        fullName = "Antarctica/DumontDUrville"
+        default = false
+        label = "(GMT+10:00) Dumont-d’Urville Time (Antarctica/DumontDUrville)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Ust-Nera"
+        default = false
+        label = "(GMT+10:00) Vladivostok Standard Time (Asia/Ust-Nera)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Vladivostok"
+        default = false
+        label = "(GMT+10:00) Vladivostok Standard Time (Asia/Vladivostok)"
+        isActive = true
+      },
+      {
+        fullName = "Australia/Brisbane"
+        default = false
+        label = "(GMT+10:00) Australian Eastern Standard Time (Australia/Brisbane)"
+        isActive = true
+      },
+      {
+        fullName = "Australia/Lindeman"
+        default = false
+        label = "(GMT+10:00) Australian Eastern Standard Time (Australia/Lindeman)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Guam"
+        default = false
+        label = "(GMT+10:00) Chamorro Standard Time (Pacific/Guam)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Port_Moresby"
+        default = false
+        label = "(GMT+10:00) Papua New Guinea Time (Pacific/Port_Moresby)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Saipan"
+        default = false
+        label = "(GMT+10:00) Chamorro Standard Time (Pacific/Saipan)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Truk"
+        default = false
+        label = "(GMT+10:00) Chuuk Time (Pacific/Truk)"
+        isActive = true
+      },
+      {
+        fullName = "Australia/Darwin"
+        default = false
+        label = "(GMT+09:30) Australian Central Standard Time (Australia/Darwin)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Chita"
+        default = false
+        label = "(GMT+09:00) Yakutsk Standard Time (Asia/Chita)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Dili"
+        default = false
+        label = "(GMT+09:00) East Timor Time (Asia/Dili)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Jayapura"
+        default = false
+        label = "(GMT+09:00) Eastern Indonesia Time (Asia/Jayapura)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Khandyga"
+        default = false
+        label = "(GMT+09:00) Yakutsk Standard Time (Asia/Khandyga)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Seoul"
+        default = false
+        label = "(GMT+09:00) Korean Standard Time (Asia/Seoul)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Tokyo"
+        default = false
+        label = "(GMT+09:00) Japan Standard Time (Asia/Tokyo)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Yakutsk"
+        default = false
+        label = "(GMT+09:00) Yakutsk Standard Time (Asia/Yakutsk)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Palau"
+        default = false
+        label = "(GMT+09:00) Palau Time (Pacific/Palau)"
+        isActive = true
+      },
+      {
+        fullName = "Australia/Eucla"
+        default = false
+        label = "(GMT+08:45) Australian Central Western Standard Time (Australia/Eucla)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Brunei"
+        default = false
+        label = "(GMT+08:00) Brunei Darussalam Time (Asia/Brunei)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Choibalsan"
+        default = false
+        label = "(GMT+08:00) Ulaanbaatar Standard Time (Asia/Choibalsan)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Hong_Kong"
+        default = false
+        label = "(GMT+08:00) Hong Kong Standard Time (Asia/Hong_Kong)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Irkutsk"
+        default = false
+        label = "(GMT+08:00) Irkutsk Standard Time (Asia/Irkutsk)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Kuala_Lumpur"
+        default = false
+        label = "(GMT+08:00) Malaysia Time (Asia/Kuala_Lumpur)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Kuching"
+        default = false
+        label = "(GMT+08:00) Malaysia Time (Asia/Kuching)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Macau"
+        default = false
+        label = "(GMT+08:00) China Standard Time (Asia/Macau)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Makassar"
+        default = false
+        label = "(GMT+08:00) Central Indonesia Time (Asia/Makassar)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Manila"
+        default = false
+        label = "(GMT+08:00) Philippine Standard Time (Asia/Manila)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Shanghai"
+        default = false
+        label = "(GMT+08:00) China Standard Time (Asia/Shanghai)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Singapore"
+        default = false
+        label = "(GMT+08:00) Singapore Standard Time (Asia/Singapore)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Taipei"
+        default = false
+        label = "(GMT+08:00) Taipei Standard Time (Asia/Taipei)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Ulaanbaatar"
+        default = false
+        label = "(GMT+08:00) Ulaanbaatar Standard Time (Asia/Ulaanbaatar)"
+        isActive = true
+      },
+      {
+        fullName = "Australia/Perth"
+        default = false
+        label = "(GMT+08:00) Australian Western Standard Time (Australia/Perth)"
+        isActive = true
+      },
+      {
+        fullName = "Antarctica/Davis"
+        default = false
+        label = "(GMT+07:00) Davis Time (Antarctica/Davis)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Bangkok"
+        default = false
+        label = "(GMT+07:00) Indochina Time (Asia/Bangkok)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Barnaul"
+        default = false
+        label = "(GMT+07:00) Moscow Standard Time + 4 (Asia/Barnaul)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Ho_Chi_Minh"
+        default = false
+        label = "(GMT+07:00) Indochina Time (Asia/Ho_Chi_Minh)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Hovd"
+        default = false
+        label = "(GMT+07:00) Hovd Standard Time (Asia/Hovd)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Jakarta"
+        default = false
+        label = "(GMT+07:00) Western Indonesia Time (Asia/Jakarta)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Krasnoyarsk"
+        default = false
+        label = "(GMT+07:00) Krasnoyarsk Standard Time (Asia/Krasnoyarsk)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Novokuznetsk"
+        default = false
+        label = "(GMT+07:00) Krasnoyarsk Standard Time (Asia/Novokuznetsk)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Novosibirsk"
+        default = false
+        label = "(GMT+07:00) Novosibirsk Standard Time (Asia/Novosibirsk)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Phnom_Penh"
+        default = false
+        label = "(GMT+07:00) Indochina Time (Asia/Phnom_Penh)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Pontianak"
+        default = false
+        label = "(GMT+07:00) Western Indonesia Time (Asia/Pontianak)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Tomsk"
+        default = false
+        label = "(GMT+07:00) Moscow Standard Time + 4 (Asia/Tomsk)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Vientiane"
+        default = false
+        label = "(GMT+07:00) Indochina Time (Asia/Vientiane)"
+        isActive = true
+      },
+      {
+        fullName = "Indian/Christmas"
+        default = false
+        label = "(GMT+07:00) Christmas Island Time (Indian/Christmas)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Rangoon"
+        default = false
+        label = "(GMT+06:30) Myanmar Time (Asia/Rangoon)"
+        isActive = true
+      },
+      {
+        fullName = "Indian/Cocos"
+        default = false
+        label = "(GMT+06:30) Cocos Islands Time (Indian/Cocos)"
+        isActive = true
+      },
+      {
+        fullName = "Antarctica/Vostok"
+        default = false
+        label = "(GMT+06:00) Vostok Time (Antarctica/Vostok)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Almaty"
+        default = false
+        label = "(GMT+06:00) East Kazakhstan Time (Asia/Almaty)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Bishkek"
+        default = false
+        label = "(GMT+06:00) Kyrgyzstan Time (Asia/Bishkek)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Dhaka"
+        default = false
+        label = "(GMT+06:00) Bangladesh Standard Time (Asia/Dhaka)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Omsk"
+        default = false
+        label = "(GMT+06:00) Omsk Standard Time (Asia/Omsk)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Qostanay"
+        default = false
+        label = "(GMT+06:00) East Kazakhstan Time (Asia/Qostanay)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Thimphu"
+        default = false
+        label = "(GMT+06:00) Bhutan Time (Asia/Thimphu)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Urumqi"
+        default = false
+        label = "(GMT+06:00) China Standard Time (Asia/Urumqi)"
+        isActive = true
+      },
+      {
+        fullName = "Indian/Chagos"
+        default = false
+        label = "(GMT+06:00) Indian Ocean Time (Indian/Chagos)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Kathmandu"
+        default = false
+        label = "(GMT+05:45) Nepal Time (Asia/Kathmandu)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Colombo"
+        default = false
+        label = "(GMT+05:30) India Standard Time (Asia/Colombo)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Kolkata"
+        default = false
+        label = "(GMT+05:30) India Standard Time (Asia/Kolkata)"
+        isActive = true
+      },
+      {
+        fullName = "Antarctica/Mawson"
+        default = false
+        label = "(GMT+05:00) Mawson Time (Antarctica/Mawson)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Aqtau"
+        default = false
+        label = "(GMT+05:00) West Kazakhstan Time (Asia/Aqtau)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Aqtobe"
+        default = false
+        label = "(GMT+05:00) West Kazakhstan Time (Asia/Aqtobe)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Ashgabat"
+        default = false
+        label = "(GMT+05:00) Turkmenistan Standard Time (Asia/Ashgabat)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Atyrau"
+        default = false
+        label = "(GMT+05:00) West Kazakhstan Time (Asia/Atyrau)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Dushanbe"
+        default = false
+        label = "(GMT+05:00) Tajikistan Time (Asia/Dushanbe)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Karachi"
+        default = false
+        label = "(GMT+05:00) Pakistan Standard Time (Asia/Karachi)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Oral"
+        default = false
+        label = "(GMT+05:00) West Kazakhstan Time (Asia/Oral)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Qyzylorda"
+        default = false
+        label = "(GMT+05:00) West Kazakhstan Time (Asia/Qyzylorda)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Samarkand"
+        default = false
+        label = "(GMT+05:00) Uzbekistan Standard Time (Asia/Samarkand)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Tashkent"
+        default = false
+        label = "(GMT+05:00) Uzbekistan Standard Time (Asia/Tashkent)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Yekaterinburg"
+        default = false
+        label = "(GMT+05:00) Yekaterinburg Standard Time (Asia/Yekaterinburg)"
+        isActive = true
+      },
+      {
+        fullName = "Indian/Kerguelen"
+        default = false
+        label = "(GMT+05:00) French Southern & Antarctic Time (Indian/Kerguelen)"
+        isActive = true
+      },
+      {
+        fullName = "Indian/Maldives"
+        default = false
+        label = "(GMT+05:00) Maldives Time (Indian/Maldives)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Kabul"
+        default = false
+        label = "(GMT+04:30) Afghanistan Time (Asia/Kabul)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Baku"
+        default = false
+        label = "(GMT+04:00) Azerbaijan Standard Time (Asia/Baku)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Dubai"
+        default = false
+        label = "(GMT+04:00) Gulf Standard Time (Asia/Dubai)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Muscat"
+        default = false
+        label = "(GMT+04:00) Gulf Standard Time (Asia/Muscat)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Tbilisi"
+        default = false
+        label = "(GMT+04:00) Georgia Standard Time (Asia/Tbilisi)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Yerevan"
+        default = false
+        label = "(GMT+04:00) Armenia Standard Time (Asia/Yerevan)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Astrakhan"
+        default = false
+        label = "(GMT+04:00) Samara Standard Time (Europe/Astrakhan)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Samara"
+        default = false
+        label = "(GMT+04:00) Samara Standard Time (Europe/Samara)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Saratov"
+        default = false
+        label = "(GMT+04:00) Moscow Standard Time + 1 (Europe/Saratov)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Ulyanovsk"
+        default = false
+        label = "(GMT+04:00) Moscow Standard Time + 1 (Europe/Ulyanovsk)"
+        isActive = true
+      },
+      {
+        fullName = "Indian/Mahe"
+        default = false
+        label = "(GMT+04:00) Seychelles Time (Indian/Mahe)"
+        isActive = true
+      },
+      {
+        fullName = "Indian/Mauritius"
+        default = false
+        label = "(GMT+04:00) Mauritius Standard Time (Indian/Mauritius)"
+        isActive = true
+      },
+      {
+        fullName = "Indian/Reunion"
+        default = false
+        label = "(GMT+04:00) Réunion Time (Indian/Reunion)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Addis_Ababa"
+        default = false
+        label = "(GMT+03:00) East Africa Time (Africa/Addis_Ababa)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Asmera"
+        default = false
+        label = "(GMT+03:00) East Africa Time (Africa/Asmera)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Dar_es_Salaam"
+        default = false
+        label = "(GMT+03:00) East Africa Time (Africa/Dar_es_Salaam)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Djibouti"
+        default = false
+        label = "(GMT+03:00) East Africa Time (Africa/Djibouti)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Kampala"
+        default = false
+        label = "(GMT+03:00) East Africa Time (Africa/Kampala)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Mogadishu"
+        default = false
+        label = "(GMT+03:00) East Africa Time (Africa/Mogadishu)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Nairobi"
+        default = false
+        label = "(GMT+03:00) East Africa Time (Africa/Nairobi)"
+        isActive = true
+      },
+      {
+        fullName = "Antarctica/Syowa"
+        default = false
+        label = "(GMT+03:00) Syowa Time (Antarctica/Syowa)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Aden"
+        default = false
+        label = "(GMT+03:00) Arabian Standard Time (Asia/Aden)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Amman"
+        default = false
+        label = "(GMT+03:00) Eastern European Standard Time (Asia/Amman)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Baghdad"
+        default = false
+        label = "(GMT+03:00) Arabian Standard Time (Asia/Baghdad)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Bahrain"
+        default = false
+        label = "(GMT+03:00) Arabian Standard Time (Asia/Bahrain)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Kuwait"
+        default = false
+        label = "(GMT+03:00) Arabian Standard Time (Asia/Kuwait)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Qatar"
+        default = false
+        label = "(GMT+03:00) Arabian Standard Time (Asia/Qatar)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Riyadh"
+        default = false
+        label = "(GMT+03:00) Arabian Standard Time (Asia/Riyadh)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Istanbul"
+        default = false
+        label = "(GMT+03:00) Eastern European Standard Time (Europe/Istanbul)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Kirov"
+        default = false
+        label = "(GMT+03:00) Moscow Standard Time (Europe/Kirov)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Minsk"
+        default = false
+        label = "(GMT+03:00) Moscow Standard Time (Europe/Minsk)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Moscow"
+        default = false
+        label = "(GMT+03:00) Moscow Standard Time (Europe/Moscow)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Volgograd"
+        default = false
+        label = "(GMT+03:00) Volgograd Standard Time (Europe/Volgograd)"
+        isActive = true
+      },
+      {
+        fullName = "Indian/Antananarivo"
+        default = false
+        label = "(GMT+03:00) East Africa Time (Indian/Antananarivo)"
+        isActive = true
+      },
+      {
+        fullName = "Indian/Comoro"
+        default = false
+        label = "(GMT+03:00) East Africa Time (Indian/Comoro)"
+        isActive = true
+      },
+      {
+        fullName = "Indian/Mayotte"
+        default = false
+        label = "(GMT+03:00) East Africa Time (Indian/Mayotte)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Blantyre"
+        default = false
+        label = "(GMT+02:00) Central Africa Time (Africa/Blantyre)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Bujumbura"
+        default = false
+        label = "(GMT+02:00) Central Africa Time (Africa/Bujumbura)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Cairo"
+        default = false
+        label = "(GMT+02:00) Eastern European Standard Time (Africa/Cairo)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Gaborone"
+        default = false
+        label = "(GMT+02:00) Central Africa Time (Africa/Gaborone)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Harare"
+        default = false
+        label = "(GMT+02:00) Central Africa Time (Africa/Harare)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Johannesburg"
+        default = false
+        label = "(GMT+02:00) South Africa Standard Time (Africa/Johannesburg)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Juba"
+        default = false
+        label = "(GMT+02:00) Central Africa Time (Africa/Juba)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Kigali"
+        default = false
+        label = "(GMT+02:00) Central Africa Time (Africa/Kigali)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Lubumbashi"
+        default = false
+        label = "(GMT+02:00) Central Africa Time (Africa/Lubumbashi)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Lusaka"
+        default = false
+        label = "(GMT+02:00) Central Africa Time (Africa/Lusaka)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Maputo"
+        default = false
+        label = "(GMT+02:00) Central Africa Time (Africa/Maputo)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Maseru"
+        default = false
+        label = "(GMT+02:00) South Africa Standard Time (Africa/Maseru)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Mbabane"
+        default = false
+        label = "(GMT+02:00) South Africa Standard Time (Africa/Mbabane)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Tripoli"
+        default = false
+        label = "(GMT+02:00) Eastern European Standard Time (Africa/Tripoli)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Windhoek"
+        default = false
+        label = "(GMT+02:00) Central Africa Time (Africa/Windhoek)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Beirut"
+        default = false
+        label = "(GMT+02:00) Eastern European Standard Time (Asia/Beirut)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Famagusta"
+        default = false
+        label = "(GMT+02:00) Eastern European Standard Time (Asia/Famagusta)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Gaza"
+        default = false
+        label = "(GMT+02:00) Eastern European Standard Time (Asia/Gaza)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Hebron"
+        default = false
+        label = "(GMT+02:00) Eastern European Standard Time (Asia/Hebron)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Jerusalem"
+        default = false
+        label = "(GMT+02:00) Israel Standard Time (Asia/Jerusalem)"
+        isActive = true
+      },
+      {
+        fullName = "Asia/Nicosia"
+        default = false
+        label = "(GMT+02:00) Eastern European Standard Time (Asia/Nicosia)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Athens"
+        default = false
+        label = "(GMT+02:00) Eastern European Standard Time (Europe/Athens)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Bucharest"
+        default = false
+        label = "(GMT+02:00) Eastern European Standard Time (Europe/Bucharest)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Chisinau"
+        default = false
+        label = "(GMT+02:00) Eastern European Standard Time (Europe/Chisinau)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Helsinki"
+        default = false
+        label = "(GMT+02:00) Eastern European Standard Time (Europe/Helsinki)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Kaliningrad"
+        default = false
+        label = "(GMT+02:00) Eastern European Standard Time (Europe/Kaliningrad)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Kiev"
+        default = false
+        label = "(GMT+02:00) Eastern European Standard Time (Europe/Kyiv)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Mariehamn"
+        default = false
+        label = "(GMT+02:00) Eastern European Standard Time (Europe/Mariehamn)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Riga"
+        default = false
+        label = "(GMT+02:00) Eastern European Standard Time (Europe/Riga)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Sofia"
+        default = false
+        label = "(GMT+02:00) Eastern European Standard Time (Europe/Sofia)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Tallinn"
+        default = false
+        label = "(GMT+02:00) Eastern European Standard Time (Europe/Tallinn)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Uzhgorod"
+        default = false
+        label = "(GMT+02:00) Eastern European Standard Time (Europe/Uzhgorod)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Vilnius"
+        default = false
+        label = "(GMT+02:00) Eastern European Standard Time (Europe/Vilnius)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Zaporozhye"
+        default = false
+        label = "(GMT+02:00) Eastern European Standard Time (Europe/Zaporozhye)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Algiers"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Africa/Algiers)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Bangui"
+        default = false
+        label = "(GMT+01:00) West Africa Standard Time (Africa/Bangui)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Brazzaville"
+        default = false
+        label = "(GMT+01:00) West Africa Standard Time (Africa/Brazzaville)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Casablanca"
+        default = false
+        label = "(GMT+01:00) Western European Summer Time (Africa/Casablanca)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Ceuta"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Africa/Ceuta)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Douala"
+        default = false
+        label = "(GMT+01:00) West Africa Standard Time (Africa/Douala)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/El_Aaiun"
+        default = false
+        label = "(GMT+01:00) Western European Summer Time (Africa/El_Aaiun)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Kinshasa"
+        default = false
+        label = "(GMT+01:00) West Africa Standard Time (Africa/Kinshasa)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Lagos"
+        default = false
+        label = "(GMT+01:00) West Africa Standard Time (Africa/Lagos)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Libreville"
+        default = false
+        label = "(GMT+01:00) West Africa Standard Time (Africa/Libreville)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Luanda"
+        default = false
+        label = "(GMT+01:00) West Africa Standard Time (Africa/Luanda)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Malabo"
+        default = false
+        label = "(GMT+01:00) West Africa Standard Time (Africa/Malabo)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Ndjamena"
+        default = false
+        label = "(GMT+01:00) West Africa Standard Time (Africa/Ndjamena)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Niamey"
+        default = false
+        label = "(GMT+01:00) West Africa Standard Time (Africa/Niamey)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Porto-Novo"
+        default = false
+        label = "(GMT+01:00) West Africa Standard Time (Africa/Porto-Novo)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Tunis"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Africa/Tunis)"
+        isActive = true
+      },
+      {
+        fullName = "Arctic/Longyearbyen"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Arctic/Longyearbyen)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Amsterdam"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Amsterdam)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Andorra"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Andorra)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Belgrade"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Belgrade)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Berlin"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Berlin)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Bratislava"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Bratislava)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Brussels"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Brussels)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Budapest"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Budapest)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Busingen"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Busingen)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Copenhagen"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Copenhagen)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Gibraltar"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Gibraltar)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Ljubljana"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Ljubljana)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Luxembourg"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Luxembourg)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Madrid"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Madrid)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Malta"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Malta)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Monaco"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Monaco)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Oslo"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Oslo)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Paris"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Paris)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Podgorica"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Podgorica)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Prague"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Prague)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Rome"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Rome)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/San_Marino"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/San_Marino)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Sarajevo"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Sarajevo)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Skopje"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Skopje)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Stockholm"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Stockholm)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Tirane"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Tirane)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Vaduz"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Vaduz)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Vatican"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Vatican)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Vienna"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Vienna)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Warsaw"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Warsaw)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Zagreb"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Zagreb)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Zurich"
+        default = false
+        label = "(GMT+01:00) Central European Standard Time (Europe/Zurich)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Abidjan"
+        default = false
+        label = "(GMT+00:00) Greenwich Mean Time (Africa/Abidjan)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Accra"
+        default = false
+        label = "(GMT+00:00) Greenwich Mean Time (Africa/Accra)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Bamako"
+        default = false
+        label = "(GMT+00:00) Greenwich Mean Time (Africa/Bamako)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Banjul"
+        default = false
+        label = "(GMT+00:00) Greenwich Mean Time (Africa/Banjul)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Bissau"
+        default = false
+        label = "(GMT+00:00) Greenwich Mean Time (Africa/Bissau)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Conakry"
+        default = false
+        label = "(GMT+00:00) Greenwich Mean Time (Africa/Conakry)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Dakar"
+        default = false
+        label = "(GMT+00:00) Greenwich Mean Time (Africa/Dakar)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Freetown"
+        default = false
+        label = "(GMT+00:00) Greenwich Mean Time (Africa/Freetown)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Lome"
+        default = false
+        label = "(GMT+00:00) Greenwich Mean Time (Africa/Lome)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Monrovia"
+        default = false
+        label = "(GMT+00:00) Greenwich Mean Time (Africa/Monrovia)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Nouakchott"
+        default = false
+        label = "(GMT+00:00) Greenwich Mean Time (Africa/Nouakchott)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Ouagadougou"
+        default = false
+        label = "(GMT+00:00) Greenwich Mean Time (Africa/Ouagadougou)"
+        isActive = true
+      },
+      {
+        fullName = "Africa/Sao_Tome"
+        default = false
+        label = "(GMT+00:00) Greenwich Mean Time (Africa/Sao_Tome)"
+        isActive = true
+      },
+      {
+        fullName = "America/Danmarkshavn"
+        default = false
+        label = "(GMT+00:00) Greenwich Mean Time (America/Danmarkshavn)"
+        isActive = true
+      },
+      {
+        fullName = "Antarctica/Troll"
+        default = false
+        label = "(GMT+00:00) Greenwich Mean Time (Antarctica/Troll)"
+        isActive = true
+      },
+      {
+        fullName = "Atlantic/Canary"
+        default = false
+        label = "(GMT+00:00) Western European Standard Time (Atlantic/Canary)"
+        isActive = true
+      },
+      {
+        fullName = "Atlantic/Faeroe"
+        default = false
+        label = "(GMT+00:00) Western European Standard Time (Atlantic/Faeroe)"
+        isActive = true
+      },
+      {
+        fullName = "Atlantic/Madeira"
+        default = false
+        label = "(GMT+00:00) Western European Standard Time (Atlantic/Madeira)"
+        isActive = true
+      },
+      {
+        fullName = "Atlantic/Reykjavik"
+        default = false
+        label = "(GMT+00:00) Greenwich Mean Time (Atlantic/Reykjavik)"
+        isActive = true
+      },
+      {
+        fullName = "Atlantic/St_Helena"
+        default = false
+        label = "(GMT+00:00) Greenwich Mean Time (Atlantic/St_Helena)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Dublin"
+        default = false
+        label = "(GMT+00:00) Greenwich Mean Time (Europe/Dublin)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Guernsey"
+        default = false
+        label = "(GMT+00:00) Greenwich Mean Time (Europe/Guernsey)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Isle_of_Man"
+        default = false
+        label = "(GMT+00:00) Greenwich Mean Time (Europe/Isle_of_Man)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Jersey"
+        default = false
+        label = "(GMT+00:00) Greenwich Mean Time (Europe/Jersey)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/Lisbon"
+        default = false
+        label = "(GMT+00:00) Western European Standard Time (Europe/Lisbon)"
+        isActive = true
+      },
+      {
+        fullName = "Europe/London"
+        default = false
+        label = "(GMT+00:00) Greenwich Mean Time (Europe/London)"
+        isActive = true
+      },
+      {
+        fullName = "GMT"
+        default = false
+        label = "(GMT+00:00) Greenwich Mean Time (GMT)"
+        isActive = true
+      },
+      {
+        fullName = "America/Scoresbysund"
+        default = false
+        label = "(GMT-01:00) East Greenland Standard Time (America/Scoresbysund)"
+        isActive = true
+      },
+      {
+        fullName = "Atlantic/Azores"
+        default = false
+        label = "(GMT-01:00) Azores Standard Time (Atlantic/Azores)"
+        isActive = true
+      },
+      {
+        fullName = "Atlantic/Cape_Verde"
+        default = false
+        label = "(GMT-01:00) Cape Verde Standard Time (Atlantic/Cape_Verde)"
+        isActive = true
+      },
+      {
+        fullName = "America/Godthab"
+        default = false
+        label = "(GMT-02:00) West Greenland Standard Time (America/Godthab)"
+        isActive = true
+      },
+      {
+        fullName = "America/Noronha"
+        default = false
+        label = "(GMT-02:00) Fernando de Noronha Standard Time (America/Noronha)"
+        isActive = true
+      },
+      {
+        fullName = "Atlantic/South_Georgia"
+        default = false
+        label = "(GMT-02:00) South Georgia Time (Atlantic/South_Georgia)"
+        isActive = true
+      },
+      {
+        fullName = "America/Araguaina"
+        default = false
+        label = "(GMT-03:00) Brasilia Standard Time (America/Araguaina)"
+        isActive = true
+      },
+      {
+        fullName = "America/Argentina/Buenos_Aires"
+        default = false
+        label = "(GMT-03:00) Argentina Standard Time (America/Argentina/Buenos_Aires)"
+        isActive = true
+      },
+      {
+        fullName = "America/Argentina/La_Rioja"
+        default = false
+        label = "(GMT-03:00) Argentina Standard Time (America/Argentina/La_Rioja)"
+        isActive = true
+      },
+      {
+        fullName = "America/Argentina/Rio_Gallegos"
+        default = false
+        label = "(GMT-03:00) Argentina Standard Time (America/Argentina/Rio_Gallegos)"
+        isActive = true
+      },
+      {
+        fullName = "America/Argentina/Salta"
+        default = false
+        label = "(GMT-03:00) Argentina Standard Time (America/Argentina/Salta)"
+        isActive = true
+      },
+      {
+        fullName = "America/Argentina/San_Juan"
+        default = false
+        label = "(GMT-03:00) Argentina Standard Time (America/Argentina/San_Juan)"
+        isActive = true
+      },
+      {
+        fullName = "America/Argentina/San_Luis"
+        default = false
+        label = "(GMT-03:00) Argentina Standard Time (America/Argentina/San_Luis)"
+        isActive = true
+      },
+      {
+        fullName = "America/Argentina/Tucuman"
+        default = false
+        label = "(GMT-03:00) Argentina Standard Time (America/Argentina/Tucuman)"
+        isActive = true
+      },
+      {
+        fullName = "America/Argentina/Ushuaia"
+        default = false
+        label = "(GMT-03:00) Argentina Standard Time (America/Argentina/Ushuaia)"
+        isActive = true
+      },
+      {
+        fullName = "America/Asuncion"
+        default = false
+        label = "(GMT-03:00) Paraguay Summer Time (America/Asuncion)"
+        isActive = true
+      },
+      {
+        fullName = "America/Bahia"
+        default = false
+        label = "(GMT-03:00) Brasilia Standard Time (America/Bahia)"
+        isActive = true
+      },
+      {
+        fullName = "America/Belem"
+        default = false
+        label = "(GMT-03:00) Brasilia Standard Time (America/Belem)"
+        isActive = true
+      },
+      {
+        fullName = "America/Catamarca"
+        default = false
+        label = "(GMT-03:00) Argentina Standard Time (America/Catamarca)"
+        isActive = true
+      },
+      {
+        fullName = "America/Cayenne"
+        default = false
+        label = "(GMT-03:00) French Guiana Time (America/Cayenne)"
+        isActive = true
+      },
+      {
+        fullName = "America/Cordoba"
+        default = false
+        label = "(GMT-03:00) Argentina Standard Time (America/Cordoba)"
+        isActive = true
+      },
+      {
+        fullName = "America/Fortaleza"
+        default = false
+        label = "(GMT-03:00) Brasilia Standard Time (America/Fortaleza)"
+        isActive = true
+      },
+      {
+        fullName = "America/Jujuy"
+        default = false
+        label = "(GMT-03:00) Argentina Standard Time (America/Jujuy)"
+        isActive = true
+      },
+      {
+        fullName = "America/Maceio"
+        default = false
+        label = "(GMT-03:00) Brasilia Standard Time (America/Maceio)"
+        isActive = true
+      },
+      {
+        fullName = "America/Mendoza"
+        default = false
+        label = "(GMT-03:00) Argentina Standard Time (America/Mendoza)"
+        isActive = true
+      },
+      {
+        fullName = "America/Miquelon"
+        default = false
+        label = "(GMT-03:00) St Pierre & Miquelon Standard Time (America/Miquelon)"
+        isActive = true
+      },
+      {
+        fullName = "America/Montevideo"
+        default = false
+        label = "(GMT-03:00) Uruguay Standard Time (America/Montevideo)"
+        isActive = true
+      },
+      {
+        fullName = "America/Paramaribo"
+        default = false
+        label = "(GMT-03:00) Suriname Time (America/Paramaribo)"
+        isActive = true
+      },
+      {
+        fullName = "America/Punta_Arenas"
+        default = false
+        label = "(GMT-03:00) Chile Standard Time (America/Punta_Arenas)"
+        isActive = true
+      },
+      {
+        fullName = "America/Recife"
+        default = false
+        label = "(GMT-03:00) Brasilia Standard Time (America/Recife)"
+        isActive = true
+      },
+      {
+        fullName = "America/Santarem"
+        default = false
+        label = "(GMT-03:00) Brasilia Standard Time (America/Santarem)"
+        isActive = true
+      },
+      {
+        fullName = "America/Santiago"
+        default = false
+        label = "(GMT-03:00) Chile Summer Time (America/Santiago)"
+        isActive = true
+      },
+      {
+        fullName = "America/Sao_Paulo"
+        default = false
+        label = "(GMT-03:00) Brasilia Standard Time (America/Sao_Paulo)"
+        isActive = true
+      },
+      {
+        fullName = "Antarctica/Palmer"
+        default = false
+        label = "(GMT-03:00) Chile Standard Time (Antarctica/Palmer)"
+        isActive = true
+      },
+      {
+        fullName = "Antarctica/Rothera"
+        default = false
+        label = "(GMT-03:00) Rothera Time (Antarctica/Rothera)"
+        isActive = true
+      },
+      {
+        fullName = "Atlantic/Stanley"
+        default = false
+        label = "(GMT-03:00) Falkland Islands Standard Time (Atlantic/Stanley)"
+        isActive = true
+      },
+      {
+        fullName = "America/St_Johns"
+        default = false
+        label = "(GMT-03:30) Newfoundland Standard Time (America/St_Johns)"
+        isActive = true
+      },
+      {
+        fullName = "America/Anguilla"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/Anguilla)"
+        isActive = true
+      },
+      {
+        fullName = "America/Antigua"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/Antigua)"
+        isActive = true
+      },
+      {
+        fullName = "America/Aruba"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/Aruba)"
+        isActive = true
+      },
+      {
+        fullName = "America/Barbados"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/Barbados)"
+        isActive = true
+      },
+      {
+        fullName = "America/Blanc-Sablon"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/Blanc-Sablon)"
+        isActive = true
+      },
+      {
+        fullName = "America/Boa_Vista"
+        default = false
+        label = "(GMT-04:00) Amazon Standard Time (America/Boa_Vista)"
+        isActive = true
+      },
+      {
+        fullName = "America/Campo_Grande"
+        default = false
+        label = "(GMT-04:00) Amazon Standard Time (America/Campo_Grande)"
+        isActive = true
+      },
+      {
+        fullName = "America/Caracas"
+        default = false
+        label = "(GMT-04:00) Venezuela Time (America/Caracas)"
+        isActive = true
+      },
+      {
+        fullName = "America/Cuiaba"
+        default = false
+        label = "(GMT-04:00) Amazon Standard Time (America/Cuiaba)"
+        isActive = true
+      },
+      {
+        fullName = "America/Curacao"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/Curacao)"
+        isActive = true
+      },
+      {
+        fullName = "America/Dominica"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/Dominica)"
+        isActive = true
+      },
+      {
+        fullName = "America/Glace_Bay"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/Glace_Bay)"
+        isActive = true
+      },
+      {
+        fullName = "America/Goose_Bay"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/Goose_Bay)"
+        isActive = true
+      },
+      {
+        fullName = "America/Grenada"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/Grenada)"
+        isActive = true
+      },
+      {
+        fullName = "America/Guadeloupe"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/Guadeloupe)"
+        isActive = true
+      },
+      {
+        fullName = "America/Guyana"
+        default = false
+        label = "(GMT-04:00) Guyana Time (America/Guyana)"
+        isActive = true
+      },
+      {
+        fullName = "America/Halifax"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/Halifax)"
+        isActive = true
+      },
+      {
+        fullName = "America/Kralendijk"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/Kralendijk)"
+        isActive = true
+      },
+      {
+        fullName = "America/La_Paz"
+        default = false
+        label = "(GMT-04:00) Bolivia Time (America/La_Paz)"
+        isActive = true
+      },
+      {
+        fullName = "America/Lower_Princes"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/Lower_Princes)"
+        isActive = true
+      },
+      {
+        fullName = "America/Manaus"
+        default = false
+        label = "(GMT-04:00) Amazon Standard Time (America/Manaus)"
+        isActive = true
+      },
+      {
+        fullName = "America/Marigot"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/Marigot)"
+        isActive = true
+      },
+      {
+        fullName = "America/Martinique"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/Martinique)"
+        isActive = true
+      },
+      {
+        fullName = "America/Moncton"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/Moncton)"
+        isActive = true
+      },
+      {
+        fullName = "America/Montserrat"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/Montserrat)"
+        isActive = true
+      },
+      {
+        fullName = "America/Port_of_Spain"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/Port_of_Spain)"
+        isActive = true
+      },
+      {
+        fullName = "America/Porto_Velho"
+        default = false
+        label = "(GMT-04:00) Amazon Standard Time (America/Porto_Velho)"
+        isActive = true
+      },
+      {
+        fullName = "America/Puerto_Rico"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/Puerto_Rico)"
+        isActive = true
+      },
+      {
+        fullName = "America/Santo_Domingo"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/Santo_Domingo)"
+        isActive = true
+      },
+      {
+        fullName = "America/St_Barthelemy"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/St_Barthelemy)"
+        isActive = true
+      },
+      {
+        fullName = "America/St_Kitts"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/St_Kitts)"
+        isActive = true
+      },
+      {
+        fullName = "America/St_Lucia"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/St_Lucia)"
+        isActive = true
+      },
+      {
+        fullName = "America/St_Thomas"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/St_Thomas)"
+        isActive = true
+      },
+      {
+        fullName = "America/St_Vincent"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/St_Vincent)"
+        isActive = true
+      },
+      {
+        fullName = "America/Thule"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/Thule)"
+        isActive = true
+      },
+      {
+        fullName = "America/Tortola"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (America/Tortola)"
+        isActive = true
+      },
+      {
+        fullName = "Atlantic/Bermuda"
+        default = false
+        label = "(GMT-04:00) Atlantic Standard Time (Atlantic/Bermuda)"
+        isActive = true
+      },
+      {
+        fullName = "America/Bogota"
+        default = false
+        label = "(GMT-05:00) Colombia Standard Time (America/Bogota)"
+        isActive = true
+      },
+      {
+        fullName = "America/Cancun"
+        default = false
+        label = "(GMT-05:00) Eastern Standard Time (America/Cancun)"
+        isActive = true
+      },
+      {
+        fullName = "America/Cayman"
+        default = false
+        label = "(GMT-05:00) Eastern Standard Time (America/Cayman)"
+        isActive = true
+      },
+      {
+        fullName = "America/Coral_Harbour"
+        default = false
+        label = "(GMT-05:00) Eastern Standard Time (America/Coral_Harbour)"
+        isActive = true
+      },
+      {
+        fullName = "America/Detroit"
+        default = false
+        label = "(GMT-05:00) Eastern Standard Time (America/Detroit)"
+        isActive = true
+      },
+      {
+        fullName = "America/Eirunepe"
+        default = false
+        label = "(GMT-05:00) Acre Standard Time (America/Eirunepe)"
+        isActive = true
+      },
+      {
+        fullName = "America/Grand_Turk"
+        default = false
+        label = "(GMT-05:00) Eastern Standard Time (America/Grand_Turk)"
+        isActive = true
+      },
+      {
+        fullName = "America/Guayaquil"
+        default = false
+        label = "(GMT-05:00) Ecuador Time (America/Guayaquil)"
+        isActive = true
+      },
+      {
+        fullName = "America/Indiana/Indianapolis"
+        default = false
+        label = "(GMT-05:00) Eastern Standard Time (America/Indiana/Indianapolis)"
+        isActive = true
+      },
+      {
+        fullName = "America/Indiana/Marengo"
+        default = false
+        label = "(GMT-05:00) Eastern Standard Time (America/Indiana/Marengo)"
+        isActive = true
+      },
+      {
+        fullName = "America/Indiana/Petersburg"
+        default = false
+        label = "(GMT-05:00) Eastern Standard Time (America/Indiana/Petersburg)"
+        isActive = true
+      },
+      {
+        fullName = "America/Indiana/Vevay"
+        default = false
+        label = "(GMT-05:00) Eastern Standard Time (America/Indiana/Vevay)"
+        isActive = true
+      },
+      {
+        fullName = "America/Indiana/Vincennes"
+        default = false
+        label = "(GMT-05:00) Eastern Standard Time (America/Indiana/Vincennes)"
+        isActive = true
+      },
+      {
+        fullName = "America/Indiana/Winamac"
+        default = false
+        label = "(GMT-05:00) Eastern Standard Time (America/Indiana/Winamac)"
+        isActive = true
+      },
+      {
+        fullName = "America/Iqaluit"
+        default = false
+        label = "(GMT-05:00) Eastern Standard Time (America/Iqaluit)"
+        isActive = true
+      },
+      {
+        fullName = "America/Jamaica"
+        default = false
+        label = "(GMT-05:00) Eastern Standard Time (America/Jamaica)"
+        isActive = true
+      },
+      {
+        fullName = "America/Kentucky/Monticello"
+        default = false
+        label = "(GMT-05:00) Eastern Standard Time (America/Kentucky/Monticello)"
+        isActive = true
+      },
+      {
+        fullName = "America/Lima"
+        default = false
+        label = "(GMT-05:00) Peru Standard Time (America/Lima)"
+        isActive = true
+      },
+      {
+        fullName = "America/Louisville"
+        default = false
+        label = "(GMT-05:00) Eastern Standard Time (America/Louisville)"
+        isActive = true
+      },
+      {
+        fullName = "America/Montreal"
+        default = false
+        label = "(GMT-05:00) Eastern Standard Time (America/Montreal)"
+        isActive = true
+      },
+      {
+        fullName = "America/Nassau"
+        default = false
+        label = "(GMT-05:00) Eastern Standard Time (America/Nassau)"
+        isActive = true
+      },
+      {
+        fullName = "America/New_York"
+        default = false
+        label = "(GMT-05:00) Eastern Standard Time (America/New_York)"
+        isActive = true
+      },
+      {
+        fullName = "America/Nipigon"
+        default = false
+        label = "(GMT-05:00) Eastern Standard Time (America/Nipigon)"
+        isActive = true
+      },
+      {
+        fullName = "America/Panama"
+        default = false
+        label = "(GMT-05:00) Eastern Standard Time (America/Panama)"
+        isActive = true
+      },
+      {
+        fullName = "America/Pangnirtung"
+        default = false
+        label = "(GMT-05:00) Eastern Standard Time (America/Pangnirtung)"
+        isActive = true
+      },
+      {
+        fullName = "America/Port-au-Prince"
+        default = false
+        label = "(GMT-05:00) Eastern Standard Time (America/Port-au-Prince)"
+        isActive = true
+      },
+      {
+        fullName = "America/Rio_Branco"
+        default = false
+        label = "(GMT-05:00) Acre Standard Time (America/Rio_Branco)"
+        isActive = true
+      },
+      {
+        fullName = "America/Thunder_Bay"
+        default = false
+        label = "(GMT-05:00) Eastern Standard Time (America/Thunder_Bay)"
+        isActive = true
+      },
+      {
+        fullName = "America/Toronto"
+        default = false
+        label = "(GMT-05:00) Eastern Standard Time (America/Toronto)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Easter"
+        default = false
+        label = "(GMT-05:00) Easter Island Summer Time (Pacific/Easter)"
+        isActive = true
+      },
+      {
+        fullName = "America/Bahia_Banderas"
+        default = false
+        label = "(GMT-06:00) Central Standard Time (America/Bahia_Banderas)"
+        isActive = true
+      },
+      {
+        fullName = "America/Belize"
+        default = false
+        label = "(GMT-06:00) Central Standard Time (America/Belize)"
+        isActive = true
+      },
+      {
+        fullName = "America/Chicago"
+        default = false
+        label = "(GMT-06:00) Central Standard Time (America/Chicago)"
+        isActive = true
+      },
+      {
+        fullName = "America/Chihuahua"
+        default = false
+        label = "(GMT-06:00) Mexican Pacific Standard Time (America/Chihuahua)"
+        isActive = true
+      },
+      {
+        fullName = "America/Costa_Rica"
+        default = false
+        label = "(GMT-06:00) Central Standard Time (America/Costa_Rica)"
+        isActive = true
+      },
+      {
+        fullName = "America/El_Salvador"
+        default = false
+        label = "(GMT-06:00) Central Standard Time (America/El_Salvador)"
+        isActive = true
+      },
+      {
+        fullName = "America/Guatemala"
+        default = false
+        label = "(GMT-06:00) Central Standard Time (America/Guatemala)"
+        isActive = true
+      },
+      {
+        fullName = "America/Indiana/Knox"
+        default = false
+        label = "(GMT-06:00) Central Standard Time (America/Indiana/Knox)"
+        isActive = true
+      },
+      {
+        fullName = "America/Indiana/Tell_City"
+        default = false
+        label = "(GMT-06:00) Central Standard Time (America/Indiana/Tell_City)"
+        isActive = true
+      },
+      {
+        fullName = "America/Managua"
+        default = false
+        label = "(GMT-06:00) Central Standard Time (America/Managua)"
+        isActive = true
+      },
+      {
+        fullName = "America/Matamoros"
+        default = false
+        label = "(GMT-06:00) Central Standard Time (America/Matamoros)"
+        isActive = true
+      },
+      {
+        fullName = "America/Menominee"
+        default = false
+        label = "(GMT-06:00) Central Standard Time (America/Menominee)"
+        isActive = true
+      },
+      {
+        fullName = "America/Merida"
+        default = false
+        label = "(GMT-06:00) Central Standard Time (America/Merida)"
+        isActive = true
+      },
+      {
+        fullName = "America/Mexico_City"
+        default = false
+        label = "(GMT-06:00) Central Standard Time (America/Mexico_City)"
+        isActive = true
+      },
+      {
+        fullName = "America/Monterrey"
+        default = false
+        label = "(GMT-06:00) Central Standard Time (America/Monterrey)"
+        isActive = true
+      },
+      {
+        fullName = "America/North_Dakota/Beulah"
+        default = false
+        label = "(GMT-06:00) Central Standard Time (America/North_Dakota/Beulah)"
+        isActive = true
+      },
+      {
+        fullName = "America/North_Dakota/Center"
+        default = false
+        label = "(GMT-06:00) Central Standard Time (America/North_Dakota/Center)"
+        isActive = true
+      },
+      {
+        fullName = "America/North_Dakota/New_Salem"
+        default = false
+        label = "(GMT-06:00) Central Standard Time (America/North_Dakota/New_Salem)"
+        isActive = true
+      },
+      {
+        fullName = "America/Ojinaga"
+        default = false
+        label = "(GMT-06:00) Mountain Standard Time (America/Ojinaga)"
+        isActive = true
+      },
+      {
+        fullName = "America/Rainy_River"
+        default = false
+        label = "(GMT-06:00) Central Standard Time (America/Rainy_River)"
+        isActive = true
+      },
+      {
+        fullName = "America/Rankin_Inlet"
+        default = false
+        label = "(GMT-06:00) Central Standard Time (America/Rankin_Inlet)"
+        isActive = true
+      },
+      {
+        fullName = "America/Regina"
+        default = false
+        label = "(GMT-06:00) Central Standard Time (America/Regina)"
+        isActive = true
+      },
+      {
+        fullName = "America/Resolute"
+        default = false
+        label = "(GMT-06:00) Central Standard Time (America/Resolute)"
+        isActive = true
+      },
+      {
+        fullName = "America/Swift_Current"
+        default = false
+        label = "(GMT-06:00) Central Standard Time (America/Swift_Current)"
+        isActive = true
+      },
+      {
+        fullName = "America/Tegucigalpa"
+        default = false
+        label = "(GMT-06:00) Central Standard Time (America/Tegucigalpa)"
+        isActive = true
+      },
+      {
+        fullName = "America/Winnipeg"
+        default = false
+        label = "(GMT-06:00) Central Standard Time (America/Winnipeg)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Galapagos"
+        default = false
+        label = "(GMT-06:00) Galapagos Time (Pacific/Galapagos)"
+        isActive = true
+      },
+      {
+        fullName = "America/Boise"
+        default = false
+        label = "(GMT-07:00) Mountain Standard Time (America/Boise)"
+        isActive = true
+      },
+      {
+        fullName = "America/Cambridge_Bay"
+        default = false
+        label = "(GMT-07:00) Mountain Standard Time (America/Cambridge_Bay)"
+        isActive = true
+      },
+      {
+        fullName = "America/Creston"
+        default = false
+        label = "(GMT-07:00) Mountain Standard Time (America/Creston)"
+        isActive = true
+      },
+      {
+        fullName = "America/Dawson"
+        default = false
+        label = "(GMT-07:00) Yukon Time (America/Dawson)"
+        isActive = true
+      },
+      {
+        fullName = "America/Dawson_Creek"
+        default = false
+        label = "(GMT-07:00) Mountain Standard Time (America/Dawson_Creek)"
+        isActive = true
+      },
+      {
+        fullName = "America/Denver"
+        default = false
+        label = "(GMT-07:00) Mountain Standard Time (America/Denver)"
+        isActive = true
+      },
+      {
+        fullName = "America/Edmonton"
+        default = false
+        label = "(GMT-07:00) Mountain Standard Time (America/Edmonton)"
+        isActive = true
+      },
+      {
+        fullName = "America/Fort_Nelson"
+        default = false
+        label = "(GMT-07:00) Mountain Standard Time (America/Fort_Nelson)"
+        isActive = true
+      },
+      {
+        fullName = "America/Hermosillo"
+        default = false
+        label = "(GMT-07:00) Mexican Pacific Standard Time (America/Hermosillo)"
+        isActive = true
+      },
+      {
+        fullName = "America/Inuvik"
+        default = false
+        label = "(GMT-07:00) Mountain Standard Time (America/Inuvik)"
+        isActive = true
+      },
+      {
+        fullName = "America/Mazatlan"
+        default = false
+        label = "(GMT-07:00) Mexican Pacific Standard Time (America/Mazatlan)"
+        isActive = true
+      },
+      {
+        fullName = "America/Phoenix"
+        default = false
+        label = "(GMT-07:00) Mountain Standard Time (America/Phoenix)"
+        isActive = true
+      },
+      {
+        fullName = "America/Whitehorse"
+        default = false
+        label = "(GMT-07:00) Yukon Time (America/Whitehorse)"
+        isActive = true
+      },
+      {
+        fullName = "America/Yellowknife"
+        default = false
+        label = "(GMT-07:00) Mountain Standard Time (America/Yellowknife)"
+        isActive = true
+      },
+      {
+        fullName = "America/Los_Angeles"
+        default = false
+        label = "(GMT-08:00) Pacific Standard Time (America/Los_Angeles)"
+        isActive = true
+      },
+      {
+        fullName = "America/Santa_Isabel"
+        default = false
+        label = "(GMT-08:00) Northwest Mexico Standard Time (America/Santa_Isabel)"
+        isActive = true
+      },
+      {
+        fullName = "America/Tijuana"
+        default = false
+        label = "(GMT-08:00) Pacific Standard Time (America/Tijuana)"
+        isActive = true
+      },
+      {
+        fullName = "America/Vancouver"
+        default = false
+        label = "(GMT-08:00) Pacific Standard Time (America/Vancouver)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Pitcairn"
+        default = false
+        label = "(GMT-08:00) Pitcairn Time (Pacific/Pitcairn)"
+        isActive = true
+      },
+      {
+        fullName = "America/Anchorage"
+        default = false
+        label = "(GMT-09:00) Alaska Standard Time (America/Anchorage)"
+        isActive = true
+      },
+      {
+        fullName = "America/Juneau"
+        default = false
+        label = "(GMT-09:00) Alaska Standard Time (America/Juneau)"
+        isActive = true
+      },
+      {
+        fullName = "America/Metlakatla"
+        default = false
+        label = "(GMT-09:00) Alaska Standard Time (America/Metlakatla)"
+        isActive = true
+      },
+      {
+        fullName = "America/Nome"
+        default = false
+        label = "(GMT-09:00) Alaska Standard Time (America/Nome)"
+        isActive = true
+      },
+      {
+        fullName = "America/Sitka"
+        default = false
+        label = "(GMT-09:00) Alaska Standard Time (America/Sitka)"
+        isActive = true
+      },
+      {
+        fullName = "America/Yakutat"
+        default = false
+        label = "(GMT-09:00) Alaska Standard Time (America/Yakutat)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Gambier"
+        default = false
+        label = "(GMT-09:00) Gambier Time (Pacific/Gambier)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Marquesas"
+        default = false
+        label = "(GMT-09:30) Marquesas Time (Pacific/Marquesas)"
+        isActive = true
+      },
+      {
+        fullName = "America/Adak"
+        default = false
+        label = "(GMT-10:00) Hawaii-Aleutian Standard Time (America/Adak)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Honolulu"
+        default = false
+        label = "(GMT-10:00) Hawaii-Aleutian Standard Time (Pacific/Honolulu)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Johnston"
+        default = false
+        label = "(GMT-10:00) Hawaii-Aleutian Standard Time (Pacific/Johnston)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Rarotonga"
+        default = false
+        label = "(GMT-10:00) Cook Islands Standard Time (Pacific/Rarotonga)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Tahiti"
+        default = false
+        label = "(GMT-10:00) Tahiti Time (Pacific/Tahiti)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Midway"
+        default = false
+        label = "(GMT-11:00) Samoa Standard Time (Pacific/Midway)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Niue"
+        default = false
+        label = "(GMT-11:00) Niue Time (Pacific/Niue)"
+        isActive = true
+      },
+      {
+        fullName = "Pacific/Pago_Pago"
+        default = false
+        label = "(GMT-11:00) Samoa Standard Time (Pacific/Pago_Pago)"
+        isActive = true
+      },
+    ]
+    restricted = true
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist LanguageLocaleKey {
+    apiName = "Organization.LanguageLocaleKey"
+    label = "Language"
+    _required = true
+    valueSet = [
+      {
+        fullName = "en_US"
+        default = false
+        label = "English"
+        isActive = true
+      },
+      {
+        fullName = "de"
+        default = false
+        label = "German"
+        isActive = true
+      },
+      {
+        fullName = "es"
+        default = false
+        label = "Spanish"
+        isActive = true
+      },
+      {
+        fullName = "fr"
+        default = false
+        label = "French"
+        isActive = true
+      },
+      {
+        fullName = "it"
+        default = false
+        label = "Italian"
+        isActive = true
+      },
+      {
+        fullName = "ja"
+        default = false
+        label = "Japanese"
+        isActive = true
+      },
+      {
+        fullName = "sv"
+        default = false
+        label = "Swedish"
+        isActive = true
+      },
+      {
+        fullName = "ko"
+        default = false
+        label = "Korean"
+        isActive = true
+      },
+      {
+        fullName = "zh_TW"
+        default = false
+        label = "Chinese (Traditional)"
+        isActive = true
+      },
+      {
+        fullName = "zh_CN"
+        default = false
+        label = "Chinese (Simplified)"
+        isActive = true
+      },
+      {
+        fullName = "pt_BR"
+        default = false
+        label = "Portuguese (Brazil)"
+        isActive = true
+      },
+      {
+        fullName = "nl_NL"
+        default = false
+        label = "Dutch"
+        isActive = true
+      },
+      {
+        fullName = "da"
+        default = false
+        label = "Danish"
+        isActive = true
+      },
+      {
+        fullName = "th"
+        default = false
+        label = "Thai"
+        isActive = true
+      },
+      {
+        fullName = "fi"
+        default = false
+        label = "Finnish"
+        isActive = true
+      },
+      {
+        fullName = "ru"
+        default = false
+        label = "Russian"
+        isActive = true
+      },
+      {
+        fullName = "es_MX"
+        default = false
+        label = "Spanish (Mexico)"
+        isActive = true
+      },
+      {
+        fullName = "no"
+        default = false
+        label = "Norwegian"
+        isActive = true
+      },
+    ]
+    restricted = true
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Checkbox ReceivesInfoEmails {
+    apiName = "Organization.ReceivesInfoEmails"
+    label = "Info Emails"
+    defaultValue = false
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Checkbox ReceivesAdminInfoEmails {
+    apiName = "Organization.ReceivesAdminInfoEmails"
+    label = "Info Emails Admin"
+    defaultValue = false
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Checkbox PreferencesRequireOpportunityProducts {
+    apiName = "Organization.PreferencesRequireOpportunityProducts"
+    label = "RequireOpportunityProducts"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Checkbox PreferencesTransactionSecurityPolicy {
+    apiName = "Organization.PreferencesTransactionSecurityPolicy"
+    label = "TransactionSecurityPolicy"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Checkbox PreferencesConsentManagementEnabled {
+    apiName = "Organization.PreferencesConsentManagementEnabled"
+    label = "ConsentManagementEnabled"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Checkbox PreferencesAutoSelectIndividualOnMerge {
+    apiName = "Organization.PreferencesAutoSelectIndividualOnMerge"
+    label = "AutoSelectIndividualOnMerge"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Checkbox PreferencesLightningLoginEnabled {
+    apiName = "Organization.PreferencesLightningLoginEnabled"
+    label = "LightningLoginEnabled"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Checkbox PreferencesOnlyLLPermUserAllowed {
+    apiName = "Organization.PreferencesOnlyLLPermUserAllowed"
+    label = "OnlyLLPermUserAllowed"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Number FiscalYearStartMonth {
+    apiName = "Organization.FiscalYearStartMonth"
+    label = "Fiscal Year Starts In"
+    precision = 9
+    createable = false
+    updateable = false
+    scale = 0
+    unique = false
+    queryable = true
+  }
+  salesforce.Checkbox UsesStartDateAsFiscalYearName {
+    apiName = "Organization.UsesStartDateAsFiscalYearName"
+    label = "Fiscal Year Name by Start"
+    defaultValue = false
+    createable = false
+    updateable = false
+    queryable = true
+  }
+  salesforce.Picklist DefaultAccountAccess {
+    apiName = "Organization.DefaultAccountAccess"
+    label = "Default Account Access"
+    valueSet = [
+      {
+        fullName = "None"
+        default = false
+        label = "Private"
+        isActive = true
+      },
+      {
+        fullName = "Read"
+        default = false
+        label = "Read Only"
+        isActive = true
+      },
+      {
+        fullName = "Edit"
+        default = false
+        label = "Read/Write"
+        isActive = true
+      },
+      {
+        fullName = "ControlledByLeadOrContact"
+        default = false
+        label = "ControlledByLeadOrContact"
+        isActive = true
+      },
+      {
+        fullName = "ControlledByCampaign"
+        default = false
+        label = "ControlledByCampaign"
+        isActive = true
+      },
+    ]
+    restricted = true
+    createable = false
+    updateable = false
+    queryable = true
+  }
+  salesforce.Picklist DefaultContactAccess {
+    apiName = "Organization.DefaultContactAccess"
+    label = "Default Contact Access"
+    valueSet = [
+      {
+        fullName = "None"
+        default = false
+        label = "Private"
+        isActive = true
+      },
+      {
+        fullName = "Read"
+        default = false
+        label = "Read Only"
+        isActive = true
+      },
+      {
+        fullName = "Edit"
+        default = false
+        label = "Read/Write"
+        isActive = true
+      },
+      {
+        fullName = "ControlledByParent"
+        default = false
+        label = "Controlled By Parent"
+        isActive = true
+      },
+    ]
+    restricted = true
+    createable = false
+    updateable = false
+    queryable = true
+  }
+  salesforce.Picklist DefaultOpportunityAccess {
+    apiName = "Organization.DefaultOpportunityAccess"
+    label = "Default Opportunity Access"
+    valueSet = [
+      {
+        fullName = "None"
+        default = false
+        label = "Private"
+        isActive = true
+      },
+      {
+        fullName = "Read"
+        default = false
+        label = "Read Only"
+        isActive = true
+      },
+      {
+        fullName = "Edit"
+        default = false
+        label = "Read/Write"
+        isActive = true
+      },
+      {
+        fullName = "ControlledByLeadOrContact"
+        default = false
+        label = "ControlledByLeadOrContact"
+        isActive = true
+      },
+      {
+        fullName = "ControlledByCampaign"
+        default = false
+        label = "ControlledByCampaign"
+        isActive = true
+      },
+    ]
+    restricted = true
+    createable = false
+    updateable = false
+    queryable = true
+  }
+  salesforce.Picklist DefaultLeadAccess {
+    apiName = "Organization.DefaultLeadAccess"
+    label = "Default Lead Access"
+    valueSet = [
+      {
+        fullName = "None"
+        default = false
+        label = "Private"
+        isActive = true
+      },
+      {
+        fullName = "Read"
+        default = false
+        label = "Read Only"
+        isActive = true
+      },
+      {
+        fullName = "Edit"
+        default = false
+        label = "Read/Write"
+        isActive = true
+      },
+      {
+        fullName = "ReadEditTransfer"
+        default = false
+        label = "Read/Write/Transfer"
+        isActive = true
+      },
+    ]
+    restricted = true
+    createable = false
+    updateable = false
+    queryable = true
+  }
+  salesforce.Picklist DefaultCaseAccess {
+    apiName = "Organization.DefaultCaseAccess"
+    label = "Default Case Access"
+    valueSet = [
+      {
+        fullName = "None"
+        default = false
+        label = "Private"
+        isActive = true
+      },
+      {
+        fullName = "Read"
+        default = false
+        label = "Read Only"
+        isActive = true
+      },
+      {
+        fullName = "Edit"
+        default = false
+        label = "Read/Write"
+        isActive = true
+      },
+      {
+        fullName = "ReadEditTransfer"
+        default = false
+        label = "Read/Write/Transfer"
+        isActive = true
+      },
+    ]
+    restricted = true
+    createable = false
+    updateable = false
+    queryable = true
+  }
+  salesforce.Picklist DefaultCalendarAccess {
+    apiName = "Organization.DefaultCalendarAccess"
+    label = "Default Calendar Access"
+    valueSet = [
+      {
+        fullName = "HideDetails"
+        default = false
+        label = "Hide Details"
+        isActive = true
+      },
+      {
+        fullName = "HideDetailsInsert"
+        default = true
+        label = "Hide Details and Add Events"
+        isActive = true
+      },
+      {
+        fullName = "ShowDetails"
+        default = false
+        label = "Show Details"
+        isActive = true
+      },
+      {
+        fullName = "ShowDetailsInsert"
+        default = false
+        label = "Show Details and Add Events"
+        isActive = true
+      },
+      {
+        fullName = "AllowEdits"
+        default = false
+        label = "Full Access"
+        isActive = true
+      },
+    ]
+    restricted = true
+    createable = false
+    updateable = false
+    queryable = true
+  }
+  salesforce.Picklist DefaultPricebookAccess {
+    apiName = "Organization.DefaultPricebookAccess"
+    label = "Default Price Book Access"
+    valueSet = [
+      {
+        fullName = "None"
+        default = false
+        label = "No Access"
+        isActive = true
+      },
+      {
+        fullName = "Read"
+        default = false
+        label = "View Only"
+        isActive = true
+      },
+      {
+        fullName = "ReadSelect"
+        default = false
+        label = "Use"
+        isActive = true
+      },
+    ]
+    restricted = true
+    createable = false
+    updateable = false
+    queryable = true
+  }
+  salesforce.Picklist DefaultCampaignAccess {
+    apiName = "Organization.DefaultCampaignAccess"
+    label = "Default Campaign Access"
+    valueSet = [
+      {
+        fullName = "None"
+        default = false
+        label = "Private"
+        isActive = true
+      },
+      {
+        fullName = "Read"
+        default = false
+        label = "Read Only"
+        isActive = true
+      },
+      {
+        fullName = "Edit"
+        default = false
+        label = "Read/Write"
+        isActive = true
+      },
+      {
+        fullName = "All"
+        default = false
+        label = "Owner"
+        isActive = true
+      },
+    ]
+    restricted = true
+    createable = false
+    updateable = false
+    queryable = true
+  }
+  salesforce.Email ComplianceBccEmail {
+    apiName = "Organization.ComplianceBccEmail"
+    label = "Compliance BCC Email"
+    createable = false
+    updateable = false
+    unique = false
+    queryable = true
+  }
+  salesforce.Picklist UiSkin {
+    apiName = "Organization.UiSkin"
+    label = "UI Skin"
+    valueSet = [
+      {
+        fullName = "Theme1"
+        default = false
+        label = "salesforce.com Classic"
+        isActive = true
+      },
+      {
+        fullName = "Theme2"
+        default = false
+        label = "Salesforce"
+        isActive = true
+      },
+      {
+        fullName = "PortalDefault"
+        default = false
+        label = "Portal Default"
+        isActive = true
+      },
+      {
+        fullName = "Webstore"
+        default = false
+        label = "Webstore"
+        isActive = true
+      },
+      {
+        fullName = "Theme3"
+        default = true
+        label = "Aloha"
+        isActive = true
+      },
+    ]
+    restricted = true
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text SignupCountryIsoCode {
+    apiName = "Organization.SignupCountryIsoCode"
+    label = "Signup Country"
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    length = 2
+    queryable = true
+  }
+  salesforce.Number NumKnowledgeService {
+    apiName = "Organization.NumKnowledgeService"
+    label = "Knowledge Licenses"
+    precision = 9
+    createable = false
+    updateable = false
+    scale = 0
+    unique = false
+    queryable = true
+  }
+  salesforce.Text NamespacePrefix {
+    apiName = "Organization.NamespacePrefix"
+    label = "Namespace Prefix"
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    length = 15
+    queryable = true
+  }
+  salesforce.Text WebToCaseDefaultOrigin {
+    apiName = "Organization.WebToCaseDefaultOrigin"
+    label = "Web to Cases Default Origin"
+    createable = false
+    updateable = true
+    unique = false
+    caseSensitive = false
+    length = 40
+    queryable = true
+  }
+  salesforce.Checkbox IsReadOnly {
+    apiName = "Organization.IsReadOnly"
+    label = "Is Read Only"
+    defaultValue = false
+    createable = false
+    updateable = false
+    queryable = true
+  }
+  apiName = "Organization"
+}

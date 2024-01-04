@@ -1,0 +1,40 @@
+type salesforce.ConvMsgExternalTemplateVersion {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  string accountIdentifier {
+  }
+  string accountName {
+  }
+  string language {
+  }
+  string status {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Approved",
+        "Disabled",
+        "InAppeal",
+        "Paused",
+        "Pending",
+        "Rejected",
+      ]
+    }
+  }
+  string templateName {
+  }
+  string templateVersionIdentifier {
+  }
+  metadataType = "ConvMsgExternalTemplateVersion"
+}

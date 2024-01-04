@@ -1,0 +1,84 @@
+type salesforce.ConversationMessageDefinition {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  serviceid fullName {
+  }
+  salesforce.ConversationMessageConstant constants {
+  }
+  string description {
+  }
+  string label {
+  }
+  string language {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "da",
+        "de",
+        "en_US",
+        "es",
+        "es_MX",
+        "fi",
+        "fr",
+        "it",
+        "ja",
+        "ko",
+        "nl_NL",
+        "no",
+        "pt_BR",
+        "ru",
+        "sv",
+        "th",
+        "zh_CN",
+        "zh_TW",
+      ]
+    }
+  }
+  salesforce.ConversationMessageHandler messageHandlers {
+  }
+  salesforce.ConversationMessageLayout messageLayouts {
+  }
+  salesforce.ConversationMessageOptionsParameter optionsParameter {
+  }
+  salesforce.ConversationMessageParameter parameters {
+  }
+  string type {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Action",
+        "AuthenticationRequest",
+        "AutoResponse",
+        "CustomMessage",
+        "CustomPicker",
+        "LegacyPicker",
+        "Link",
+        "Notification",
+        "PaymentRequest",
+        "Picklist",
+        "RecordPicker",
+        "RecordView",
+        "TimePicker",
+      ]
+    }
+  }
+  string internalId {
+    _hidden_value = true
+    localOnly = true
+  }
+  suffix = "conversationMessageDefinition"
+  dirName = "conversationMessageDefinitions"
+  metadataType = "ConversationMessageDefinition"
+}

@@ -1,0 +1,33 @@
+type salesforce.FlowTest {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  serviceid fullName {
+  }
+  string description {
+  }
+  string flowApiName {
+  }
+  string label {
+  }
+  salesforce.FlowTestPoint testPoints {
+  }
+  string internalId {
+    _hidden_value = true
+    localOnly = true
+  }
+  suffix = "flowtest"
+  dirName = "flowtests"
+  metadataType = "FlowTest"
+}

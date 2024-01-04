@@ -1,0 +1,32 @@
+type salesforce.UserProfileSearchScope {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  serviceid fullName {
+  }
+  string entityApiNames {
+  }
+  string profile {
+    foreignKeyDomain = [
+      "Profile",
+    ]
+  }
+  string internalId {
+    _hidden_value = true
+    localOnly = true
+  }
+  suffix = "userProfileSearchScope"
+  dirName = "userProfileSearchScopes"
+  metadataType = "UserProfileSearchScope"
+}

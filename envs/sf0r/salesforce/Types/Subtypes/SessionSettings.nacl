@@ -1,0 +1,129 @@
+type salesforce.SessionSettings {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  boolean allowUserAuthenticationByCertificate {
+  }
+  boolean allowUserCertBasedAuthenticationWithOcspValidation {
+  }
+  boolean canConfirmEmailChangeInLightningCommunities {
+  }
+  boolean canConfirmIdentityBySmsOnly {
+  }
+  boolean disableTimeoutWarning {
+  }
+  boolean enableBuiltInAuthenticator {
+  }
+  boolean enableCSPOnEmail {
+  }
+  boolean enableCSRFOnGet {
+  }
+  boolean enableCSRFOnPost {
+  }
+  boolean enableCacheAndAutocomplete {
+  }
+  boolean enableClickjackNonsetupSFDC {
+  }
+  boolean enableClickjackNonsetupUser {
+  }
+  boolean enableClickjackNonsetupUserHeaderless {
+  }
+  boolean enableClickjackSetup {
+  }
+  boolean enableCoepHeader {
+  }
+  boolean enableContentSniffingProtection {
+  }
+  boolean enableCoopHeader {
+  }
+  boolean enableLightningLogin {
+  }
+  boolean enableLightningLoginOnlyWithUserPerm {
+  }
+  boolean enableMFADirectUILoginOptIn {
+  }
+  boolean enableOauthCorsPolicy {
+  }
+  boolean enablePermissionsPolicy {
+  }
+  boolean enablePostForSessions {
+  }
+  boolean enableSMSIdentity {
+  }
+  boolean enableU2F {
+  }
+  boolean enableUpgradeInsecureRequests {
+  }
+  boolean enableXssProtection {
+  }
+  boolean enforceIpRangesEveryRequest {
+  }
+  boolean enforceUserDeviceRevoked {
+  }
+  boolean forceLogoutOnSessionTimeout {
+  }
+  boolean forceRelogin {
+  }
+  string grantCameraAccess {
+  }
+  string grantMicrophoneAccess {
+  }
+  boolean hasRetainedLoginHints {
+  }
+  boolean hasUserSwitching {
+  }
+  boolean hstsOnForcecomSites {
+  }
+  boolean identityConfirmationOnEmailChange {
+  }
+  boolean identityConfirmationOnTwoFactorRegistrationEnabled {
+  }
+  boolean lockSessionsToDomain {
+  }
+  boolean lockSessionsToIp {
+  }
+  string lockerServiceAPIVersion {
+  }
+  boolean lockerServiceCSP {
+  }
+  boolean lockerServiceNext {
+  }
+  boolean lockerServiceNextControl {
+  }
+  string logoutURL {
+  }
+  boolean redirectBlockModeEnabled {
+  }
+  boolean redirectionWarning {
+  }
+  boolean referrerPolicy {
+  }
+  string referrerPolicyDirective {
+  }
+  boolean requireHttpOnly {
+  }
+  boolean requireHttps {
+  }
+  boolean sendCspForUncommonClients {
+  }
+  boolean sidToken3rdPartyAuraApp {
+  }
+  boolean skipSFAWhenMFADirectUILogin {
+  }
+  boolean useEAPIRateLimitForConnectAPI {
+  }
+  boolean useLocalStorageForLogoutUrl {
+  }
+  metadataType = "SessionSettings"
+}

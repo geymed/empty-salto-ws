@@ -1,0 +1,41 @@
+settings salesforce.ForecastingSettings {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  serviceid fullName {
+  }
+  boolean defaultToPersonalCurrency {
+  }
+  boolean enableForecasts {
+  }
+  "List<salesforce.ForecastingCategoryMapping>" forecastingCategoryMappings {
+  }
+  salesforce.ForecastingDisplayedFamilySettings forecastingDisplayedFamilySettings {
+  }
+  "List<salesforce.ForecastingTypeSettings>" forecastingTypeSettings {
+  }
+  salesforce.AdjustmentsSettings globalAdjustmentsSettings {
+  }
+  salesforce.ForecastRangeSettings globalForecastRangeSettings {
+  }
+  salesforce.QuotasSettings globalQuotasSettings {
+  }
+  string internalId {
+    _hidden_value = true
+    localOnly = true
+  }
+  suffix = "settings"
+  dirName = "settings"
+  metadataType = "ForecastingSettings"
+}

@@ -1,0 +1,21 @@
+type salesforce.ConversationMessageParameter {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  salesforce.ConversationMessageParameterCompositeDetails compositeTypeDetails {
+  }
+  salesforce.ConversationMessageParameterPrimitiveDetails primitiveTypeDetails {
+  }
+  metadataType = "ConversationMessageParameter"
+}

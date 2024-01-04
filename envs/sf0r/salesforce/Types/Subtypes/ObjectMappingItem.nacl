@@ -1,0 +1,29 @@
+type salesforce.ObjectMappingItem {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  string mappingType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "WorkPlans_WorkPlanTemplateEntry_WorkStep",
+        "WorkPlans_WorkPlanTemplate_WorkPlan",
+        "WorkPlans_WorkStepTemplate_WorkStep",
+      ]
+    }
+  }
+  salesforce.ObjectMapping objectMapping {
+  }
+  metadataType = "ObjectMappingItem"
+}

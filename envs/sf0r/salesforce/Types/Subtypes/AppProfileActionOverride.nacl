@@ -1,0 +1,63 @@
+type salesforce.AppProfileActionOverride {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  string actionName {
+  }
+  string content {
+    foreignKeyDomain = [
+      salesforce.LightningPage,
+    ]
+  }
+  string formFactor {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Large",
+        "Medium",
+        "Small",
+      ]
+    }
+  }
+  string pageOrSobjectType {
+    foreignKeyDomain = [
+      "CustomObject",
+      "PlatformSchemaDefinition",
+    ]
+  }
+  string recordType {
+    foreignKeyDomain = [
+      salesforce.RecordType,
+    ]
+  }
+  string type {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Default",
+        "Flexipage",
+        "LightningComponent",
+        "Scontrol",
+        "Standard",
+        "Visualforce",
+      ]
+    }
+  }
+  string profile {
+    foreignKeyDomain = [
+      "Profile",
+    ]
+  }
+  metadataType = "AppProfileActionOverride"
+}

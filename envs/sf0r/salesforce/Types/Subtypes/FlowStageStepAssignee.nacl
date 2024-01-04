@@ -1,0 +1,31 @@
+type salesforce.FlowStageStepAssignee {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  salesforce.FlowMetadataValue processMetadataValues {
+  }
+  salesforce.FlowElementReferenceOrValue assignee {
+  }
+  string assigneeType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Group",
+        "Queue",
+        "User",
+      ]
+    }
+  }
+  metadataType = "FlowStageStepAssignee"
+}

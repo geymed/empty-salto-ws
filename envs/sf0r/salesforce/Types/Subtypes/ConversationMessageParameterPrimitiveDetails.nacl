@@ -1,0 +1,46 @@
+type salesforce.ConversationMessageParameterPrimitiveDetails {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  boolean isList {
+  }
+  boolean isRequired {
+  }
+  string label {
+  }
+  number maxListItems {
+  }
+  string name {
+  }
+  string sobjectType {
+  }
+  string valueType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Boolean",
+        "Composite",
+        "Date",
+        "DateTime",
+        "Double",
+        "ImageId",
+        "Integer",
+        "RecordId",
+        "Text",
+        "Url",
+      ]
+    }
+  }
+  metadataType = "ConversationMessageParameterPrimitiveDetails"
+}

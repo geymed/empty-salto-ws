@@ -1,0 +1,93 @@
+type salesforce.EmailTemplate {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  serviceid fullName {
+  }
+  string content {
+  }
+  number apiVersion {
+  }
+  string attachedDocuments {
+  }
+  "Map<salesforce.Attachment>" attachments {
+  }
+  boolean available {
+  }
+  string description {
+  }
+  string encodingKey {
+  }
+  string letterhead {
+  }
+  string name {
+  }
+  salesforce.PackageVersion packageVersions {
+  }
+  string pageDevName {
+  }
+  string relatedEntityType {
+    foreignKeyDomain = [
+      "CustomObject",
+    ]
+  }
+  string style {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "formalLetter",
+        "freeForm",
+        "newsletter",
+        "none",
+        "products",
+        "promotionLeft",
+        "promotionRight",
+      ]
+    }
+  }
+  string subject {
+  }
+  string textOnly {
+  }
+  string type {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "custom",
+        "html",
+        "text",
+        "visualforce",
+      ]
+    }
+  }
+  string uiType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Aloha",
+        "SFX",
+        "SFX_Sample",
+      ]
+    }
+  }
+  string internalId {
+    _hidden_value = true
+    localOnly = true
+  }
+  hasMetaFile = true
+  folderType = "EmailFolder"
+  suffix = "email"
+  dirName = "email"
+  metadataType = "EmailTemplate"
+}

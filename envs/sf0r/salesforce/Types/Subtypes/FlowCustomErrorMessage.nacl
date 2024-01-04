@@ -1,0 +1,25 @@
+type salesforce.FlowCustomErrorMessage {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  salesforce.FlowMetadataValue processMetadataValues {
+  }
+  string errorMessage {
+  }
+  string fieldSelection {
+  }
+  boolean isFieldError {
+  }
+  metadataType = "FlowCustomErrorMessage"
+}

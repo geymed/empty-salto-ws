@@ -1,0 +1,32 @@
+type salesforce.DigitalExperienceBundle {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  serviceid fullName {
+  }
+  string description {
+  }
+  string label {
+  }
+  salesforce.DigitalExperience spaceResources {
+  }
+  string internalId {
+    _hidden_value = true
+    localOnly = true
+  }
+  hasMetaFile = true
+  suffix = "digitalExperience"
+  dirName = "digitalExperiences"
+  metadataType = "DigitalExperienceBundle"
+}

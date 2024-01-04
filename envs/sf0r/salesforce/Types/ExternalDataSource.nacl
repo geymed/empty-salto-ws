@@ -1,0 +1,232 @@
+type salesforce.ExternalDataSource {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  string authProvider {
+    foreignKeyDomain = [
+      salesforce.AuthProvider,
+    ]
+  }
+  string certificate {
+    foreignKeyDomain = [
+      salesforce.Certificate,
+    ]
+  }
+  string customConfiguration {
+  }
+  salesforce.CustomHttpHeader customHttpHeaders {
+  }
+  string endpoint {
+  }
+  salesforce.ExternalDataSrcDescriptor externalDataSrcDescriptors {
+  }
+  serviceid fullName {
+  }
+  boolean isWritable {
+  }
+  string label {
+  }
+  string namedCredential {
+    foreignKeyDomain = [
+      salesforce.NamedCredential,
+    ]
+  }
+  string oauthRefreshToken {
+  }
+  string oauthScope {
+  }
+  string oauthToken {
+  }
+  string password {
+  }
+  string principalType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Anonymous",
+        "NamedUser",
+        "PerUser",
+        "UserWithImpersonation",
+      ]
+    }
+  }
+  string protocol {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "ApiKey",
+        "AwsSv4",
+        "C2c",
+        "Certificate",
+        "Custom",
+        "InternalOAuth",
+        "Jwt",
+        "JwtExchange",
+        "NTLM",
+        "NoAuthentication",
+        "Oauth",
+        "OrgJwt",
+        "Password",
+      ]
+    }
+  }
+  string repository {
+  }
+  string type {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Activity",
+        "ActivityInsight",
+        "ActivityParticipant",
+        "ActivityRelation",
+        "ActvtyInsightAction",
+        "ActvtyInsightKeyword",
+        "Alert",
+        "AmazonAthena",
+        "AmazonDynamoDb",
+        "AssetAttribute",
+        "BSE",
+        "BTSuggestionFeedback",
+        "CalendarSharing",
+        "CartService",
+        "CdpData",
+        "CommerceOrder",
+        "Conduit",
+        "Consent",
+        "ContentHubBox",
+        "ContentHubGDrive",
+        "ContentHubMock",
+        "ContentHubMockito",
+        "ContentHubOneDriveGraph",
+        "ContentHubPerf",
+        "ContentHubQuip",
+        "ContentHubSharepointOffice365",
+        "ContentHubSharepointOneDrive",
+        "ConvDefEventLog",
+        "CryptoTrEnvChgLogSnp",
+        "CustomHsOltp",
+        "CustomMetadata",
+        "Datacloud",
+        "Datajourney",
+        "DigitalWallet",
+        "EnInsightsFeedback",
+        "Engagement",
+        "EngagementPerson",
+        "EventLogOlapService",
+        "ExternalEvent",
+        "ExternalKnowledge",
+        "ExternalReference",
+        "FLAttribute",
+        "FieldChangeSnapshot",
+        "ForecastingItemPivot",
+        "Ftest",
+        "FtestNearCore",
+        "FtestNearCoreNested",
+        "FulfillmentAssetAttribute",
+        "GraphQl",
+        "Identity",
+        "InterestTag",
+        "Jigsaw",
+        "Limits",
+        "LogoFeedback",
+        "MbrPromotionsViewDS",
+        "MenuItem",
+        "MetadataCatalog",
+        "MetadataComponentDependency",
+        "OData",
+        "OData4",
+        "OData401",
+        "OIAttribute",
+        "OMS",
+        "OpenSearch",
+        "OpportunitySnapshot",
+        "PECustMetrics",
+        "Pardot",
+        "PardotEntity",
+        "Payments",
+        "Perms",
+        "Pliny",
+        "PromoRuleTempDS",
+        "QLIAttribute",
+        "RecentFieldChange",
+        "Salesforce",
+        "SalesforceContract",
+        "SalesforceInvoice",
+        "SalesforceQuote",
+        "SciApi",
+        "SearchableField",
+        "SelectableEmailAddressView",
+        "SetupNode",
+        "SfdcOrg",
+        "SimpleURL",
+        "Trailhead",
+        "TrailheadEdit",
+        "TrailheadEditWithId",
+        "VdaFtestVirtual",
+        "VdaMockCdpData",
+        "Wrapper",
+        "Zero",
+        "bcpApp",
+        "bcpAppMember",
+        "bcpEntity",
+        "bcpEntityPermSet",
+        "bcpEntityPermission",
+        "bcpField",
+        "bcpFieldPermission",
+        "bcpMember",
+        "bcpParticipant",
+        "bcpParticipantAccess",
+        "bcpPermissionSet",
+        "bcpRecAccApproval",
+        "bcpRecordAccess",
+        "bcpRelParticipant",
+        "bluetailfeedback",
+        "conduitSubscriber",
+        "contentHubItem",
+        "cooper",
+        "dataStatistics",
+        "ekmRootKeySubscriber",
+        "flexQueueItemInst",
+        "forecastingUserPref",
+        "layoutSectionStateDS",
+        "listViewChartInst",
+        "networkWorkspaceNode",
+        "outgoingemail",
+        "platformAction",
+        "readonlyapp",
+        "s2xmobileconfig",
+        "salesforceIq",
+        "userListPreference",
+        "usermobileconfig",
+        "usrconnectionstatus",
+        "zero",
+      ]
+    }
+    foreignKeyDomain = [
+      salesforce.ApexClass,
+    ]
+  }
+  string username {
+  }
+  string version {
+  }
+  string internalId {
+    _hidden_value = true
+    localOnly = true
+  }
+  suffix = "dataSource"
+  dirName = "dataSources"
+  metadataType = "ExternalDataSource"
+}

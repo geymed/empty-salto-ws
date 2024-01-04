@@ -1,0 +1,55 @@
+type salesforce.ExternalDataSrcDescriptor {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  serviceid fullName {
+  }
+  string customObject {
+    foreignKeyDomain = [
+      "CustomObject",
+    ]
+  }
+  string descriptor {
+  }
+  string descriptorVersion {
+  }
+  string developerName {
+  }
+  string externalDataSource {
+  }
+  string subtype {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "SchemaTableMetadata",
+        "SchemaTableQualifiers",
+      ]
+    }
+  }
+  number systemVersion {
+  }
+  string type {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Schema",
+      ]
+    }
+  }
+  string internalId {
+    _hidden_value = true
+    localOnly = true
+  }
+  metadataType = "ExternalDataSrcDescriptor"
+}

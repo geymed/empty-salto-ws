@@ -1,0 +1,38 @@
+type salesforce.FlexiPageEventTarget {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  salesforce.FlexiPageEventPropertyMapping mappings {
+  }
+  string method {
+  }
+  string name {
+  }
+  salesforce.FlexiPageEventTargetProperty properties {
+  }
+  string type {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "ActionServices",
+        "FlexipageServices",
+        "InvocableApexServices",
+        "InvocableExternalServices",
+        "LwcServices",
+        "ViewServices",
+      ]
+    }
+  }
+  metadataType = "FlexiPageEventTarget"
+}

@@ -1,0 +1,67 @@
+type salesforce.FlowApexPluginCall {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  salesforce.FlowMetadataValue processMetadataValues {
+  }
+  string description {
+  }
+  string name {
+  }
+  string elementSubtype {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "BackgroundStep",
+        "CreatePromptInstructions",
+        "FilterCollectionProcessor",
+        "InteractiveStep",
+        "ManagedContentRoleInteractiveStep",
+        "ManagedContentVariantAutoPublishBackgroundStep",
+        "ManagedContentVariantAutoUnpublishBackgroundStep",
+        "ManagedContentVariantSetLockBackgroundStep",
+        "ManagedContentVariantSetReadyBackgroundStep",
+        "MuleSoftStep",
+        "RecommendationMapCollectionProcessor",
+        "SortCollectionProcessor",
+        "WaitAttribute",
+        "WaitDate",
+        "WaitDuration",
+      ]
+    }
+    foreignKeyDomain = [
+      "FlowElementSubtypeDefinition",
+    ]
+  }
+  string label {
+  }
+  number locationX {
+  }
+  number locationY {
+  }
+  string apexClass {
+    foreignKeyDomain = [
+      salesforce.ApexClass,
+    ]
+  }
+  salesforce.FlowConnector connector {
+  }
+  salesforce.FlowConnector faultConnector {
+  }
+  salesforce.FlowApexPluginCallInputParameter inputParameters {
+  }
+  salesforce.FlowApexPluginCallOutputParameter outputParameters {
+  }
+  metadataType = "FlowApexPluginCall"
+}

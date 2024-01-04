@@ -1,0 +1,33 @@
+type salesforce.ConversationMessageLayoutItem {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  string collectionType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "DynamicList",
+        "None",
+        "StaticList",
+      ]
+    }
+  }
+  salesforce.ConversationMessageLayoutCompositeValue compositeValues {
+  }
+  string name {
+  }
+  salesforce.ConversationMessageLayoutPrimitiveValue primitiveValues {
+  }
+  metadataType = "ConversationMessageLayoutItem"
+}

@@ -1,0 +1,48 @@
+type salesforce.PlatformEventSubscriberConfig {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  number batchSize {
+  }
+  serviceid fullName {
+  }
+  boolean isProtected {
+  }
+  string masterLabel {
+  }
+  number numPartitions {
+  }
+  string partitionKey {
+    foreignKeyDomain = [
+      salesforce.CustomField,
+    ]
+  }
+  string platformEventConsumer {
+    foreignKeyDomain = [
+      salesforce.ApexTrigger,
+    ]
+  }
+  string user {
+    foreignKeyDomain = [
+      salesforce.User,
+    ]
+  }
+  string internalId {
+    _hidden_value = true
+    localOnly = true
+  }
+  suffix = "platformEventSubscriberConfig"
+  dirName = "PlatformEventSubscriberConfigs"
+  metadataType = "PlatformEventSubscriberConfig"
+}

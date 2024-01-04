@@ -1,0 +1,48 @@
+type salesforce.ProcessFlowMigration {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  serviceid fullName {
+  }
+  string destinationFlowDefinition {
+    foreignKeyDomain = [
+      salesforce.FlowDefinition,
+    ]
+  }
+  string destinationFlowVersion {
+    foreignKeyDomain = [
+      salesforce.Flow,
+    ]
+  }
+  string developerName {
+  }
+  string masterLabel {
+  }
+  string migratedCriteriaLabel {
+  }
+  string migratedCriteriaName {
+  }
+  string processVersion {
+    foreignKeyDomain = [
+      salesforce.Flow,
+    ]
+  }
+  string internalId {
+    _hidden_value = true
+    localOnly = true
+  }
+  suffix = "processflowmigration"
+  dirName = "processflowmigrations"
+  metadataType = "ProcessFlowMigration"
+}

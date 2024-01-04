@@ -1,0 +1,37 @@
+type salesforce.ExperienceContainer {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  serviceid fullName {
+  }
+  string masterLabel {
+  }
+  string space {
+  }
+  string type {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "SFS",
+      ]
+    }
+  }
+  string internalId {
+    _hidden_value = true
+    localOnly = true
+  }
+  suffix = "experienceContainer"
+  dirName = "experienceContainers"
+  metadataType = "ExperienceContainer"
+}

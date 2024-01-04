@@ -1,0 +1,74 @@
+type salesforce.AIApplication {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  serviceid fullName {
+  }
+  string developerName {
+  }
+  string masterLabel {
+  }
+  string status {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Disabled",
+        "Draft",
+        "Enabled",
+        "Migrated",
+      ]
+    }
+  }
+  string type {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Assistant",
+        "Bots",
+        "CallCaseWrapUp",
+        "CaseClassification",
+        "CaseWrapUp",
+        "CustomizablePropensityScoring",
+        "Discovery",
+        "EPLite",
+        "ForecastingPredictive",
+        "GenerativeIntelligence",
+        "IntelligentOffers",
+        "InvoiceLatePaymentRiskCalculation",
+        "KeyAccountIdentification",
+        "LeadScoring",
+        "OpportunityPushedOutInsight",
+        "OpportunityScoring",
+        "Platform",
+        "PredictionBuilder",
+        "RecommendationBuilder",
+        "ReferralScoring",
+        "SalesAIForecastingPredictive",
+        "SalesAILeadScoring",
+        "SalesAIOpportunityForecasting",
+        "SalesAIOpportunityScoring",
+        "ServiceCaseClassification",
+        "ServiceCaseWrapUp",
+        "VoiceWrapUp",
+      ]
+    }
+  }
+  string internalId {
+    _hidden_value = true
+    localOnly = true
+  }
+  suffix = "ai"
+  dirName = "aiApplications"
+  metadataType = "AIApplication"
+}

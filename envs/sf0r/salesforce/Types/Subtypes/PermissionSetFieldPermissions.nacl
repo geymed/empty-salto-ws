@@ -1,0 +1,23 @@
+type salesforce.PermissionSetFieldPermissions {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  boolean editable {
+  }
+  string field {
+  }
+  boolean readable {
+  }
+  metadataType = "PermissionSetFieldPermissions"
+}

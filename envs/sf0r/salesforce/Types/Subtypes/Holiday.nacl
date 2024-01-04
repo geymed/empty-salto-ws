@@ -1,0 +1,88 @@
+type salesforce.Holiday {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  string activityDate {
+  }
+  string businessHours {
+  }
+  string description {
+  }
+  string endTime {
+  }
+  boolean isRecurring {
+  }
+  string name {
+  }
+  number recurrenceDayOfMonth {
+  }
+  string recurrenceDayOfWeek {
+  }
+  number recurrenceDayOfWeekMask {
+  }
+  string recurrenceEndDate {
+  }
+  string recurrenceInstance {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "First",
+        "Fourth",
+        "Last",
+        "Second",
+        "Third",
+      ]
+    }
+  }
+  number recurrenceInterval {
+  }
+  string recurrenceMonthOfYear {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "April",
+        "August",
+        "December",
+        "February",
+        "January",
+        "July",
+        "June",
+        "March",
+        "May",
+        "November",
+        "October",
+        "September",
+      ]
+    }
+  }
+  string recurrenceStartDate {
+  }
+  string recurrenceType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "RecursDaily",
+        "RecursEveryWeekday",
+        "RecursMonthly",
+        "RecursMonthlyNth",
+        "RecursWeekly",
+        "RecursYearly",
+        "RecursYearlyNth",
+      ]
+    }
+  }
+  string startTime {
+  }
+  metadataType = "Holiday"
+}

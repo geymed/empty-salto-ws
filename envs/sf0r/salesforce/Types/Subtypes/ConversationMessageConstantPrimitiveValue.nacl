@@ -1,0 +1,23 @@
+type salesforce.ConversationMessageConstantPrimitiveValue {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  string contentAssetName {
+  }
+  string textValue {
+  }
+  string urlValue {
+  }
+  metadataType = "ConversationMessageConstantPrimitiveValue"
+}

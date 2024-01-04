@@ -1,0 +1,84 @@
+type salesforce.FlowScreen {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  salesforce.FlowScreenAction actions {
+  }
+  boolean allowBack {
+  }
+  boolean allowFinish {
+  }
+  boolean allowPause {
+  }
+  string backButtonLabel {
+  }
+  salesforce.FlowConnector connector {
+  }
+  string description {
+  }
+  string elementSubtype {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "BackgroundStep",
+        "CreatePromptInstructions",
+        "FilterCollectionProcessor",
+        "InteractiveStep",
+        "ManagedContentRoleInteractiveStep",
+        "ManagedContentVariantAutoPublishBackgroundStep",
+        "ManagedContentVariantAutoUnpublishBackgroundStep",
+        "ManagedContentVariantSetLockBackgroundStep",
+        "ManagedContentVariantSetReadyBackgroundStep",
+        "MuleSoftStep",
+        "RecommendationMapCollectionProcessor",
+        "SortCollectionProcessor",
+        "WaitAttribute",
+        "WaitDate",
+        "WaitDuration",
+      ]
+    }
+    foreignKeyDomain = [
+      "FlowElementSubtypeDefinition",
+    ]
+  }
+  salesforce.FlowScreenField fields {
+  }
+  string helpText {
+  }
+  string label {
+  }
+  number locationX {
+  }
+  number locationY {
+  }
+  string name {
+  }
+  string nextOrFinishButtonLabel {
+  }
+  string pauseButtonLabel {
+  }
+  string pausedText {
+  }
+  salesforce.FlowMetadataValue processMetadataValues {
+  }
+  salesforce.FlowScreenRule rules {
+  }
+  boolean showFooter {
+  }
+  boolean showHeader {
+  }
+  salesforce.FlowScreenTrigger triggers {
+  }
+  metadataType = "FlowScreen"
+}

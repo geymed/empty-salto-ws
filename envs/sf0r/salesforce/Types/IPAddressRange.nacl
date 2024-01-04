@@ -1,0 +1,52 @@
+type salesforce.IPAddressRange {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  string description {
+  }
+  string endIpAddress {
+  }
+  serviceid fullName {
+  }
+  string ipAddressFeature {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "EmailIpFiltering",
+      ]
+    }
+  }
+  string ipAddressUsageScope {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Exclusion",
+        "Inclusion",
+      ]
+    }
+  }
+  boolean isProtected {
+  }
+  string masterLabel {
+  }
+  string startIpAddress {
+  }
+  string internalId {
+    _hidden_value = true
+    localOnly = true
+  }
+  suffix = "IPAddressRange"
+  dirName = "IPAddressRanges"
+  metadataType = "IPAddressRange"
+}

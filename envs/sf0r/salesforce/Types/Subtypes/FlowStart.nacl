@@ -1,0 +1,113 @@
+type salesforce.FlowStart {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  salesforce.FlowMetadataValue processMetadataValues {
+  }
+  string description {
+  }
+  string name {
+  }
+  string elementSubtype {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "BackgroundStep",
+        "CreatePromptInstructions",
+        "FilterCollectionProcessor",
+        "InteractiveStep",
+        "ManagedContentRoleInteractiveStep",
+        "ManagedContentVariantAutoPublishBackgroundStep",
+        "ManagedContentVariantAutoUnpublishBackgroundStep",
+        "ManagedContentVariantSetLockBackgroundStep",
+        "ManagedContentVariantSetReadyBackgroundStep",
+        "MuleSoftStep",
+        "RecommendationMapCollectionProcessor",
+        "SortCollectionProcessor",
+        "WaitAttribute",
+        "WaitDate",
+        "WaitDuration",
+      ]
+    }
+  }
+  string label {
+  }
+  number locationX {
+  }
+  number locationY {
+  }
+  salesforce.FlowConnector connector {
+  }
+  boolean doesRequireRecordChangedToMeetCriteria {
+  }
+  string entryType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "AfterCompletion",
+        "Always",
+      ]
+    }
+  }
+  string filterFormula {
+  }
+  string filterLogic {
+  }
+  salesforce.FlowRecordFilter filters {
+  }
+  string form {
+  }
+  string landingPage {
+  }
+  string object {
+  }
+  string objectContainer {
+  }
+  string recordTriggerType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Create",
+        "CreateAndUpdate",
+        "Delete",
+        "None",
+        "Update",
+      ]
+    }
+  }
+  salesforce.FlowSchedule schedule {
+  }
+  salesforce.FlowScheduledPath scheduledPaths {
+  }
+  string segment {
+  }
+  string triggerType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "DataCloudDataChange",
+        "EventDrivenJourney",
+        "FormSubmissionEvent",
+        "None",
+        "PlatformEvent",
+        "RecordAfterSave",
+        "RecordBeforeDelete",
+        "RecordBeforeSave",
+        "Scheduled",
+        "Segment",
+      ]
+    }
+  }
+  metadataType = "FlowStart"
+}

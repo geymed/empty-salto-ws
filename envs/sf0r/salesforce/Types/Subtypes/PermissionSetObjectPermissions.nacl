@@ -1,0 +1,31 @@
+type salesforce.PermissionSetObjectPermissions {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  boolean allowCreate {
+  }
+  boolean allowDelete {
+  }
+  boolean allowEdit {
+  }
+  boolean allowRead {
+  }
+  boolean modifyAllRecords {
+  }
+  string object {
+  }
+  boolean viewAllRecords {
+  }
+  metadataType = "PermissionSetObjectPermissions"
+}

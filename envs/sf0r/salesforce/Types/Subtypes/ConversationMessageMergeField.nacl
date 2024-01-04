@@ -1,0 +1,31 @@
+type salesforce.ConversationMessageMergeField {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  string formulaTemplate {
+  }
+  string mergeFieldType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "ListTemplate",
+      ]
+    }
+  }
+  string name {
+  }
+  string valueSourceReference {
+  }
+  metadataType = "ConversationMessageMergeField"
+}

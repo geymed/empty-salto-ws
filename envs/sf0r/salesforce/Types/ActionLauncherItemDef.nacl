@@ -1,0 +1,54 @@
+type salesforce.ActionLauncherItemDef {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  serviceid fullName {
+  }
+  string identifier {
+  }
+  string itemActionType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Omniscript",
+      ]
+    }
+  }
+  string itemCategory {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "dbBased",
+        "fileBased",
+      ]
+    }
+  }
+  string itemLanguage {
+  }
+  string masterLabel {
+  }
+  string subType {
+  }
+  string type {
+  }
+  string versionNumber {
+  }
+  string internalId {
+    _hidden_value = true
+    localOnly = true
+  }
+  suffix = "actionLauncherItemDef"
+  dirName = "ActionLauncherItemDef"
+  metadataType = "ActionLauncherItemDef"
+}

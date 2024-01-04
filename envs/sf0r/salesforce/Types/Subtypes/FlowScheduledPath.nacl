@@ -1,0 +1,62 @@
+type salesforce.FlowScheduledPath {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  salesforce.FlowMetadataValue processMetadataValues {
+  }
+  string description {
+  }
+  string name {
+  }
+  salesforce.FlowConnector connector {
+  }
+  string label {
+  }
+  number maxBatchSize {
+  }
+  number offsetNumber {
+  }
+  string offsetUnit {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Days",
+        "Hours",
+        "Minutes",
+        "Months",
+        "Weeks",
+      ]
+    }
+  }
+  string pathType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "AsyncAfterCommit",
+      ]
+    }
+  }
+  string recordField {
+  }
+  string timeSource {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "RecordField",
+        "RecordTriggerEvent",
+      ]
+    }
+  }
+  metadataType = "FlowScheduledPath"
+}

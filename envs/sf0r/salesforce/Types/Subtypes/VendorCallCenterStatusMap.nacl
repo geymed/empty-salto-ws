@@ -1,0 +1,24 @@
+type salesforce.VendorCallCenterStatusMap {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  string externalStatus {
+  }
+  string servicePresenceStatus {
+    foreignKeyDomain = [
+      "ServicePresenceStatus",
+    ]
+  }
+  metadataType = "VendorCallCenterStatusMap"
+}

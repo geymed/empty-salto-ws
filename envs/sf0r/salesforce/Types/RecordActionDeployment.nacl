@@ -1,0 +1,50 @@
+type salesforce.RecordActionDeployment {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  serviceid fullName {
+  }
+  salesforce.RecordActionDeploymentChannel channelConfigurations {
+  }
+  string componentName {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "ActionLauncher",
+        "ActionsAndRecommendations",
+      ]
+    }
+  }
+  salesforce.RecordActionDeploymentContext deploymentContexts {
+  }
+  boolean hasGuidedActions {
+  }
+  boolean hasOmniscripts {
+  }
+  boolean hasRecommendations {
+  }
+  string masterLabel {
+  }
+  salesforce.RecordActionRecommendation recommendation {
+  }
+  salesforce.RecordActionSelectableItem selectableItems {
+  }
+  string internalId {
+    _hidden_value = true
+    localOnly = true
+  }
+  suffix = "deployment"
+  dirName = "recordActionDeployments"
+  metadataType = "RecordActionDeployment"
+}
