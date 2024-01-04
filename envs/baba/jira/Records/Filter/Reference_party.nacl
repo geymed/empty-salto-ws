@@ -1,0 +1,14 @@
+jira.Filter Reference_party@s {
+  name = "Reference party"
+  description = ""
+  owner = {
+    id = "5e6a1df25df5fb0cfee33250"
+    displayName = "Amit Goldfarb"
+  }
+  jql = "resolution = Unresolved AND labels = reference-party order by created DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

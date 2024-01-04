@@ -1,0 +1,14 @@
+jira.Filter Non_closed_candidate_tickets@bss {
+  name = "Non-closed candidate tickets"
+  description = ""
+  owner = {
+    id = "5fb551c8f8b01200695a98b4"
+    displayName = "Igal Perelman"
+  }
+  jql = "status in (Approved, Backlog, CANCELED, \"CANNOT REPRODUCE\", Design, Draft, \"IN DESIGN REVIEW\", \"In Progress\", \"In Review\", Open, Pending, PM, Published, ReadyForStaging, Staged, \"To Do\") AND labels = candidate"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

@@ -1,0 +1,3 @@
+jira.Group opsgenie_users@b {
+  name = "opsgenie-users"
+}

@@ -1,0 +1,14 @@
+jira.Filter CPQ_tasks@s {
+  name = "CPQ tasks"
+  description = ""
+  owner = {
+    id = "5e6a1df25df5fb0cfee33250"
+    displayName = "Amit Goldfarb"
+  }
+  jql = "project = SALTO AND resolution = Unresolved AND labels = CPQ order by created DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

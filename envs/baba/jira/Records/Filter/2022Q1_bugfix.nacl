@@ -1,0 +1,14 @@
+jira.Filter "2022Q1_bugfix@b" {
+  name = "2022Q1-bugfix"
+  description = ""
+  owner = {
+    id = "5fb551c8f8b01200695a98b4"
+    displayName = "Igal Perelman"
+  }
+  jql = "labels = 2022Q1-bugfix"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

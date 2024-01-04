@@ -1,0 +1,24 @@
+jira.Filter sjp_stats_incidents_opened_current_week_adaptors@bbssss {
+  name = "sjp-stats-incidents opened current week adaptors"
+  description = ""
+  owner = {
+    id = "636428e9d66d8108a125f0ce"
+    displayName = "Jonah Pressman"
+  }
+  jql = "project = \"INCIDENT\" and createdDate>= startOfWeek() and created <= endOfWeek() and labels in (application:salesforce, salesforce,application:netsuite,  netsuite,application:zendesk, zendesk,application:jira, jira, jira-adapter) ORDER BY created DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  columns = [
+    {
+      label = "Key"
+      value = "issuekey"
+    },
+    {
+      label = "Labels"
+      value = "labels"
+    },
+  ]
+}

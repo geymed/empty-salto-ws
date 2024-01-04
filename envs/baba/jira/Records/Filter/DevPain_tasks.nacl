@@ -1,0 +1,17 @@
+jira.Filter DevPain_tasks@s {
+  name = "DevPain tasks"
+  description = ""
+  owner = {
+    id = "5e16e36b61d95d0d9aa69198"
+    displayName = "Erik Zaadi"
+  }
+  jql = "labels = \"devpain\" order by priority"
+  sharePermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10044
+      }
+    },
+  ]
+}

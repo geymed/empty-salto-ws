@@ -1,0 +1,16 @@
+jira.Filter Filter_for_Miki_s_board@ssts {
+  name = "Filter for Miki's board"
+  owner = {
+    id = "622ba0c5f1e55c0070f38438"
+    displayName = "Miki Chernyak"
+  }
+  jql = "project = SAAS AND (assignee=622ba0c5f1e55c0070f38438 OR assignee was 622ba0c5f1e55c0070f38438) AND (labels !=\"align-hour\" OR labels is EMPTY) ORDER BY Rank ASC"
+  sharePermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10044
+      }
+    },
+  ]
+}

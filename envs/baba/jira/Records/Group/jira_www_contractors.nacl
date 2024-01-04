@@ -1,0 +1,3 @@
+jira.Group jira_www_contractors@b {
+  name = "jira-www-contractors"
+}

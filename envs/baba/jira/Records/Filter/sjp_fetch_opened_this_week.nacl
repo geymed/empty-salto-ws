@@ -1,0 +1,14 @@
+jira.Filter sjp_fetch_opened_this_week@bsss {
+  name = "sjp-fetch opened this week"
+  description = ""
+  owner = {
+    id = "636428e9d66d8108a125f0ce"
+    displayName = "Jonah Pressman"
+  }
+  jql = "project = INCIDENT AND createdDate >= startOfWeek() AND created <= endOfWeek() AND text ~ \"Operation Type: FETCH\" ORDER BY created ASC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

@@ -1,0 +1,16 @@
+jira.Filter Filter_for_SaaS@s {
+  name = "Filter for SaaS"
+  owner = {
+    id = "5fb551c8f8b01200695a98b4"
+    displayName = "Igal Perelman"
+  }
+  jql = "project = SAAS ORDER BY Rank ASC"
+  sharePermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10044
+      }
+    },
+  ]
+}

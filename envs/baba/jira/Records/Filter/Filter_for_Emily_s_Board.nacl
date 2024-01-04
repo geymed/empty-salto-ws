@@ -1,0 +1,16 @@
+jira.Filter Filter_for_Emily_s_Board@ssts {
+  name = "Filter for Emily's Board"
+  owner = {
+    id = "633b4c0761dbef2805c1318d"
+    displayName = "Emily Judds-Winograd"
+  }
+  jql = "project = PMM ORDER BY Rank ASC"
+  sharePermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10061
+      }
+    },
+  ]
+}

@@ -1,0 +1,5 @@
+jira.IssueLinkType Relates {
+  name = "Relates"
+  inward = "relates to"
+  outward = "relates to"
+}

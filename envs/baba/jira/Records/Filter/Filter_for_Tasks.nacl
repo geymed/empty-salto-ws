@@ -1,0 +1,16 @@
+jira.Filter Filter_for_Tasks@s {
+  name = "Filter for Tasks"
+  owner = {
+    id = "5e16e36d8dfdd40ec489ac51"
+    displayName = "Guy Kremnitzer"
+  }
+  jql = "project = SAAS ORDER BY Rank ASC"
+  sharePermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10044
+      }
+    },
+  ]
+}

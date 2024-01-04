@@ -1,0 +1,17 @@
+jira.Filter Incidents_Opened_in_the_Last_15_Minutes@s {
+  name = "Incidents Opened in the Last 15 Minutes"
+  description = '''
+Exactly as the title implies
+Is the basis for a regular e-mail to Dan Avigdor at his behest (11-DEC-2022)
+'''
+  owner = {
+    id = "636428e9d66d8108a125f0ce"
+    displayName = "Jonah Pressman"
+  }
+  jql = "project = INCIDENT AND created >= -15m ORDER BY created DESC"
+  sharePermissions = [
+    {
+      type = "global"
+    },
+  ]
+}

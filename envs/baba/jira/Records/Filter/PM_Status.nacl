@@ -1,0 +1,17 @@
+jira.Filter PM_Status@s {
+  name = "PM Status"
+  description = ""
+  owner = {
+    id = "5fb551c8f8b01200695a98b4"
+    displayName = "Igal Perelman"
+  }
+  jql = "status = PM order by created DESC"
+  sharePermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10044
+      }
+    },
+  ]
+}

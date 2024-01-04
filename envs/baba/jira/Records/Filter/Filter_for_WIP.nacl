@@ -1,0 +1,22 @@
+jira.Filter Filter_for_WIP@s {
+  name = "Filter for WIP"
+  owner = {
+    id = "5c728d29d48a17049c3adb86"
+    displayName = "Hadar Davidovich"
+  }
+  jql = "project in (SALTO, SAAS) ORDER BY Rank ASC"
+  sharePermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10042
+      }
+    },
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10044
+      }
+    },
+  ]
+}

@@ -1,0 +1,5 @@
+jira.IssueLinkType Duplicate {
+  name = "Duplicate"
+  inward = "is duplicated by"
+  outward = "duplicates"
+}

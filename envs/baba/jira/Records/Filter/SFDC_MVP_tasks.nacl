@@ -1,0 +1,23 @@
+jira.Filter SFDC_MVP_tasks@s {
+  name = "SFDC MVP tasks"
+  description = ""
+  owner = {
+    id = "5c7289009170244d98d8192c"
+    displayName = "Gil Hoffer"
+  }
+  jql = "labels in (sf-mvp-tests, sf-feature, sf-basic) AND labels not in (sf-mvp-optional)"
+  sharePermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10042
+      }
+    },
+    {
+      type = "group"
+      group = {
+        name = jira.Group.instance.administrators
+      }
+    },
+  ]
+}

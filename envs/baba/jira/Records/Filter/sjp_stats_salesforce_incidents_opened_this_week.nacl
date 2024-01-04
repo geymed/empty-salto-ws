@@ -1,0 +1,56 @@
+jira.Filter sjp_stats_salesforce_incidents_opened_this_week@bbssss {
+  name = "sjp-stats-salesforce incidents opened this week"
+  description = ""
+  owner = {
+    id = "636428e9d66d8108a125f0ce"
+    displayName = "Jonah Pressman"
+  }
+  jql = "project = \"INCIDENT\" and createdDate>= startOfWeek() and created <= endOfWeek() and labels in (salesforce, application:salesforce) ORDER BY created DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  columns = [
+    {
+      label = "Issue Type"
+      value = "issuetype"
+    },
+    {
+      label = "Key"
+      value = "issuekey"
+    },
+    {
+      label = "Summary"
+      value = "summary"
+    },
+    {
+      label = "Assignee"
+      value = "assignee"
+    },
+    {
+      label = "Reporter"
+      value = "reporter"
+    },
+    {
+      label = "Priority"
+      value = "priority"
+    },
+    {
+      label = "Status"
+      value = "status"
+    },
+    {
+      label = "Created"
+      value = "created"
+    },
+    {
+      label = "Updated"
+      value = "updated"
+    },
+    {
+      label = "Due date"
+      value = "duedate"
+    },
+  ]
+}

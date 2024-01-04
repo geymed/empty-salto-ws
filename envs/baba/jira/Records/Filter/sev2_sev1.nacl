@@ -1,0 +1,14 @@
+jira.Filter sev2_sev1@ze {
+  name = "sev2+sev1"
+  description = ""
+  owner = {
+    id = "5c728d29d48a17049c3adb86"
+    displayName = "Hadar Davidovich"
+  }
+  jql = "project = INCIDENT AND \"Incident Severity[Dropdown]\" in (SEV1, SEV2) order by created DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

@@ -1,0 +1,16 @@
+jira.Filter Filter_for_Tracked_Core_Adapters_tasks@ssszes {
+  name = "Filter for Tracked Core+Adapters tasks"
+  owner = {
+    id = "5c7289009170244d98d8192c"
+    displayName = "Gil Hoffer"
+  }
+  jql = "project = SALTO AND labels = tracked ORDER BY Rank ASC"
+  sharePermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10042
+      }
+    },
+  ]
+}

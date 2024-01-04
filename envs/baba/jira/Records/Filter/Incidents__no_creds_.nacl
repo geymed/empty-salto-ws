@@ -1,0 +1,14 @@
+jira.Filter Incidents__no_creds_@sjsk {
+  name = "Incidents (no creds)"
+  description = ""
+  owner = {
+    id = "5c728d29d48a17049c3adb86"
+    displayName = "Hadar Davidovich"
+  }
+  jql = "project = INCIDENT AND NOT \"Type of error[Dropdown]\" = Credentials order by created DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

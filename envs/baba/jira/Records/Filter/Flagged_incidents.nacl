@@ -1,0 +1,14 @@
+jira.Filter Flagged_incidents@s {
+  name = "Flagged incidents"
+  description = ""
+  owner = {
+    id = "5e22506ba531f30ca385802d"
+    displayName = "Amit Goldberg"
+  }
+  jql = "project = Incidents AND \"Flagged[Checkboxes]\" = Impediment"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

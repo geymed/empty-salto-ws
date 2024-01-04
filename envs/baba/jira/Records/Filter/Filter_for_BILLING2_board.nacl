@@ -1,0 +1,16 @@
+jira.Filter Filter_for_BILLING2_board@s {
+  name = "Filter for BILLING2 board"
+  owner = {
+    id = "5e22506ba531f30ca385802d"
+    displayName = "Amit Goldberg"
+  }
+  jql = "project = BILLING2 ORDER BY Rank ASC"
+  sharePermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10068
+      }
+    },
+  ]
+}

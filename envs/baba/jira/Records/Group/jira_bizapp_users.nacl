@@ -1,0 +1,3 @@
+jira.Group jira_bizapp_users@b {
+  name = "jira-bizapp-users"
+}

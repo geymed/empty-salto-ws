@@ -1,0 +1,16 @@
+jira.Filter Filter_for_DOC_board@s {
+  name = "Filter for DOC board"
+  owner = {
+    id = "60e8b78784c9920071996842"
+    displayName = "Lior Neudorfer"
+  }
+  jql = "project = DOC ORDER BY Rank ASC"
+  sharePermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10069
+      }
+    },
+  ]
+}

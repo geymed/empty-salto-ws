@@ -1,0 +1,14 @@
+jira.Filter change_mgmt@s {
+  name = "change mgmt"
+  description = ""
+  owner = {
+    id = "5cf38595d9f6b90f3d4b042f"
+    displayName = "Former user"
+  }
+  jql = "labels = change-management order by created DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

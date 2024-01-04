@@ -1,0 +1,5 @@
+jira.IssueLinkType Cloners {
+  name = "Cloners"
+  inward = "is cloned by"
+  outward = "clones"
+}

@@ -1,0 +1,35 @@
+jira.Filter Filter_for_Avi_s_Board@ssts {
+  name = "Filter for Avi's Board"
+  description = ""
+  owner = {
+    id = "61f8f547acd4cb0069cf8d80"
+    displayName = "Avi Loterstein"
+  }
+  jql = "project in (WWW, NA, SALBIZOPS, MKTP) ORDER BY Rank ASC"
+  editPermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10064
+      }
+    },
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10047
+      }
+    },
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10048
+      }
+    },
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10071
+      }
+    },
+  ]
+}

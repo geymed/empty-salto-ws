@@ -1,0 +1,14 @@
+jira.Filter sjp_lw_zendesk_incidents@bbs {
+  name = "sjp-lw-zendesk incidents"
+  description = ""
+  owner = {
+    id = "636428e9d66d8108a125f0ce"
+    displayName = "Jonah Pressman"
+  }
+  jql = "project = \"INCIDENT\" and createdDate>= startOfWeek(-7d) and created <= endOfWeek(-7d) and labels in (zendesk, application:zendesk) ORDER BY created DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

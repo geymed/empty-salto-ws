@@ -1,0 +1,14 @@
+jira.Filter Zendesk_Tickets@s {
+  name = "Zendesk Tickets"
+  description = ""
+  owner = {
+    id = "5c728d29d48a17049c3adb86"
+    displayName = "Hadar Davidovich"
+  }
+  jql = "project in (SALTO, SAAS) AND status in (Design, \"IN DESIGN REVIEW\", \"In Progress\", \"In Review\", Pending, PM, \"To Do\") AND (component = \"Zendesk Adapter\" OR labels = zendesk) ORDER BY priority DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

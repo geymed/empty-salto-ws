@@ -1,0 +1,16 @@
+jira.Filter Filter_for_Design_Tasks@s {
+  name = "Filter for Design Tasks"
+  owner = {
+    id = "622ba0c5f1e55c0070f38438"
+    displayName = "Miki Chernyak"
+  }
+  jql = "project = SAAS AND (labels is EMPTY OR labels != align-hour AND labels != ui-hour) AND assignee in (622ba0c38a4bb60068f6f8da, 622ba0c5f1e55c0070f38438, 5f3d7377333edb0043b7699b) ORDER BY Rank ASC"
+  sharePermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10044
+      }
+    },
+  ]
+}

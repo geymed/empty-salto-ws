@@ -1,0 +1,3 @@
+jira.Group statuspage_administrators@b {
+  name = "statuspage-administrators"
+}

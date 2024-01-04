@@ -1,0 +1,3 @@
+jira.Group jira_soc2_users@b {
+  name = "jira-soc2-users"
+}

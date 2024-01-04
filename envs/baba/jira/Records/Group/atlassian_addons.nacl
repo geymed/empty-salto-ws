@@ -1,0 +1,3 @@
+jira.Group atlassian_addons@b {
+  name = "atlassian-addons"
+}

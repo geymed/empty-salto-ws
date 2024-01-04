@@ -1,0 +1,6 @@
+jira.IssueType Infrastructure_Change@s {
+  description = "Use this type of issue to document a risky infrastructure change, breaking change, expected downtime, security implications etc"
+  name = "Infrastructure Change"
+  untranslatedName = "Infrastructure Change"
+  hierarchyLevel = 0
+}

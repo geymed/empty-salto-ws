@@ -1,0 +1,16 @@
+jira.Filter Filter_for_Miriam_board@s {
+  name = "Filter for Miriam board"
+  owner = {
+    id = "5f3d7377333edb0043b7699b"
+    displayName = "Miriam Isaac"
+  }
+  jql = "project in (MRKT, SAAS) ORDER BY Rank ASC"
+  sharePermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10044
+      }
+    },
+  ]
+}

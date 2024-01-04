@@ -1,0 +1,14 @@
+jira.Filter Open_unassigned_incidents@s {
+  name = "Open unassigned incidents"
+  description = "Incidents in production that are not assigned to any user or done"
+  owner = {
+    id = "5e16e36b61d95d0d9aa69198"
+    displayName = "Erik Zaadi"
+  }
+  jql = "project = \"INCIDENT\" AND status != Done AND assignee = 557058:f58131cb-b67d-43c7-b30d-6b58d40bd077 ORDER BY created DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

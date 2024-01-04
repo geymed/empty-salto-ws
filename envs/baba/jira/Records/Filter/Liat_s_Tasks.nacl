@@ -1,0 +1,30 @@
+jira.Filter Liat_s_Tasks@ts {
+  name = "Liat's Tasks"
+  description = ""
+  owner = {
+    id = "61f8f547acd4cb0069cf8d80"
+    displayName = "Avi Loterstein"
+  }
+  jql = "assignee = 5f62208e7598de0069fc02ba"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  editPermissions = [
+    {
+      type = "user"
+      user = {
+        id = "5f62208e7598de0069fc02ba"
+        displayName = "Liat Muraver Levy"
+      }
+    },
+    {
+      type = "user"
+      user = {
+        id = "5f87f8fabdef80006f97a8e9"
+        displayName = "Yoni Argaman"
+      }
+    },
+  ]
+}

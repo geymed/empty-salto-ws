@@ -1,0 +1,65 @@
+jira.Filter unassigned_incidents@s {
+  name = "unassigned incidents"
+  description = ""
+  owner = {
+    id = "5c728d29d48a17049c3adb86"
+    displayName = "Hadar Davidovich"
+  }
+  jql = "assignee in (EMPTY, 557058:f58131cb-b67d-43c7-b30d-6b58d40bd077) AND project = INCIDENT AND status in (\"In Progress\", \"In Review\", Open, \"To Do\")"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  editPermissions = [
+    {
+      type = "user"
+      user = {
+        id = "5e22506ba531f30ca385802d"
+        displayName = "Amit Goldberg"
+      }
+    },
+  ]
+  columns = [
+    {
+      label = "Issue Type"
+      value = "issuetype"
+    },
+    {
+      label = "Key"
+      value = "issuekey"
+    },
+    {
+      label = "Summary"
+      value = "summary"
+    },
+    {
+      label = "Assignee"
+      value = "assignee"
+    },
+    {
+      label = "Reporter"
+      value = "reporter"
+    },
+    {
+      label = "Priority"
+      value = "priority"
+    },
+    {
+      label = "Status"
+      value = "status"
+    },
+    {
+      label = "Created"
+      value = "created"
+    },
+    {
+      label = "Updated"
+      value = "updated"
+    },
+    {
+      label = "Due date"
+      value = "duedate"
+    },
+  ]
+}

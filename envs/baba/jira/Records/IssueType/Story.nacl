@@ -1,0 +1,6 @@
+jira.IssueType Story {
+  description = "Stories track functionality or features expressed as user goals."
+  name = "Story"
+  untranslatedName = "Story"
+  hierarchyLevel = 0
+}

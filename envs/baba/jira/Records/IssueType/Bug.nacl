@@ -1,0 +1,6 @@
+jira.IssueType Bug {
+  description = "A problem which impairs or prevents the functions of the product."
+  name = "Bug"
+  untranslatedName = "Bug"
+  hierarchyLevel = 0
+}

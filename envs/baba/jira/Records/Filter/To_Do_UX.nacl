@@ -1,0 +1,60 @@
+jira.Filter To_Do_UX@bs {
+  name = "To-Do UX"
+  description = ""
+  owner = {
+    id = "5c728d29d48a17049c3adb86"
+    displayName = "Hadar Davidovich"
+  }
+  jql = "assignee in (5f3d7377333edb0043b7699b, 5eeb72921b849f0ac0aa09ad) AND project = SAAS AND status in (\"In Progress\", \"In Review\", \"To Do\") ORDER BY priority DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  columns = [
+    {
+      label = "Issue Type"
+      value = "issuetype"
+    },
+    {
+      label = "Key"
+      value = "issuekey"
+    },
+    {
+      label = "Summary"
+      value = "summary"
+    },
+    {
+      label = "Assignee"
+      value = "assignee"
+    },
+    {
+      label = "Reporter"
+      value = "reporter"
+    },
+    {
+      label = "Priority"
+      value = "priority"
+    },
+    {
+      label = "Status"
+      value = "status"
+    },
+    {
+      label = "Resolution"
+      value = "resolution"
+    },
+    {
+      label = "Created"
+      value = "created"
+    },
+    {
+      label = "Updated"
+      value = "updated"
+    },
+    {
+      label = "Due date"
+      value = "duedate"
+    },
+  ]
+}

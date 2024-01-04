@@ -1,0 +1,6 @@
+jira.IssueType New_Feature@s {
+  description = "A new feature of the product, which has yet to be developed."
+  name = "New Feature"
+  untranslatedName = "New Feature"
+  hierarchyLevel = 0
+}

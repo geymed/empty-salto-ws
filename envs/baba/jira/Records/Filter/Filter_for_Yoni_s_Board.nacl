@@ -1,0 +1,28 @@
+jira.Filter Filter_for_Yoni_s_Board@ssts {
+  name = "Filter for Yoni's Board"
+  owner = {
+    id = "5f87f8fabdef80006f97a8e9"
+    displayName = "Yoni Argaman"
+  }
+  jql = "project in (PMM, EV, CONT, MSP, WWW, SALBIZOPS) ORDER BY Rank ASC"
+  sharePermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10047
+      }
+    },
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10048
+      }
+    },
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10061
+      }
+    },
+  ]
+}

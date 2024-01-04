@@ -1,0 +1,3 @@
+jira.Group jira_administrators@b {
+  name = "jira-administrators"
+}

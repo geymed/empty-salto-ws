@@ -1,0 +1,16 @@
+jira.Filter Filter_for_SALBIZ_board@s {
+  name = "Filter for SALBIZ board"
+  owner = {
+    id = "5e6ab75a5df5fb0cfee34357"
+    displayName = "Tomer Mevorach"
+  }
+  jql = "project = SALBIZ ORDER BY Rank ASC"
+  sharePermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10047
+      }
+    },
+  ]
+}

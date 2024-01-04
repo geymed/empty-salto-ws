@@ -1,0 +1,22 @@
+jira.Filter Filter_for_WWW_SALBIZOPS_board@ssds {
+  name = "Filter for WWW/SALBIZOPS board"
+  owner = {
+    id = "5e22506ba531f30ca385802d"
+    displayName = "Amit Goldberg"
+  }
+  jql = "project in (WWW, SALBIZOPS) ORDER BY Rank ASC"
+  sharePermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10047
+      }
+    },
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10048
+      }
+    },
+  ]
+}

@@ -1,0 +1,3 @@
+jira.Group trusted_users@b {
+  name = "trusted-users"
+}
