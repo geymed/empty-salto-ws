@@ -1,0 +1,14 @@
+jira.Filter Salesforce_dev_cycle_2@sbb {
+  name = "Salesforce dev-cycle-2"
+  description = ""
+  owner = {
+    id = "5e6a1df25df5fb0cfee33250"
+    displayName = "Amit Goldfarb"
+  }
+  jql = "project = SALTO AND labels = dev-cycle-2 order by created DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

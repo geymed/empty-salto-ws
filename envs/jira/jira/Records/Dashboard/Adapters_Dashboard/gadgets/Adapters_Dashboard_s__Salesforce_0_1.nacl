@@ -1,0 +1,44 @@
+jira.DashboardGadget Adapters_Dashboard_s__Salesforce_0_1@umuuuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:filter-results-gadget/gadgets/filter-results-gadget.xml"
+  color = "blue"
+  position = {
+    row = 1
+    column = 0
+  }
+  title = "Salesforce"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "filterId"
+          value = jira.Filter.instance.Salesforce_Tickets@s
+        },
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "columnNames"
+          value = "issuetype|issuekey|summary|priority"
+        },
+        {
+          key = "isPopup"
+          value = "false"
+        },
+        {
+          key = "num"
+          value = "10"
+        },
+        {
+          key = "refresh"
+          value = "15"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.Adapters_Dashboard@s,
+  ]
+  _alias = "Salesforce"
+}

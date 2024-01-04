@@ -1,0 +1,14 @@
+jira.Filter Customers_Bugs@s {
+  name = "Customers Bugs"
+  description = ""
+  owner = {
+    id = "5c728d29d48a17049c3adb86"
+    displayName = "Hadar Davidovich"
+  }
+  jql = "project in (SAAS, Salto) AND issuetype = Bug AND status in (\"In Progress\", \"In Review\", Pending, PM, \"To Do\") and \"Related Customers[Labels]\" is not EMPTY ORDER BY created DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

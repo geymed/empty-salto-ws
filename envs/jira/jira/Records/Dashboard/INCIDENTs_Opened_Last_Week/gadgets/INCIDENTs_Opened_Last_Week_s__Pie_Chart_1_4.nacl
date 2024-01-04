@@ -1,0 +1,13 @@
+jira.DashboardGadget INCIDENTs_Opened_Last_Week_s__Pie_Chart_1_4@uuumuusuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:pie-chart-gadget/gadgets/piechart-gadget.xml"
+  color = "blue"
+  position = {
+    row = 4
+    column = 1
+  }
+  title = "Pie Chart"
+  _parent = [
+    jira.Dashboard.instance.INCIDENTs_Opened_Last_Week@s,
+  ]
+  _alias = "Pie Chart"
+}

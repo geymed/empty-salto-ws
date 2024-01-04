@@ -1,0 +1,52 @@
+jira.DashboardGadget Production_Dashboard_s__Incidents_by_Severity_0_0@umuussuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:pie-chart-gadget/gadgets/piechart-gadget.xml"
+  color = "white"
+  position = {
+    row = 0
+    column = 0
+  }
+  title = "Incidents by Severity"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "statType"
+          value = "customfield_10046"
+        },
+        {
+          key = "isPopup"
+          value = "false"
+        },
+        {
+          key = "name"
+          value = "open incidents"
+        },
+        {
+          key = "refresh"
+          value = "15"
+        },
+        {
+          key = "projectOrFilterId"
+          value = ""
+        },
+        {
+          key = "id"
+          value = "10125"
+        },
+        {
+          key = "type"
+          value = "filter"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.Production_Dashboard@s,
+  ]
+  _alias = "Incidents by Severity"
+}

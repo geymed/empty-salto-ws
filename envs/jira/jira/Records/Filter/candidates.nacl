@@ -1,0 +1,52 @@
+jira.Filter candidates {
+  name = "candidates"
+  description = ""
+  owner = {
+    id = "5c728d29d48a17049c3adb86"
+    displayName = "Hadar Davidovich"
+  }
+  jql = "project in (SALBIZOPS, SAAS, SALTO) AND status in (Backlog, \"IN DESIGN REVIEW\", \"In Progress\", \"In Review\", Pending, \"To Do\") AND labels = candidate ORDER BY created DESC, updated DESC, priority DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  columns = [
+    {
+      label = "Issue Type"
+      value = "issuetype"
+    },
+    {
+      label = "Key"
+      value = "issuekey"
+    },
+    {
+      label = "Summary"
+      value = "summary"
+    },
+    {
+      label = "Assignee"
+      value = "assignee"
+    },
+    {
+      label = "Reporter"
+      value = "reporter"
+    },
+    {
+      label = "Priority"
+      value = "priority"
+    },
+    {
+      label = "Status"
+      value = "status"
+    },
+    {
+      label = "Created"
+      value = "created"
+    },
+    {
+      label = "Updated"
+      value = "updated"
+    },
+  ]
+}

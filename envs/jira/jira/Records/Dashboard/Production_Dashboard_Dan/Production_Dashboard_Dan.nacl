@@ -1,0 +1,24 @@
+jira.Dashboard Production_Dashboard_Dan@s {
+  description = ""
+  name = "Production Dashboard Dan"
+  owner = {
+    id = "61f8f548c6bd1a00691cc091"
+    displayName = "Dan Avigdor"
+  }
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  gadgets = [
+    jira.DashboardGadget.instance.Production_Dashboard_Dan_s__Filter_Results_0_0@uumuusuu,
+    jira.DashboardGadget.instance.Production_Dashboard_Dan_s__Filter_Results_0_1@uumuusuu,
+    jira.DashboardGadget.instance.Production_Dashboard_Dan_s__Filter_Results_0_2@uumuusuu,
+    jira.DashboardGadget.instance.Production_Dashboard_Dan_s__Filter_Results_0_3@uumuusuu,
+    jira.DashboardGadget.instance.Production_Dashboard_Dan_s__Pie_Chart_1_0@uumuusuu,
+    jira.DashboardGadget.instance.Production_Dashboard_Dan_s__Issue_Statistics_1_1@uumuusuu,
+    jira.DashboardGadget.instance.Production_Dashboard_Dan_s__Issue_Statistics_1_2@uumuusuu,
+    jira.DashboardGadget.instance.Production_Dashboard_Dan_s__Average_Age_Chart_1_3@uumuussuu,
+  ]
+  layout = "AB"
+}

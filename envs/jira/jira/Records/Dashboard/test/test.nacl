@@ -1,0 +1,25 @@
+jira.Dashboard test {
+  description = ""
+  name = "test"
+  owner = {
+    id = "5fa91999b2633d0076583a61"
+    displayName = "Alon Stern"
+  }
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  gadgets = [
+    jira.DashboardGadget.instance.test__Filter_Results_0_0@uusuu,
+    jira.DashboardGadget.instance.test__Filter_Results_0_1@uusuu,
+    jira.DashboardGadget.instance.test__Filter_Results_0_2@uusuu,
+    jira.DashboardGadget.instance.test__Issue_Statistics_0_3@uusuu,
+    jira.DashboardGadget.instance.test__Filter_Results_1_0@uusuu,
+    jira.DashboardGadget.instance.test__Filter_Results_1_1@uusuu,
+    jira.DashboardGadget.instance.test__Issue_Statistics_1_2@uusuu,
+    jira.DashboardGadget.instance.test__Pie_Chart_1_3@uusuu,
+    jira.DashboardGadget.instance.test__Average_Age_Chart_1_4@uussuu,
+  ]
+  layout = "AA"
+}

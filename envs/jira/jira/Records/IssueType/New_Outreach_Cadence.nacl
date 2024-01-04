@@ -1,0 +1,6 @@
+jira.IssueType New_Outreach_Cadence@s {
+  description = ""
+  name = "New Outreach Cadence"
+  untranslatedName = "New Outreach Cadence"
+  hierarchyLevel = 0
+}

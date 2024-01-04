@@ -1,0 +1,14 @@
+jira.Filter Amitberg___Open_infra_changes@sbsss {
+  name = "Amitberg - Open infra changes"
+  description = ""
+  owner = {
+    id = "5e22506ba531f30ca385802d"
+    displayName = "Amit Goldberg"
+  }
+  jql = "project = \"SAAS\" AND statuscategory IN (\"New\") AND issuetype = \"Infrastructure Change\" ORDER BY created DESC, issuekey DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

@@ -1,0 +1,16 @@
+jira.Filter Filter_for_Website_Board@s {
+  name = "Filter for Website Board"
+  owner = {
+    id = "61fc08c7f5f5b80070c846d7"
+    displayName = "Anastasia Rachuk"
+  }
+  jql = "project = WWW ORDER BY priority DESC"
+  sharePermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10048
+      }
+    },
+  ]
+}

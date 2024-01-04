@@ -1,0 +1,14 @@
+jira.Filter Demo_Requests@s {
+  name = "Demo Requests"
+  description = ""
+  owner = {
+    id = "5c77ccf6d3e7b93ea1c29dde"
+    displayName = "Former user"
+  }
+  jql = "project = SALTO AND labels = demo-request ORDER BY priority DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

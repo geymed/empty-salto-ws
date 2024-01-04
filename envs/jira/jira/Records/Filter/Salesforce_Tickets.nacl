@@ -1,0 +1,14 @@
+jira.Filter Salesforce_Tickets@s {
+  name = "Salesforce Tickets"
+  description = ""
+  owner = {
+    id = "5c728d29d48a17049c3adb86"
+    displayName = "Hadar Davidovich"
+  }
+  jql = "project in (SALTO, SAAS) AND status in (Design, \"IN DESIGN REVIEW\", \"In Progress\", \"In Review\", Pending, PM, \"To Do\") AND (component = \"Salesforce Adapter\" OR labels = salesforce) ORDER BY priority DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

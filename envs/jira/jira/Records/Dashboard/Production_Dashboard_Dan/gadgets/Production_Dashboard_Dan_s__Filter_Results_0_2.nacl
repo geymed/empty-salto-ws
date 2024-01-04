@@ -1,0 +1,44 @@
+jira.DashboardGadget Production_Dashboard_Dan_s__Filter_Results_0_2@uumuusuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:filter-results-gadget/gadgets/filter-results-gadget.xml"
+  color = "red"
+  position = {
+    row = 2
+    column = 0
+  }
+  title = "Filter Results"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "filterId"
+          value = jira.Filter.instance.new_production_bugs@s
+        },
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "columnNames"
+          value = "issuetype|issuekey|priority|summary|assignee|issuelinks"
+        },
+        {
+          key = "isPopup"
+          value = "false"
+        },
+        {
+          key = "num"
+          value = "10"
+        },
+        {
+          key = "refresh"
+          value = "15"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.Production_Dashboard_Dan@s,
+  ]
+  _alias = "Filter Results"
+}

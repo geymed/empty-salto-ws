@@ -1,0 +1,14 @@
+jira.Filter Assigned_to_current_user___not_done@ssssbss {
+  name = "Assigned to current user - not done"
+  description = ""
+  owner = {
+    id = "5e22506ba531f30ca385802d"
+    displayName = "Amit Goldberg"
+  }
+  jql = "statusCategory in (\"To Do\", \"In Progress\") AND assignee in (currentUser()) ORDER BY priority DESC, created DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

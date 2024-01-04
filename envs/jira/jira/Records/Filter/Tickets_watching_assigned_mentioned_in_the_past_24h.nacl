@@ -1,0 +1,14 @@
+jira.Filter Tickets_watching_assigned_mentioned_in_the_past_24h@sddssss {
+  name = "Tickets watching/assigned/mentioned in the past 24h"
+  description = ""
+  owner = {
+    id = "5e22506ba531f30ca385802d"
+    displayName = "Amit Goldberg"
+  }
+  jql = "(comment ~ currentUser() OR description ~ currentUser() OR watcher = currentUser() OR assignee = currentUser()) AND (updated >= -24h OR created >= -24h) ORDER BY updated DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

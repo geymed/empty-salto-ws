@@ -1,0 +1,44 @@
+jira.DashboardGadget Copy_of_Production_Dashboard_s__Filter_Results_1_1@uuumuusuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:filter-results-gadget/gadgets/filter-results-gadget.xml"
+  color = "blue"
+  position = {
+    row = 1
+    column = 1
+  }
+  title = "Filter Results"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "filterId"
+          value = jira.Filter.instance.open_incidents@s
+        },
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "columnNames"
+          value = "issuetype|issuekey|summary|priority|assignee|Org Tier[Dropdown]"
+        },
+        {
+          key = "isPopup"
+          value = "false"
+        },
+        {
+          key = "num"
+          value = "10"
+        },
+        {
+          key = "refresh"
+          value = "15"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.Copy_of_Production_Dashboard@s,
+  ]
+  _alias = "Filter Results"
+}

@@ -1,0 +1,20 @@
+jira.Filter sjp_stats_incidents_this_week_by_tier@bbssss {
+  name = "sjp-stats-incidents this week by tier"
+  description = ""
+  owner = {
+    id = "636428e9d66d8108a125f0ce"
+    displayName = "Jonah Pressman"
+  }
+  jql = "project = \"INCIDENT\" and createdDate>= startOfWeek() and created <= endOfWeek() and labels in (application:salesforce, salesforce,application:netsuite,  netsuite,application:zendesk, zendesk,application:jira, jira, jira-adapter) ORDER BY created DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  columns = [
+    {
+      label = "Labels"
+      value = "labels"
+    },
+  ]
+}

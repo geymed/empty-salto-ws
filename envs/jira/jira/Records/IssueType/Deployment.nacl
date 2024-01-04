@@ -1,0 +1,6 @@
+jira.IssueType Deployment {
+  description = "Ticket for recording deploys to production website"
+  name = "Deployment"
+  untranslatedName = "Deployment"
+  hierarchyLevel = 0
+}

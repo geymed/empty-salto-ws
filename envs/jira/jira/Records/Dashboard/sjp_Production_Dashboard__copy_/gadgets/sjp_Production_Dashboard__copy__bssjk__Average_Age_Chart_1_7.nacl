@@ -1,0 +1,56 @@
+jira.DashboardGadget sjp_Production_Dashboard__copy__bssjk__Average_Age_Chart_1_7@uuuuumuussuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:average-age-chart-gadget/gadgets/average-age-gadget.xml"
+  color = "white"
+  position = {
+    row = 7
+    column = 1
+  }
+  title = "Average Age Chart"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "isPopup"
+          value = "false"
+        },
+        {
+          key = "name"
+          value = "Incidents"
+        },
+        {
+          key = "refresh"
+          value = "false"
+        },
+        {
+          key = "periodName"
+          value = "daily"
+        },
+        {
+          key = "projectOrFilterId"
+          value = "project-10056"
+        },
+        {
+          key = "daysprevious"
+          value = "30"
+        },
+        {
+          key = "id"
+          value = "10056"
+        },
+        {
+          key = "type"
+          value = "project"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.sjp_Production_Dashboard__copy_@bssjk,
+  ]
+  _alias = "Average Age Chart"
+}

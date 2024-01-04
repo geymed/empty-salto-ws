@@ -1,0 +1,40 @@
+jira.DashboardGadget Anastasia_s_Board_ts__Assigned_to_Me_0_1@uumuussuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:assigned-to-me-gadget/gadgets/assigned-to-me-gadget.xml"
+  color = "blue"
+  position = {
+    row = 1
+    column = 0
+  }
+  title = "Assigned to Me"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "refresh"
+          value = "false"
+        },
+        {
+          key = "sortColumn"
+          value = ""
+        },
+        {
+          key = "columnNames"
+          value = "issuetype|issuekey|summary|priority|project"
+        },
+        {
+          key = "num"
+          value = "10"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.Anastasia_s_Board@ts,
+  ]
+  _alias = "Assigned to Me"
+}

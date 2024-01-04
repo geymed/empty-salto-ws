@@ -1,0 +1,28 @@
+jira.Filter Filter_for_Marketing_Operations@s {
+  name = "Filter for Marketing Operations"
+  owner = {
+    id = "61fc08c7f5f5b80070c846d7"
+    displayName = "Anastasia Rachuk"
+  }
+  jql = "project in (PLATFORM, PMM) ORDER BY Rank DESC"
+  sharePermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10047
+      }
+    },
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10048
+      }
+    },
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10061
+      }
+    },
+  ]
+}

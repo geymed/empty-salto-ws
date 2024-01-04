@@ -1,0 +1,6 @@
+jira.IssueType Task {
+  description = "A task that needs to be done."
+  name = "Task"
+  untranslatedName = "Task"
+  hierarchyLevel = 0
+}

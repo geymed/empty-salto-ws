@@ -1,0 +1,23 @@
+jira.Filter Filter_for_Sagi_board@s {
+  name = "Filter for Sagi board"
+  description = ""
+  owner = {
+    id = "605c3da2109af10068b38c4e"
+    displayName = "Sagi Bracha"
+  }
+  jql = "project = PMM OR labels in (data-and-instrumentation, pro-tier-launch, jira-gtm) AND assignee in (currentUser()) OR  labels in (data-and-instrumentation, pro-tier-launch, jira-gtm) AND reporter in (currentUser()) ORDER BY Rank ASC"
+  sharePermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10048
+      }
+    },
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10061
+      }
+    },
+  ]
+}

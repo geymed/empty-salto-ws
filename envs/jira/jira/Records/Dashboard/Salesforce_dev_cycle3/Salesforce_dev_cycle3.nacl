@@ -1,0 +1,19 @@
+jira.Dashboard Salesforce_dev_cycle3@sb {
+  description = ""
+  name = "Salesforce dev-cycle3"
+  owner = {
+    id = "5e6a1df25df5fb0cfee33250"
+    displayName = "Amit Goldfarb"
+  }
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  gadgets = [
+    jira.DashboardGadget.instance.Salesforce_dev_cycle3_sb__Salesforce_dev_cycle_3_details_0_0@uumuusbbsuu,
+    jira.DashboardGadget.instance.Salesforce_dev_cycle3_sb__Statistics_dev_cycle_3_1_0@uumuusbsuu,
+    jira.DashboardGadget.instance.Salesforce_dev_cycle3_sb__Leftover_tasks_from_previous_dev_cycle_1_1@uumuussssbuu,
+  ]
+  layout = "AA"
+}

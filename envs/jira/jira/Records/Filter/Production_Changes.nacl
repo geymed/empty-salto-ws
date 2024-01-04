@@ -1,0 +1,23 @@
+jira.Filter Production_Changes@s {
+  name = "Production Changes"
+  description = ""
+  owner = {
+    id = "5c728d29d48a17049c3adb86"
+    displayName = "Hadar Davidovich"
+  }
+  jql = "project = \"PROD\" AND status IN (\"In Progress\",\"In Review\",\"Open\",\"To Do\") ORDER BY cf[10064] ASC, updated DESC, created DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  editPermissions = [
+    {
+      type = "user"
+      user = {
+        id = "5e22506ba531f30ca385802d"
+        displayName = "Amit Goldberg"
+      }
+    },
+  ]
+}

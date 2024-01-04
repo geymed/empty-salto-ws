@@ -1,0 +1,22 @@
+jira.Filter Filter_for_Deploy@s {
+  name = "Filter for Deploy"
+  owner = {
+    id = "60e8b78784c9920071996842"
+    displayName = "Lior Neudorfer"
+  }
+  jql = "project in (SALTO, SAAS) AND labels = deploy-board ORDER BY Rank ASC"
+  sharePermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10042
+      }
+    },
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10044
+      }
+    },
+  ]
+}

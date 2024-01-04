@@ -1,0 +1,14 @@
+jira.Filter System_issues@s {
+  name = "System issues"
+  description = ""
+  owner = {
+    id = "5c728d29d48a17049c3adb86"
+    displayName = "Hadar Davidovich"
+  }
+  jql = "project = INCIDENT AND \"Type of error[Dropdown]\" = System order by created DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

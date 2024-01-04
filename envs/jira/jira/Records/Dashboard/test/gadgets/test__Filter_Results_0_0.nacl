@@ -1,0 +1,48 @@
+jira.DashboardGadget test__Filter_Results_0_0@uusuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:filter-results-gadget/gadgets/filter-results-gadget.xml"
+  color = "purple"
+  position = {
+    row = 0
+    column = 0
+  }
+  title = "Filter Results"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "filterId"
+          value = jira.Filter.instance.production_bugs@s
+        },
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "columnNames"
+          value = "issuekey|summary|priority|assignee|issuelinks"
+        },
+        {
+          key = "isPopup"
+          value = "false"
+        },
+        {
+          key = "num"
+          value = "10"
+        },
+        {
+          key = "refresh"
+          value = "15"
+        },
+        {
+          key = "sortBy"
+          value = "created:DESC"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.test,
+  ]
+  _alias = "Filter Results"
+}

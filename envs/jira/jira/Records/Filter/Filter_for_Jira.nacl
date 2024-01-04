@@ -1,0 +1,16 @@
+jira.Filter Filter_for_Jira@s {
+  name = "Filter for Jira"
+  owner = {
+    id = "60e8b78784c9920071996842"
+    displayName = "Lior Neudorfer"
+  }
+  jql = "project = SALTO AND component = \"Jira Adapter\" AND statusCategory in (2, 4) ORDER BY Rank ASC"
+  sharePermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10042
+      }
+    },
+  ]
+}

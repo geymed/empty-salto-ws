@@ -1,0 +1,14 @@
+jira.Filter All_Bugs@s {
+  name = "All Bugs"
+  description = ""
+  owner = {
+    id = "5c728d29d48a17049c3adb86"
+    displayName = "Hadar Davidovich"
+  }
+  jql = "project in (SAAS, SALTO) AND issuetype = Bug order by created DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

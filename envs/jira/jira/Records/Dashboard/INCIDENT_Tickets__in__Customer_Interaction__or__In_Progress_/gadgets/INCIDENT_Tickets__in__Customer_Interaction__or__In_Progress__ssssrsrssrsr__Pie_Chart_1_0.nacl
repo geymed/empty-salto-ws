@@ -1,0 +1,52 @@
+jira.DashboardGadget INCIDENT_Tickets__in__Customer_Interaction__or__In_Progress__ssssrsrssrsr__Pie_Chart_1_0@uuuuuuuuuuuumuusuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:pie-chart-gadget/gadgets/piechart-gadget.xml"
+  color = "blue"
+  position = {
+    row = 0
+    column = 1
+  }
+  title = "Pie Chart"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "statType"
+          value = "assignees"
+        },
+        {
+          key = "isPopup"
+          value = "false"
+        },
+        {
+          key = "name"
+          value = "SJP - Incidents stuck in PROGRESS state"
+        },
+        {
+          key = "refresh"
+          value = "15"
+        },
+        {
+          key = "projectOrFilterId"
+          value = ""
+        },
+        {
+          key = "id"
+          value = "10229"
+        },
+        {
+          key = "type"
+          value = "filter"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.INCIDENT_Tickets__in__Customer_Interaction__or__In_Progress_@ssssrsrssrsr,
+  ]
+  _alias = "Pie Chart"
+}

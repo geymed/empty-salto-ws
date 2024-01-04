@@ -1,0 +1,68 @@
+jira.Filter Salesfroce_dev_cycle_5@sbb {
+  name = "Salesfroce dev-cycle-5"
+  description = ""
+  owner = {
+    id = "5e6a1df25df5fb0cfee33250"
+    displayName = "Amit Goldfarb"
+  }
+  jql = "project = SALTO AND labels = dev-cycle-5 order by created DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  columns = [
+    {
+      label = "Issue Type"
+      value = "issuetype"
+    },
+    {
+      label = "Key"
+      value = "issuekey"
+    },
+    {
+      label = "Summary"
+      value = "summary"
+    },
+    {
+      label = "Assignee"
+      value = "assignee"
+    },
+    {
+      label = "Reporter"
+      value = "reporter"
+    },
+    {
+      label = "Priority"
+      value = "priority"
+    },
+    {
+      label = "Status"
+      value = "status"
+    },
+    {
+      label = "Created"
+      value = "created"
+    },
+    {
+      label = "Updated"
+      value = "updated"
+    },
+    {
+      label = "Due date"
+      value = "duedate"
+    },
+    {
+      label = "Components"
+      value = "components"
+    },
+    {
+      label = "Related Customers"
+      value = "customfield_10033"
+    },
+    {
+      label = "Labels"
+      value = "labels"
+    },
+  ]
+}

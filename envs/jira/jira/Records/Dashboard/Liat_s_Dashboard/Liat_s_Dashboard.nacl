@@ -1,0 +1,18 @@
+jira.Dashboard Liat_s_Dashboard@ts {
+  description = "Users dashboard"
+  name = "Liat's Dashboard"
+  owner = {
+    id = "61f8f547acd4cb0069cf8d80"
+    displayName = "Avi Loterstein"
+  }
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  gadgets = [
+    jira.DashboardGadget.instance.Liat_s_Dashboard_ts__Filter_Results_0_0@uumuusuu,
+    jira.DashboardGadget.instance.Liat_s_Dashboard_ts__Filter_Results_0_1@uumuusuu,
+  ]
+  layout = "A"
+}

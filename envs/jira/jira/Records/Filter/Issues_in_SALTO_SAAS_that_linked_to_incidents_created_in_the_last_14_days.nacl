@@ -1,0 +1,23 @@
+jira.Filter Issues_in_SALTO_SAAS_that_linked_to_incidents_created_in_the_last_14_days@ssdssssssssss {
+  name = "Issues in SALTO/SAAS that linked to incidents created in the last 14 days"
+  description = "Filter managed by ScriptRunner: project IN (\"Salto\",\"Salto SaaS\") AND statuscategory IN  (\"New\", \"To Do\", \"In Progress\") AND issueFunction IN linkedIssuesOf(\"project=Incidents AND created >= -14d\") ORDER BY priority DESC, created DESC"
+  owner = {
+    id = "5e22506ba531f30ca385802d"
+    displayName = "Amit Goldberg"
+  }
+  jql = "project IN (\"Salto\",\"Salto SaaS\") AND statuscategory IN  (\"New\", \"To Do\", \"In Progress\") AND issue in (22049,23153,33245,33973,34650,34656,34868,35901,36999,37200,38145,38786,39418,39556,39613,39628,39637,39706,39776,39811,39871,39879,39881,39913,39927,39928,39935,39937,39938,39945,39951,39953,39954,39955,39958,39970,39976,39987,39988,39989,39990,39991,40023,40024,40025,40028,40029,40031,40032,40036,40037,40038,40040,40041,40043,40044,40048,40049,40052,40053,40055,40086,40105,40106,40117,40161,40166,40167,40170,40188,40189,40192,40193,40195,40198,40199,40203,40204,40207,40208,40209,40212,40213,40215,40223,40225,40232,40233,40236,40237,40240,40241,40242,40254,40258,40271,40273,40274,40276,40277,40280,40283,40287,40288,40297,40307,40308,40309,40311,40313,40315,40317,40318,40319,40322,40324,40326,40332,40333,40334,40337,40340,40348,40355,40359,40380,40383,40385,40440,40453,40501,40502,40523,40527,40577,40579) ORDER BY priority DESC, created DESC"
+  sharePermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10056
+      }
+    },
+    {
+      type = "group"
+      group = {
+        name = jira.Group.instance.Salto_Employees@s
+      }
+    },
+  ]
+}

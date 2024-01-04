@@ -1,0 +1,14 @@
+jira.Filter SJP_INC_Triage@bs {
+  name = "SJP-INC Triage"
+  description = ""
+  owner = {
+    id = "636428e9d66d8108a125f0ce"
+    displayName = "Jonah Pressman"
+  }
+  jql = "project = INCIDENT AND status in (\"Customer Interaction\", \"In Progress\", Open, \"To Do\") AND assignee in (currentUser(), 60a60ffe9da6d50070d28a06) ORDER BY created DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

@@ -1,0 +1,50 @@
+jira.Filter Filter_for_Liat_s_Board@ssts {
+  name = "Filter for Liat's Board"
+  description = ""
+  owner = {
+    id = "61f8f547acd4cb0069cf8d80"
+    displayName = "Avi Loterstein"
+  }
+  jql = "assignee in (5f62208e7598de0069fc02ba) AND project in (PMM, MAR, WWW) ORDER BY Rank ASC"
+  sharePermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10064
+      }
+    },
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10078
+      }
+    },
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10077
+      }
+    },
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10048
+      }
+    },
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10061
+      }
+    },
+  ]
+  editPermissions = [
+    {
+      type = "user"
+      user = {
+        id = "5f62208e7598de0069fc02ba"
+        displayName = "Liat Muraver Levy"
+      }
+    },
+  ]
+}

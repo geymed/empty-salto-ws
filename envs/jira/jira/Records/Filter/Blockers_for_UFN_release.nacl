@@ -1,0 +1,56 @@
+jira.Filter Blockers_for_UFN_release@s {
+  name = "Blockers for UFN release"
+  description = ""
+  owner = {
+    id = "60cb4607a01e11006a9cb199"
+    displayName = "Ofer Rozenman"
+  }
+  jql = "status in (Approved, Backlog, Design, Draft, \"IN DESIGN REVIEW\", \"In Progress\", \"In Review\", Open, Pending, PM, ReadyForStaging, Staged, \"To Do\") AND labels = ufn-blocker ORDER BY priority DESC, assignee DESC, created DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  columns = [
+    {
+      label = "Issue Type"
+      value = "issuetype"
+    },
+    {
+      label = "Key"
+      value = "issuekey"
+    },
+    {
+      label = "Summary"
+      value = "summary"
+    },
+    {
+      label = "Assignee"
+      value = "assignee"
+    },
+    {
+      label = "Reporter"
+      value = "reporter"
+    },
+    {
+      label = "Priority"
+      value = "priority"
+    },
+    {
+      label = "Status"
+      value = "status"
+    },
+    {
+      label = "Created"
+      value = "created"
+    },
+    {
+      label = "Updated"
+      value = "updated"
+    },
+    {
+      label = "Due date"
+      value = "duedate"
+    },
+  ]
+}

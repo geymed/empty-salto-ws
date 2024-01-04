@@ -1,0 +1,36 @@
+jira.Filter Salesforce_Hour@s {
+  name = "Salesforce Hour"
+  description = ""
+  owner = {
+    id = "635cb207928dc277b9059283"
+    displayName = "Tom Sellek"
+  }
+  jql = "project=SALTO and labels in (salesforce-hour) order by created DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}
+jira.Filter Salesforce_hour@s {
+  name = "Salesforce hour"
+  description = ""
+  owner = {
+    id = "5e6a1df25df5fb0cfee33250"
+    displayName = "Amit Goldfarb"
+  }
+  jql = "resolution = Unresolved AND labels = salesforce-hour"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  editPermissions = [
+    {
+      type = "group"
+      group = {
+        name = jira.Group.instance.engineering
+      }
+    },
+  ]
+}

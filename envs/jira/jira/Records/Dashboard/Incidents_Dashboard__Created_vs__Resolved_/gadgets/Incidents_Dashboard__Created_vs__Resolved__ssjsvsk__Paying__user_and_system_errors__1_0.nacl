@@ -1,0 +1,72 @@
+jira.DashboardGadget Incidents_Dashboard__Created_vs__Resolved__ssjsvsk__Paying__user_and_system_errors__1_0@uuuuuuumuusjssskuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:created-vs-resolved-issues-chart-gadget/gadgets/createdvsresolved-gadget.xml"
+  color = "white"
+  position = {
+    row = 0
+    column = 1
+  }
+  title = "Paying (user and system errors)"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "isPopup"
+          value = "false"
+        },
+        {
+          key = "refresh"
+          value = "false"
+        },
+        {
+          key = "periodName"
+          value = "weekly"
+        },
+        {
+          key = "showUnresolvedTrend"
+          value = "true"
+        },
+        {
+          key = "projectOrFilterId"
+          value = ""
+        },
+        {
+          key = "type"
+          value = "filter"
+        },
+        {
+          key = "versionLabel"
+          value = "none"
+        },
+        {
+          key = "isCumulative"
+          value = "false"
+        },
+        {
+          key = "name"
+          value = "paying incidents (including pro and trial)"
+        },
+        {
+          key = "daysprevious"
+          value = "90"
+        },
+        {
+          key = "id"
+          value = "10274"
+        },
+        {
+          key = "operation"
+          value = "count"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.Incidents_Dashboard__Created_vs__Resolved_@ssjsvsk,
+  ]
+  _alias = "Paying (user and system errors)"
+}

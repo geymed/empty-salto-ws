@@ -1,0 +1,14 @@
+jira.Filter salesforce_incidents@s {
+  name = "salesforce incidents"
+  description = ""
+  owner = {
+    id = "5c728d29d48a17049c3adb86"
+    displayName = "Hadar Davidovich"
+  }
+  jql = "project = INCIDENT AND labels = application:salesforce AND NOT \"Type of error[Dropdown]\" = Credentials ORDER BY created DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

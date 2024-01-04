@@ -1,0 +1,20 @@
+jira.Dashboard Adapters_Dashboard@s {
+  description = ""
+  name = "Adapters Dashboard"
+  owner = {
+    id = "5c728d29d48a17049c3adb86"
+    displayName = "Hadar Davidovich"
+  }
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  gadgets = [
+    jira.DashboardGadget.instance.Adapters_Dashboard_s__Netsuite_0_0@umuuuu,
+    jira.DashboardGadget.instance.Adapters_Dashboard_s__Salesforce_0_1@umuuuu,
+    jira.DashboardGadget.instance.Adapters_Dashboard_s__Zendesk_1_0@umuuuu,
+    jira.DashboardGadget.instance.Adapters_Dashboard_s__Jira_1_1@umuuuu,
+  ]
+  layout = "AA"
+}

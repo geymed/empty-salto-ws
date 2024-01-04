@@ -1,0 +1,56 @@
+jira.DashboardGadget sjp_Production_Dashboard__copy__bssjk__Jira_Issues_Calendar_0_3@uuuuumuussuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.ext.calendar:issuescalendar-gadget/templates/plugins/jira/portlets/calendar/gadget/calendar-gadget.xml"
+  color = "yellow"
+  position = {
+    row = 3
+    column = 0
+  }
+  title = "Jira Issues Calendar"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "numOfIssueIcons"
+          value = "5"
+        },
+        {
+          key = "dateFieldName"
+          value = "customfield_10064"
+        },
+        {
+          key = "name"
+          value = "Production"
+        },
+        {
+          key = "refresh"
+          value = "false"
+        },
+        {
+          key = "projectOrFilterId"
+          value = "project-10057"
+        },
+        {
+          key = "id"
+          value = "10057"
+        },
+        {
+          key = "type"
+          value = "project"
+        },
+        {
+          key = "displayVersions"
+          value = "false"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.sjp_Production_Dashboard__copy_@bssjk,
+  ]
+  _alias = "Jira Issues Calendar"
+}

@@ -1,0 +1,48 @@
+jira.DashboardGadget Production_Dashboard_s__Issues_in_SALTO_SAAS_that_linked_to_recent_incidents_0_2@umuussdsssssuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:filter-results-gadget/gadgets/filter-results-gadget.xml"
+  color = "yellow"
+  position = {
+    row = 2
+    column = 0
+  }
+  title = "Issues in SALTO/SAAS that linked to recent incidents"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "filterId"
+          value = jira.Filter.instance.Issues_in_SALTO_SAAS_that_linked_to_incidents_created_in_the_last_14_days@ssdssssssssss
+        },
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "columnNames"
+          value = "priority|summary|issuekey|issuetype|created"
+        },
+        {
+          key = "isPopup"
+          value = "false"
+        },
+        {
+          key = "num"
+          value = "10"
+        },
+        {
+          key = "refresh"
+          value = "false"
+        },
+        {
+          key = "sortBy"
+          value = "created:DESC"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.Production_Dashboard@s,
+  ]
+  _alias = "Issues in SALTO/SAAS that linked to recent incidents"
+}

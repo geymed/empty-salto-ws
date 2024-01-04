@@ -1,0 +1,76 @@
+jira.Filter Salesfore_profile_tier2_tasks@s {
+  name = "Salesfore profile tier2 tasks"
+  description = ""
+  owner = {
+    id = "5e6a1df25df5fb0cfee33250"
+    displayName = "Amit Goldfarb"
+  }
+  jql = "labels = profiles and status in (\"In Progress\", \"In Review\", Done, Pending, Design, \"To Do\") and labels in (tier2)"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  editPermissions = [
+    {
+      type = "group"
+      group = {
+        name = jira.Group.instance.Salto_Employees@s
+      }
+    },
+  ]
+  columns = [
+    {
+      label = "Issue Type"
+      value = "issuetype"
+    },
+    {
+      label = "Key"
+      value = "issuekey"
+    },
+    {
+      label = "Summary"
+      value = "summary"
+    },
+    {
+      label = "Assignee"
+      value = "assignee"
+    },
+    {
+      label = "Reporter"
+      value = "reporter"
+    },
+    {
+      label = "Priority"
+      value = "priority"
+    },
+    {
+      label = "Status"
+      value = "status"
+    },
+    {
+      label = "Created"
+      value = "created"
+    },
+    {
+      label = "Updated"
+      value = "updated"
+    },
+    {
+      label = "Due date"
+      value = "duedate"
+    },
+    {
+      label = "Components"
+      value = "components"
+    },
+    {
+      label = "Related Customers"
+      value = "customfield_10033"
+    },
+    {
+      label = "Labels"
+      value = "labels"
+    },
+  ]
+}

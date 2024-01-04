@@ -1,0 +1,13 @@
+jira.DashboardGadget Default_dashboard_s__Projects_0_1@umuuuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:project-gadget/gadgets/project-gadget.xml"
+  color = "blue"
+  position = {
+    row = 1
+    column = 0
+  }
+  title = "Projects"
+  _parent = [
+    jira.Dashboard.instance.Default_dashboard@s,
+  ]
+  _alias = "Projects"
+}

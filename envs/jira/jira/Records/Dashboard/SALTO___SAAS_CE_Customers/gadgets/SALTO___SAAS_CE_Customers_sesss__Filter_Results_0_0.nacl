@@ -1,0 +1,48 @@
+jira.DashboardGadget SALTO___SAAS_CE_Customers_sesss__Filter_Results_0_0@uuuuumuusuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:filter-results-gadget/gadgets/filter-results-gadget.xml"
+  color = "blue"
+  position = {
+    row = 0
+    column = 0
+  }
+  title = "Filter Results"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "filterId"
+          value = jira.Filter.instance.Dan_s_customers___tasks_in_SALTO_SAAS@tssbssszd
+        },
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "columnNames"
+          value = "project|Related Customers[Labels]|issuetype|issuekey|summary|priority"
+        },
+        {
+          key = "isPopup"
+          value = "false"
+        },
+        {
+          key = "num"
+          value = "50"
+        },
+        {
+          key = "refresh"
+          value = "15"
+        },
+        {
+          key = "sortBy"
+          value = "priority:ASC"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.SALTO___SAAS_CE_Customers@sesss,
+  ]
+  _alias = "Filter Results"
+}

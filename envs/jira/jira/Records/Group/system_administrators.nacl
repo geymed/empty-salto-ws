@@ -1,0 +1,3 @@
+jira.Group system_administrators@b {
+  name = "system-administrators"
+}

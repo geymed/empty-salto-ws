@@ -1,0 +1,14 @@
+jira.Filter Incidents_with_linked_issues@s {
+  name = "Incidents with linked issues"
+  description = ""
+  owner = {
+    id = "5e22506ba531f30ca385802d"
+    displayName = "Amit Goldberg"
+  }
+  jql = "(issueLinkType = \"is blocked by\" OR issueLinkType = \"is duplicated\" OR issueLinkType = \"relates to\" OR issueLinkType = blocks OR issueLinkType = Blocks OR issueLinkType = \"is cloned by\" OR issueLinkType = clones OR issueLinkType = Cloners OR issueLinkType = \"is duplicated by\" OR issueLinkType = duplicates OR issueLinkType = Duplicate OR issueLinkType = \"relates to\" OR issueLinkType = \"relates to\" OR issueLinkType = Relates) AND project = Incidents AND statusCategory in (\"To Do\", \"In Progress\") ORDER BY updated DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

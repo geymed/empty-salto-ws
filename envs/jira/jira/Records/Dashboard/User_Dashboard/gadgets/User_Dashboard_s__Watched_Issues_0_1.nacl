@@ -1,0 +1,44 @@
+jira.DashboardGadget User_Dashboard_s__Watched_Issues_0_1@umuusuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:watched-gadget/gadgets/watched-gadget.xml"
+  color = "blue"
+  position = {
+    row = 1
+    column = 0
+  }
+  title = "Watched Issues"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "columnNames"
+          value = "issuetype|issuekey|summary|priority|created|creator"
+        },
+        {
+          key = "num"
+          value = "10"
+        },
+        {
+          key = "refresh"
+          value = "false"
+        },
+        {
+          key = "showResolved"
+          value = "false"
+        },
+        {
+          key = "showTotalWatches"
+          value = "true"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.User_Dashboard@s,
+  ]
+  _alias = "Watched Issues"
+}

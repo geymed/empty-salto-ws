@@ -1,0 +1,14 @@
+jira.Filter Platform_Team_Tasks_from_selected_projects@s {
+  name = "Platform Team Tasks from selected projects"
+  description = ""
+  owner = {
+    id = "5e22506ba531f30ca385802d"
+    displayName = "Amit Goldberg"
+  }
+  jql = "project IN (Platform, Billing, Production) OR (project IN (Website) AND assignee IN (61fc08c7f5f5b80070c846d7, 64010d079ce2cd2c240e53f7, 5e22506ba531f30ca385802d)) OR (project IN (\"Salto SaaS\") AND labels IN (Infrastructure,AWS,Auth0,CI,Security,Lambda,RDS,ECS,\"Trace&Monitoring\",Datadog,LocalEnv,Marketing-Data,Segment,Build) OR assignee IN (61fc08c7f5f5b80070c846d7, 64010d079ce2cd2c240e53f7, 5e22506ba531f30ca385802d)) AND statusCategory NOT IN (Done) ORDER BY Rank ASC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

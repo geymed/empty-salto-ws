@@ -1,0 +1,17 @@
+jira.Filter Filter_for_Salto_MS_3___MS_4_Board@sssbszesbs {
+  name = "Filter for Salto MS-3 + MS-4 Board"
+  description = ""
+  owner = {
+    id = "5c7289009170244d98d8192c"
+    displayName = "Gil Hoffer"
+  }
+  jql = "project = SALTO AND labels in (MS-3, MS-4) ORDER BY Rank ASC"
+  sharePermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10042
+      }
+    },
+  ]
+}

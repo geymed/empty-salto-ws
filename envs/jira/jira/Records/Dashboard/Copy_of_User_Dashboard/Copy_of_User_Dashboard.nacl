@@ -1,0 +1,21 @@
+jira.Dashboard Copy_of_User_Dashboard@s {
+  description = "Users dashboard"
+  name = "Copy of User Dashboard"
+  owner = {
+    id = "61f8f547acd4cb0069cf8d80"
+    displayName = "Avi Loterstein"
+  }
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  gadgets = [
+    jira.DashboardGadget.instance.Copy_of_User_Dashboard_s__Pie_Chart_0_0@uuumuusuu,
+    jira.DashboardGadget.instance.Copy_of_User_Dashboard_s__Filter_Results_0_1@uuumuusuu,
+    jira.DashboardGadget.instance.Copy_of_User_Dashboard_s__Filter_Results_0_2@uuumuusuu,
+    jira.DashboardGadget.instance.Copy_of_User_Dashboard_s__Pie_Chart_1_0@uuumuusuu,
+    jira.DashboardGadget.instance.Copy_of_User_Dashboard_s__Issue_Statistics_1_1@uuumuusuu,
+  ]
+  layout = "AB"
+}

@@ -1,0 +1,17 @@
+jira.Filter Incidents_created_in_the_last_day@s {
+  name = "Incidents created in the last day"
+  description = ""
+  owner = {
+    id = "5e22506ba531f30ca385802d"
+    displayName = "Amit Goldberg"
+  }
+  jql = "project = Incidents AND created >= -1d AND (\"Type of error[Dropdown]\" IN (System, \"User\") OR \"Type of error[Dropdown]\" is empty) AND statusCategory IN (\"To Do\") ORDER BY created DESC"
+  sharePermissions = [
+    {
+      type = "group"
+      group = {
+        name = jira.Group.instance.Salto_Employees@s
+      }
+    },
+  ]
+}

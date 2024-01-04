@@ -1,0 +1,3 @@
+jira.Group site_admins@b {
+  name = "site-admins"
+}

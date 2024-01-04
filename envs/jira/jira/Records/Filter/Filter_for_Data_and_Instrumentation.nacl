@@ -1,0 +1,40 @@
+jira.Filter Filter_for_Data_and_Instrumentation@s {
+  name = "Filter for Data and Instrumentation"
+  owner = {
+    id = "61fc08c7f5f5b80070c846d7"
+    displayName = "Anastasia Rachuk"
+  }
+  jql = "project in (PMM, SAAS, PROD, WWW, SALBIZ) AND labels = data-and-instrumentation ORDER BY Rank ASC"
+  sharePermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10044
+      }
+    },
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10057
+      }
+    },
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10047
+      }
+    },
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10048
+      }
+    },
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10061
+      }
+    },
+  ]
+}

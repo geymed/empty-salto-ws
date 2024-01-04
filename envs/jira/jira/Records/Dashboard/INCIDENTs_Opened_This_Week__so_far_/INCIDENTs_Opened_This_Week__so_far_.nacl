@@ -1,0 +1,29 @@
+jira.Dashboard INCIDENTs_Opened_This_Week__so_far_@ssssjsk {
+  description = ""
+  name = "INCIDENTs Opened This Week (so far)"
+  owner = {
+    id = "636428e9d66d8108a125f0ce"
+    displayName = "Jonah Pressman"
+  }
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  gadgets = [
+    jira.DashboardGadget.instance.INCIDENTs_Opened_This_Week__so_far__ssssjsk__This_Week_by_Status_0_0@uuuuuuumuusssuu,
+    jira.DashboardGadget.instance.INCIDENTs_Opened_This_Week__so_far__ssssjsk__This_Week_by_Assignee_0_1@uuuuuuumuusssuu,
+    jira.DashboardGadget.instance.INCIDENTs_Opened_This_Week__so_far__ssssjsk__This_Week_by_Severity_0_2@uuuuuuumuusssuu,
+    jira.DashboardGadget.instance.INCIDENTs_Opened_This_Week__so_far__ssssjsk__This_week_by_Type_of_Error_0_3@uuuuuuumuusssssuu,
+    jira.DashboardGadget.instance.INCIDENTs_Opened_This_Week__so_far__ssssjsk__This_Week_by_Tier_1_0@uuuuuuumuusssuu,
+    jira.DashboardGadget.instance.INCIDENTs_Opened_This_Week__so_far__ssssjsk__This_Week___Salesforce_1_1@uuuuuuumuussbsuu,
+    jira.DashboardGadget.instance.INCIDENTs_Opened_This_Week__so_far__ssssjsk__This_Week___Netsuite_1_2@uuuuuuumuussbsuu,
+    jira.DashboardGadget.instance.INCIDENTs_Opened_This_Week__so_far__ssssjsk__This_Week___Zendesk_1_3@uuuuuuumuussbsuu,
+    jira.DashboardGadget.instance.INCIDENTs_Opened_This_Week__so_far__ssssjsk__This_Week___Jira_1_4@uuuuuuumuussbsuu,
+    jira.DashboardGadget.instance.INCIDENTs_Opened_This_Week__so_far__ssssjsk__Average_Time_in_Status_2_0@uuuuuuumuusssuu,
+    jira.DashboardGadget.instance.INCIDENTs_Opened_This_Week__so_far__ssssjsk__This_Week_FETCH_by_Tier_2_1@uuuuuuumuussssuu,
+    jira.DashboardGadget.instance.INCIDENTs_Opened_This_Week__so_far__ssssjsk__This_Week_DEPLOY_by_Tier_2_2@uuuuuuumuussssuu,
+    jira.DashboardGadget.instance.INCIDENTs_Opened_This_Week__so_far__ssssjsk__This_Week_PUSH_by_Tier_2_3@uuuuuuumuussssuu,
+  ]
+  layout = "AAA"
+}

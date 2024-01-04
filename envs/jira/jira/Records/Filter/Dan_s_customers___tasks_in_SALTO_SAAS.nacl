@@ -1,0 +1,30 @@
+jira.Filter Dan_s_customers___tasks_in_SALTO_SAAS@tssbssszd {
+  name = "Dan's customers - tasks in SALTO,SAAS"
+  description = ""
+  owner = {
+    id = "61f8f548c6bd1a00691cc091"
+    displayName = "Dan Avigdor"
+  }
+  jql = "project in (SAAS, SALTO) AND statusCategory in (2, 4) AND \"Related Customers[Labels]\" in (tufin, Hibob, Francotyp, AppsFlyer, Varonis, Checkmarkx, JFrog, Tufin, Riskified, WalkMe, hibob, varonis) ORDER BY created DESC, statusCategory DESC, updated DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  editPermissions = [
+    {
+      type = "user"
+      user = {
+        id = "64010d079ce2cd2c240e53f7"
+        displayName = "Eshed Gal-Or"
+      }
+    },
+    {
+      type = "user"
+      user = {
+        id = "61f8f548c6bd1a00691cc091"
+        displayName = "Dan Avigdor"
+      }
+    },
+  ]
+}

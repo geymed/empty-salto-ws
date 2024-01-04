@@ -1,0 +1,14 @@
+jira.Filter SJP___Incidents_stuck_in_CUSTOMER_INTERACTION@sbsssss {
+  name = "SJP - Incidents stuck in CUSTOMER INTERACTION"
+  description = ""
+  owner = {
+    id = "636428e9d66d8108a125f0ce"
+    displayName = "Jonah Pressman"
+  }
+  jql = "project = \"INCIDENT\" AND status = \"Customer Interaction\" ORDER BY created ASC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

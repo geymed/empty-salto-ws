@@ -1,0 +1,52 @@
+jira.DashboardGadget INCIDENTs_Opened_This_Week__so_far__ssssjsk__This_Week_by_Status_0_0@uuuuuuumuusssuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:pie-chart-gadget/gadgets/piechart-gadget.xml"
+  color = "blue"
+  position = {
+    row = 0
+    column = 0
+  }
+  title = "This Week by Status"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "statType"
+          value = "statuses"
+        },
+        {
+          key = "isPopup"
+          value = "false"
+        },
+        {
+          key = "name"
+          value = "sjp-stats-incidents opened current week"
+        },
+        {
+          key = "refresh"
+          value = "15"
+        },
+        {
+          key = "projectOrFilterId"
+          value = ""
+        },
+        {
+          key = "id"
+          value = "10183"
+        },
+        {
+          key = "type"
+          value = "filter"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.INCIDENTs_Opened_This_Week__so_far_@ssssjsk,
+  ]
+  _alias = "This Week by Status"
+}

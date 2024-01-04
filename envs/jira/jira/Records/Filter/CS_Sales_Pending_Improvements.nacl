@@ -1,0 +1,14 @@
+jira.Filter CS_Sales_Pending_Improvements@dss {
+  name = "CS/Sales Pending Improvements"
+  description = "Filter all improvement requests in pending status and non empty customer label"
+  owner = {
+    id = "5fb551c8f8b01200695a98b4"
+    displayName = "Igal Perelman"
+  }
+  jql = "project = SAAS AND issuetype = Improvement AND status = Pending AND cf[10033] != \"empty\" order by created DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

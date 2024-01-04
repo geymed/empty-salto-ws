@@ -1,0 +1,6 @@
+jira.IssueType Improvement {
+  description = "An improvement or enhancement to an existing feature or task."
+  name = "Improvement"
+  untranslatedName = "Improvement"
+  hierarchyLevel = 0
+}

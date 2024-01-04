@@ -1,0 +1,44 @@
+jira.DashboardGadget Adapters_Dashboard_s__Zendesk_1_0@umuuuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:filter-results-gadget/gadgets/filter-results-gadget.xml"
+  color = "blue"
+  position = {
+    row = 0
+    column = 1
+  }
+  title = "Zendesk"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "filterId"
+          value = jira.Filter.instance.Zendesk_Tickets@s
+        },
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "columnNames"
+          value = "issuetype|issuekey|summary|priority"
+        },
+        {
+          key = "isPopup"
+          value = "false"
+        },
+        {
+          key = "num"
+          value = "10"
+        },
+        {
+          key = "refresh"
+          value = "15"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.Adapters_Dashboard@s,
+  ]
+  _alias = "Zendesk"
+}

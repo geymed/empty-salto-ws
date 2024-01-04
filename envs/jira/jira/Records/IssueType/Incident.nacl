@@ -1,0 +1,6 @@
+jira.IssueType Incident {
+  description = "Notes customer/user incidents in the system"
+  name = "Incident"
+  untranslatedName = "Incident"
+  hierarchyLevel = 0
+}

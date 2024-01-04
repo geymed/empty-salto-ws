@@ -1,0 +1,36 @@
+jira.Filter open_incidents@s {
+  name = "open incidents"
+  description = ""
+  owner = {
+    id = "5c728d29d48a17049c3adb86"
+    displayName = "Hadar Davidovich"
+  }
+  jql = "assignee not in (EMPTY, 557058:f58131cb-b67d-43c7-b30d-6b58d40bd077) AND project = INCIDENT AND statusCategory != \"Done\" AND NOT \"Type of error[Dropdown]\" = Credentials ORDER BY created DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  editPermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10056
+      }
+    },
+  ]
+}
+jira.Filter Open_INCIDENTS@s {
+  name = "Open INCIDENTS"
+  description = ""
+  owner = {
+    id = "5e22506ba531f30ca385802d"
+    displayName = "Amit Goldberg"
+  }
+  jql = "project = \"INCIDENT\" AND statuscategory IN (\"In Progress\",\"New\") ORDER BY created DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

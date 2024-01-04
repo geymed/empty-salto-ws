@@ -1,0 +1,6 @@
+jira.IssueType Asset {
+  description = "A digital or physical item to be tracked."
+  name = "Asset"
+  untranslatedName = "Asset"
+  hierarchyLevel = 0
+}

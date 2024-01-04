@@ -1,0 +1,14 @@
+jira.Filter ui_hour@b {
+  name = "ui-hour"
+  description = ""
+  owner = {
+    id = "60cb4607a01e11006a9cb199"
+    displayName = "Ofer Rozenman"
+  }
+  jql = "labels = ui-hour ORDER BY Rank ASC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

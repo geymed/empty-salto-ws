@@ -1,0 +1,16 @@
+jira.Filter Filter_for_Align_Hour@s {
+  name = "Filter for Align Hour"
+  owner = {
+    id = "622ba0c5f1e55c0070f38438"
+    displayName = "Miki Chernyak"
+  }
+  jql = "project = SAAS AND labels = align-hour ORDER BY Rank ASC"
+  sharePermissions = [
+    {
+      type = "project"
+      project = {
+        id = jira.Project.instance.missing_10044
+      }
+    },
+  ]
+}

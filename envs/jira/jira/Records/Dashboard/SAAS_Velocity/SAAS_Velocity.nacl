@@ -1,0 +1,12 @@
+jira.Dashboard SAAS_Velocity@s {
+  description = "Compare velocity of ticket creation vs resolution"
+  name = "SAAS Velocity"
+  owner = {
+    id = "632ccb873ac41ebde76a0b64"
+    displayName = "Gilad Foyer"
+  }
+  gadgets = [
+    jira.DashboardGadget.instance.SAAS_Velocity_s__Created_vs__Resolved_Chart_0_0@umuusvssuu,
+  ]
+  layout = "A"
+}

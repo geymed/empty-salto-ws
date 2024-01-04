@@ -1,0 +1,14 @@
+jira.Filter Filter_for_Anna_s_Board@ssts {
+  name = "Filter for Anna's Board"
+  description = ""
+  owner = {
+    id = "62b62487b8e499e567eaf9bc"
+    displayName = "Anna Filippov"
+  }
+  jql = "project in (PMM, EV, CONT, WWW, MSP) AND assignee in (currentUser()) OR reporter in (currentUser()) ORDER BY Rank ASC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

@@ -1,0 +1,52 @@
+jira.DashboardGadget sjp_Production_Dashboard__copy__bssjk__Pie_Chart_1_6@uuuuumuusuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:pie-chart-gadget/gadgets/piechart-gadget.xml"
+  color = "white"
+  position = {
+    row = 6
+    column = 1
+  }
+  title = "Pie Chart"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "statType"
+          value = "statuses"
+        },
+        {
+          key = "isPopup"
+          value = "false"
+        },
+        {
+          key = "name"
+          value = "Open INCIDENTS"
+        },
+        {
+          key = "refresh"
+          value = "15"
+        },
+        {
+          key = "projectOrFilterId"
+          value = ""
+        },
+        {
+          key = "id"
+          value = "10127"
+        },
+        {
+          key = "type"
+          value = "filter"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.sjp_Production_Dashboard__copy_@bssjk,
+  ]
+  _alias = "Pie Chart"
+}

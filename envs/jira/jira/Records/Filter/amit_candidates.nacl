@@ -1,0 +1,14 @@
+jira.Filter amit_candidates@s {
+  name = "amit candidates"
+  description = ""
+  owner = {
+    id = "62d20c4b078104d0866e1a85"
+    displayName = "Uri Bar"
+  }
+  jql = "resolution = Unresolved AND labels = amits-candidate order by created DESC"
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+}

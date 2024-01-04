@@ -1,0 +1,68 @@
+jira.DashboardGadget Amit_s_Incidents_Dashboard_tss__Activity_Stream_1_2@uuumuusuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.streams.streams-jira-plugin:activitystream-gadget/gadgets/activitystream-gadget.xml"
+  color = "yellow"
+  position = {
+    row = 2
+    column = 1
+  }
+  title = "Activity Stream"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "titleRequired"
+          value = "true"
+        },
+        {
+          key = "numofentries"
+          value = "5"
+        },
+        {
+          key = "keys"
+          value = ""
+        },
+        {
+          key = "refresh"
+          value = "false"
+        },
+        {
+          key = "isReallyConfigured"
+          value = "true"
+        },
+        {
+          key = "rules"
+          value = "%7B%22providers%22%3A%5B%7B%22disabled%22%3Afalse%2C%22provider%22%3A%22streams%22%2C%22rules%22%3A%5B%7B%22rule%22%3A%22key%22%2C%22operator%22%3A%22is%22%2C%22value%22%3A%5B%22INCIDENT%22%5D%2C%22type%22%3A%22select%22%7D%5D%7D%5D%7D"
+        },
+        {
+          key = "title"
+          value = "Activity%20Stream"
+        },
+        {
+          key = "itemKeys"
+          value = ""
+        },
+        {
+          key = "maxProviderLabelCharacters"
+          value = "50"
+        },
+        {
+          key = "renderingContext"
+          value = ""
+        },
+        {
+          key = "username"
+          value = ""
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.Amit_s_Incidents_Dashboard@tss,
+  ]
+  _alias = "Activity Stream"
+}

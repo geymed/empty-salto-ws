@@ -1,0 +1,3 @@
+jira.Group confluence_users@b {
+  name = "confluence-users"
+}

@@ -1,0 +1,19 @@
+jira.Dashboard "2022_Q1_Bug_Fix@s" {
+  description = "Dashboard tracking bug closing progress"
+  name = "2022 Q1 Bug Fix"
+  owner = {
+    id = "5fb551c8f8b01200695a98b4"
+    displayName = "Igal Perelman"
+  }
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  gadgets = [
+    jira.DashboardGadget.instance.2022_Q1_Bug_Fix_s__2022Q1_bugfix_HIGH__Created_vs__Resolved_0_0@uuumuubbfssvsuu,
+    jira.DashboardGadget.instance.2022_Q1_Bug_Fix_s__Average_Age_Chart_0_1@uuumuussuu,
+    jira.DashboardGadget.instance.2022_Q1_Bug_Fix_s__2022Q1_bugfix_ALL__Created_vs__Resolved_1_0@uuumuubsfssvsuu,
+  ]
+  layout = "AA"
+}

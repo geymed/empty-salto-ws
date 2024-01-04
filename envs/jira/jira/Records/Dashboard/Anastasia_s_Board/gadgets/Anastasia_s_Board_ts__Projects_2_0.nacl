@@ -1,0 +1,44 @@
+jira.DashboardGadget Anastasia_s_Board_ts__Projects_2_0@uumuuuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:project-gadget/gadgets/project-gadget.xml"
+  color = "blue"
+  position = {
+    row = 0
+    column = 2
+  }
+  title = "Projects"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "projectsOrCategories"
+          value = "10065|10066|10061|10047|10048"
+        },
+        {
+          key = "maxResults"
+          value = "10"
+        },
+        {
+          key = "viewType"
+          value = "collapsed"
+        },
+        {
+          key = "refresh"
+          value = "15"
+        },
+        {
+          key = "cols"
+          value = "two-col"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.Anastasia_s_Board@ts,
+  ]
+  _alias = "Projects"
+}
