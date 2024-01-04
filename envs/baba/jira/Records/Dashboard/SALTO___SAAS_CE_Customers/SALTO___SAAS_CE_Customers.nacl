@@ -1,0 +1,23 @@
+jira.Dashboard SALTO___SAAS_CE_Customers@sesss {
+  description = ""
+  name = "SALTO & SAAS CE Customers"
+  owner = {
+    id = "61f8f548c6bd1a00691cc091"
+    displayName = "Dan Avigdor"
+  }
+  sharePermissions = [
+    {
+      type = "group"
+      group = {
+        name = jira.Group.instance.Salto_Employees@s
+      }
+    },
+  ]
+  gadgets = [
+    jira.DashboardGadget.instance.SALTO___SAAS_CE_Customers_sesss__Filter_Results_0_0@uuuuumuusuu,
+    jira.DashboardGadget.instance.SALTO___SAAS_CE_Customers_sesss__Pie_Chart_0_1@uuuuumuusuu,
+    jira.DashboardGadget.instance.SALTO___SAAS_CE_Customers_sesss__Tasks_in_SALTO___SAAS_by_status_0_2@uuuuumuusssesssuu,
+    jira.DashboardGadget.instance.SALTO___SAAS_CE_Customers_sesss__Filter_Results_0_3@uuuuumuusuu,
+  ]
+  layout = "A"
+}

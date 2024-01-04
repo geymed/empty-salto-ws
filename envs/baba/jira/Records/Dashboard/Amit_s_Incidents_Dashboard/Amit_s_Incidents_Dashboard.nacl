@@ -1,0 +1,22 @@
+jira.Dashboard Amit_s_Incidents_Dashboard@tss {
+  description = ""
+  name = "Amit's Incidents Dashboard"
+  owner = {
+    id = "5e22506ba531f30ca385802d"
+    displayName = "Amit Goldberg"
+  }
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  gadgets = [
+    jira.DashboardGadget.instance.Amit_s_Incidents_Dashboard_tss__Pie_Chart_0_0@uuumuusuu,
+    jira.DashboardGadget.instance.Amit_s_Incidents_Dashboard_tss__Incidents_with_linked_issues_0_1@uuumuusssuu,
+    jira.DashboardGadget.instance.Amit_s_Incidents_Dashboard_tss__Filter_Results_0_2@uuumuusuu,
+    jira.DashboardGadget.instance.Amit_s_Incidents_Dashboard_tss__Issue_Statistics_1_0@uuumuusuu,
+    jira.DashboardGadget.instance.Amit_s_Incidents_Dashboard_tss__Opened_incidents_assignee_1_1@uuumuussuu,
+    jira.DashboardGadget.instance.Amit_s_Incidents_Dashboard_tss__Activity_Stream_1_2@uuumuusuu,
+  ]
+  layout = "AB"
+}

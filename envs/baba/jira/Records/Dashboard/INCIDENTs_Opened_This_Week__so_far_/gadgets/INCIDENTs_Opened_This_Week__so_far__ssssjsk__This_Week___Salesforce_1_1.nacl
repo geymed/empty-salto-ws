@@ -1,0 +1,44 @@
+jira.DashboardGadget INCIDENTs_Opened_This_Week__so_far__ssssjsk__This_Week___Salesforce_1_1@uuuuuuumuussbsuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:filter-results-gadget/gadgets/filter-results-gadget.xml"
+  color = "blue"
+  position = {
+    row = 1
+    column = 1
+  }
+  title = "This Week - Salesforce"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "filterId"
+          value = jira.Filter.instance.sjp_stats_salesforce_incidents_opened_this_week@bbssss
+        },
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "columnNames"
+          value = "issuekey|summary|status"
+        },
+        {
+          key = "isPopup"
+          value = "false"
+        },
+        {
+          key = "num"
+          value = "3"
+        },
+        {
+          key = "refresh"
+          value = "15"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.INCIDENTs_Opened_This_Week__so_far_@ssssjsk,
+  ]
+  _alias = "This Week - Salesforce"
+}

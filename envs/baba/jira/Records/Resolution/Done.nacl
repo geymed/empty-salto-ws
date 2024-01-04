@@ -1,0 +1,4 @@
+jira.Resolution Done {
+  description = "Work has been completed on this issue."
+  name = "Done"
+}

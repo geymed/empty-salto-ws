@@ -1,0 +1,72 @@
+jira.DashboardGadget "2022_Q1_Bug_Fix_s__2022Q1_bugfix_HIGH__Created_vs__Resolved_0_0@uuumuubbfssvsuu" {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:created-vs-resolved-issues-chart-gadget/gadgets/createdvsresolved-gadget.xml"
+  color = "blue"
+  position = {
+    row = 0
+    column = 0
+  }
+  title = "2022Q1-bugfix-HIGH: Created vs. Resolved"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "isPopup"
+          value = "false"
+        },
+        {
+          key = "refresh"
+          value = "15"
+        },
+        {
+          key = "periodName"
+          value = "daily"
+        },
+        {
+          key = "showUnresolvedTrend"
+          value = "false"
+        },
+        {
+          key = "projectOrFilterId"
+          value = ""
+        },
+        {
+          key = "type"
+          value = "filter"
+        },
+        {
+          key = "versionLabel"
+          value = "none"
+        },
+        {
+          key = "isCumulative"
+          value = "false"
+        },
+        {
+          key = "name"
+          value = "The filter you requested does not exist or you do not have permission to view it."
+        },
+        {
+          key = "daysprevious"
+          value = "90"
+        },
+        {
+          key = "id"
+          value = "10101"
+        },
+        {
+          key = "operation"
+          value = "cumulative"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.2022_Q1_Bug_Fix@s,
+  ]
+  _alias = "2022Q1-bugfix-HIGH: Created vs. Resolved"
+}

@@ -1,0 +1,44 @@
+jira.DashboardGadget Amit_s_Incidents_Dashboard_tss__Filter_Results_0_2@uuumuusuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:filter-results-gadget/gadgets/filter-results-gadget.xml"
+  color = "blue"
+  position = {
+    row = 2
+    column = 0
+  }
+  title = "Filter Results"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "filterId"
+          value = jira.Filter.instance.Amitberg___Open_infra_changes@sbsss
+        },
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "columnNames"
+          value = "issuekey|Change start date[Time stamp]|summary|priority|assignee|Change requires downtime?[Dropdown]|Infra Change Risk[Dropdown]"
+        },
+        {
+          key = "isPopup"
+          value = "false"
+        },
+        {
+          key = "num"
+          value = "10"
+        },
+        {
+          key = "refresh"
+          value = "false"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.Amit_s_Incidents_Dashboard@tss,
+  ]
+  _alias = "Filter Results"
+}

@@ -1,0 +1,52 @@
+jira.DashboardGadget INCIDENTs_Opened_Last_Week_s__FETCH_Incidents_By_Tier_2_1@uuumuusssuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:pie-chart-gadget/gadgets/piechart-gadget.xml"
+  color = "blue"
+  position = {
+    row = 1
+    column = 2
+  }
+  title = "FETCH Incidents By Tier"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "statType"
+          value = "customfield_10058"
+        },
+        {
+          key = "isPopup"
+          value = "false"
+        },
+        {
+          key = "name"
+          value = "sjp-lw-fetch incidents opened"
+        },
+        {
+          key = "refresh"
+          value = "15"
+        },
+        {
+          key = "projectOrFilterId"
+          value = ""
+        },
+        {
+          key = "id"
+          value = "10196"
+        },
+        {
+          key = "type"
+          value = "filter"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.INCIDENTs_Opened_Last_Week@s,
+  ]
+  _alias = "FETCH Incidents By Tier"
+}

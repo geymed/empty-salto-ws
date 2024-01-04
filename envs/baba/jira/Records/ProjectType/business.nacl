@@ -1,0 +1,6 @@
+jira.ProjectType business {
+  key = "business"
+  formattedKey = "Business"
+  descriptionI18nKey = "jira.project.type.business.description"
+  color = "#1D8832"
+}

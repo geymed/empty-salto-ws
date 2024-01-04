@@ -1,0 +1,64 @@
+jira.DashboardGadget sjp_Production_Dashboard__copy__bssjk__Issue_Statistics_1_4@uuuuumuusuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:stats-gadget/gadgets/stats-gadget.xml"
+  color = "white"
+  position = {
+    row = 4
+    column = 1
+  }
+  title = "Issue Statistics"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "sortDirection"
+          value = "desc"
+        },
+        {
+          key = "statType"
+          value = "customfield_10058"
+        },
+        {
+          key = "maxResults"
+          value = "4"
+        },
+        {
+          key = "name"
+          value = "open incidents"
+        },
+        {
+          key = "refresh"
+          value = "false"
+        },
+        {
+          key = "projectOrFilterId"
+          value = jira.Filter.instance.open_incidents@s
+        },
+        {
+          key = "includeResolvedIssues"
+          value = "false"
+        },
+        {
+          key = "sortBy"
+          value = "total"
+        },
+        {
+          key = "id"
+          value = "10125"
+        },
+        {
+          key = "type"
+          value = "filter"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.sjp_Production_Dashboard__copy_@bssjk,
+  ]
+  _alias = "Issue Statistics"
+}

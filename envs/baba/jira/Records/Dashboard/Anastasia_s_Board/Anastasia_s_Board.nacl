@@ -1,0 +1,21 @@
+jira.Dashboard Anastasia_s_Board@ts {
+  description = ""
+  name = "Anastasia's Board"
+  owner = {
+    id = "61fc08c7f5f5b80070c846d7"
+    displayName = "Anastasia Rachuk"
+  }
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  gadgets = [
+    jira.DashboardGadget.instance.Anastasia_s_Board_ts__Pie_Chart_0_0@uumuusuu,
+    jira.DashboardGadget.instance.Anastasia_s_Board_ts__Assigned_to_Me_0_1@uumuussuu,
+    jira.DashboardGadget.instance.Anastasia_s_Board_ts__Watched_Issues_1_0@uumuusuu,
+    jira.DashboardGadget.instance.Anastasia_s_Board_ts__Projects_2_0@uumuuuu,
+    jira.DashboardGadget.instance.Anastasia_s_Board_ts__Quick_links_2_1@uumuusuu,
+  ]
+  layout = "AAA"
+}

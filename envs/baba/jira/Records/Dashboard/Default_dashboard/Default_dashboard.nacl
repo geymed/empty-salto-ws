@@ -1,0 +1,15 @@
+jira.Dashboard Default_dashboard@s {
+  name = "Default dashboard"
+  sharePermissions = [
+    {
+      type = "global"
+    },
+  ]
+  gadgets = [
+    jira.DashboardGadget.instance.Default_dashboard_s__Introduction_0_0@umuuuu,
+    jira.DashboardGadget.instance.Default_dashboard_s__Projects_0_1@umuuuu,
+    jira.DashboardGadget.instance.Default_dashboard_s__Assigned_to_Me_1_0@umuussuu,
+    jira.DashboardGadget.instance.Default_dashboard_s__Activity_Stream_1_1@umuusuu,
+  ]
+  layout = "AA"
+}

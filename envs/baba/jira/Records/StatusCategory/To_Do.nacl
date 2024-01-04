@@ -1,0 +1,5 @@
+jira.StatusCategory To_Do@s {
+  key = "new"
+  colorName = "blue-gray"
+  name = "To Do"
+}

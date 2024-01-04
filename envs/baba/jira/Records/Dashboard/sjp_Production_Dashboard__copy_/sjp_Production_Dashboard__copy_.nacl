@@ -1,0 +1,30 @@
+jira.Dashboard sjp_Production_Dashboard__copy_@bssjk {
+  description = "for analyzing why there is such disparity between my triage and the lists on this dashboard"
+  name = "sjp-Production Dashboard (copy)"
+  owner = {
+    id = "636428e9d66d8108a125f0ce"
+    displayName = "Jonah Pressman"
+  }
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  gadgets = [
+    jira.DashboardGadget.instance.sjp_Production_Dashboard__copy__bssjk__Open_Incidents__not_including_Credentials__0_0@uuuuumuussjsskuu,
+    jira.DashboardGadget.instance.sjp_Production_Dashboard__copy__bssjk__Pie_Chart_0_1@uuuuumuusuu,
+    jira.DashboardGadget.instance.sjp_Production_Dashboard__copy__bssjk__Filter_Results_0_2@uuuuumuusuu,
+    jira.DashboardGadget.instance.sjp_Production_Dashboard__copy__bssjk__Jira_Issues_Calendar_0_3@uuuuumuussuu,
+    jira.DashboardGadget.instance.sjp_Production_Dashboard__copy__bssjk__Filter_Results_0_4@uuuuumuusuu,
+    jira.DashboardGadget.instance.sjp_Production_Dashboard__copy__bssjk__Filter_Results_0_5@uuuuumuusuu,
+    jira.DashboardGadget.instance.sjp_Production_Dashboard__copy__bssjk__Filter_Results_1_0@uuuuumuusuu,
+    jira.DashboardGadget.instance.sjp_Production_Dashboard__copy__bssjk__Filter_Results_1_1@uuuuumuusuu,
+    jira.DashboardGadget.instance.sjp_Production_Dashboard__copy__bssjk__Filter_Results_1_2@uuuuumuusuu,
+    jira.DashboardGadget.instance.sjp_Production_Dashboard__copy__bssjk__Filter_Results_1_3@uuuuumuusuu,
+    jira.DashboardGadget.instance.sjp_Production_Dashboard__copy__bssjk__Issue_Statistics_1_4@uuuuumuusuu,
+    jira.DashboardGadget.instance.sjp_Production_Dashboard__copy__bssjk__Pie_Chart_1_5@uuuuumuusuu,
+    jira.DashboardGadget.instance.sjp_Production_Dashboard__copy__bssjk__Pie_Chart_1_6@uuuuumuusuu,
+    jira.DashboardGadget.instance.sjp_Production_Dashboard__copy__bssjk__Average_Age_Chart_1_7@uuuuumuussuu,
+  ]
+  layout = "AA"
+}

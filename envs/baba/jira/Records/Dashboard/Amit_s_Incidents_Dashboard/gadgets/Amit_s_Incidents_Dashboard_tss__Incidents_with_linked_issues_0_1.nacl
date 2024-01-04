@@ -1,0 +1,44 @@
+jira.DashboardGadget Amit_s_Incidents_Dashboard_tss__Incidents_with_linked_issues_0_1@uuumuusssuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:filter-results-gadget/gadgets/filter-results-gadget.xml"
+  color = "cyan"
+  position = {
+    row = 1
+    column = 0
+  }
+  title = "Incidents with linked issues"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "filterId"
+          value = jira.Filter.instance.Incidents_with_linked_issues@s
+        },
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "columnNames"
+          value = "summary|issuekey|issuelinks|created|updated"
+        },
+        {
+          key = "isPopup"
+          value = "false"
+        },
+        {
+          key = "num"
+          value = "10"
+        },
+        {
+          key = "refresh"
+          value = "false"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.Amit_s_Incidents_Dashboard@tss,
+  ]
+  _alias = "Incidents with linked issues"
+}

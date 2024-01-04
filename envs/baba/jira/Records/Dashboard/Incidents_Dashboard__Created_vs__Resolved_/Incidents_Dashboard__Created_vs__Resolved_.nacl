@@ -1,0 +1,27 @@
+jira.Dashboard Incidents_Dashboard__Created_vs__Resolved_@ssjsvsk {
+  description = ""
+  name = "Incidents Dashboard (Created vs. Resolved)"
+  owner = {
+    id = "5c728d29d48a17049c3adb86"
+    displayName = "Hadar Davidovich"
+  }
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  gadgets = [
+    jira.DashboardGadget.instance.Incidents_Dashboard__Created_vs__Resolved__ssjsvsk__All_0_0@uuuuuuumuuuu,
+    jira.DashboardGadget.instance.Incidents_Dashboard__Created_vs__Resolved__ssjsvsk__System_Errors_0_1@uuuuuuumuusuu,
+    jira.DashboardGadget.instance.Incidents_Dashboard__Created_vs__Resolved__ssjsvsk__SEV2___SEV1_0_2@uuuuuuumuusesuu,
+    jira.DashboardGadget.instance.Incidents_Dashboard__Created_vs__Resolved__ssjsvsk__All_Bugs_0_3@uuuuuuumuusuu,
+    jira.DashboardGadget.instance.Incidents_Dashboard__Created_vs__Resolved__ssjsvsk__Paying__user_and_system_errors__1_0@uuuuuuumuusjssskuu,
+    jira.DashboardGadget.instance.Incidents_Dashboard__Created_vs__Resolved__ssjsvsk__Deploy__user_and_system_errors__1_1@uuuuuuumuusjssskuu,
+    jira.DashboardGadget.instance.Incidents_Dashboard__Created_vs__Resolved__ssjsvsk__Fetch__user_and_system_errors__1_2@uuuuuuumuusjssskuu,
+    jira.DashboardGadget.instance.Incidents_Dashboard__Created_vs__Resolved__ssjsvsk__Netsuite__user_and_system_errors__1_3@uuuuuuumuusjssskuu,
+    jira.DashboardGadget.instance.Incidents_Dashboard__Created_vs__Resolved__ssjsvsk__Zendesk__user_and_system_errors__1_4@uuuuuuumuusjssskuu,
+    jira.DashboardGadget.instance.Incidents_Dashboard__Created_vs__Resolved__ssjsvsk__Salesforce__user_and_system_errors__1_5@uuuuuuumuusjssskuu,
+    jira.DashboardGadget.instance.Incidents_Dashboard__Created_vs__Resolved__ssjsvsk__Jira__user_and_system_errors__1_6@uuuuuuumuusjssskuu,
+  ]
+  layout = "BA"
+}

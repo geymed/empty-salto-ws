@@ -1,0 +1,56 @@
+jira.DashboardGadget Salesforce_Incidents_dashboard_s__Average_Age_Chart_0_1@uumuussuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:average-age-chart-gadget/gadgets/average-age-gadget.xml"
+  color = "blue"
+  position = {
+    row = 1
+    column = 0
+  }
+  title = "Average Age Chart"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "isPopup"
+          value = "false"
+        },
+        {
+          key = "name"
+          value = "salesforce incidents"
+        },
+        {
+          key = "refresh"
+          value = "15"
+        },
+        {
+          key = "periodName"
+          value = "weekly"
+        },
+        {
+          key = "projectOrFilterId"
+          value = jira.Filter.instance.salesforce_incidents@s
+        },
+        {
+          key = "daysprevious"
+          value = "60"
+        },
+        {
+          key = "id"
+          value = "10292"
+        },
+        {
+          key = "type"
+          value = "filter"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.Salesforce_Incidents_dashboard@s,
+  ]
+  _alias = "Average Age Chart"
+}

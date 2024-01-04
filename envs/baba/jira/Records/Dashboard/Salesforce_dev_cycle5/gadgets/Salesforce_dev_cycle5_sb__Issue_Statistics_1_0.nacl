@@ -1,0 +1,64 @@
+jira.DashboardGadget Salesforce_dev_cycle5_sb__Issue_Statistics_1_0@uumuusuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:stats-gadget/gadgets/stats-gadget.xml"
+  color = "blue"
+  position = {
+    row = 0
+    column = 1
+  }
+  title = "Issue Statistics"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "sortDirection"
+          value = "desc"
+        },
+        {
+          key = "statType"
+          value = "statuses"
+        },
+        {
+          key = "maxResults"
+          value = "50"
+        },
+        {
+          key = "name"
+          value = "Salesfroce dev-cycle-5"
+        },
+        {
+          key = "refresh"
+          value = "false"
+        },
+        {
+          key = "projectOrFilterId"
+          value = jira.Filter.instance.Salesfroce_dev_cycle_5@sbb
+        },
+        {
+          key = "includeResolvedIssues"
+          value = "true"
+        },
+        {
+          key = "sortBy"
+          value = "total"
+        },
+        {
+          key = "id"
+          value = "10243"
+        },
+        {
+          key = "type"
+          value = "filter"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.Salesforce_dev_cycle5@sb,
+  ]
+  _alias = "Issue Statistics"
+}

@@ -1,0 +1,18 @@
+jira.Dashboard Salesforce_dev_cycle2@sb {
+  description = ""
+  name = "Salesforce dev-cycle2"
+  owner = {
+    id = "5e6a1df25df5fb0cfee33250"
+    displayName = "Amit Goldfarb"
+  }
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  gadgets = [
+    jira.DashboardGadget.instance.Salesforce_dev_cycle2_sb__Filter_Results_0_0@uumuusuu,
+    jira.DashboardGadget.instance.Salesforce_dev_cycle2_sb__Issue_Statistics_1_0@uumuusuu,
+  ]
+  layout = "AA"
+}

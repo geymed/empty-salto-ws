@@ -1,0 +1,13 @@
+jira.DashboardGadget Anastasia_s_Board_ts__Quick_links_2_1@uumuusuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:quicklinks-gadget/gadgets/quicklinks-gadget.xml"
+  color = "blue"
+  position = {
+    row = 1
+    column = 2
+  }
+  title = "Quick links"
+  _parent = [
+    jira.Dashboard.instance.Anastasia_s_Board@ts,
+  ]
+  _alias = "Quick links"
+}

@@ -1,0 +1,20 @@
+jira.Dashboard User_Dashboard@s {
+  description = "Users dashboard"
+  name = "User Dashboard"
+  owner = {
+    id = "5e22506ba531f30ca385802d"
+    displayName = "Amit Goldberg"
+  }
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  gadgets = [
+    jira.DashboardGadget.instance.User_Dashboard_s__Assigned_to_Me_0_0@umuussuu,
+    jira.DashboardGadget.instance.User_Dashboard_s__Watched_Issues_0_1@umuusuu,
+    jira.DashboardGadget.instance.User_Dashboard_s__Pie_Chart_1_0@umuusuu,
+    jira.DashboardGadget.instance.User_Dashboard_s__Issue_Statistics_1_1@umuusuu,
+  ]
+  layout = "AB"
+}

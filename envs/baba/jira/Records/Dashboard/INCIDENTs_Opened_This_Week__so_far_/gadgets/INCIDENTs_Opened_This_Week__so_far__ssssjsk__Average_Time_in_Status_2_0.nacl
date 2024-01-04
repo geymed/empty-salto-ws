@@ -1,0 +1,64 @@
+jira.DashboardGadget INCIDENTs_Opened_This_Week__so_far__ssssjsk__Average_Time_in_Status_2_0@uuuuuuumuusssuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.ext.charting:timeinstatus-gadget/com/atlassian/jira/ext/charting/gadget/timeinstatus-gadget.xml"
+  color = "yellow"
+  position = {
+    row = 0
+    column = 2
+  }
+  title = "Average Time in Status"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "isPopup"
+          value = "false"
+        },
+        {
+          key = "name"
+          value = "Incidents"
+        },
+        {
+          key = "refresh"
+          value = "60"
+        },
+        {
+          key = "statuses"
+          value = "1|3|10062|10103"
+        },
+        {
+          key = "periodName"
+          value = "daily"
+        },
+        {
+          key = "projectOrFilterId"
+          value = "project-10056"
+        },
+        {
+          key = "daysprevious"
+          value = "90"
+        },
+        {
+          key = "yaxisPeriod"
+          value = "daily"
+        },
+        {
+          key = "id"
+          value = "10056"
+        },
+        {
+          key = "type"
+          value = "project"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.INCIDENTs_Opened_This_Week__so_far_@ssssjsk,
+  ]
+  _alias = "Average Time in Status"
+}

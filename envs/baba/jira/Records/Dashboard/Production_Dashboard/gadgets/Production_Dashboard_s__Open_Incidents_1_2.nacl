@@ -1,0 +1,48 @@
+jira.DashboardGadget Production_Dashboard_s__Open_Incidents_1_2@umuusuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:filter-results-gadget/gadgets/filter-results-gadget.xml"
+  color = "blue"
+  position = {
+    row = 2
+    column = 1
+  }
+  title = "Open Incidents"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "filterId"
+          value = jira.Filter.instance.open_incidents@s
+        },
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "columnNames"
+          value = "issuekey|summary|status|assignee|priority|Org Tier[Dropdown]"
+        },
+        {
+          key = "isPopup"
+          value = "false"
+        },
+        {
+          key = "num"
+          value = "10"
+        },
+        {
+          key = "refresh"
+          value = "15"
+        },
+        {
+          key = "sortBy"
+          value = "issuekey:DESC"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.Production_Dashboard@s,
+  ]
+  _alias = "Open Incidents"
+}

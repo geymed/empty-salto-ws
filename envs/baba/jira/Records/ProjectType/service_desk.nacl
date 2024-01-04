@@ -1,0 +1,6 @@
+jira.ProjectType service_desk {
+  key = "service_desk"
+  formattedKey = "Service Desk"
+  descriptionI18nKey = "jira.project.type.servicedesk.description.jsm"
+  color = "#67AB49"
+}

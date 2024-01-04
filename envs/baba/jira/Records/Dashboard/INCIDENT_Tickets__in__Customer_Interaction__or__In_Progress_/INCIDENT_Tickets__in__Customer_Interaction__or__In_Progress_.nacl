@@ -1,0 +1,18 @@
+jira.Dashboard INCIDENT_Tickets__in__Customer_Interaction__or__In_Progress_@ssssrsrssrsr {
+  description = ""
+  name = "INCIDENT Tickets  in \"Customer Interaction\" or \"In Progress\""
+  owner = {
+    id = "636428e9d66d8108a125f0ce"
+    displayName = "Jonah Pressman"
+  }
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  gadgets = [
+    jira.DashboardGadget.instance.INCIDENT_Tickets__in__Customer_Interaction__or__In_Progress__ssssrsrssrsr__Pie_Chart_0_0@uuuuuuuuuuuumuusuu,
+    jira.DashboardGadget.instance.INCIDENT_Tickets__in__Customer_Interaction__or__In_Progress__ssssrsrssrsr__Pie_Chart_1_0@uuuuuuuuuuuumuusuu,
+  ]
+  layout = "AA"
+}

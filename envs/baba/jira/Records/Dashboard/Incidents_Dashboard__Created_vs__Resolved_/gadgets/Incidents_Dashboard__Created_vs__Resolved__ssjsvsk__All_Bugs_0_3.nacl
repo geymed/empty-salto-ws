@@ -1,0 +1,72 @@
+jira.DashboardGadget Incidents_Dashboard__Created_vs__Resolved__ssjsvsk__All_Bugs_0_3@uuuuuuumuusuu {
+  uri = "rest/gadgets/1.0/g/com.atlassian.jira.gadgets:created-vs-resolved-issues-chart-gadget/gadgets/createdvsresolved-gadget.xml"
+  color = "blue"
+  position = {
+    row = 3
+    column = 0
+  }
+  title = "All Bugs"
+  properties = [
+    {
+      key = "config"
+      values = [
+        {
+          key = "isConfigured"
+          value = "true"
+        },
+        {
+          key = "isPopup"
+          value = "false"
+        },
+        {
+          key = "refresh"
+          value = "false"
+        },
+        {
+          key = "periodName"
+          value = "weekly"
+        },
+        {
+          key = "showUnresolvedTrend"
+          value = "false"
+        },
+        {
+          key = "projectOrFilterId"
+          value = ""
+        },
+        {
+          key = "type"
+          value = "filter"
+        },
+        {
+          key = "versionLabel"
+          value = "major"
+        },
+        {
+          key = "isCumulative"
+          value = "false"
+        },
+        {
+          key = "name"
+          value = "All Bugs"
+        },
+        {
+          key = "daysprevious"
+          value = "332"
+        },
+        {
+          key = "id"
+          value = "10330"
+        },
+        {
+          key = "operation"
+          value = "count"
+        },
+      ]
+    },
+  ]
+  _parent = [
+    jira.Dashboard.instance.Incidents_Dashboard__Created_vs__Resolved_@ssjsvsk,
+  ]
+  _alias = "All Bugs"
+}

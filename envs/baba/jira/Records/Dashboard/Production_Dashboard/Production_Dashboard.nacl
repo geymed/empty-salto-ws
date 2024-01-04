@@ -1,0 +1,29 @@
+jira.Dashboard Production_Dashboard@s {
+  description = ""
+  name = "Production Dashboard"
+  owner = {
+    id = "5c728d29d48a17049c3adb86"
+    displayName = "Hadar Davidovich"
+  }
+  sharePermissions = [
+    {
+      type = "authenticated"
+    },
+  ]
+  gadgets = [
+    jira.DashboardGadget.instance.Production_Dashboard_s__Incidents_by_Severity_0_0@umuussuu,
+    jira.DashboardGadget.instance.Production_Dashboard_s__Incidents_by_Type_of_error_0_1@umuussssuu,
+    jira.DashboardGadget.instance.Production_Dashboard_s__Issues_in_SALTO_SAAS_that_linked_to_recent_incidents_0_2@umuussdsssssuu,
+    jira.DashboardGadget.instance.Production_Dashboard_s__Production_Changes_0_3@umuusuu,
+    jira.DashboardGadget.instance.Production_Dashboard_s__Customers_Bugs_0_4@umuusuu,
+    jira.DashboardGadget.instance.Production_Dashboard_s__Flagged_Incidents_1_0@umuusuu,
+    jira.DashboardGadget.instance.Production_Dashboard_s__Triage_Queue_1_1@umuusuu,
+    jira.DashboardGadget.instance.Production_Dashboard_s__Open_Incidents_1_2@umuusuu,
+    jira.DashboardGadget.instance.Production_Dashboard_s__Open_Credentials_Incidents_1_3@umuussuu,
+    jira.DashboardGadget.instance.Production_Dashboard_s__Open_Incidents_by_Org_Tier_1_4@umuussssuu,
+    jira.DashboardGadget.instance.Production_Dashboard_s__Open_Incidents_by_Assignee_1_5@umuusssuu,
+    jira.DashboardGadget.instance.Production_Dashboard_s__Open_INCIDENTS_by_status_1_6@umuusssuu,
+    jira.DashboardGadget.instance.Production_Dashboard_s__Average_Incidents_Age_1_7@umuussuu,
+  ]
+  layout = "AA"
+}
