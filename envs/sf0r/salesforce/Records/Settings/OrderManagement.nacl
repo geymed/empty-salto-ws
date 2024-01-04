@@ -1,5 +1,0 @@
-salesforce.OrderManagementSettings {
-  fullName = "OrderManagement"
-  enableOrderManagement = false
-  _alias = "OrderManagement"
-}

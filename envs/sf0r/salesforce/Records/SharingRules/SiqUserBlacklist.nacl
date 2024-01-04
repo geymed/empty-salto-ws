@@ -1,4 +1,0 @@
-salesforce.SharingRules SiqUserBlacklist {
-  fullName = "SiqUserBlacklist"
-  _alias = "SiqUserBlacklist"
-}

@@ -1,5 +1,0 @@
-salesforce.AppAnalyticsSettings {
-  fullName = "AppAnalytics"
-  enableSimulationMode = "false"
-  _alias = "AppAnalytics"
-}
