@@ -1,0 +1,48 @@
+jira.Board Design_Tasks@s {
+  name = "Design Tasks"
+  type = "kanban"
+  admins = {
+    users = [
+      {
+        id = "622ba0c5f1e55c0070f38438"
+        displayName = "Miki Chernyak"
+      },
+    ]
+  }
+  location = {
+    projectId = jira.Project.instance.missing_10044
+  }
+  filterId = jira.Filter.instance.Filter_for_Design_Tasks@s
+  columnConfig = {
+    columns = [
+      {
+        name = "To Do"
+        statuses = [
+          jira.Status.instance.missing_10088,
+          jira.Status.instance.missing_10001,
+          jira.Status.instance.missing_10082,
+          jira.Status.instance.missing_10084,
+        ]
+      },
+      {
+        name = "In Progress"
+        statuses = [
+          jira.Status.instance.missing_3,
+          jira.Status.instance.missing_10002,
+          jira.Status.instance.missing_10083,
+        ]
+      },
+      {
+        name = "Done"
+        statuses = [
+          jira.Status.instance.missing_10003,
+          jira.Status.instance.missing_10075,
+          jira.Status.instance.missing_10074,
+          jira.Status.instance.missing_6,
+        ]
+      },
+    ]
+    constraintType = "issueCount"
+  }
+  subQuery = "fixVersion in unreleasedVersions() OR fixVersion is EMPTY"
+}

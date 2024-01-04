@@ -1,0 +1,48 @@
+jira.Board WWW_SALBIZOPS_board@ds {
+  name = "WWW/SALBIZOPS board"
+  type = "kanban"
+  admins = {
+    users = [
+      {
+        id = "5e22506ba531f30ca385802d"
+        displayName = "Amit Goldberg"
+      },
+    ]
+  }
+  location = {
+    projectId = jira.Project.instance.missing_10048
+  }
+  filterId = jira.Filter.instance.Filter_for_WWW_SALBIZOPS_board@ssds
+  columnConfig = {
+    columns = [
+      {
+        name = "To Do"
+        statuses = [
+          jira.Status.instance.missing_1,
+          jira.Status.instance.missing_10001,
+          jira.Status.instance.missing_10069,
+        ]
+      },
+      {
+        name = "In Progress"
+        statuses = [
+          jira.Status.instance.missing_10139,
+          jira.Status.instance.missing_10002,
+          jira.Status.instance.missing_10081,
+          jira.Status.instance.missing_10093,
+          jira.Status.instance.missing_10080,
+          jira.Status.instance.missing_3,
+        ]
+      },
+      {
+        name = "Done"
+        statuses = [
+          jira.Status.instance.missing_10003,
+          jira.Status.instance.missing_10074,
+        ]
+      },
+    ]
+    constraintType = "issueCount"
+  }
+  subQuery = "fixVersion in unreleasedVersions() OR fixVersion is EMPTY"
+}

@@ -1,0 +1,40 @@
+jira.Board DXA_board@s {
+  name = "DXA board"
+  type = "simple"
+  admins = {
+    users = [
+      {
+        id = "627d3bc79311100068a121b3"
+        displayName = "Arik Marmorstein"
+      },
+    ]
+  }
+  location = {
+    projectId = jira.Project.instance.missing_10078
+  }
+  filterId = jira.Filter.instance.missing_10252
+  columnConfig = {
+    columns = [
+      {
+        name = "To Do"
+        statuses = [
+          jira.Status.instance.missing_10177,
+        ]
+      },
+      {
+        name = "In Progress"
+        statuses = [
+          jira.Status.instance.missing_10178,
+        ]
+      },
+      {
+        name = "Done"
+        statuses = [
+          jira.Status.instance.missing_10179,
+        ]
+        max = 100
+      },
+    ]
+    constraintType = "none"
+  }
+}

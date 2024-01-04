@@ -1,0 +1,46 @@
+jira.Board BILLING2_board@s {
+  name = "BILLING2 board"
+  type = "kanban"
+  admins = {
+    users = [
+      {
+        id = "5e22506ba531f30ca385802d"
+        displayName = "Amit Goldberg"
+      },
+    ]
+  }
+  location = {
+    projectId = jira.Project.instance.missing_10068
+  }
+  filterId = jira.Filter.instance.Filter_for_BILLING2_board@s
+  columnConfig = {
+    columns = [
+      {
+        name = "Backlog"
+        statuses = [
+          jira.Status.instance.missing_10069,
+        ]
+      },
+      {
+        name = "Selected for Development"
+        statuses = [
+          jira.Status.instance.missing_10070,
+        ]
+      },
+      {
+        name = "In Progress"
+        statuses = [
+          jira.Status.instance.missing_3,
+        ]
+      },
+      {
+        name = "Done"
+        statuses = [
+          jira.Status.instance.missing_10003,
+        ]
+      },
+    ]
+    constraintType = "issueCount"
+  }
+  subQuery = "fixVersion in unreleasedVersions() OR fixVersion is EMPTY"
+}

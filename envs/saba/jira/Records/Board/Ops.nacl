@@ -1,0 +1,52 @@
+jira.Board Ops {
+  name = "Ops"
+  type = "kanban"
+  admins = {
+    users = [
+      {
+        id = "61fc08c7f5f5b80070c846d7"
+        displayName = "Anastasia Rachuk"
+      },
+    ]
+  }
+  location = {
+    projectId = jira.Project.instance.missing_10047
+  }
+  filterId = jira.Filter.instance.Filter_for_Marketing_Operations@s
+  columnConfig = {
+    columns = [
+      {
+        name = "To Do"
+        statuses = [
+          jira.Status.instance.missing_1,
+          jira.Status.instance.missing_10069,
+          jira.Status.instance.missing_10115,
+          jira.Status.instance.missing_10001,
+        ]
+      },
+      {
+        name = "In Progress"
+        statuses = [
+          jira.Status.instance.missing_10139,
+          jira.Status.instance.missing_10002,
+          jira.Status.instance.missing_10081,
+          jira.Status.instance.missing_10093,
+          jira.Status.instance.missing_10080,
+          jira.Status.instance.missing_3,
+          jira.Status.instance.missing_10116,
+          jira.Status.instance.missing_10117,
+        ]
+      },
+      {
+        name = "Done"
+        statuses = [
+          jira.Status.instance.missing_10074,
+          jira.Status.instance.missing_10003,
+          jira.Status.instance.missing_10118,
+        ]
+      },
+    ]
+    constraintType = "issueCount"
+  }
+  subQuery = "fixVersion in unreleasedVersions() OR fixVersion is EMPTY"
+}

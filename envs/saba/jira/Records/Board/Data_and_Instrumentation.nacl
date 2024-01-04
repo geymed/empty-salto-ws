@@ -1,0 +1,62 @@
+jira.Board Data_and_Instrumentation@s {
+  name = "Data and Instrumentation"
+  type = "kanban"
+  admins = {
+    users = [
+      {
+        id = "61fc08c7f5f5b80070c846d7"
+        displayName = "Anastasia Rachuk"
+      },
+    ]
+  }
+  location = {
+    projectId = jira.Project.instance.missing_10048
+  }
+  filterId = jira.Filter.instance.Filter_for_Data_and_Instrumentation@s
+  columnConfig = {
+    columns = [
+      {
+        name = "To Do"
+        statuses = [
+          jira.Status.instance.missing_10088,
+          jira.Status.instance.missing_10102,
+          jira.Status.instance.missing_10101,
+          jira.Status.instance.missing_10084,
+          jira.Status.instance.missing_10115,
+          jira.Status.instance.missing_10096,
+          jira.Status.instance.missing_10082,
+          jira.Status.instance.missing_10069,
+          jira.Status.instance.missing_10001,
+        ]
+      },
+      {
+        name = "In Progress"
+        statuses = [
+          jira.Status.instance.missing_10083,
+          jira.Status.instance.missing_10002,
+          jira.Status.instance.missing_10081,
+          jira.Status.instance.missing_10097,
+          jira.Status.instance.missing_10080,
+          jira.Status.instance.missing_3,
+          jira.Status.instance.missing_10116,
+          jira.Status.instance.missing_10117,
+        ]
+      },
+      {
+        name = "Done"
+        statuses = [
+          jira.Status.instance.missing_10074,
+          jira.Status.instance.missing_10099,
+          jira.Status.instance.missing_6,
+          jira.Status.instance.missing_10118,
+          jira.Status.instance.missing_10098,
+          jira.Status.instance.missing_10003,
+          jira.Status.instance.missing_10075,
+          jira.Status.instance.missing_10100,
+        ]
+      },
+    ]
+    constraintType = "issueCount"
+  }
+  subQuery = "fixVersion in unreleasedVersions() OR fixVersion is EMPTY"
+}

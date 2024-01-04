@@ -1,0 +1,39 @@
+jira.Board BIZAPP_board@s {
+  name = "BIZAPP board"
+  type = "simple"
+  admins = {
+    users = [
+      {
+        id = "5e5e289fc8ec310c955d2d15"
+        displayName = "Hadas Birin"
+      },
+    ]
+  }
+  location = {
+    projectId = jira.Project.instance.missing_10045
+  }
+  filterId = jira.Filter.instance.missing_10045
+  columnConfig = {
+    columns = [
+      {
+        name = "To Do"
+        statuses = [
+          jira.Status.instance.missing_10076,
+        ]
+      },
+      {
+        name = "In Progress"
+        statuses = [
+          jira.Status.instance.missing_10077,
+        ]
+      },
+      {
+        name = "Done"
+        statuses = [
+          jira.Status.instance.missing_10078,
+        ]
+      },
+    ]
+    constraintType = "none"
+  }
+}

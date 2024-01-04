@@ -1,0 +1,45 @@
+jira.Board Fun_board@s {
+  name = "Fun board"
+  type = "simple"
+  admins = {
+    users = [
+      {
+        id = "5c7289009170244d98d8192c"
+        displayName = "Gil Hoffer"
+      },
+    ]
+  }
+  location = {
+    projectId = jira.Project.instance.missing_10050
+  }
+  filterId = jira.Filter.instance.missing_10062
+  columnConfig = {
+    columns = [
+      {
+        name = "To Do"
+        statuses = [
+          jira.Status.instance.missing_10085,
+        ]
+      },
+      {
+        name = "In Progress"
+        statuses = [
+          jira.Status.instance.missing_10086,
+        ]
+      },
+      {
+        name = "Done"
+        statuses = [
+          jira.Status.instance.missing_10087,
+        ]
+      },
+      {
+        name = "CANCELED"
+        statuses = [
+          jira.Status.instance.missing_10095,
+        ]
+      },
+    ]
+    constraintType = "none"
+  }
+}

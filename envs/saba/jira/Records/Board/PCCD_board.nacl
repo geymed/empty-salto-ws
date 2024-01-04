@@ -1,0 +1,51 @@
+jira.Board PCCD_board@s {
+  name = "PCCD board"
+  type = "simple"
+  admins = {
+    users = [
+      {
+        id = "627d3bc79311100068a121b3"
+        displayName = "Arik Marmorstein"
+      },
+    ]
+  }
+  location = {
+    projectId = jira.Project.instance.missing_10074
+  }
+  filterId = jira.Filter.instance.missing_10222
+  columnConfig = {
+    columns = [
+      {
+        name = "To Do"
+        statuses = [
+          jira.Status.instance.missing_10155,
+        ]
+      },
+      {
+        name = "Chapters"
+        statuses = [
+          jira.Status.instance.missing_10158,
+        ]
+      },
+      {
+        name = "In Progress"
+        statuses = [
+          jira.Status.instance.missing_10156,
+        ]
+      },
+      {
+        name = "Under review/editing"
+        statuses = [
+          jira.Status.instance.missing_10159,
+        ]
+      },
+      {
+        name = "Done"
+        statuses = [
+          jira.Status.instance.missing_10157,
+        ]
+      },
+    ]
+    constraintType = "none"
+  }
+}

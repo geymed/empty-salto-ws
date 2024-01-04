@@ -1,0 +1,51 @@
+jira.Board ECS_board@s {
+  name = "ECS board"
+  type = "simple"
+  admins = {
+    users = [
+      {
+        id = "627d3bc79311100068a121b3"
+        displayName = "Arik Marmorstein"
+      },
+    ]
+  }
+  location = {
+    projectId = jira.Project.instance.missing_10073
+  }
+  filterId = jira.Filter.instance.missing_10210
+  columnConfig = {
+    columns = [
+      {
+        name = "To do (Arik)"
+        statuses = [
+          jira.Status.instance.missing_10154,
+        ]
+      },
+      {
+        name = "Chapters"
+        statuses = [
+          jira.Status.instance.missing_10150,
+        ]
+      },
+      {
+        name = "In Progress"
+        statuses = [
+          jira.Status.instance.missing_10151,
+        ]
+      },
+      {
+        name = "Under review and/or edit"
+        statuses = [
+          jira.Status.instance.missing_10153,
+        ]
+      },
+      {
+        name = "Done"
+        statuses = [
+          jira.Status.instance.missing_10152,
+        ]
+      },
+    ]
+    constraintType = "none"
+  }
+}
