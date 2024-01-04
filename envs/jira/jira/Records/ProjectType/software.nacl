@@ -1,0 +1,6 @@
+jira.ProjectType software {
+  key = "software"
+  formattedKey = "Software"
+  descriptionI18nKey = "jira.project.type.software.description"
+  color = "#F5A623"
+}

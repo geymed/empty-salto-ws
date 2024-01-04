@@ -1,0 +1,6 @@
+jira.Priority Medium {
+  statusColor = "#f79232"
+  description = "Has the potential to affect progress."
+  iconUrl = "/images/icons/priorities/medium.svg"
+  name = "Medium"
+}

@@ -1,0 +1,4 @@
+jira.Resolution Cannot_Reproduce@s {
+  description = "All attempts at reproducing this issue failed, or not enough information was available to reproduce the issue. Reading the code produces no clues as to why this behavior would occur. If more information appears later, please reopen the issue."
+  name = "Cannot Reproduce"
+}

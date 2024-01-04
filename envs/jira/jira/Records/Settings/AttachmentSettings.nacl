@@ -1,0 +1,4 @@
+jira.AttachmentSettings {
+  enabled = true
+  uploadLimit = 1073741824
+}
