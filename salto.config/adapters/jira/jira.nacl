@@ -1,0 +1,14 @@
+jira {
+  fetch = {
+    include = [
+      {
+        type = ".*"
+      },
+    ]
+    exclude = [
+    ]
+  }
+  deploy = {
+    forceDelete = false
+  }
+}
