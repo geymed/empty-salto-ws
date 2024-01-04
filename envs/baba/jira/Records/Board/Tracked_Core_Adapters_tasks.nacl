@@ -1,0 +1,49 @@
+jira.Board Tracked_Core_Adapters_tasks@szes {
+  name = "Tracked Core+Adapters tasks"
+  type = "kanban"
+  admins = {
+    users = [
+      {
+        id = "5c7289009170244d98d8192c"
+        displayName = "Gil Hoffer"
+      },
+    ]
+  }
+  location = {
+    projectId = jira.Project.instance.missing_10042
+  }
+  filterId = jira.Filter.instance.Filter_for_Tracked_Core_Adapters_tasks@ssszes
+  columnConfig = {
+    columns = [
+      {
+        name = "To Do"
+        statuses = [
+          jira.Status.instance.missing_10001,
+        ]
+      },
+      {
+        name = "In Progress"
+        statuses = [
+          jira.Status.instance.missing_3,
+        ]
+      },
+      {
+        name = "In Review"
+        statuses = [
+          jira.Status.instance.missing_10002,
+        ]
+      },
+      {
+        name = "Done"
+        statuses = [
+          jira.Status.instance.missing_6,
+          jira.Status.instance.missing_10003,
+          jira.Status.instance.missing_10074,
+          jira.Status.instance.missing_10075,
+        ]
+      },
+    ]
+    constraintType = "issueCount"
+  }
+  subQuery = "fixVersion in unreleasedVersions() OR fixVersion is EMPTY"
+}

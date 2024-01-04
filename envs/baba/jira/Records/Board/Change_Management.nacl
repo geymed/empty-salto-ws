@@ -1,0 +1,75 @@
+jira.Board Change_Management@s {
+  name = "Change Management"
+  type = "kanban"
+  admins = {
+    users = [
+      {
+        id = "5cf38595d9f6b90f3d4b042f"
+        displayName = "Former user"
+      },
+    ]
+  }
+  location = {
+    projectId = jira.Project.instance.missing_10042
+  }
+  filterId = jira.Filter.instance.change_mgmt@s
+  columnConfig = {
+    columns = [
+      {
+        name = "To Do"
+        statuses = [
+          jira.Status.instance.missing_10088,
+          jira.Status.instance.missing_10076,
+          jira.Status.instance.missing_10084,
+          jira.Status.instance.missing_10092,
+          jira.Status.instance.missing_10064,
+          jira.Status.instance.missing_10085,
+          jira.Status.instance.missing_10082,
+          jira.Status.instance.missing_10069,
+          jira.Status.instance.missing_10001,
+          jira.Status.instance.missing_10061,
+        ]
+      },
+      {
+        name = "In Design"
+        statuses = [
+          jira.Status.instance.missing_10083,
+          jira.Status.instance.missing_10065,
+        ]
+      },
+      {
+        name = "In Progress"
+        statuses = [
+          jira.Status.instance.missing_10077,
+          jira.Status.instance.missing_10080,
+          jira.Status.instance.missing_3,
+          jira.Status.instance.missing_10062,
+          jira.Status.instance.missing_10086,
+        ]
+      },
+      {
+        name = "In Review"
+        statuses = [
+          jira.Status.instance.missing_10002,
+          jira.Status.instance.missing_10093,
+        ]
+      },
+      {
+        name = "Done"
+        statuses = [
+          jira.Status.instance.missing_10078,
+          jira.Status.instance.missing_10074,
+          jira.Status.instance.missing_10087,
+          jira.Status.instance.missing_6,
+          jira.Status.instance.missing_10094,
+          jira.Status.instance.missing_10003,
+          jira.Status.instance.missing_10075,
+          jira.Status.instance.missing_10063,
+          jira.Status.instance.missing_10081,
+        ]
+      },
+    ]
+    constraintType = "issueCount"
+  }
+  subQuery = "fixVersion in unreleasedVersions() OR fixVersion is EMPTY"
+}

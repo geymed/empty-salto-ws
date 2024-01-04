@@ -1,0 +1,52 @@
+jira.Board Liat_s_Board@ts {
+  name = "Liat's Board"
+  type = "kanban"
+  admins = {
+    users = [
+      {
+        id = "61f8f547acd4cb0069cf8d80"
+        displayName = "Avi Loterstein"
+      },
+    ]
+  }
+  location = {
+    projectId = jira.Project.instance.missing_10048
+  }
+  filterId = jira.Filter.instance.Filter_for_Liat_s_Board@ssts
+  columnConfig = {
+    columns = [
+      {
+        name = "To Do"
+        statuses = [
+          jira.Status.instance.missing_1,
+          jira.Status.instance.missing_10171,
+          jira.Status.instance.missing_10115,
+          jira.Status.instance.missing_10001,
+        ]
+      },
+      {
+        name = "In Progress"
+        statuses = [
+          jira.Status.instance.missing_10139,
+          jira.Status.instance.missing_10002,
+          jira.Status.instance.missing_10172,
+          jira.Status.instance.missing_10093,
+          jira.Status.instance.missing_3,
+          jira.Status.instance.missing_10173,
+          jira.Status.instance.missing_10116,
+          jira.Status.instance.missing_10117,
+        ]
+      },
+      {
+        name = "Done"
+        statuses = [
+          jira.Status.instance.missing_10174,
+          jira.Status.instance.missing_10003,
+          jira.Status.instance.missing_10118,
+        ]
+      },
+    ]
+    constraintType = "issueCount"
+  }
+  subQuery = "fixVersion in unreleasedVersions() OR fixVersion is EMPTY"
+}

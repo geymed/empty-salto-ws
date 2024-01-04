@@ -1,0 +1,45 @@
+jira.Board SFL_board@s {
+  name = "SFL board"
+  type = "simple"
+  admins = {
+    users = [
+      {
+        id = "627d3bc79311100068a121b3"
+        displayName = "Arik Marmorstein"
+      },
+    ]
+  }
+  location = {
+    projectId = jira.Project.instance.missing_10063
+  }
+  filterId = jira.Filter.instance.missing_10154
+  columnConfig = {
+    columns = [
+      {
+        name = "To Do"
+        statuses = [
+          jira.Status.instance.missing_10122,
+        ]
+      },
+      {
+        name = "In Progress"
+        statuses = [
+          jira.Status.instance.missing_10123,
+        ]
+      },
+      {
+        name = "Done"
+        statuses = [
+          jira.Status.instance.missing_10124,
+        ]
+      },
+      {
+        name = "ice box"
+        statuses = [
+          jira.Status.instance.missing_10125,
+        ]
+      },
+    ]
+    constraintType = "none"
+  }
+}

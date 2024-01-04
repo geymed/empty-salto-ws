@@ -1,0 +1,51 @@
+jira.Board SC_board@s {
+  name = "SC board"
+  type = "simple"
+  admins = {
+    users = [
+      {
+        id = "627d3bc79311100068a121b3"
+        displayName = "Arik Marmorstein"
+      },
+    ]
+  }
+  location = {
+    projectId = jira.Project.instance.missing_10072
+  }
+  filterId = jira.Filter.instance.missing_10209
+  columnConfig = {
+    columns = [
+      {
+        name = "Lessons"
+        statuses = [
+          jira.Status.instance.missing_10146,
+        ]
+      },
+      {
+        name = "In Progress"
+        statuses = [
+          jira.Status.instance.missing_10147,
+        ]
+      },
+      {
+        name = "Under review"
+        statuses = [
+          jira.Status.instance.missing_10148,
+        ]
+      },
+      {
+        name = "Salto-to do"
+        statuses = [
+          jira.Status.instance.missing_10166,
+        ]
+      },
+      {
+        name = "Done"
+        statuses = [
+          jira.Status.instance.missing_10149,
+        ]
+      },
+    ]
+    constraintType = "none"
+  }
+}
