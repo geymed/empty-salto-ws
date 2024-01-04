@@ -1,0 +1,52 @@
+jira.Board Salto_Systems_Ops_board@sds {
+  name = "Salto Systems/Ops board"
+  type = "kanban"
+  admins = {
+    users = [
+      {
+        id = "61fc08c7f5f5b80070c846d7"
+        displayName = "Anastasia Rachuk"
+      },
+    ]
+  }
+  location = {
+    projectId = jira.Project.instance.missing_10047
+  }
+  filterId = jira.Filter.instance.Filter_for_SALBIZ_board@s
+  columnConfig = {
+    columns = [
+      {
+        name = "Backlog"
+        statuses = [
+          jira.Status.instance.missing_10069,
+        ]
+      },
+      {
+        name = "In Progress"
+        statuses = [
+          jira.Status.instance.missing_3,
+        ]
+      },
+      {
+        name = "Ready For Staging"
+        statuses = [
+          jira.Status.instance.missing_10081,
+        ]
+      },
+      {
+        name = "Staged"
+        statuses = [
+          jira.Status.instance.missing_10080,
+        ]
+      },
+      {
+        name = "Done"
+        statuses = [
+          jira.Status.instance.missing_10003,
+        ]
+      },
+    ]
+    constraintType = "issueCount"
+  }
+  subQuery = "fixVersion in unreleasedVersions() OR fixVersion is EMPTY"
+}

@@ -1,0 +1,42 @@
+jira.Board Emily_s_Board@ts {
+  name = "Emily's Board"
+  type = "kanban"
+  admins = {
+    users = [
+      {
+        id = "633b4c0761dbef2805c1318d"
+        displayName = "Emily Judds-Winograd"
+      },
+    ]
+  }
+  location = {
+    userId = 10135
+    userAccountId = "633b4c0761dbef2805c1318d"
+  }
+  filterId = jira.Filter.instance.Filter_for_Emily_s_Board@ssts
+  columnConfig = {
+    columns = [
+      {
+        name = "To Do"
+        statuses = [
+          jira.Status.instance.missing_10115,
+        ]
+      },
+      {
+        name = "In Progress"
+        statuses = [
+          jira.Status.instance.missing_10117,
+          jira.Status.instance.missing_10116,
+        ]
+      },
+      {
+        name = "Done"
+        statuses = [
+          jira.Status.instance.missing_10118,
+        ]
+      },
+    ]
+    constraintType = "issueCount"
+  }
+  subQuery = "fixVersion in unreleasedVersions() OR fixVersion is EMPTY"
+}

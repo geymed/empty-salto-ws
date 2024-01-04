@@ -1,0 +1,52 @@
+jira.Board Engineering {
+  name = "Engineering"
+  type = "kanban"
+  admins = {
+    users = [
+      {
+        id = "5c728d29d48a17049c3adb86"
+        displayName = "Hadar Davidovich"
+      },
+    ]
+  }
+  location = {
+    projectId = jira.Project.instance.missing_10044
+  }
+  filterId = jira.Filter.instance.Filter_for_WIP@s
+  columnConfig = {
+    columns = [
+      {
+        name = "Planning"
+        statuses = [
+          jira.Status.instance.missing_10082,
+          jira.Status.instance.missing_10084,
+        ]
+      },
+      {
+        name = "To Do"
+        statuses = [
+          jira.Status.instance.missing_10001,
+        ]
+      },
+      {
+        name = "In Progress"
+        statuses = [
+          jira.Status.instance.missing_3,
+          jira.Status.instance.missing_10002,
+          jira.Status.instance.missing_10083,
+        ]
+      },
+      {
+        name = "Done"
+        statuses = [
+          jira.Status.instance.missing_10003,
+          jira.Status.instance.missing_6,
+          jira.Status.instance.missing_10074,
+          jira.Status.instance.missing_10075,
+        ]
+      },
+    ]
+    constraintType = "issueCountExclSubs"
+  }
+  subQuery = "fixVersion in unreleasedVersions() OR fixVersion is EMPTY"
+}

@@ -1,0 +1,64 @@
+jira.Board Platform_Team_Scrum_Board@s {
+  name = "Platform Team Scrum Board"
+  type = "scrum"
+  admins = {
+    users = [
+      {
+        id = "5e22506ba531f30ca385802d"
+        displayName = "Amit Goldberg"
+      },
+    ]
+  }
+  location = {
+    projectId = jira.Project.instance.missing_10047
+  }
+  filterId = jira.Filter.instance.Platform_Team_Tasks_from_selected_projects@s
+  columnConfig = {
+    columns = [
+      {
+        name = "To Do"
+        statuses = [
+          jira.Status.instance.missing_10088,
+          jira.Status.instance.missing_1,
+          jira.Status.instance.missing_10102,
+          jira.Status.instance.missing_10101,
+          jira.Status.instance.missing_10096,
+          jira.Status.instance.missing_10107,
+          jira.Status.instance.missing_10069,
+          jira.Status.instance.missing_10001,
+        ]
+      },
+      {
+        name = "In Progress"
+        statuses = [
+          jira.Status.instance.missing_10139,
+          jira.Status.instance.missing_10083,
+          jira.Status.instance.missing_10002,
+          jira.Status.instance.missing_10081,
+          jira.Status.instance.missing_10093,
+          jira.Status.instance.missing_10097,
+          jira.Status.instance.missing_10080,
+          jira.Status.instance.missing_3,
+          jira.Status.instance.missing_10108,
+        ]
+      },
+      {
+        name = "Done"
+        statuses = [
+          jira.Status.instance.missing_10109,
+          jira.Status.instance.missing_10074,
+          jira.Status.instance.missing_10099,
+          jira.Status.instance.missing_6,
+          jira.Status.instance.missing_10098,
+          jira.Status.instance.missing_10003,
+          jira.Status.instance.missing_10075,
+          jira.Status.instance.missing_10100,
+        ]
+      },
+    ]
+    constraintType = "none"
+  }
+  estimation = {
+    field = jira.Field.instance.missing_customfield_10025
+  }
+}

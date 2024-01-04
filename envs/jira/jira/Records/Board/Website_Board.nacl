@@ -1,0 +1,53 @@
+jira.Board Website_Board@s {
+  name = "Website Board"
+  type = "kanban"
+  admins = {
+    users = [
+      {
+        id = "61fc08c7f5f5b80070c846d7"
+        displayName = "Anastasia Rachuk"
+      },
+    ]
+  }
+  location = {
+    projectId = jira.Project.instance.missing_10048
+  }
+  filterId = jira.Filter.instance.Filter_for_Website_Board@s
+  columnConfig = {
+    columns = [
+      {
+        name = "To Do"
+        statuses = [
+          jira.Status.instance.missing_10001,
+        ]
+      },
+      {
+        name = "In Progress"
+        statuses = [
+          jira.Status.instance.missing_3,
+          jira.Status.instance.missing_10002,
+        ]
+      },
+      {
+        name = "In Staging"
+        statuses = [
+          jira.Status.instance.missing_10139,
+        ]
+      },
+      {
+        name = "Approved"
+        statuses = [
+          jira.Status.instance.missing_10093,
+        ]
+      },
+      {
+        name = "Deployed to Production"
+        statuses = [
+          jira.Status.instance.missing_10003,
+        ]
+      },
+    ]
+    constraintType = "issueCount"
+  }
+  subQuery = "fixVersion in unreleasedVersions() OR fixVersion is EMPTY"
+}

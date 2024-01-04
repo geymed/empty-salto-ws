@@ -1,0 +1,46 @@
+jira.Board SaaS {
+  name = "SaaS"
+  type = "kanban"
+  admins = {
+    users = [
+      {
+        id = "5fb551c8f8b01200695a98b4"
+        displayName = "Igal Perelman"
+      },
+    ]
+  }
+  location = {
+    projectId = jira.Project.instance.missing_10044
+  }
+  filterId = jira.Filter.instance.Filter_for_SaaS@s
+  columnConfig = {
+    columns = [
+      {
+        name = "To Do"
+        statuses = [
+          jira.Status.instance.missing_10088,
+          jira.Status.instance.missing_10001,
+        ]
+      },
+      {
+        name = "In Progress"
+        statuses = [
+          jira.Status.instance.missing_10083,
+          jira.Status.instance.missing_10002,
+          jira.Status.instance.missing_3,
+        ]
+      },
+      {
+        name = "Done"
+        statuses = [
+          jira.Status.instance.missing_10003,
+          jira.Status.instance.missing_10075,
+          jira.Status.instance.missing_10074,
+          jira.Status.instance.missing_6,
+        ]
+      },
+    ]
+    constraintType = "issueCount"
+  }
+  subQuery = "fixVersion in unreleasedVersions() OR fixVersion is EMPTY"
+}

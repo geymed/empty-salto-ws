@@ -1,0 +1,51 @@
+jira.Board NA_board@s {
+  name = "NA board"
+  type = "simple"
+  admins = {
+    users = [
+      {
+        id = "627d3bc79311100068a121b3"
+        displayName = "Arik Marmorstein"
+      },
+    ]
+  }
+  location = {
+    projectId = jira.Project.instance.missing_10064
+  }
+  filterId = jira.Filter.instance.missing_10155
+  columnConfig = {
+    columns = [
+      {
+        name = "To Do"
+        statuses = [
+          jira.Status.instance.missing_10126,
+        ]
+      },
+      {
+        name = "In Progress"
+        statuses = [
+          jira.Status.instance.missing_10127,
+        ]
+      },
+      {
+        name = "waiting for others"
+        statuses = [
+          jira.Status.instance.missing_10129,
+        ]
+      },
+      {
+        name = "Done"
+        statuses = [
+          jira.Status.instance.missing_10128,
+        ]
+      },
+      {
+        name = "Ice box"
+        statuses = [
+          jira.Status.instance.missing_10170,
+        ]
+      },
+    ]
+    constraintType = "none"
+  }
+}

@@ -1,0 +1,50 @@
+jira.Board My_Kanban@s {
+  name = "My Kanban"
+  type = "kanban"
+  admins = {
+    users = [
+      {
+        id = "5e16e36d8dfdd40ec489ac51"
+        displayName = "Guy Kremnitzer"
+      },
+    ]
+  }
+  location = {
+    userId = 10030
+    userAccountId = "5e16e36d8dfdd40ec489ac51"
+  }
+  filterId = jira.Filter.instance.Filter_for_My_Kanban@s
+  columnConfig = {
+    columns = [
+      {
+        name = "To Do"
+        statuses = [
+          jira.Status.instance.missing_10001,
+        ]
+      },
+      {
+        name = "In Progress"
+        statuses = [
+          jira.Status.instance.missing_3,
+        ]
+      },
+      {
+        name = "In Review"
+        statuses = [
+          jira.Status.instance.missing_10002,
+        ]
+      },
+      {
+        name = "Done"
+        statuses = [
+          jira.Status.instance.missing_10003,
+          jira.Status.instance.missing_10075,
+          jira.Status.instance.missing_10074,
+          jira.Status.instance.missing_6,
+        ]
+      },
+    ]
+    constraintType = "issueCount"
+  }
+  subQuery = "fixVersion in unreleasedVersions() OR fixVersion is EMPTY"
+}

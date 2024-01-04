@@ -1,0 +1,49 @@
+jira.Board Miriam_board@s {
+  name = "Miriam board"
+  type = "kanban"
+  admins = {
+    users = [
+      {
+        id = "5f3d7377333edb0043b7699b"
+        displayName = "Miriam Isaac"
+      },
+    ]
+  }
+  location = {
+    userId = 10047
+    userAccountId = "5f3d7377333edb0043b7699b"
+  }
+  filterId = jira.Filter.instance.Filter_for_Miriam_board@s
+  columnConfig = {
+    columns = [
+      {
+        name = "To Do"
+        statuses = [
+          jira.Status.instance.missing_10088,
+          jira.Status.instance.missing_10084,
+          jira.Status.instance.missing_10001,
+          jira.Status.instance.missing_10082,
+        ]
+      },
+      {
+        name = "In Progress"
+        statuses = [
+          jira.Status.instance.missing_10083,
+          jira.Status.instance.missing_10002,
+          jira.Status.instance.missing_3,
+        ]
+      },
+      {
+        name = "Done"
+        statuses = [
+          jira.Status.instance.missing_10003,
+          jira.Status.instance.missing_10075,
+          jira.Status.instance.missing_10074,
+          jira.Status.instance.missing_6,
+        ]
+      },
+    ]
+    constraintType = "issueCount"
+  }
+  subQuery = "fixVersion in unreleasedVersions() OR fixVersion is EMPTY"
+}
