@@ -1,0 +1,26 @@
+type salesforce.NewObjectBabi__c {
+  salesforce.Text Alpha__c {
+    apiName = "NewObjectBabi__c.Alpha__c"
+    externalId = false
+    label = "Alphad"
+    length = 80
+    trackTrending = false
+    unique = false
+    createable = true
+    updateable = true
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text Beta__c {
+    apiName = "NewObjectBabi__c.Beta__c"
+    externalId = false
+    label = "Betac"
+    length = 80
+    trackTrending = false
+    unique = false
+    createable = true
+    updateable = true
+    caseSensitive = false
+    queryable = true
+  }
+}

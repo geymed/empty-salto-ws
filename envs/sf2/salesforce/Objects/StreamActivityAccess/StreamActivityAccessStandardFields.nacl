@@ -1,0 +1,18 @@
+type salesforce.StreamActivityAccess {
+  salesforce.Lookup ActivityTeamId {
+    apiName = "StreamActivityAccess.ActivityTeamId"
+    _hidden_value = true
+  }
+  salesforce.Unknown ExternalResource {
+    apiName = "StreamActivityAccess.ExternalResource"
+    _hidden_value = true
+  }
+  salesforce.Unknown IsContentShared {
+    apiName = "StreamActivityAccess.IsContentShared"
+    _hidden_value = true
+  }
+  salesforce.Lookup OwnerId {
+    apiName = "StreamActivityAccess.OwnerId"
+    _hidden_value = true
+  }
+}

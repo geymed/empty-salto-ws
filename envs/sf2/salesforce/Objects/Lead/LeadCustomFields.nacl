@@ -1,0 +1,118 @@
+type salesforce.Lead {
+  salesforce.Text CurrentGenerators__c {
+    apiName = "Lead.CurrentGenerators__c"
+    externalId = false
+    label = "Current Generator(s)"
+    length = 100
+    unique = false
+    createable = true
+    updateable = true
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text Gilad_text__c {
+    apiName = "Lead.Gilad_text__c"
+    description = "Gilad maymay"
+    externalId = false
+    label = "Gilad ahem"
+    length = 4
+    unique = false
+    createable = true
+    updateable = true
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Number NumberofLocations__c {
+    apiName = "Lead.NumberofLocations__c"
+    externalId = false
+    label = "Number of Locations"
+    precision = 3
+    scale = 0
+    unique = false
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist Primary__c {
+    apiName = "Lead.Primary__c"
+    externalId = false
+    label = "Primary"
+    valueSet = [
+      {
+        fullName = "No"
+        default = false
+        label = "No"
+      },
+      {
+        fullName = "Yes"
+        default = false
+        label = "Yes"
+      },
+      {
+        fullName = "Maybe"
+        default = false
+        label = "Maybe"
+      },
+    ]
+    sorted = false
+    restricted = false
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist ProductInterest__c {
+    apiName = "Lead.ProductInterest__c"
+    description = "this is his desc"
+    externalId = false
+    label = "Product Interest BABA"
+    valueSet = [
+      {
+        fullName = "GC1020011 series124"
+        default = false
+        label = "GC1000211 series24"
+      },
+      {
+        fullName = "GC3000646 series"
+        default = false
+        label = "GC3000646 series"
+      },
+      {
+        fullName = "dong"
+        default = false
+        label = "dong"
+      },
+      {
+        fullName = "numunmnum"
+        default = false
+        label = "numunmnum"
+      },
+    ]
+    sorted = false
+    restricted = false
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text SICCode__c {
+    apiName = "Lead.SICCode__c"
+    externalId = false
+    label = "SIC Code"
+    length = 15
+    unique = false
+    createable = true
+    updateable = true
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text geymedbam__c {
+    apiName = "Lead.geymedbam__c"
+    externalId = false
+    label = "gamadboom"
+    length = 3
+    unique = false
+    createable = true
+    updateable = true
+    caseSensitive = false
+    queryable = true
+  }
+}

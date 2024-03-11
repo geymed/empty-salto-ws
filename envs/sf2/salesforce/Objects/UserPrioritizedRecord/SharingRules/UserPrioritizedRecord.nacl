@@ -1,0 +1,7 @@
+salesforce.SharingRules UserPrioritizedRecord {
+  fullName = "UserPrioritizedRecord"
+  _parent = [
+    salesforce.UserPrioritizedRecord,
+  ]
+  _alias = "UserPrioritizedRecord"
+}

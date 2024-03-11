@@ -1,0 +1,329 @@
+type salesforce.PaymentAuthAdjustment {
+  salesforce.Lookup AccountId {
+    apiName = "PaymentAuthAdjustment.AccountId"
+    relationshipName = "Account"
+    referenceTo = [
+      salesforce.Account,
+    ]
+    label = "Account ID"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Currency Amount {
+    apiName = "PaymentAuthAdjustment.Amount"
+    _required = true
+    label = "Amount"
+    createable = true
+    updateable = true
+    scale = 2
+    precision = 18
+    queryable = true
+  }
+  salesforce.LongTextArea Comments {
+    apiName = "PaymentAuthAdjustment.Comments"
+    length = 1000
+    label = "Comments"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.DateTime Date {
+    apiName = "PaymentAuthAdjustment.Date"
+    label = "Date"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.DateTime EffectiveDate {
+    apiName = "PaymentAuthAdjustment.EffectiveDate"
+    label = "Effective Date"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Email Email {
+    apiName = "PaymentAuthAdjustment.Email"
+    label = "Audit Email"
+    createable = true
+    updateable = true
+    unique = false
+    queryable = true
+  }
+  salesforce.DateTime GatewayDate {
+    apiName = "PaymentAuthAdjustment.GatewayDate"
+    label = "Gateway Date"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.LongTextArea GatewayRefDetails {
+    apiName = "PaymentAuthAdjustment.GatewayRefDetails"
+    length = 1000
+    label = "Gateway Reference Details"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text GatewayRefNumber {
+    apiName = "PaymentAuthAdjustment.GatewayRefNumber"
+    length = 255
+    label = "Gateway Reference Number"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text GatewayResultCode {
+    apiName = "PaymentAuthAdjustment.GatewayResultCode"
+    length = 64
+    label = "Gateway Result Code"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text GatewayResultCodeDescription {
+    apiName = "PaymentAuthAdjustment.GatewayResultCodeDescription"
+    length = 255
+    label = "Gateway Result Code Description"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text IpAddress {
+    apiName = "PaymentAuthAdjustment.IpAddress"
+    length = 39
+    label = "IP Address"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text MacAddress {
+    apiName = "PaymentAuthAdjustment.MacAddress"
+    length = 32
+    label = "MAC Address"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.MasterDetail PaymentAuthorizationId {
+    apiName = "PaymentAuthAdjustment.PaymentAuthorizationId"
+    relationshipName = "PaymentAuthorization"
+    referenceTo = [
+      salesforce.PaymentAuthorization,
+    ]
+    _required = true
+    label = "Payment Authorization ID"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Phone Phone {
+    apiName = "PaymentAuthAdjustment.Phone"
+    label = "Phone"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist ProcessingMode {
+    apiName = "PaymentAuthAdjustment.ProcessingMode"
+    valueSet = [
+      {
+        fullName = "Salesforce"
+        isActive = true
+        label = "Salesforce"
+        default = false
+      },
+      {
+        fullName = "External"
+        isActive = true
+        label = "External"
+        default = false
+      },
+    ]
+    restricted = true
+    _required = true
+    label = "Processing Mode"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist SfResultCode {
+    apiName = "PaymentAuthAdjustment.SfResultCode"
+    valueSet = [
+      {
+        fullName = "Success"
+        isActive = true
+        label = "Success"
+        default = false
+      },
+      {
+        fullName = "PermanentFail"
+        isActive = true
+        label = "Permanent Fail"
+        default = false
+      },
+      {
+        fullName = "Decline"
+        isActive = true
+        label = "Decline"
+        default = false
+      },
+      {
+        fullName = "RequiresReview"
+        isActive = true
+        label = "Requires Review"
+        default = false
+      },
+      {
+        fullName = "Indeterminate"
+        isActive = true
+        label = "Indeterminate"
+        default = false
+      },
+      {
+        fullName = "SystemError"
+        isActive = true
+        label = "System Error"
+        default = false
+      },
+      {
+        fullName = "ValidationError"
+        isActive = true
+        label = "Validation Error"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Salesforce Result Code"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist Status {
+    apiName = "PaymentAuthAdjustment.Status"
+    valueSet = [
+      {
+        fullName = "Draft"
+        isActive = true
+        label = "Draft"
+        default = false
+      },
+      {
+        fullName = "Processed"
+        isActive = true
+        label = "Processed"
+        default = false
+      },
+      {
+        fullName = "Canceled"
+        isActive = true
+        label = "Canceled"
+        default = false
+      },
+    ]
+    restricted = true
+    _required = true
+    label = "Status"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist Type {
+    apiName = "PaymentAuthAdjustment.Type"
+    valueSet = [
+      {
+        fullName = "Reversal"
+        isActive = true
+        label = "Reversal"
+        default = false
+      },
+    ]
+    restricted = true
+    _required = true
+    label = "Adjustment Type"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  serviceid Id {
+    apiName = "PaymentAuthAdjustment.Id"
+    label = "Payment Authorization Adjustment ID"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Checkbox IsDeleted {
+    apiName = "PaymentAuthAdjustment.IsDeleted"
+    defaultValue = false
+    label = "Deleted"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.AutoNumber PaymentAuthAdjustmentNumber {
+    apiName = "PaymentAuthAdjustment.PaymentAuthAdjustmentNumber"
+    label = "Payment Authorization Adjustment Number"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime CreatedDate {
+    apiName = "PaymentAuthAdjustment.CreatedDate"
+    label = "Created Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup CreatedById {
+    apiName = "PaymentAuthAdjustment.CreatedById"
+    relationshipName = "CreatedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Created By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime LastModifiedDate {
+    apiName = "PaymentAuthAdjustment.LastModifiedDate"
+    label = "Last Modified Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup LastModifiedById {
+    apiName = "PaymentAuthAdjustment.LastModifiedById"
+    relationshipName = "LastModifiedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Last Modified By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime SystemModstamp {
+    apiName = "PaymentAuthAdjustment.SystemModstamp"
+    label = "System Modstamp"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+}

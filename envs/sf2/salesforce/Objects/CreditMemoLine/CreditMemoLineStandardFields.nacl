@@ -1,0 +1,349 @@
+type salesforce.CreditMemoLine {
+  salesforce.Currency AdjustmentAmount {
+    apiName = "CreditMemoLine.AdjustmentAmount"
+    label = "Adjustment Amount"
+    createable = false
+    updateable = true
+    scale = 2
+    precision = 18
+    queryable = true
+  }
+  salesforce.Currency AdjustmentAmountWithTax {
+    apiName = "CreditMemoLine.AdjustmentAmountWithTax"
+    label = "Adjustment Amount with Tax"
+    createable = false
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Currency AdjustmentTaxAmount {
+    apiName = "CreditMemoLine.AdjustmentTaxAmount"
+    label = "Adjustment Tax Amount"
+    createable = false
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Currency ChargeAmount {
+    apiName = "CreditMemoLine.ChargeAmount"
+    label = "Charge Amount"
+    createable = false
+    updateable = true
+    scale = 2
+    precision = 18
+    queryable = true
+  }
+  salesforce.Currency ChargeAmountWithTax {
+    apiName = "CreditMemoLine.ChargeAmountWithTax"
+    label = "Charge Amount with Tax"
+    createable = false
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Currency ChargeTaxAmount {
+    apiName = "CreditMemoLine.ChargeTaxAmount"
+    label = "Charge Tax Amount"
+    createable = false
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.MasterDetail CreditMemoId {
+    apiName = "CreditMemoLine.CreditMemoId"
+    relationshipName = "CreditMemo"
+    referenceTo = [
+      salesforce.CreditMemo,
+    ]
+    _required = true
+    label = "Credit Memo ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text Description {
+    apiName = "CreditMemoLine.Description"
+    length = 255
+    label = "Description"
+    createable = false
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Date EndDate {
+    apiName = "CreditMemoLine.EndDate"
+    label = "End Date"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Summary LineAmount {
+    apiName = "CreditMemoLine.LineAmount"
+    label = "Line Amount"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text Name {
+    apiName = "CreditMemoLine.Name"
+    length = 255
+    _required = true
+    label = "Name"
+    createable = false
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Lookup Product2Id {
+    apiName = "CreditMemoLine.Product2Id"
+    relationshipName = "Product2"
+    referenceTo = [
+      salesforce.Product2,
+    ]
+    label = "Product ID"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Lookup ReferenceEntityItemId {
+    apiName = "CreditMemoLine.ReferenceEntityItemId"
+    relationshipName = "ReferenceEntityItem"
+    referenceTo = [
+      salesforce.InvoiceLine,
+      salesforce.OrderItem,
+    ]
+    label = "ReferenceEntityItem ID"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist ReferenceEntityItemTypeCode {
+    apiName = "CreditMemoLine.ReferenceEntityItemTypeCode"
+    valueSet = [
+      {
+        fullName = "Product"
+        isActive = true
+        label = "Product"
+        default = false
+      },
+      {
+        fullName = "Charge"
+        isActive = true
+        label = "Charge"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Reference Entity Item Type Code"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Lookup RelatedLineId {
+    apiName = "CreditMemoLine.RelatedLineId"
+    relationshipName = "RelatedLine"
+    referenceTo = [
+      salesforce.CreditMemoLine,
+    ]
+    label = "Credit Memo Line ID"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Date StartDate {
+    apiName = "CreditMemoLine.StartDate"
+    label = "Start Date"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text Status {
+    apiName = "CreditMemoLine.Status"
+    length = 50
+    label = "Status"
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Currency TaxAmount {
+    apiName = "CreditMemoLine.TaxAmount"
+    label = "Tax Amount"
+    createable = false
+    updateable = true
+    scale = 2
+    precision = 18
+    queryable = true
+  }
+  salesforce.Text TaxCode {
+    apiName = "CreditMemoLine.TaxCode"
+    length = 255
+    label = "Tax Code"
+    createable = false
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Date TaxEffectiveDate {
+    apiName = "CreditMemoLine.TaxEffectiveDate"
+    label = "Tax Effective Date"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text TaxName {
+    apiName = "CreditMemoLine.TaxName"
+    length = 255
+    label = "Tax Name"
+    createable = false
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Percent TaxRate {
+    apiName = "CreditMemoLine.TaxRate"
+    label = "Tax Rate"
+    createable = false
+    updateable = true
+    scale = 2
+    precision = 5
+    queryable = true
+  }
+  salesforce.Picklist Type {
+    apiName = "CreditMemoLine.Type"
+    valueSet = [
+      {
+        fullName = "Charge"
+        isActive = true
+        label = "Charge"
+        default = false
+      },
+      {
+        fullName = "Tax"
+        isActive = true
+        label = "Tax"
+        default = false
+      },
+      {
+        fullName = "Adjustment"
+        isActive = true
+        label = "Adjustment"
+        default = false
+      },
+    ]
+    restricted = true
+    _required = true
+    label = "Type"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  serviceid Id {
+    apiName = "CreditMemoLine.Id"
+    label = "Credit Memo Line ID"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Checkbox IsDeleted {
+    apiName = "CreditMemoLine.IsDeleted"
+    defaultValue = false
+    label = "Deleted"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime CreatedDate {
+    apiName = "CreditMemoLine.CreatedDate"
+    label = "Created Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup CreatedById {
+    apiName = "CreditMemoLine.CreatedById"
+    relationshipName = "CreatedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Created By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime LastModifiedDate {
+    apiName = "CreditMemoLine.LastModifiedDate"
+    label = "Last Modified Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup LastModifiedById {
+    apiName = "CreditMemoLine.LastModifiedById"
+    relationshipName = "LastModifiedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Last Modified By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime SystemModstamp {
+    apiName = "CreditMemoLine.SystemModstamp"
+    label = "System Modstamp"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Picklist ReferenceEntityItemType {
+    apiName = "CreditMemoLine.ReferenceEntityItemType"
+    valueSet = [
+      {
+        fullName = "Order Product"
+        isActive = true
+        label = "Order Product"
+        default = false
+      },
+      {
+        fullName = "Delivery Charge"
+        isActive = true
+        label = "Delivery Charge"
+        default = false
+      },
+      {
+        fullName = "Fee"
+        isActive = true
+        label = "Fee"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Reference Entity Item Type"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+}

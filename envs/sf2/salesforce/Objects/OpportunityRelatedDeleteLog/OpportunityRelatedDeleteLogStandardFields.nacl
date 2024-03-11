@@ -1,0 +1,399 @@
+type salesforce.OpportunityRelatedDeleteLog {
+  serviceid Id {
+    apiName = "OpportunityRelatedDeleteLog.Id"
+    label = "Opportunity Related Delete Log ID"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Checkbox IsDeleted {
+    apiName = "OpportunityRelatedDeleteLog.IsDeleted"
+    defaultValue = false
+    label = "Deleted"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.AutoNumber DeleteLog {
+    apiName = "OpportunityRelatedDeleteLog.DeleteLog"
+    label = "Opportunity Related Delete Log Name"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime CreatedDate {
+    apiName = "OpportunityRelatedDeleteLog.CreatedDate"
+    label = "Created Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup CreatedById {
+    apiName = "OpportunityRelatedDeleteLog.CreatedById"
+    relationshipName = "CreatedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Created By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime LastModifiedDate {
+    apiName = "OpportunityRelatedDeleteLog.LastModifiedDate"
+    label = "Last Modified Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup LastModifiedById {
+    apiName = "OpportunityRelatedDeleteLog.LastModifiedById"
+    relationshipName = "LastModifiedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Last Modified By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime SystemModstamp {
+    apiName = "OpportunityRelatedDeleteLog.SystemModstamp"
+    label = "System Modstamp"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup OpportunityId {
+    apiName = "OpportunityRelatedDeleteLog.OpportunityId"
+    relationshipName = "Opportunity"
+    referenceTo = [
+      salesforce.Opportunity,
+    ]
+    _required = true
+    label = "Opportunity ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text Parent {
+    apiName = "OpportunityRelatedDeleteLog.Parent"
+    length = 18
+    label = "Parent"
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Picklist FieldName {
+    apiName = "OpportunityRelatedDeleteLog.FieldName"
+    valueSet = [
+      {
+        fullName = "Product2.Name"
+        isActive = true
+        label = "Product2.Name"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Field Name"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Picklist DataType {
+    apiName = "OpportunityRelatedDeleteLog.DataType"
+    valueSet = [
+      {
+        fullName = "Address"
+        isActive = true
+        label = "Address"
+        default = false
+      },
+      {
+        fullName = "AnyType"
+        isActive = true
+        label = "AnyType"
+        default = false
+      },
+      {
+        fullName = "AutoNumber"
+        isActive = true
+        label = "AutoNumber"
+        default = false
+      },
+      {
+        fullName = "Base64"
+        isActive = true
+        label = "Base64"
+        default = false
+      },
+      {
+        fullName = "BitVector"
+        isActive = true
+        label = "BitVector"
+        default = false
+      },
+      {
+        fullName = "Boolean"
+        isActive = true
+        label = "Boolean"
+        default = false
+      },
+      {
+        fullName = "Content"
+        isActive = true
+        label = "Content"
+        default = false
+      },
+      {
+        fullName = "Currency"
+        isActive = true
+        label = "Currency"
+        default = false
+      },
+      {
+        fullName = "DataCategoryGroupReference"
+        isActive = true
+        label = "DataCategoryGroupReference"
+        default = false
+      },
+      {
+        fullName = "DateOnly"
+        isActive = true
+        label = "DateOnly"
+        default = false
+      },
+      {
+        fullName = "DateTime"
+        isActive = true
+        label = "DateTime"
+        default = false
+      },
+      {
+        fullName = "Division"
+        isActive = true
+        label = "Division"
+        default = false
+      },
+      {
+        fullName = "Double"
+        isActive = true
+        label = "Double"
+        default = false
+      },
+      {
+        fullName = "DynamicEnum"
+        isActive = true
+        label = "DynamicEnum"
+        default = false
+      },
+      {
+        fullName = "Email"
+        isActive = true
+        label = "Email"
+        default = false
+      },
+      {
+        fullName = "EncryptedBase64"
+        isActive = true
+        label = "EncryptedBase64"
+        default = false
+      },
+      {
+        fullName = "EncryptedText"
+        isActive = true
+        label = "EncryptedText"
+        default = false
+      },
+      {
+        fullName = "EntityId"
+        isActive = true
+        label = "EntityId"
+        default = false
+      },
+      {
+        fullName = "EnumOrId"
+        isActive = true
+        label = "EnumOrId"
+        default = false
+      },
+      {
+        fullName = "ExternalId"
+        isActive = true
+        label = "ExternalId"
+        default = false
+      },
+      {
+        fullName = "Fax"
+        isActive = true
+        label = "Fax"
+        default = false
+      },
+      {
+        fullName = "File"
+        isActive = true
+        label = "File"
+        default = false
+      },
+      {
+        fullName = "HtmlMultiLineText"
+        isActive = true
+        label = "HtmlMultiLineText"
+        default = false
+      },
+      {
+        fullName = "HtmlStringPlusClob"
+        isActive = true
+        label = "HtmlStringPlusClob"
+        default = false
+      },
+      {
+        fullName = "InetAddress"
+        isActive = true
+        label = "InetAddress"
+        default = false
+      },
+      {
+        fullName = "Json"
+        isActive = true
+        label = "Json"
+        default = false
+      },
+      {
+        fullName = "Location"
+        isActive = true
+        label = "Location"
+        default = false
+      },
+      {
+        fullName = "MultiEnum"
+        isActive = true
+        label = "MultiEnum"
+        default = false
+      },
+      {
+        fullName = "MultiLineText"
+        isActive = true
+        label = "MultiLineText"
+        default = false
+      },
+      {
+        fullName = "Namespace"
+        isActive = true
+        label = "Namespace"
+        default = false
+      },
+      {
+        fullName = "Percent"
+        isActive = true
+        label = "Percent"
+        default = false
+      },
+      {
+        fullName = "PersonName"
+        isActive = true
+        label = "PersonName"
+        default = false
+      },
+      {
+        fullName = "Phone"
+        isActive = true
+        label = "Phone"
+        default = false
+      },
+      {
+        fullName = "Raw"
+        isActive = true
+        label = "Raw"
+        default = false
+      },
+      {
+        fullName = "RecordType"
+        isActive = true
+        label = "RecordType"
+        default = false
+      },
+      {
+        fullName = "SfdcEncryptedText"
+        isActive = true
+        label = "SfdcEncryptedText"
+        default = false
+      },
+      {
+        fullName = "SimpleNamespace"
+        isActive = true
+        label = "SimpleNamespace"
+        default = false
+      },
+      {
+        fullName = "StringPlusClob"
+        isActive = true
+        label = "StringPlusClob"
+        default = false
+      },
+      {
+        fullName = "Switchable_PersonName"
+        isActive = true
+        label = "Switchable_PersonName"
+        default = false
+      },
+      {
+        fullName = "Text"
+        isActive = true
+        label = "Text"
+        default = false
+      },
+      {
+        fullName = "TimeOnly"
+        isActive = true
+        label = "TimeOnly"
+        default = false
+      },
+      {
+        fullName = "Url"
+        isActive = true
+        label = "Url"
+        default = false
+      },
+      {
+        fullName = "YearQuarter"
+        isActive = true
+        label = "YearQuarter"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Data Type"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Picklist SobjectType {
+    apiName = "OpportunityRelatedDeleteLog.SobjectType"
+    label = "SobjectType"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.AnyType Value {
+    apiName = "OpportunityRelatedDeleteLog.Value"
+    label = "Value"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+}

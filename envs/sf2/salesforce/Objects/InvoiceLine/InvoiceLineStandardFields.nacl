@@ -1,0 +1,380 @@
+type salesforce.InvoiceLine {
+  salesforce.Currency AdjustmentAmount {
+    apiName = "InvoiceLine.AdjustmentAmount"
+    label = "Adjustment Amount"
+    createable = false
+    updateable = true
+    scale = 2
+    precision = 18
+    queryable = true
+  }
+  salesforce.Currency AdjustmentAmountWithTax {
+    apiName = "InvoiceLine.AdjustmentAmountWithTax"
+    label = "Adjustment Amount with Tax"
+    createable = false
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Currency AdjustmentTaxAmount {
+    apiName = "InvoiceLine.AdjustmentTaxAmount"
+    label = "Adjustment Tax Amount"
+    createable = false
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Currency ChargeAmount {
+    apiName = "InvoiceLine.ChargeAmount"
+    label = "Charge Amount"
+    createable = false
+    updateable = true
+    scale = 2
+    precision = 18
+    queryable = true
+  }
+  salesforce.Currency ChargeAmountWithTax {
+    apiName = "InvoiceLine.ChargeAmountWithTax"
+    label = "Charge Amount with Tax"
+    createable = false
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Currency ChargeTaxAmount {
+    apiName = "InvoiceLine.ChargeTaxAmount"
+    label = "Charge Tax Amount"
+    createable = false
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text Description {
+    apiName = "InvoiceLine.Description"
+    length = 255
+    label = "Description"
+    createable = false
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.MasterDetail InvoiceId {
+    apiName = "InvoiceLine.InvoiceId"
+    relationshipName = "Invoice"
+    referenceTo = [
+      salesforce.Invoice,
+    ]
+    _required = true
+    label = "Invoice ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Date InvoiceLineEndDate {
+    apiName = "InvoiceLine.InvoiceLineEndDate"
+    _required = true
+    label = "Invoice Line End Date"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Date InvoiceLineStartDate {
+    apiName = "InvoiceLine.InvoiceLineStartDate"
+    _required = true
+    label = "Invoice Line Start Date"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text InvoiceStatus {
+    apiName = "InvoiceLine.InvoiceStatus"
+    length = 50
+    label = "Status"
+    createable = false
+    updateable = false
+    unique = false
+    caseSensitive = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Summary LineAmount {
+    apiName = "InvoiceLine.LineAmount"
+    label = "Line Amount"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text Name {
+    apiName = "InvoiceLine.Name"
+    length = 255
+    _required = true
+    label = "Name"
+    createable = false
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Lookup Product2Id {
+    apiName = "InvoiceLine.Product2Id"
+    relationshipName = "Product2"
+    referenceTo = [
+      salesforce.Product2,
+    ]
+    label = "Product ID"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Number Quantity {
+    apiName = "InvoiceLine.Quantity"
+    label = "Quantity"
+    precision = 18
+    scale = 2
+    createable = false
+    updateable = true
+    unique = false
+    queryable = true
+  }
+  salesforce.Lookup ReferenceEntityItemId {
+    apiName = "InvoiceLine.ReferenceEntityItemId"
+    relationshipName = "ReferenceEntityItem"
+    referenceTo = [
+      salesforce.OrderItem,
+    ]
+    label = "ReferenceEntityItem ID"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist ReferenceEntityItemTypeCode {
+    apiName = "InvoiceLine.ReferenceEntityItemTypeCode"
+    valueSet = [
+      {
+        fullName = "Product"
+        isActive = true
+        label = "Product"
+        default = false
+      },
+      {
+        fullName = "Charge"
+        isActive = true
+        label = "Charge"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Reference Entity Item Type Code"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Lookup RelatedLineId {
+    apiName = "InvoiceLine.RelatedLineId"
+    relationshipName = "RelatedLine"
+    referenceTo = [
+      salesforce.InvoiceLine,
+    ]
+    label = "Invoice Line ID"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Currency TaxAmount {
+    apiName = "InvoiceLine.TaxAmount"
+    label = "Tax Amount"
+    createable = false
+    updateable = true
+    scale = 2
+    precision = 18
+    queryable = true
+  }
+  salesforce.Text TaxCode {
+    apiName = "InvoiceLine.TaxCode"
+    length = 255
+    label = "Tax Code"
+    createable = false
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Date TaxEffectiveDate {
+    apiName = "InvoiceLine.TaxEffectiveDate"
+    label = "Tax Effective Date"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text TaxName {
+    apiName = "InvoiceLine.TaxName"
+    length = 255
+    label = "Tax Name"
+    createable = false
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Percent TaxRate {
+    apiName = "InvoiceLine.TaxRate"
+    label = "Tax Rate"
+    createable = false
+    updateable = true
+    scale = 2
+    precision = 5
+    queryable = true
+  }
+  salesforce.Picklist Type {
+    apiName = "InvoiceLine.Type"
+    valueSet = [
+      {
+        fullName = "Charge"
+        isActive = true
+        label = "Charge"
+        default = false
+      },
+      {
+        fullName = "Tax"
+        isActive = true
+        label = "Tax"
+        default = false
+      },
+      {
+        fullName = "Adjustment"
+        isActive = true
+        label = "Adjustment"
+        default = false
+      },
+    ]
+    restricted = true
+    _required = true
+    label = "Type"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Currency UnitPrice {
+    apiName = "InvoiceLine.UnitPrice"
+    label = "Unit Price"
+    createable = false
+    updateable = true
+    scale = 2
+    precision = 18
+    queryable = true
+  }
+  serviceid Id {
+    apiName = "InvoiceLine.Id"
+    label = "Invoice Line ID"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Checkbox IsDeleted {
+    apiName = "InvoiceLine.IsDeleted"
+    defaultValue = false
+    label = "Deleted"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime CreatedDate {
+    apiName = "InvoiceLine.CreatedDate"
+    label = "Created Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup CreatedById {
+    apiName = "InvoiceLine.CreatedById"
+    relationshipName = "CreatedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Created By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime LastModifiedDate {
+    apiName = "InvoiceLine.LastModifiedDate"
+    label = "Last Modified Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup LastModifiedById {
+    apiName = "InvoiceLine.LastModifiedById"
+    relationshipName = "LastModifiedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Last Modified By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime SystemModstamp {
+    apiName = "InvoiceLine.SystemModstamp"
+    label = "System Modstamp"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup GroupReferenceEntityItemId {
+    apiName = "InvoiceLine.GroupReferenceEntityItemId"
+    relationshipName = "GroupReferenceEntityItem"
+    referenceTo = [
+      salesforce.OrderItem,
+    ]
+    label = "GroupReferenceEntityItem ID"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist ReferenceEntityItemType {
+    apiName = "InvoiceLine.ReferenceEntityItemType"
+    valueSet = [
+      {
+        fullName = "Order Product"
+        isActive = true
+        label = "Order Product"
+        default = false
+      },
+      {
+        fullName = "Delivery Charge"
+        isActive = true
+        label = "Delivery Charge"
+        default = false
+      },
+      {
+        fullName = "Fee"
+        isActive = true
+        label = "Fee"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Reference Entity Item Type"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+}

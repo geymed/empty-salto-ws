@@ -1,0 +1,154 @@
+type salesforce.PromptError {
+  serviceid Id {
+    apiName = "PromptError.Id"
+    label = "Prompt Error ID"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup OwnerId {
+    apiName = "PromptError.OwnerId"
+    relationshipName = "Owner"
+    referenceTo = [
+      salesforce.Group,
+      salesforce.User,
+    ]
+    label = "Owner ID"
+    createable = true
+    updateable = true
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Checkbox IsDeleted {
+    apiName = "PromptError.IsDeleted"
+    defaultValue = false
+    label = "Deleted"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text Name {
+    apiName = "PromptError.Name"
+    length = 255
+    _required = true
+    label = "Name"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.DateTime CreatedDate {
+    apiName = "PromptError.CreatedDate"
+    label = "Created Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup CreatedById {
+    apiName = "PromptError.CreatedById"
+    relationshipName = "CreatedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Created By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime LastModifiedDate {
+    apiName = "PromptError.LastModifiedDate"
+    label = "Last Modified Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup LastModifiedById {
+    apiName = "PromptError.LastModifiedById"
+    relationshipName = "LastModifiedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Last Modified By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime SystemModstamp {
+    apiName = "PromptError.SystemModstamp"
+    label = "System Modstamp"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup PromptActionId {
+    apiName = "PromptError.PromptActionId"
+    relationshipName = "PromptAction"
+    referenceTo = [
+      salesforce.PromptAction,
+    ]
+    _required = true
+    label = "Prompt Action ID"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist Type {
+    apiName = "PromptError.Type"
+    valueSet = [
+      {
+        fullName = "Unavailable"
+        isActive = true
+        label = "Unavailable"
+        default = false
+      },
+      {
+        fullName = "NoAccessToPage"
+        isActive = true
+        label = "No Access To Page"
+        default = false
+      },
+      {
+        fullName = "NoAccessToApp"
+        isActive = true
+        label = "No Access To App"
+        default = false
+      },
+      {
+        fullName = "ReferenceElementNotFound"
+        isActive = true
+        label = "Reference Element Not Found"
+        default = false
+      },
+    ]
+    restricted = true
+    _required = true
+    label = "Error Type"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Number StepNumber {
+    apiName = "PromptError.StepNumber"
+    label = "Error Step Number"
+    precision = 9
+    createable = true
+    updateable = true
+    scale = 0
+    unique = false
+    queryable = true
+  }
+  salesforce.Checkbox IsError {
+    apiName = "PromptError.IsError"
+    defaultValue = false
+    label = "Is Error"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+}

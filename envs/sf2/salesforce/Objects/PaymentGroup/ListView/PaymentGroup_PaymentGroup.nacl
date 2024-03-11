@@ -1,0 +1,9 @@
+salesforce.ListView PaymentGroup_PaymentGroup {
+  fullName = "PaymentGroup.PaymentGroup"
+  filterScope = "Everything"
+  label = "All"
+  _parent = [
+    salesforce.PaymentGroup,
+  ]
+  _alias = "All"
+}

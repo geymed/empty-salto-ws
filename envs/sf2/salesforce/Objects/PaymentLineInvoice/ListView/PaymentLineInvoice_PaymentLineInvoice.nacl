@@ -1,0 +1,9 @@
+salesforce.ListView PaymentLineInvoice_PaymentLineInvoice {
+  fullName = "PaymentLineInvoice.PaymentLineInvoice"
+  filterScope = "Everything"
+  label = "All"
+  _parent = [
+    salesforce.PaymentLineInvoice,
+  ]
+  _alias = "All"
+}

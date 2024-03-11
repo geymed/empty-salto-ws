@@ -1,0 +1,158 @@
+type salesforce.PrivacyRTBFRequest {
+  salesforce.Text JobRecord {
+    apiName = "PrivacyRTBFRequest.JobRecord"
+    length = 255
+    _required = true
+    label = "Job Record"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Lookup OwnerId {
+    apiName = "PrivacyRTBFRequest.OwnerId"
+    relationshipName = "Owner"
+    referenceTo = [
+      salesforce.Group,
+      salesforce.User,
+    ]
+    label = "Owner ID"
+    createable = true
+    updateable = true
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup PolicyNameId {
+    apiName = "PrivacyRTBFRequest.PolicyNameId"
+    relationshipName = "PolicyName"
+    referenceTo = [
+      "PrivacyPolicyDefinition",
+    ]
+    label = "Privacy Policy Definition ID"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist Status {
+    apiName = "PrivacyRTBFRequest.Status"
+    valueSet = [
+      {
+        fullName = "error"
+        isActive = true
+        label = "Error"
+        default = false
+      },
+      {
+        fullName = "complete"
+        isActive = true
+        label = "Complete"
+        default = false
+      },
+      {
+        fullName = "pending"
+        isActive = true
+        label = "Pending"
+        default = false
+      },
+      {
+        fullName = "scheduled"
+        isActive = true
+        label = "Scheduled"
+        default = false
+      },
+      {
+        fullName = "cancelled"
+        isActive = true
+        label = "Cancelled"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Status"
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  serviceid Id {
+    apiName = "PrivacyRTBFRequest.Id"
+    label = "Privacy RTBF Request ID"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Checkbox IsDeleted {
+    apiName = "PrivacyRTBFRequest.IsDeleted"
+    defaultValue = false
+    label = "Deleted"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.AutoNumber Name {
+    apiName = "PrivacyRTBFRequest.Name"
+    label = "Request Name"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime CreatedDate {
+    apiName = "PrivacyRTBFRequest.CreatedDate"
+    label = "Created Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup CreatedById {
+    apiName = "PrivacyRTBFRequest.CreatedById"
+    relationshipName = "CreatedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Created By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime LastModifiedDate {
+    apiName = "PrivacyRTBFRequest.LastModifiedDate"
+    label = "Last Modified Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup LastModifiedById {
+    apiName = "PrivacyRTBFRequest.LastModifiedById"
+    relationshipName = "LastModifiedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Last Modified By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime SystemModstamp {
+    apiName = "PrivacyRTBFRequest.SystemModstamp"
+    label = "System Modstamp"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Text Description {
+    apiName = "PrivacyRTBFRequest.Description"
+    length = 255
+    label = "Description"
+    createable = true
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+}

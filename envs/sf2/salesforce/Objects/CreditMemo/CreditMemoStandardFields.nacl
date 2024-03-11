@@ -1,0 +1,360 @@
+type salesforce.CreditMemo {
+  salesforce.Currency Balance {
+    apiName = "CreditMemo.Balance"
+    label = "Balance"
+    createable = false
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup BillToContactId {
+    apiName = "CreditMemo.BillToContactId"
+    relationshipName = "BillToContact"
+    referenceTo = [
+      salesforce.Contact,
+    ]
+    label = "Contact ID"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Lookup BillingAccountId {
+    apiName = "CreditMemo.BillingAccountId"
+    relationshipName = "BillingAccount"
+    referenceTo = [
+      salesforce.Account,
+    ]
+    _required = true
+    label = "Account ID"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist CreationMode {
+    apiName = "CreditMemo.CreationMode"
+    valueSet = [
+      {
+        fullName = "Salesforce"
+        isActive = true
+        label = "Salesforce"
+        default = false
+      },
+      {
+        fullName = "External"
+        isActive = true
+        label = "External"
+        default = false
+      },
+    ]
+    restricted = true
+    label = "Creation Mode"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Date CreditDate {
+    apiName = "CreditMemo.CreditDate"
+    _required = true
+    label = "Credit Date"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Text CreditMemoNumber {
+    apiName = "CreditMemo.CreditMemoNumber"
+    length = 10
+    label = "Credit Memo Number"
+    createable = false
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text Description {
+    apiName = "CreditMemo.Description"
+    length = 255
+    label = "Description"
+    createable = false
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text ExternalReference {
+    apiName = "CreditMemo.ExternalReference"
+    length = 255
+    label = "External Reference"
+    createable = false
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Text ExternalReferenceDataSource {
+    apiName = "CreditMemo.ExternalReferenceDataSource"
+    length = 255
+    label = "External Reference Data Source"
+    createable = false
+    updateable = true
+    unique = false
+    caseSensitive = false
+    queryable = true
+  }
+  salesforce.Summary NetCreditsApplied {
+    apiName = "CreditMemo.NetCreditsApplied"
+    inlineHelpText = "Net amount applied from the credit memo."
+    label = "Net Credits Applied"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup OwnerId {
+    apiName = "CreditMemo.OwnerId"
+    relationshipName = "Owner"
+    referenceTo = [
+      salesforce.Group,
+      salesforce.User,
+    ]
+    label = "Owner ID"
+    createable = false
+    updateable = true
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup ReferenceEntityId {
+    apiName = "CreditMemo.ReferenceEntityId"
+    relationshipName = "ReferenceEntity"
+    referenceTo = [
+      salesforce.Invoice,
+      salesforce.Order,
+    ]
+    label = "ReferenceEntity ID"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Picklist Status {
+    apiName = "CreditMemo.Status"
+    valueSet = [
+      {
+        fullName = "Draft"
+        isActive = true
+        label = "Draft"
+        default = false
+      },
+      {
+        fullName = "Pending"
+        isActive = true
+        label = "Pending"
+        default = false
+      },
+      {
+        fullName = "Posted"
+        isActive = true
+        label = "Posted"
+        default = false
+      },
+      {
+        fullName = "Canceled"
+        isActive = true
+        label = "Canceled"
+        default = false
+      },
+      {
+        fullName = "Error"
+        isActive = true
+        label = "Error"
+        default = false
+      },
+      {
+        fullName = "Voided"
+        isActive = true
+        label = "Voided"
+        default = false
+      },
+    ]
+    restricted = true
+    _required = true
+    label = "Status"
+    createable = false
+    updateable = true
+    queryable = true
+  }
+  salesforce.Summary TotalAdjustmentAmount {
+    apiName = "CreditMemo.TotalAdjustmentAmount"
+    label = "Total Adjustment Amount"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Currency TotalAdjustmentAmountWithTax {
+    apiName = "CreditMemo.TotalAdjustmentAmountWithTax"
+    label = "Total Adjustment Amount with Tax"
+    createable = false
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Currency TotalAdjustmentTaxAmount {
+    apiName = "CreditMemo.TotalAdjustmentTaxAmount"
+    label = "Total Adjustment Tax Amount"
+    createable = false
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Summary TotalAmount {
+    apiName = "CreditMemo.TotalAmount"
+    label = "Total Amount"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Summary TotalAmountWithTax {
+    apiName = "CreditMemo.TotalAmountWithTax"
+    label = "Total with Tax"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Summary TotalChargeAmount {
+    apiName = "CreditMemo.TotalChargeAmount"
+    label = "Total Charges"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Currency TotalChargeAmountWithTax {
+    apiName = "CreditMemo.TotalChargeAmountWithTax"
+    label = "Total Charge Amount with Tax"
+    createable = false
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Currency TotalChargeTaxAmount {
+    apiName = "CreditMemo.TotalChargeTaxAmount"
+    label = "Total Charge Tax Amount"
+    createable = false
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Currency TotalCreditAmountApplied {
+    apiName = "CreditMemo.TotalCreditAmountApplied"
+    inlineHelpText = "Amount applied from the credit memo to invoices."
+    label = "Total Credit Amount Applied"
+    createable = false
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Currency TotalCreditAmountUnapplied {
+    apiName = "CreditMemo.TotalCreditAmountUnapplied"
+    inlineHelpText = "Amount unapplied from invoices and returned to the credit memo."
+    label = "Total Credit Amount Unapplied"
+    createable = false
+    updateable = false
+    scale = 2
+    precision = 18
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Summary TotalTaxAmount {
+    apiName = "CreditMemo.TotalTaxAmount"
+    label = "Total Tax"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  serviceid Id {
+    apiName = "CreditMemo.Id"
+    label = "Credit Memo ID"
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Checkbox IsDeleted {
+    apiName = "CreditMemo.IsDeleted"
+    defaultValue = false
+    label = "Deleted"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.AutoNumber DocumentNumber {
+    apiName = "CreditMemo.DocumentNumber"
+    label = "Document Number"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime CreatedDate {
+    apiName = "CreditMemo.CreatedDate"
+    label = "Created Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup CreatedById {
+    apiName = "CreditMemo.CreatedById"
+    relationshipName = "CreatedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Created By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime LastModifiedDate {
+    apiName = "CreditMemo.LastModifiedDate"
+    label = "Last Modified Date"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.Lookup LastModifiedById {
+    apiName = "CreditMemo.LastModifiedById"
+    relationshipName = "LastModifiedBy"
+    referenceTo = [
+      salesforce.User,
+    ]
+    label = "Last Modified By ID"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+  salesforce.DateTime SystemModstamp {
+    apiName = "CreditMemo.SystemModstamp"
+    label = "System Modstamp"
+    createable = false
+    updateable = false
+    queryable = true
+    _hidden_value = true
+  }
+}

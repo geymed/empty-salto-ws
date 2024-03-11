@@ -1,0 +1,9 @@
+salesforce.ListView RefundLinePayment_RefundLinePayment {
+  fullName = "RefundLinePayment.RefundLinePayment"
+  filterScope = "Everything"
+  label = "All"
+  _parent = [
+    salesforce.RefundLinePayment,
+  ]
+  _alias = "All"
+}

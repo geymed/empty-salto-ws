@@ -1,0 +1,9 @@
+salesforce.ListView Individual_All_Individuals {
+  fullName = "Individual.All_Individuals"
+  filterScope = "Everything"
+  label = "All Individuals"
+  _parent = [
+    salesforce.Individual,
+  ]
+  _alias = "All Individuals"
+}
