@@ -1,0 +1,32 @@
+type salesforce.ConversationMessageHandler {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  number activeRequestDurationMinutes {
+  }
+  string handlerName {
+  }
+  string handlerType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Attachment",
+        "AuthProvider",
+        "PaymentProvider",
+        "QuickAction",
+      ]
+    }
+  }
+  metadataType = "ConversationMessageHandler"
+}

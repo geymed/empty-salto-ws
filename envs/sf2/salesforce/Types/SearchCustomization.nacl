@@ -1,0 +1,51 @@
+type salesforce.SearchCustomization {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  string channel {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "GlobalSearch",
+        "KnowledgeComponentSearch",
+        "LWRExperienceSiteSearch",
+      ]
+    }
+  }
+  serviceid fullName {
+  }
+  boolean isProtected {
+  }
+  string masterLabel {
+  }
+  string internalId {
+    _hidden_value = true
+    localOnly = true
+  }
+  suffix = "searchCustomization"
+  dirName = "searchCustomizations"
+  metadataType = "SearchCustomization"
+  _important_values = [
+    {
+      value = "fullName"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "masterLabel"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

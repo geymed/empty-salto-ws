@@ -1,0 +1,35 @@
+type salesforce.CallCenterSection {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  salesforce.CallCenterItem items {
+  }
+  string label {
+  }
+  string name {
+  }
+  metadataType = "CallCenterSection"
+  _important_values = [
+    {
+      value = "label"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "name"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

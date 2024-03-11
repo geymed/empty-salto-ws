@@ -1,0 +1,43 @@
+type salesforce.ConversationMessageParameterCompositeDetails {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  salesforce.ConversationMessageParameterCompositeDetails compositeChildItems {
+  }
+  boolean isList {
+  }
+  boolean isRequired {
+  }
+  string label {
+  }
+  number maxListItems {
+  }
+  string name {
+  }
+  salesforce.ConversationMessageParameterPrimitiveDetails primitiveChildItems {
+  }
+  metadataType = "ConversationMessageParameterCompositeDetails"
+  _important_values = [
+    {
+      value = "label"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "name"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

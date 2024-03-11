@@ -1,0 +1,27 @@
+type salesforce.DuplicateRuleFilterItem {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  string field {
+  }
+  string value {
+  }
+  string valueField {
+  }
+  number sortOrder {
+  }
+  string table {
+  }
+  metadataType = "DuplicateRuleFilterItem"
+}

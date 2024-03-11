@@ -1,0 +1,47 @@
+type salesforce.FlowTransformValueAction {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  salesforce.FlowMetadataValue processMetadataValues {
+  }
+  salesforce.FlowTransformValueActionInputParameter inputParameters {
+  }
+  string name {
+  }
+  string outputFieldApiName {
+  }
+  string transformType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Count",
+        "Map",
+        "Sum",
+      ]
+    }
+    foreignKeyDomain = [
+      "FlowElementSubtypeDefinition",
+    ]
+  }
+  salesforce.FlowElementReferenceOrValue value {
+  }
+  metadataType = "FlowTransformValueAction"
+  _important_values = [
+    {
+      value = "name"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,36 @@
+salesforce.LightningPage ContactCenter_UtilityBar {
+  description = "The default utility bar for the ContactCenter application."
+  flexiPageRegions = [
+    {
+      itemInstances = [
+        {
+          componentInstance = {
+            componentName = "console:history"
+            identifier = "console_history"
+          }
+        },
+        {
+          componentInstance = {
+            componentName = "notes:utilityBarNoteList"
+            identifier = "notes_utilityBarNoteList"
+          }
+        },
+        {
+          componentInstance = {
+            componentName = "opencti:softPhone"
+            identifier = "opencti_softphone"
+          }
+        },
+      ]
+      name = "utilityItems"
+      type = "Region"
+    },
+  ]
+  masterLabel = "ContactCenter App Utility Bar"
+  template = {
+    name = "one:utilityBarTemplateDesktop"
+  }
+  type = "UtilityBar"
+  fullName = "ContactCenter_UtilityBar"
+  _alias = "ContactCenter_UtilityBar"
+}

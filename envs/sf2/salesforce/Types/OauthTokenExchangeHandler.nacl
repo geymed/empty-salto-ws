@@ -1,0 +1,71 @@
+type salesforce.OauthTokenExchangeHandler {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  string description {
+  }
+  string developerName {
+  }
+  salesforce.OauthTokenExchHandlerApp enablements {
+  }
+  serviceid fullName {
+  }
+  boolean isAccessTokenSupported {
+  }
+  boolean isEnabled {
+  }
+  boolean isIdTokenSupported {
+  }
+  boolean isJwtSupported {
+  }
+  boolean isProtected {
+  }
+  boolean isRefreshTokenSupported {
+  }
+  boolean isSaml2Supported {
+  }
+  boolean isUserCreationAllowed {
+  }
+  string masterLabel {
+  }
+  string tokenHandlerApex {
+    foreignKeyDomain = [
+      salesforce.ApexClass,
+    ]
+  }
+  string internalId {
+    _hidden_value = true
+    localOnly = true
+  }
+  suffix = "oauthtokenexchangehandler"
+  dirName = "oauthtokenexchangehandlers"
+  metadataType = "OauthTokenExchangeHandler"
+  _important_values = [
+    {
+      value = "fullName"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "masterLabel"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "description"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

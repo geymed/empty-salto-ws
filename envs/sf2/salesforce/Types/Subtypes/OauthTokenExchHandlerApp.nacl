@@ -1,0 +1,28 @@
+type salesforce.OauthTokenExchHandlerApp {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  string apexExecutionUser {
+    foreignKeyDomain = [
+      salesforce.User,
+    ]
+  }
+  string connectedApp {
+  }
+  string externalClientApp {
+  }
+  boolean isDefault {
+  }
+  metadataType = "OauthTokenExchHandlerApp"
+}

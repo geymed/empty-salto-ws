@@ -1,0 +1,47 @@
+type salesforce.ConversationMessageLayoutPrimitiveValue {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  string contentAssetName {
+  }
+  string fieldName {
+  }
+  string formulaTemplate {
+  }
+  string literalValue {
+  }
+  salesforce.ConversationMessageMergeField mergeFields {
+  }
+  string type {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "CompositeType",
+        "FormulaTemplate",
+        "Literal",
+        "MediaAsset",
+        "SourceCompositeType",
+        "SourcePrimitiveValue",
+        "SourceSobjectField",
+        "SourceSobjectFieldValue",
+        "SourceSobjectFormula",
+      ]
+    }
+  }
+  string valueFormula {
+  }
+  string valueSourceReference {
+  }
+  metadataType = "ConversationMessageLayoutPrimitiveValue"
+}

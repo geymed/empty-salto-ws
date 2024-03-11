@@ -1,0 +1,21 @@
+type salesforce.PermissionSetApplicationVisibility {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  string application {
+  }
+  boolean visible {
+  }
+  metadataType = "PermissionSetApplicationVisibility"
+}

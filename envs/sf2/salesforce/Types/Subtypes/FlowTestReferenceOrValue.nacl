@@ -1,0 +1,29 @@
+type salesforce.FlowTestReferenceOrValue {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  boolean booleanValue {
+  }
+  string dateTimeValue {
+  }
+  string dateValue {
+  }
+  number numberValue {
+  }
+  string sobjectValue {
+  }
+  string stringValue {
+  }
+  metadataType = "FlowTestReferenceOrValue"
+}

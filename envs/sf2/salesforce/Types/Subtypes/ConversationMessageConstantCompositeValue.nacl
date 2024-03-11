@@ -1,0 +1,21 @@
+type salesforce.ConversationMessageConstantCompositeValue {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  salesforce.ConversationMessageConstant constantItems {
+  }
+  string identifier {
+  }
+  metadataType = "ConversationMessageConstantCompositeValue"
+}

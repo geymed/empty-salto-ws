@@ -1,0 +1,28 @@
+type salesforce.PermissionSetCustomSettingAccess {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  boolean enabled {
+  }
+  string name {
+  }
+  metadataType = "PermissionSetCustomSettingAccess"
+  _important_values = [
+    {
+      value = "name"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

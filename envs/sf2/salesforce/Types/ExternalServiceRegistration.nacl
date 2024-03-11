@@ -1,0 +1,107 @@
+type salesforce.ExternalServiceRegistration {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  serviceid fullName {
+  }
+  string description {
+  }
+  string label {
+  }
+  string namedCredential {
+  }
+  string namedCredentialReference {
+    foreignKeyDomain = [
+      salesforce.NamedCredential,
+    ]
+  }
+  salesforce.ExternalServiceOperation operations {
+  }
+  string providerAssetEndpoint {
+  }
+  string registrationProviderType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Custom",
+        "MuleSoft",
+        "SchemaInferred",
+        "Standard",
+      ]
+    }
+  }
+  string schema {
+  }
+  string schemaAbsoluteUrl {
+  }
+  string schemaType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "OpenApi",
+        "OpenApi3",
+      ]
+    }
+  }
+  string schemaUploadFileExtension {
+  }
+  string schemaUploadFileName {
+  }
+  string schemaUrl {
+  }
+  string serviceBinding {
+  }
+  string serviceDescriptor {
+  }
+  string status {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Complete",
+        "Incomplete",
+      ]
+    }
+  }
+  number systemVersion {
+  }
+  string internalId {
+    _hidden_value = true
+    localOnly = true
+  }
+  suffix = "externalServiceRegistration"
+  dirName = "externalServiceRegistrations"
+  metadataType = "ExternalServiceRegistration"
+  _important_values = [
+    {
+      value = "fullName"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "label"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "description"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "status"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,33 @@
+type salesforce.ConversationMessageConstant {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  salesforce.ConversationMessageConstantCompositeValue compositeValues {
+  }
+  string constantType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Image",
+        "Options",
+        "SubTitle",
+        "Title",
+        "Url",
+      ]
+    }
+  }
+  salesforce.ConversationMessageConstantPrimitiveValue primitiveValues {
+  }
+  metadataType = "ConversationMessageConstant"
+}

@@ -1,0 +1,25 @@
+type salesforce.FieldSetItem {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  string alternativeDisplayFormat {
+  }
+  string field {
+  }
+  boolean isFieldManaged {
+  }
+  boolean isRequired {
+  }
+  metadataType = "FieldSetItem"
+}

@@ -1,0 +1,50 @@
+type salesforce.FlowRule {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  string conditionLogic {
+  }
+  "List<salesforce.FlowCondition>" conditions {
+  }
+  salesforce.FlowConnector connector {
+  }
+  string description {
+  }
+  boolean doesRequireRecordChangedToMeetCriteria {
+  }
+  string label {
+  }
+  string name {
+  }
+  salesforce.FlowMetadataValue processMetadataValues {
+  }
+  metadataType = "FlowRule"
+  _important_values = [
+    {
+      value = "label"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "name"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "description"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

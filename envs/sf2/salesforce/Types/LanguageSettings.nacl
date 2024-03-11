@@ -1,0 +1,46 @@
+settings salesforce.LanguageSettings {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  boolean enableEndUserLanguages {
+  }
+  boolean enablePlatformLanguages {
+  }
+  serviceid fullName {
+  }
+  boolean enableCanadaIcuFormat {
+  }
+  boolean enableICULocaleDateFormat {
+  }
+  boolean enableLocalNamesForStdObjects {
+  }
+  boolean enableTranslationWorkbench {
+  }
+  boolean useLanguageFallback {
+  }
+  string internalId {
+    _hidden_value = true
+    localOnly = true
+  }
+  suffix = "settings"
+  dirName = "settings"
+  metadataType = "LanguageSettings"
+  _important_values = [
+    {
+      value = "fullName"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

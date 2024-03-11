@@ -1,0 +1,1872 @@
+type salesforce.Text is string {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    boolean unique {
+    }
+    boolean caseSensitive {
+    }
+    salesforce.TextLength length {
+    }
+    string defaultValueFormula {
+    }
+  }
+}
+type salesforce.Number is number {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    number scale {
+    }
+    number precision {
+    }
+    boolean unique {
+    }
+    string defaultValueFormula {
+    }
+  }
+}
+type salesforce.AutoNumber is string {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    string displayFormat {
+    }
+  }
+}
+type salesforce.Checkbox is boolean {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    boolean defaultValue {
+    }
+  }
+}
+type salesforce.Date is string {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    string defaultValueFormula {
+    }
+  }
+}
+type salesforce.Time is string {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    string defaultValueFormula {
+    }
+  }
+}
+type salesforce.DateTime is string {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    string defaultValueFormula {
+    }
+  }
+}
+type salesforce.Currency is number {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    number scale {
+    }
+    number precision {
+    }
+    string defaultValueFormula {
+    }
+  }
+}
+type salesforce.Picklist is string {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    salesforce.FieldDependency fieldDependency {
+    }
+    "List<salesforce.valueSet>" valueSet {
+    }
+    boolean restricted {
+    }
+    string valueSetName {
+    }
+    boolean sorted {
+    }
+    string defaultValueFormula {
+    }
+  }
+}
+type salesforce.MultiselectPicklist is string {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    salesforce.MultiPicklistVisibleLines visibleLines {
+    }
+    salesforce.FieldDependency fieldDependency {
+    }
+    "List<salesforce.valueSet>" valueSet {
+    }
+    boolean restricted {
+    }
+    string valueSetName {
+    }
+    boolean sorted {
+    }
+    string defaultValueFormula {
+    }
+  }
+}
+type salesforce.Email is string {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    boolean unique {
+    }
+    string defaultValueFormula {
+    }
+  }
+}
+type salesforce.Percent is number {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    number scale {
+    }
+    number precision {
+    }
+    string defaultValueFormula {
+    }
+  }
+}
+type salesforce.Phone is string {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    string defaultValueFormula {
+    }
+  }
+}
+type salesforce.LongTextArea is string {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    salesforce.LongTextAreaVisibleLines visibleLines {
+    }
+    salesforce.TextAreaLength length {
+    }
+    string defaultValueFormula {
+    }
+  }
+}
+type salesforce.Html is string {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    salesforce.RichTextAreaVisibleLines visibleLines {
+    }
+    salesforce.TextAreaLength length {
+    }
+  }
+}
+type salesforce.TextArea is string {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    string defaultValueFormula {
+    }
+  }
+}
+type salesforce.EncryptedText is string {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    salesforce.maskChar maskChar {
+    }
+    salesforce.maskType maskType {
+    }
+    salesforce.EncryptedTextLength length {
+    }
+  }
+}
+type salesforce.Url is string {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    string defaultValueFormula {
+    }
+  }
+}
+type salesforce.Lookup is string {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    "List<string>" referenceTo {
+    }
+    salesforce.LookupFilter lookupFilter {
+    }
+    string relationshipName {
+    }
+    string relationshipLabel {
+    }
+    string deleteConstraint {
+    }
+  }
+}
+type salesforce.MasterDetail is string {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    boolean reparentableMasterDetail {
+    }
+    boolean writeRequiresMasterRead {
+    }
+    salesforce.LookupFilter lookupFilter {
+    }
+    "List<string>" referenceTo {
+    }
+    salesforce.RelationshipOrder relationshipOrder {
+    }
+    string relationshipName {
+    }
+    string relationshipLabel {
+    }
+  }
+}
+type salesforce.Summary is string {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    string summarizedField {
+    }
+    "List<salesforce.summaryFilterItems>" summaryFilterItems {
+    }
+    string summaryForeignKey {
+    }
+    salesforce.summaryOperation summaryOperation {
+    }
+  }
+}
+type salesforce.Hierarchy is string {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    "List<string>" referenceTo {
+    }
+    salesforce.LookupFilter lookupFilter {
+    }
+    string relationshipName {
+    }
+    string relationshipLabel {
+    }
+    string deleteConstraint {
+    }
+  }
+}
+type salesforce.MetadataRelationship is string {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    "List<string>" referenceTo {
+    }
+    salesforce.LookupFilter lookupFilter {
+    }
+    string relationshipName {
+    }
+    string relationshipLabel {
+    }
+    string deleteConstraint {
+    }
+  }
+}
+type salesforce.ExternalLookup is string {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    "List<string>" referenceTo {
+    }
+    salesforce.LookupFilter lookupFilter {
+    }
+    string relationshipName {
+    }
+    string relationshipLabel {
+    }
+    string deleteConstraint {
+    }
+  }
+}
+type salesforce.IndirectLookup is string {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    "List<string>" referenceTo {
+    }
+    salesforce.LookupFilter lookupFilter {
+    }
+    string relationshipName {
+    }
+    string relationshipLabel {
+    }
+    string deleteConstraint {
+    }
+  }
+}
+type salesforce.File is string {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+  }
+}
+type salesforce.Unknown is string {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+  }
+}
+type salesforce.AnyType is unknown {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+  }
+}
+type salesforce.Address {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+  }
+  string city {
+  }
+  string country {
+  }
+  salesforce.Picklist geocodeAccuracy {
+  }
+  number latitude {
+  }
+  number longitude {
+  }
+  string postalCode {
+  }
+  string state {
+  }
+  salesforce.TextArea street {
+  }
+}
+type salesforce.Name {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+  }
+  string FirstName {
+  }
+  string LastName {
+  }
+  salesforce.Picklist Salutation {
+  }
+  string MiddleName {
+  }
+  string Suffix {
+  }
+}
+type salesforce.Name2 {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+  }
+  string FirstName {
+  }
+  string LastName {
+  }
+  string MiddleName {
+  }
+  string Suffix {
+  }
+}
+type salesforce.Geolocation {
+  annotations {
+    boolean displayLocationInDecimal {
+    }
+    number scale {
+    }
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+  }
+  number latitude {
+  }
+  number longitude {
+  }
+}
+type salesforce.FormulaCheckbox is boolean {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    boolean defaultValue {
+    }
+    string formula {
+    }
+    salesforce.formulaTreatBlanksAs formulaTreatBlanksAs {
+    }
+  }
+}
+type salesforce.FormulaCurrency is number {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    number scale {
+    }
+    number precision {
+    }
+    string defaultValueFormula {
+    }
+    string formula {
+    }
+    salesforce.formulaTreatBlanksAs formulaTreatBlanksAs {
+    }
+  }
+}
+type salesforce.FormulaDate is string {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    string defaultValueFormula {
+    }
+    string formula {
+    }
+    salesforce.formulaTreatBlanksAs formulaTreatBlanksAs {
+    }
+  }
+}
+type salesforce.FormulaDateTime is string {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    string defaultValueFormula {
+    }
+    string formula {
+    }
+    salesforce.formulaTreatBlanksAs formulaTreatBlanksAs {
+    }
+  }
+}
+type salesforce.FormulaNumber is number {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    number scale {
+    }
+    number precision {
+    }
+    boolean unique {
+    }
+    string defaultValueFormula {
+    }
+    string formula {
+    }
+    salesforce.formulaTreatBlanksAs formulaTreatBlanksAs {
+    }
+  }
+}
+type salesforce.FormulaPercent is number {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    number scale {
+    }
+    number precision {
+    }
+    string defaultValueFormula {
+    }
+    string formula {
+    }
+    salesforce.formulaTreatBlanksAs formulaTreatBlanksAs {
+    }
+  }
+}
+type salesforce.FormulaText is string {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    boolean unique {
+    }
+    boolean caseSensitive {
+    }
+    salesforce.TextLength length {
+    }
+    string defaultValueFormula {
+    }
+    string formula {
+    }
+    salesforce.formulaTreatBlanksAs formulaTreatBlanksAs {
+    }
+  }
+}
+type salesforce.FormulaTime is string {
+  annotations {
+    serviceid apiName {
+    }
+    string description {
+    }
+    string inlineHelpText {
+    }
+    string label {
+    }
+    string businessOwnerUser {
+    }
+    string businessOwnerGroup {
+    }
+    salesforce.businessStatus businessStatus {
+    }
+    salesforce.securityClassification securityClassification {
+    }
+    string complianceGroup {
+    }
+    boolean createable {
+    }
+    boolean updateable {
+    }
+    boolean queryable {
+    }
+    hidden_string internalId {
+    }
+    boolean externalId {
+    }
+    boolean trackTrending {
+    }
+    boolean trackFeedHistory {
+    }
+    boolean deprecated {
+    }
+    boolean trackHistory {
+    }
+    string defaultValueFormula {
+    }
+    string formula {
+    }
+    salesforce.formulaTreatBlanksAs formulaTreatBlanksAs {
+    }
+  }
+}

@@ -1,0 +1,23 @@
+type salesforce.Territory2SupportedObject {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  string defaultAccessLevel {
+  }
+  string objectType {
+  }
+  string state {
+  }
+  metadataType = "Territory2SupportedObject"
+}

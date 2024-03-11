@@ -1,0 +1,96 @@
+type salesforce.FlowWaitEvent {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  salesforce.FlowMetadataValue processMetadataValues {
+  }
+  string description {
+  }
+  string name {
+  }
+  string associatedElement {
+  }
+  string conditionLogic {
+  }
+  salesforce.FlowCondition conditions {
+  }
+  salesforce.FlowConnector connector {
+  }
+  string eventType {
+  }
+  string filterLogic {
+  }
+  salesforce.FlowRecordFilter filters {
+  }
+  salesforce.FlowWaitEventInputParameter inputParameters {
+  }
+  string label {
+  }
+  number maxBatchSize {
+  }
+  string object {
+  }
+  number offset {
+  }
+  string offsetUnit {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Days",
+        "Hours",
+        "Minutes",
+        "Months",
+        "Weeks",
+      ]
+    }
+  }
+  salesforce.FlowWaitEventOutputParameter outputParameters {
+  }
+  string recordTriggerType {
+    _restriction = {
+      enforce_value = false
+      values = [
+        "Create",
+        "CreateAndUpdate",
+        "Delete",
+        "None",
+        "Update",
+      ]
+    }
+  }
+  string resumeDate {
+  }
+  string resumeDateReference {
+  }
+  string resumeTime {
+  }
+  metadataType = "FlowWaitEvent"
+  _important_values = [
+    {
+      value = "label"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "name"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "description"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

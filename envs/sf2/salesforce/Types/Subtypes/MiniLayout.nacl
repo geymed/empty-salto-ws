@@ -1,0 +1,28 @@
+type salesforce.MiniLayout {
+  annotations {
+    serviceid metadataType {
+    }
+    boolean hasMetaFile {
+    }
+    string folderType {
+    }
+    string folderContentType {
+    }
+    string suffix {
+    }
+    string dirName {
+    }
+  }
+  "List<string>" fields {
+  }
+  salesforce.RelatedListItem relatedLists {
+  }
+  metadataType = "MiniLayout"
+  _important_values = [
+    {
+      value = "relatedLists"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

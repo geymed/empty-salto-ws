@@ -1,0 +1,4 @@
+salesforce.SharingRules PrivacySessionRecordFailure {
+  fullName = "PrivacySessionRecordFailure"
+  _alias = "PrivacySessionRecordFailure"
+}
